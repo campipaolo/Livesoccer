@@ -6,6 +6,7 @@
       "data": "2026-09-26",
       "ora": "14:30",
       "canali": [
+        "Sky Sport 251",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -13,6 +14,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 251",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -20,6 +22,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 251",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -32,6 +35,7 @@
       "data": "2026-09-26",
       "ora": "14:30",
       "canali": [
+        "Sky Sport 255",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -39,6 +43,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -46,6 +51,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -58,6 +64,7 @@
       "data": "2026-09-26",
       "ora": "14:30",
       "canali": [
+        "Sky Sport 256",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -65,6 +72,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -72,6 +80,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -84,17 +93,7 @@
       "data": "2026-09-26",
       "ora": "14:30",
       "canali": [
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": []
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Pineto vs Grosseto",
-      "data": "2026-09-26",
-      "ora": "14:30",
-      "canali": [
+        "Sky Sport 252",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -102,6 +101,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -109,6 +109,36 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Pineto vs Grosseto",
+      "data": "2026-09-26",
+      "ora": "14:30",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]

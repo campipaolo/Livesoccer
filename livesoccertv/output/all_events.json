@@ -14,6 +14,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/crotone-vs-salernitana/ka5ss#5721100",
       "channels": [
         {
+          "name": "Sky Sport 251",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -28,6 +33,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 251",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -35,6 +41,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 251",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -55,6 +62,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/pro-vercelli-vs-giana-erminio/vu9mc#5720340",
       "channels": [
         {
+          "name": "Sky Sport 255",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -69,6 +81,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -76,6 +89,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -96,6 +110,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/lumezzane-vs-folgore-caratese/g0499#5720341",
       "channels": [
         {
+          "name": "Sky Sport 256",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -110,6 +129,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -117,6 +137,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -137,31 +158,10 @@
       "match_url": "https://www.livesoccertv.com/it/match/pergolettese-vs-trento/1w1r4i#5720343",
       "channels": [
         {
-          "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "name": "Sky Sport 252",
+          "url": "",
           "stream": false
         },
-        {
-          "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
-          "stream": false
-        }
-      ],
-      "canali_mondo": []
-    },
-    {
-      "id": "5720720",
-      "competition": "Serie C",
-      "home": "Pineto",
-      "away": "Grosseto",
-      "title": "Pineto vs Grosseto",
-      "kickoff": "2026-09-26T14:30:00+02:00",
-      "date": "2026-09-26",
-      "time": "14:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/grosseto-vs-pineto/1c1eu9#5720720",
-      "channels": [
         {
           "name": "SKY Go Italia",
           "url": "",
@@ -177,6 +177,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -184,6 +185,55 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720720",
+      "competition": "Serie C",
+      "home": "Pineto",
+      "away": "Grosseto",
+      "title": "Pineto vs Grosseto",
+      "kickoff": "2026-09-26T14:30:00+02:00",
+      "date": "2026-09-26",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/grosseto-vs-pineto/1c1eu9#5720720",
+      "channels": [
+        {
+          "name": "Sky Sport 253",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]
