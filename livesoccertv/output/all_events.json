@@ -164,9 +164,14 @@
       "match_url": "https://www.livesoccertv.com/it/match/fiorentina-vs-genoa/1x14i#5653932",
       "channels": [
         {
+          "name": "Disney+ Premium Mexico",
+          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
+          "stream": true
+        },
+        {
           "name": "Paramount+",
           "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
-          "stream": true
+          "stream": false
         },
         {
           "name": "Disney+ Premium Caribbean",
@@ -176,11 +181,6 @@
         {
           "name": "fuboTV Canada",
           "url": "https://www.livesoccertv.com/it/channels/fubo-tv-canada/",
-          "stream": false
-        },
-        {
-          "name": "Disney+ Premium Mexico",
-          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
           "stream": false
         },
         {
@@ -304,9 +304,14 @@
       "match_url": "https://www.livesoccertv.com/it/match/internazionale-vs-parma/1xgtg#5653933",
       "channels": [
         {
+          "name": "Disney+ Premium Mexico",
+          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
+          "stream": true
+        },
+        {
           "name": "Paramount+",
           "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
-          "stream": true
+          "stream": false
         },
         {
           "name": "TLN",
@@ -321,11 +326,6 @@
         {
           "name": "fuboTV Canada",
           "url": "https://www.livesoccertv.com/it/channels/fubo-tv-canada/",
-          "stream": false
-        },
-        {
-          "name": "Disney+ Premium Mexico",
-          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
           "stream": false
         }
       ]
@@ -344,9 +344,14 @@
       "match_url": "https://www.livesoccertv.com/it/match/napoli-vs-frosinone/363za#5653936",
       "channels": [
         {
+          "name": "Disney+ Premium Mexico",
+          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
+          "stream": true
+        },
+        {
           "name": "Paramount+",
           "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
-          "stream": true
+          "stream": false
         },
         {
           "name": "TLN",
@@ -361,11 +366,6 @@
         {
           "name": "fuboTV Canada",
           "url": "https://www.livesoccertv.com/it/channels/fubo-tv-canada/",
-          "stream": false
-        },
-        {
-          "name": "Disney+ Premium Mexico",
-          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
           "stream": false
         }
       ]
@@ -384,9 +384,14 @@
       "match_url": "https://www.livesoccertv.com/it/match/roma-vs-como/6hn5g#5653931",
       "channels": [
         {
+          "name": "Disney+ Premium Mexico",
+          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
+          "stream": true
+        },
+        {
           "name": "Paramount+",
           "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
-          "stream": true
+          "stream": false
         },
         {
           "name": "Disney+ Premium Caribbean",
@@ -396,11 +401,6 @@
         {
           "name": "fuboTV Canada",
           "url": "https://www.livesoccertv.com/it/channels/fubo-tv-canada/",
-          "stream": false
-        },
-        {
-          "name": "Disney+ Premium Mexico",
-          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
           "stream": false
         },
         {
@@ -424,9 +424,14 @@
       "match_url": "https://www.livesoccertv.com/it/match/lazio-vs-monza/6jci8#5653934",
       "channels": [
         {
+          "name": "Disney+ Premium Mexico",
+          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
+          "stream": true
+        },
+        {
           "name": "Paramount+",
           "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
-          "stream": true
+          "stream": false
         },
         {
           "name": "Disney+ Premium Caribbean",
@@ -436,11 +441,6 @@
         {
           "name": "fuboTV Canada",
           "url": "https://www.livesoccertv.com/it/channels/fubo-tv-canada/",
-          "stream": false
-        },
-        {
-          "name": "Disney+ Premium Mexico",
-          "url": "https://www.livesoccertv.com/it/channels/starplus-norte/",
           "stream": false
         },
         {

@@ -66,10 +66,10 @@
       "data": "2026-10-10",
       "ora": "15:00",
       "canali": [
+        "Disney+ Premium Mexico",
         "Paramount+",
         "Disney+ Premium Caribbean",
         "fuboTV Canada",
-        "Disney+ Premium Mexico",
         "Disney+ Premium Norte"
       ]
     },
@@ -119,11 +119,11 @@
       "data": "2026-10-10",
       "ora": "18:00",
       "canali": [
+        "Disney+ Premium Mexico",
         "Paramount+",
         "TLN",
         "Disney+ Premium Caribbean",
-        "fuboTV Canada",
-        "Disney+ Premium Mexico"
+        "fuboTV Canada"
       ]
     },
     {
@@ -132,11 +132,11 @@
       "data": "2026-10-10",
       "ora": "20:45",
       "canali": [
+        "Disney+ Premium Mexico",
         "Paramount+",
         "TLN",
         "Disney+ Premium Caribbean",
-        "fuboTV Canada",
-        "Disney+ Premium Mexico"
+        "fuboTV Canada"
       ]
     },
     {
@@ -145,10 +145,10 @@
       "data": "2026-10-11",
       "ora": "12:30",
       "canali": [
+        "Disney+ Premium Mexico",
         "Paramount+",
         "Disney+ Premium Caribbean",
         "fuboTV Canada",
-        "Disney+ Premium Mexico",
         "Disney+ Premium Norte"
       ]
     },
@@ -158,10 +158,10 @@
       "data": "2026-10-11",
       "ora": "15:00",
       "canali": [
+        "Disney+ Premium Mexico",
         "Paramount+",
         "Disney+ Premium Caribbean",
         "fuboTV Canada",
-        "Disney+ Premium Mexico",
         "Disney+ Premium Norte"
       ]
     }
