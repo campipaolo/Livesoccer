@@ -138,31 +138,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720720",
