@@ -2,9 +2,9 @@
   "eventi": [
     {
       "competizione": "Serie C",
-      "titolo": "Crotone vs Salernitana",
+      "titolo": "Bari 1908 vs Cosenza",
       "data": "2026-09-26",
-      "ora": "14:30",
+      "ora": "17:30",
       "canali": [
         "Sky Sport 251",
         "SKY Go Italia",
@@ -31,67 +31,9 @@
     },
     {
       "competizione": "Serie C",
-      "titolo": "Giana Erminio vs Pro Vercelli",
+      "titolo": "Desenzano Calvina vs Juventus II",
       "data": "2026-09-26",
-      "ora": "14:30",
-      "canali": [
-        "Sky Sport 255",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Lumezzane vs Folgore Caratese",
-      "data": "2026-09-26",
-      "ora": "14:30",
-      "canali": [
-        "Sky Sport 256",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Pergolettese vs Trento",
-      "data": "2026-09-26",
-      "ora": "14:30",
+      "ora": "17:30",
       "canali": [
         "Sky Sport 252",
         "SKY Go Italia",
@@ -118,9 +60,9 @@
     },
     {
       "competizione": "Serie C",
-      "titolo": "Pineto vs Grosseto",
+      "titolo": "Livorno vs Pianese",
       "data": "2026-09-26",
-      "ora": "14:30",
+      "ora": "17:30",
       "canali": [
         "Sky Sport 253",
         "SKY Go Italia",
@@ -139,6 +81,47 @@
           "paese": "San Marino",
           "canali": [
             "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Novara vs Ospitaletto",
+      "data": "2026-09-26",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 254",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Picerno vs Audace Cerignola",
+      "data": "2026-09-26",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 255",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
