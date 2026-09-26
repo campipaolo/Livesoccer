@@ -14,39 +14,6 @@
       "info": ""
     },
     {
-      "title": "[COLOR gray]17:30[/COLOR] Bari 1908 vs Cosenza [COLOR gray]1:0[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 251, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/bari-1908-vs-cosenza/8h5zz#5721095"
-    },
-    {
-      "title": "[COLOR gray]17:30[/COLOR] Desenzano Calvina vs Juventus II [COLOR gray]0:0[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/juventus-ii-vs-desenzano-calvina/4zbv3g#5720339"
-    },
-    {
-      "title": "[COLOR gray]17:30[/COLOR] Livorno vs Pianese [COLOR gray]3:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 253",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/livorno-vs-pianese/897nh#5720716"
-    },
-    {
       "title": "[COLOR gray]17:30[/COLOR] Novara vs Ospitaletto [COLOR gray]0:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
@@ -69,7 +36,7 @@
       "info": "Serie C\nCanali: Sky Sport 255, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/picerno-vs-audace-cerignola/45ca7r#5721103"
     },
     {
-      "title": "[COLOR yellow]20:30[/COLOR] Cavese vs Savoia",
+      "title": "[COLOR gray]20:30[/COLOR] Cavese vs Savoia [COLOR gray]4:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -80,7 +47,7 @@
       "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/savoia-vs-cavese/1ma2w1#5721099"
     },
     {
-      "title": "[COLOR yellow]20:30[/COLOR] Cittadella vs Lecco",
+      "title": "[COLOR gray]20:30[/COLOR] Cittadella vs Lecco [COLOR gray]3:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -91,7 +58,7 @@
       "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/cittadella-vs-lecco/8skve#5720338"
     },
     {
-      "title": "[COLOR yellow]20:30[/COLOR] Sambenedettese vs Campobasso",
+      "title": "[COLOR gray]20:30[/COLOR] Sambenedettese vs Campobasso [COLOR gray]1:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -129,6 +96,39 @@
         "NOW TV"
       ],
       "info": "Serie C\nCanali: Sky Sport 251, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/catania-vs-casertana/8fsmz#5721098"
+    },
+    {
+      "title": "[COLOR yellow]14:30[/COLOR] Ostia Mare Lidocalcio vs Forlì",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 255",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 255, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/forli-vs-ostia-mare-lidocalcio/zmvtj#5720717"
+    },
+    {
+      "title": "[COLOR yellow]14:30[/COLOR] Ravenna vs Gubbio",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/gubbio-vs-ravenna/csww5#5720721"
+    },
+    {
+      "title": "[COLOR yellow]14:30[/COLOR] Union Brescia vs Dolomiti Bellunesi",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 254",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 254, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/dolomiti-bellunesi-vs-union-brescia/iwwsad#5720336"
     }
   ]
 }
