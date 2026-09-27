@@ -2,66 +2,6 @@
   "eventi": [
     {
       "competizione": "Serie C",
-      "titolo": "Barletta vs Potenza Calcio",
-      "data": "2026-09-27",
-      "ora": "12:30",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "NOW TV",
-        "Antenna Sud"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV",
-            "Antenna Sud"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Casertana vs Catania",
-      "data": "2026-09-27",
-      "ora": "12:30",
-      "canali": [
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
       "titolo": "Ostia Mare Lidocalcio vs Forlì",
       "data": "2026-09-27",
       "ora": "14:30",
@@ -148,6 +88,151 @@
       ]
     },
     {
+      "competizione": "Serie C",
+      "titolo": "Athletic Carpi vs Union ArzignanoChiampo",
+      "data": "2026-09-27",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 254",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 254",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 254",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Perugia vs Reggiana",
+      "data": "2026-09-27",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Renate vs Treviso",
+      "data": "2026-09-27",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 255",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Scafatese vs Team Altamura",
+      "data": "2026-09-27",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Vis Pesaro vs Nuova Monterosi",
+      "data": "2026-09-27",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
       "competizione": "Serie B",
       "titolo": "Avellino vs Sampdoria",
       "data": "2026-10-09",
@@ -180,10 +265,10 @@
       "ora": "15:00",
       "canali": [
         "Paramount+",
+        "DAZN Canada",
         "Disney+ Premium Caribbean",
         "fuboTV Canada",
-        "Disney+ Premium Mexico",
-        "Disney+ Premium Norte"
+        "Disney+ Premium Mexico"
       ],
       "canali_mondo": []
     },
@@ -298,10 +383,10 @@
       "ora": "18:00",
       "canali": [
         "Paramount+",
+        "DAZN Canada",
         "TLN",
         "Disney+ Premium Caribbean",
-        "fuboTV Canada",
-        "Disney+ Premium Mexico"
+        "fuboTV Canada"
       ],
       "canali_mondo": []
     },
@@ -312,10 +397,10 @@
       "ora": "20:45",
       "canali": [
         "Paramount+",
+        "DAZN Canada",
         "TLN",
         "Disney+ Premium Caribbean",
-        "fuboTV Canada",
-        "Disney+ Premium Mexico"
+        "fuboTV Canada"
       ],
       "canali_mondo": []
     },

@@ -8,52 +8,13 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Sabato 26 Settembre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]20:30[/COLOR] Cavese vs Savoia [COLOR gray]4:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 253",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/savoia-vs-cavese/1ma2w1#5721099"
-    },
-    {
-      "title": "[COLOR gray]20:30[/COLOR] Cittadella vs Lecco [COLOR gray]3:0[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/cittadella-vs-lecco/8skve#5720338"
-    },
-    {
-      "title": "[COLOR gray]20:30[/COLOR] Sambenedettese vs Campobasso [COLOR gray]1:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 251, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/campobasso-vs-sambenedettese/gmyxs#5720722"
-    },
-    {
       "title": "[COLOR cyan]Domenica 27 Settembre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
     },
     {
-      "title": "[COLOR yellow]12:30[/COLOR] Barletta vs Potenza Calcio",
+      "title": "[COLOR gray]12:30[/COLOR] Barletta vs Potenza Calcio [COLOR gray]1:4[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -65,7 +26,7 @@
       "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, NOW TV, Antenna Sud\nhttps://www.livesoccertv.com/it/match/barletta-vs-potenza-calcio/1lfz46#5721096"
     },
     {
-      "title": "[COLOR yellow]12:30[/COLOR] Casertana vs Catania",
+      "title": "[COLOR gray]12:30[/COLOR] Casertana vs Catania [COLOR gray]1:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -76,7 +37,7 @@
       "info": "Serie C\nCanali: Sky Sport 251, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/catania-vs-casertana/8fsmz#5721098"
     },
     {
-      "title": "[COLOR yellow]14:30[/COLOR] Ostia Mare Lidocalcio vs Forlì",
+      "title": "[COLOR red]14:30[/COLOR] Ostia Mare Lidocalcio vs Forlì [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -87,7 +48,7 @@
       "info": "Serie C\nCanali: Sky Sport 255, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/forli-vs-ostia-mare-lidocalcio/zmvtj#5720717"
     },
     {
-      "title": "[COLOR yellow]14:30[/COLOR] Ravenna vs Gubbio",
+      "title": "[COLOR red]14:30[/COLOR] Ravenna vs Gubbio [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -98,7 +59,7 @@
       "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/gubbio-vs-ravenna/csww5#5720721"
     },
     {
-      "title": "[COLOR yellow]14:30[/COLOR] Union Brescia vs Dolomiti Bellunesi",
+      "title": "[COLOR red]14:30[/COLOR] Union Brescia vs Dolomiti Bellunesi [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -107,6 +68,61 @@
         "NOW TV"
       ],
       "info": "Serie C\nCanali: Sky Sport 254, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/dolomiti-bellunesi-vs-union-brescia/iwwsad#5720336"
+    },
+    {
+      "title": "[COLOR yellow]17:30[/COLOR] Athletic Carpi vs Union ArzignanoChiampo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 254",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 254, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/union-arzignanochiampo-vs-athletic-carpi/6y94qg#5720337"
+    },
+    {
+      "title": "[COLOR yellow]17:30[/COLOR] Perugia vs Reggiana",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 251, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/reggiana-vs-perugia/e1278#5720718"
+    },
+    {
+      "title": "[COLOR yellow]17:30[/COLOR] Renate vs Treviso",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 255",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 255, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/treviso-vs-renate/e2z47#5720344"
+    },
+    {
+      "title": "[COLOR yellow]17:30[/COLOR] Scafatese vs Team Altamura",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/team-altamura-vs-scafatese/c8sje7#5721104"
+    },
+    {
+      "title": "[COLOR yellow]17:30[/COLOR] Vis Pesaro vs Nuova Monterosi",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/vis-pesaro-vs-nuova-monterosi/1skzw6#5720724"
     }
   ]
 }
