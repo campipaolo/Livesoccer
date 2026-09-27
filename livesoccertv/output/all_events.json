@@ -1,198 +1,6 @@
 {
   "events": [
     {
-      "id": "5720337",
-      "competition": "Serie C",
-      "home": "Athletic Carpi",
-      "away": "Union ArzignanoChiampo",
-      "title": "Athletic Carpi vs Union ArzignanoChiampo",
-      "kickoff": "2026-09-27T17:30:00+02:00",
-      "date": "2026-09-27",
-      "time": "17:30",
-      "status": "finished",
-      "score": "0:3",
-      "match_url": "https://www.livesoccertv.com/it/match/union-arzignanochiampo-vs-athletic-carpi/6y94qg#5720337",
-      "channels": [
-        {
-          "name": "Sky Sport 254",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5720718",
-      "competition": "Serie C",
-      "home": "Perugia",
-      "away": "Reggiana",
-      "title": "Perugia vs Reggiana",
-      "kickoff": "2026-09-27T17:30:00+02:00",
-      "date": "2026-09-27",
-      "time": "17:30",
-      "status": "finished",
-      "score": "1:0",
-      "match_url": "https://www.livesoccertv.com/it/match/reggiana-vs-perugia/e1278#5720718",
-      "channels": [
-        {
-          "name": "Sky Sport 251",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5720344",
-      "competition": "Serie C",
-      "home": "Renate",
-      "away": "Treviso",
-      "title": "Renate vs Treviso",
-      "kickoff": "2026-09-27T17:30:00+02:00",
-      "date": "2026-09-27",
-      "time": "17:30",
-      "status": "finished",
-      "score": "0:1",
-      "match_url": "https://www.livesoccertv.com/it/match/treviso-vs-renate/e2z47#5720344",
-      "channels": [
-        {
-          "name": "Sky Sport 255",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5721104",
-      "competition": "Serie C",
-      "home": "Scafatese",
-      "away": "Team Altamura",
-      "title": "Scafatese vs Team Altamura",
-      "kickoff": "2026-09-27T17:30:00+02:00",
-      "date": "2026-09-27",
-      "time": "17:30",
-      "status": "finished",
-      "score": "2:0",
-      "match_url": "https://www.livesoccertv.com/it/match/team-altamura-vs-scafatese/c8sje7#5721104",
-      "channels": [
-        {
-          "name": "Sky Sport 253",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
       "id": "5720724",
       "competition": "Serie C",
       "home": "Vis Pesaro",
@@ -249,8 +57,8 @@
       "kickoff": "2026-09-27T20:30:00+02:00",
       "date": "2026-09-27",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "1:1",
       "match_url": "https://www.livesoccertv.com/it/match/albinoleffe-vs-alcione/3ha1dx#5720335",
       "channels": [
         {
@@ -297,8 +105,8 @@
       "kickoff": "2026-09-27T20:30:00+02:00",
       "date": "2026-09-27",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "2:0",
       "match_url": "https://www.livesoccertv.com/it/match/sorrento-vs-foggia/dtl1h#5721101",
       "channels": [
         {
@@ -345,8 +153,8 @@
       "kickoff": "2026-09-27T20:30:00+02:00",
       "date": "2026-09-27",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "1:2",
       "match_url": "https://www.livesoccertv.com/it/match/pescara-vs-spezia/9f3i7#5720719",
       "channels": [
         {
@@ -414,8 +222,8 @@
       "kickoff": "2026-09-27T20:30:00+02:00",
       "date": "2026-09-27",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "0:1",
       "match_url": "https://www.livesoccertv.com/it/match/virtus-casarano-vs-monopoli/10bdya#5721097",
       "channels": [
         {
@@ -468,16 +276,195 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720347",
+      "competition": "Serie C",
+      "home": "Cittadella",
+      "away": "AlbinoLeffe",
+      "title": "Cittadella vs AlbinoLeffe",
+      "kickoff": "2026-10-03T14:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/cittadella-vs-albinoleffe/4pucb#5720347",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720728",
+      "competition": "Serie C",
+      "home": "Gubbio",
+      "away": "Perugia",
+      "title": "Gubbio vs Perugia",
+      "kickoff": "2026-10-03T14:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-perugia/aswk8#5720728",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5721114",
+      "competition": "Serie C",
+      "home": "Sorrento",
+      "away": "Virtus Casarano",
+      "title": "Sorrento vs Virtus Casarano",
+      "kickoff": "2026-10-03T14:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/sorrento-vs-virtus-casarano/gl1t4#5721114",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720734",
+      "competition": "Serie C",
+      "home": "Vado",
+      "away": "Forlì",
+      "title": "Vado vs Forlì",
+      "kickoff": "2026-10-03T14:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/forli-vs-vado/zgk5j#5720734",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5742517",
