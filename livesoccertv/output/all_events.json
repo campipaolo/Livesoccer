@@ -1,54 +1,6 @@
 {
   "events": [
     {
-      "id": "5720724",
-      "competition": "Serie C",
-      "home": "Vis Pesaro",
-      "away": "Nuova Monterosi",
-      "title": "Vis Pesaro vs Nuova Monterosi",
-      "kickoff": "2026-09-27T17:30:00+02:00",
-      "date": "2026-09-27",
-      "time": "17:30",
-      "status": "finished",
-      "score": "2:1",
-      "match_url": "https://www.livesoccertv.com/it/match/vis-pesaro-vs-nuova-monterosi/1skzw6#5720724",
-      "channels": [
-        {
-          "name": "Sky Sport 252",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
       "id": "5720335",
       "competition": "Serie C",
       "home": "AlbinoLeffe",
@@ -228,21 +180,38 @@
       "channels": [
         {
           "name": "Sky Sport 251",
-          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-1/",
+          "url": "",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5721107",
