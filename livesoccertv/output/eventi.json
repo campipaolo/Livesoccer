@@ -2374,6 +2374,12 @@
           ]
         },
         {
+          "paese": "Austria",
+          "canali": [
+            "DAZN Austria"
+          ]
+        },
+        {
           "paese": "Bahrain",
           "canali": [
             "STARZPLAY",
@@ -2427,6 +2433,7 @@
         {
           "paese": "Canada",
           "canali": [
+            "DAZN Canada",
             "fuboTV Canada"
           ]
         },
@@ -2525,6 +2532,12 @@
           "paese": "Finlandia",
           "canali": [
             "MTV Katsomo"
+          ]
+        },
+        {
+          "paese": "Germania",
+          "canali": [
+            "DAZN Deutschland"
           ]
         },
         {
@@ -2657,6 +2670,12 @@
           ]
         },
         {
+          "paese": "Liechtenstein",
+          "canali": [
+            "DAZN Deutschland"
+          ]
+        },
+        {
           "paese": "Macao",
           "canali": [
             "M Plus Live"
@@ -2711,6 +2730,12 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Nuova Zelanda",
+          "canali": [
+            "beIN Sports Connect New Zealand"
           ]
         },
         {
@@ -2875,6 +2900,12 @@
           ]
         },
         {
+          "paese": "Svizzera",
+          "canali": [
+            "DAZN Switzerland"
+          ]
+        },
+        {
           "paese": "Siria",
           "canali": [
             "STARZPLAY",
@@ -3013,6 +3044,12 @@
           ]
         },
         {
+          "paese": "Austria",
+          "canali": [
+            "DAZN Austria"
+          ]
+        },
+        {
           "paese": "Bahrain",
           "canali": [
             "STARZPLAY",
@@ -3031,6 +3068,12 @@
           "paese": "Barbados",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Belgio",
+          "canali": [
+            "DAZN Belgium"
           ]
         },
         {
@@ -3066,6 +3109,7 @@
         {
           "paese": "Canada",
           "canali": [
+            "DAZN Canada",
             "fuboTV Canada"
           ]
         },
@@ -3164,6 +3208,12 @@
           "paese": "Finlandia",
           "canali": [
             "MTV Katsomo"
+          ]
+        },
+        {
+          "paese": "Germania",
+          "canali": [
+            "DAZN Deutschland"
           ]
         },
         {
@@ -3291,6 +3341,12 @@
           ]
         },
         {
+          "paese": "Liechtenstein",
+          "canali": [
+            "DAZN Deutschland"
+          ]
+        },
+        {
           "paese": "Macao",
           "canali": [
             "M Plus Live"
@@ -3345,6 +3401,12 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Nuova Zelanda",
+          "canali": [
+            "beIN Sports Connect New Zealand"
           ]
         },
         {
@@ -3503,6 +3565,12 @@
           "paese": "Svezia",
           "canali": [
             "TV4 Play"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "DAZN Switzerland"
           ]
         },
         {
