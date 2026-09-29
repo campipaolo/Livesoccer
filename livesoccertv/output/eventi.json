@@ -651,6 +651,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -813,7 +814,8 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock"
           ]
         },
         {
@@ -886,6 +888,14 @@
           "canali": [
             "DAZN Italia",
             "LAB Channel"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
           ]
         }
       ]
@@ -1439,7 +1449,10 @@
         {
           "paese": "Porto Rico",
           "canali": [
-            "Disney+ Premium Caribbean"
+            "Peacock",
+            "UNIVERSO",
+            "Disney+ Premium Caribbean",
+            "NAICOM"
           ]
         },
         {
@@ -1601,7 +1614,12 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "fuboTV",
+            "Peacock",
+            "Telemundo Deportes En Vivo",
+            "UNIVERSO",
+            "UNIVERSO NOW"
           ]
         },
         {
@@ -2123,6 +2141,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -2288,7 +2307,8 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock"
           ]
         },
         {
@@ -2959,7 +2979,8 @@
           "canali": [
             "CBS Sports Network",
             "Paramount+",
-            "fuboTV"
+            "fuboTV",
+            "Telemundo Deportes Ahora"
           ]
         },
         {
@@ -3464,6 +3485,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -3625,7 +3647,8 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock"
           ]
         },
         {
