@@ -1,32 +1,179 @@
 {
-  "aggiornato": "2026-09-30T23:25:07+02:00",
+  "aggiornato": "2026-10-01T00:17:37+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 221,
+  "totale": 226,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 1,
+      "totale": 7,
       "eventi": [
         {
-          "titolo": "[Basket] Eurocup: Maxima Roma-Cluj Napoca",
+          "titolo": "[Tennis] ATP & WTA",
+          "categoria": "Tennis",
+          "sottocartella": "ATP & WTA",
+          "sport": "Tennis",
+          "competizione": "ATP & WTA",
+          "evento": "ATP & WTA",
+          "inizio": "2026-10-01T04:00:00+02:00",
+          "data": "01/10/2026",
+          "ora": "04:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-01T04:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-01T07:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-01T07:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Guinea-Kenya",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Coppa d’Africa",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Coppa d’Africa",
+          "evento": "Guinea-Kenya",
+          "inizio": "2026-10-01T18:00:00+02:00",
+          "data": "01/10/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-01T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Azerbaigian-Liechtenstein",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Nations League",
+          "sport": "Calcio",
+          "competizione": "UEFA Nations League",
+          "evento": "Azerbaigian-Liechtenstein",
+          "inizio": "2026-10-01T18:00:00+02:00",
+          "data": "01/10/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-01T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Europei U21: Armenia-Italia",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Europei U21",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Europei U21 2027",
+          "evento": "Armenia-Italia",
+          "inizio": "2026-10-01T18:30:00+02:00",
+          "data": "01/10/2026",
+          "ora": "18:30",
+          "canali": [
+            {
+              "nome": "Rai 2",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-01T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Hapoel Tel Aviv-Real Madrid",
           "categoria": "Basket",
-          "sottocartella": "Eurocup",
+          "sottocartella": "Eurolega",
           "sport": "Basket",
-          "competizione": "Eurocup",
-          "evento": "Maxima Roma-Cluj Napoca",
-          "inizio": "2026-09-30T21:00:00+02:00",
-          "data": "30/09/2026",
-          "ora": "21:00",
+          "competizione": "Eurolega",
+          "evento": "Hapoel Tel Aviv-Real Madrid",
+          "inizio": "2026-10-01T19:00:00+02:00",
+          "data": "01/10/2026",
+          "ora": "19:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-01T19:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Danimarca-Portogallo",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Nations League",
+          "sport": "Calcio",
+          "competizione": "UEFA Nations League",
+          "evento": "Danimarca-Portogallo",
+          "inizio": "2026-10-01T20:45:00+02:00",
+          "data": "01/10/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "20",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-01T20:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-01T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Germania-Serbia",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Nations League",
+          "sport": "Calcio",
+          "competizione": "UEFA Nations League",
+          "evento": "Germania-Serbia",
+          "inizio": "2026-10-01T20:45:00+02:00",
+          "data": "01/10/2026",
+          "ora": "20:45",
           "canali": [
             {
               "nome": "Sky Sport Arena",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-09-30T21:00",
+              "orario": "2026-10-01T20:45",
               "fonte": "virgilio"
             }
           ],
@@ -8618,6 +8765,13 @@
               "ora": "20:45",
               "canali": [
                 {
+                  "nome": "20",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-01T20:45",
+                  "fonte": "virgilio"
+                },
+                {
                   "nome": "Sky Sport 1",
                   "numero": "201",
                   "tipo": "diretta",
@@ -9015,7 +9169,7 @@
     },
     {
       "nome": "Tennis",
-      "totale": 15,
+      "totale": 18,
       "sottocartelle": [
         {
           "nome": "ATP & WTA",
@@ -9186,7 +9340,7 @@
         },
         {
           "nome": "WTA 1000 Pechino",
-          "totale": 5,
+          "totale": 6,
           "eventi": [
             {
               "titolo": "WTA 1000 Pechino: 6a giornata",
@@ -9299,6 +9453,34 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 8a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "8a giornata",
+              "inizio": "2026-10-07T07:00:00+02:00",
+              "data": "07/10/2026",
+              "ora": "07:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T07:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -9397,6 +9579,61 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "ATP Masters 1000 Shanghai",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 1a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "1a giornata",
+              "inizio": "2026-10-07T06:00:00+02:00",
+              "data": "07/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T06:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T06:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 1a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "1a giornata",
+              "inizio": "2026-10-07T12:30:00+02:00",
+              "data": "07/10/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
@@ -9404,75 +9641,6 @@
       "nome": "Basket",
       "totale": 7,
       "sottocartelle": [
-        {
-          "nome": "Eurocup",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "Eurocup: Maxima Roma-Cluj Napoca",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Maxima Roma-Cluj Napoca",
-              "inizio": "2026-09-30T21:00:00+02:00",
-              "data": "30/09/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-09-30T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: Buducnost-Napoli",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Buducnost-Napoli",
-              "inizio": "2026-10-06T19:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: Aquila Trento-Slask Wroclaw",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Aquila Trento-Slask Wroclaw",
-              "inizio": "2026-10-06T20:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Eurolega",
           "totale": 2,
@@ -9568,12 +9736,81 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "Eurocup",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Eurocup: Buducnost-Napoli",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Buducnost-Napoli",
+              "inizio": "2026-10-06T19:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Aquila Trento-Slask Wroclaw",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Aquila Trento-Slask Wroclaw",
+              "inizio": "2026-10-06T20:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Derthona Tortona-Le Mans",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Derthona Tortona-Le Mans",
+              "inizio": "2026-10-07T19:30:00+02:00",
+              "data": "07/10/2026",
+              "ora": "19:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T19:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Altri sport",
-      "totale": 10,
+      "totale": 12,
       "sottocartelle": [
         {
           "nome": "Rugby",
@@ -9625,7 +9862,7 @@
         },
         {
           "nome": "Ciclismo",
-          "totale": 7,
+          "totale": 9,
           "eventi": [
             {
               "titolo": "Giro dell’Emilia: .",
@@ -9790,6 +10027,48 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-06T15:25",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Europei Ljubljana: Cronometro Élite Donne",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo",
+              "sport": "Ciclismo",
+              "competizione": "Europei Ljubljana 2026",
+              "evento": "Cronometro Élite Donne",
+              "inizio": "2026-10-07T14:20:00+02:00",
+              "data": "07/10/2026",
+              "ora": "14:20",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T14:20",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Europei Ljubljana: Cronometro Élite Uomini",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo",
+              "sport": "Ciclismo",
+              "competizione": "Europei Ljubljana 2026",
+              "evento": "Cronometro Élite Uomini",
+              "inizio": "2026-10-07T16:05:00+02:00",
+              "data": "07/10/2026",
+              "ora": "16:05",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T16:05",
                   "fonte": "virgilio"
                 }
               ],
