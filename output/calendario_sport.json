@@ -1,11 +1,11 @@
 {
-  "aggiornato": "2026-09-30T12:57:21+02:00",
+  "aggiornato": "2026-09-30T18:51:37+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 223,
+  "totale": 226,
   "cartelle": [
     {
       "nome": "Oggi",
@@ -148,11 +148,11 @@
     },
     {
       "nome": "Motori",
-      "totale": 146,
+      "totale": 149,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 34,
+          "totale": 35,
           "eventi": [
             {
               "titolo": "Formula 1: Bahrain Grand Prix in Malaysia - FP1",
@@ -446,18 +446,18 @@
               "ora": "14:30",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-09T14:30",
+                  "fonte": "dizzle+tv8"
+                },
+                {
                   "nome": "Sky Sport F1",
                   "numero": "207",
                   "tipo": "diretta",
                   "orario": "2026-10-09T14:30",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-09T14:30",
-                  "fonte": "dizzle+config"
+                  "fonte": "config"
                 },
                 {
                   "nome": "Sky Sport 1",
@@ -470,6 +470,13 @@
                   "nome": "Sky Sport 4K",
                   "numero": "213",
                   "tipo": "diretta",
+                  "orario": "2026-10-09T14:30",
+                  "fonte": "config"
+                },
+                {
+                  "nome": "NOW",
+                  "numero": "",
+                  "tipo": "streaming",
                   "orario": "2026-10-09T14:30",
                   "fonte": "config"
                 }
@@ -520,9 +527,10 @@
                 {
                   "nome": "TV8",
                   "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-10-11T09:45",
-                  "fonte": "config+tv8"
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T11:00",
+                  "fonte": "tv8",
+                  "programma": "GP Singapore: Sprint"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -571,9 +579,10 @@
                 {
                   "nome": "TV8",
                   "numero": "8",
-                  "tipo": "differita",
-                  "orario": "",
-                  "fonte": "config"
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T15:00",
+                  "fonte": "tv8",
+                  "programma": "GP Singapore: Qualifiche"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -1747,12 +1756,63 @@
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
+            },
+            {
+              "titolo": "Formula 1: Qatar Grand Prix - Gara",
+              "categoria": "Motori",
+              "sottocartella": "Formula 1",
+              "sport": "Motori",
+              "competizione": "Formula 1",
+              "evento": "Qatar Grand Prix - Gara",
+              "sessione": "gara",
+              "circuito": "Lusail International Circuit, Lusail, Qatar",
+              "inizio": "2026-11-29T17:00:00+01:00",
+              "data": "29/11/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport F1",
+                  "numero": "207",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T17:00",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "NOW",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-29T17:00",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T17:00",
+                  "fonte": "config"
+                },
+                {
+                  "nome": "Sky Sport 4K",
+                  "numero": "213",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T17:00",
+                  "fonte": "config"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "",
+                  "fonte": "config"
+                }
+              ],
+              "fonte": "Dizzle0987/motorsport-calendar"
             }
           ]
         },
         {
           "nome": "Formula 2 e Formula 3",
-          "totale": 2,
+          "totale": 3,
           "eventi": [
             {
               "titolo": "Formula 2 e Formula 3: F2 - Qatar GP - Quali",
@@ -1781,6 +1841,21 @@
               "inizio": "2026-11-28T17:20:00+01:00",
               "data": "28/11/2026",
               "ora": "17:20",
+              "canali": [],
+              "fonte": "Fuori Traiettoria"
+            },
+            {
+              "titolo": "Formula 2 e Formula 3: F2 - Qatar GP - Feature Race",
+              "categoria": "Motori",
+              "sottocartella": "Formula 2 e Formula 3",
+              "sport": "Motori",
+              "competizione": "Formula 2 e Formula 3",
+              "evento": "F2 - Qatar GP - Feature Race",
+              "sessione": "gara",
+              "circuito": "Circuito di Losail, Al Wusail, North Relief Road، Doha, Qatar",
+              "inizio": "2026-11-29T13:20:00+01:00",
+              "data": "29/11/2026",
+              "ora": "13:20",
               "canali": [],
               "fonte": "Fuori Traiettoria"
             }
@@ -1920,7 +1995,7 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 55,
+          "totale": 56,
           "eventi": [
             {
               "titolo": "MotoGP: Grand Prix of Japan - Prove libere",
@@ -3687,6 +3762,43 @@
                   "tipo": "streaming",
                   "orario": "2026-11-29T09:40",
                   "fonte": "dizzle+config"
+                }
+              ],
+              "fonte": "Dizzle0987/motorsport-calendar"
+            },
+            {
+              "titolo": "MotoGP: Valencian Community Grand Prix - Gara",
+              "categoria": "Motori",
+              "sottocartella": "MotoGP",
+              "sport": "Motori",
+              "competizione": "MotoGP",
+              "evento": "Valencian Community Grand Prix - Gara",
+              "sessione": "gara",
+              "circuito": "Circuit Ricardo Tormo, Cheste, Spain",
+              "inizio": "2026-11-29T14:00:00+01:00",
+              "data": "29/11/2026",
+              "ora": "14:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport MotoGP",
+                  "numero": "208",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T14:00",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "NOW",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-29T14:00",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "",
+                  "fonte": "config"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -8638,13 +8750,6 @@
               "data": "01/10/2026",
               "ora": "20:45",
               "canali": [
-                {
-                  "nome": "20",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-01T20:45",
-                  "fonte": "virgilio"
-                },
                 {
                   "nome": "Sky Sport 1",
                   "numero": "201",
