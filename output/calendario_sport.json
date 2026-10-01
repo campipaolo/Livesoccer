@@ -1,11 +1,11 @@
 {
-  "aggiornato": "2026-10-01T15:18:32+02:00",
+  "aggiornato": "2026-10-01T18:04:48+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 225,
+  "totale": 234,
   "cartelle": [
     {
       "nome": "Oggi",
@@ -106,13 +106,6 @@
           "data": "01/10/2026",
           "ora": "20:45",
           "canali": [
-            {
-              "nome": "20",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-01T20:45",
-              "fonte": "virgilio"
-            },
             {
               "nome": "Sky Sport 1",
               "numero": "201",
@@ -4620,7 +4613,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 40,
+      "totale": 44,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -8702,7 +8695,7 @@
         },
         {
           "nome": "Qualificazioni Coppa d’Africa",
-          "totale": 1,
+          "totale": 2,
           "eventi": [
             {
               "titolo": "Qualificazioni Coppa d’Africa: Guinea-Kenya",
@@ -8720,6 +8713,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-01T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Angola-Malawi",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Angola-Malawi",
+              "inizio": "2026-10-06T21:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -8763,13 +8777,6 @@
               "data": "01/10/2026",
               "ora": "20:45",
               "canali": [
-                {
-                  "nome": "20",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-01T20:45",
-                  "fonte": "virgilio"
-                },
                 {
                   "nome": "Sky Sport 1",
                   "numero": "201",
@@ -9091,7 +9098,7 @@
         },
         {
           "nome": "Liga Profesional",
-          "totale": 2,
+          "totale": 4,
           "eventi": [
             {
               "titolo": "Liga Profesional: Boca Juniors-Union",
@@ -9134,6 +9141,48 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Huracan-Aldosivi",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Huracan-Aldosivi",
+              "inizio": "2026-10-04T19:45:00+02:00",
+              "data": "04/10/2026",
+              "ora": "19:45",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T19:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Talleres-Belgrano",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Talleres-Belgrano",
+              "inizio": "2026-10-04T22:00:00+02:00",
+              "data": "04/10/2026",
+              "ora": "22:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T22:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -9157,6 +9206,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-03T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Serie A femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A: Roma-Lazio",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A femminile",
+              "sport": "Calcio femminile",
+              "competizione": "Serie A",
+              "evento": "Roma-Lazio",
+              "inizio": "2026-10-03T18:00:00+02:00",
+              "data": "03/10/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T18:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -9773,84 +9849,104 @@
       ]
     },
     {
-      "nome": "Altri sport",
-      "totale": 12,
+      "nome": "Volley",
+      "totale": 1,
       "sottocartelle": [
         {
-          "nome": "Rugby",
-          "totale": 2,
+          "nome": "Serie A1 femminile",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "United Rugby Championship: Benetton Treviso-Connacht",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "United Rugby Championship",
-              "evento": "Benetton Treviso-Connacht",
-              "inizio": "2026-10-02T20:45:00+02:00",
-              "data": "02/10/2026",
-              "ora": "20:45",
+              "titolo": "Serie A1: Milano-Firenze",
+              "categoria": "Volley",
+              "sottocartella": "Serie A1 femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "Serie A1",
+              "evento": "Milano-Firenze",
+              "inizio": "2026-10-03T20:30:00+02:00",
+              "data": "03/10/2026",
+              "ora": "20:30",
               "canali": [
                 {
-                  "nome": "Sky Sport Arena",
+                  "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-02T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "United Rugby Championship: Cardiff-Zebre Parma",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "United Rugby Championship",
-              "evento": "Cardiff-Zebre Parma",
-              "inizio": "2026-10-02T20:45:00+02:00",
-              "data": "02/10/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-02T20:45",
+                  "orario": "2026-10-03T20:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "nome": "Altri sport",
+      "totale": 16,
+      "sottocartelle": [
         {
           "nome": "Ciclismo",
-          "totale": 9,
+          "totale": 11,
           "eventi": [
             {
-              "titolo": "Giro dell’Emilia: .",
+              "titolo": "Europei Ljubljana: Prova in linea U23 Donne",
               "categoria": "Altri sport",
               "sottocartella": "Ciclismo",
               "sport": "Ciclismo",
-              "competizione": "Giro dell’Emilia",
-              "evento": ".",
-              "inizio": "2026-10-03T14:00:00+02:00",
-              "data": "03/10/2026",
-              "ora": "14:00",
+              "competizione": "Europei Ljubljana 2026",
+              "evento": "Prova in linea U23 Donne",
+              "inizio": "2026-10-02T09:45:00+02:00",
+              "data": "02/10/2026",
+              "ora": "09:45",
               "canali": [
                 {
-                  "nome": "Eurosport",
+                  "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T14:00",
+                  "orario": "2026-10-02T09:45",
                   "fonte": "virgilio"
-                },
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Europei Ljubljana: Prova in linea U23 Uomini",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo",
+              "sport": "Ciclismo",
+              "competizione": "Europei Ljubljana 2026",
+              "evento": "Prova in linea U23 Uomini",
+              "inizio": "2026-10-02T15:35:00+02:00",
+              "data": "02/10/2026",
+              "ora": "15:35",
+              "canali": [
                 {
-                  "nome": "Rai 2",
+                  "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T14:00",
+                  "orario": "2026-10-02T15:35",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Europei Ljubljana: Prova in linea Élite Donne",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo",
+              "sport": "Ciclismo",
+              "competizione": "Europei Ljubljana 2026",
+              "evento": "Prova in linea Élite Donne",
+              "inizio": "2026-10-03T13:25:00+02:00",
+              "data": "03/10/2026",
+              "ora": "13:25",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T13:25",
                   "fonte": "virgilio"
                 }
               ],
@@ -10041,9 +10137,92 @@
           ]
         },
         {
-          "nome": "Ciclismo femminile",
-          "totale": 1,
+          "nome": "Rugby",
+          "totale": 2,
           "eventi": [
+            {
+              "titolo": "United Rugby Championship: Benetton Treviso-Connacht",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "United Rugby Championship",
+              "evento": "Benetton Treviso-Connacht",
+              "inizio": "2026-10-02T20:45:00+02:00",
+              "data": "02/10/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-02T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "United Rugby Championship: Cardiff-Zebre Parma",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "United Rugby Championship",
+              "evento": "Cardiff-Zebre Parma",
+              "inizio": "2026-10-02T20:45:00+02:00",
+              "data": "02/10/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-02T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Ciclismo femminile",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "Giro dell’Emilia: .",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo femminile",
+              "sport": "Ciclismo femminile",
+              "competizione": "Giro dell’Emilia",
+              "evento": ".",
+              "inizio": "2026-10-03T12:30:00+02:00",
+              "data": "03/10/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T12:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T14:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T14:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
             {
               "titolo": "Europei su strada Lubiana: . Prova in linea (Élite)",
               "categoria": "Altri sport",
@@ -10060,6 +10239,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-03T15:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Pallanuoto maschile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A1: Chiavari-Brescia",
+              "categoria": "Altri sport",
+              "sottocartella": "Pallanuoto maschile",
+              "sport": "Pallanuoto maschile",
+              "competizione": "Serie A1",
+              "evento": "Chiavari-Brescia",
+              "inizio": "2026-10-03T16:30:00+02:00",
+              "data": "03/10/2026",
+              "ora": "16:30",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T16:30",
                   "fonte": "virgilio"
                 }
               ],
