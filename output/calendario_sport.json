@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-01T10:26:18+02:00",
+  "aggiornato": "2026-10-01T15:18:32+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -331,8 +331,8 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "",
-                  "fonte": "config"
+                  "orario": "2026-10-03T14:00",
+                  "fonte": "config+tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -2257,7 +2257,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-10-04T11:00",
+                  "orario": "2026-10-04T14:00",
                   "fonte": "config+tv8"
                 }
               ],
@@ -3819,7 +3819,16 @@
               "inizio": "2026-10-03T05:55:00+02:00",
               "data": "03/10/2026",
               "ora": "05:55",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T05:50",
+                  "programma": "GP Giappone: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -3834,7 +3843,16 @@
               "inizio": "2026-10-03T06:50:00+02:00",
               "data": "03/10/2026",
               "ora": "06:50",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T06:45",
+                  "programma": "GP Giappone: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -3849,7 +3867,16 @@
               "inizio": "2026-10-04T04:00:00+02:00",
               "data": "04/10/2026",
               "ora": "04:00",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "2026-10-04T11:00",
+                  "programma": "GP Giappone: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -3864,7 +3891,16 @@
               "inizio": "2026-10-04T05:15:00+02:00",
               "data": "04/10/2026",
               "ora": "05:15",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "2026-10-04T11:00",
+                  "programma": "GP Giappone: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
