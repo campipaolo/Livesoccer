@@ -1,100 +1,16 @@
 {
-  "aggiornato": "2026-10-01T18:04:48+02:00",
+  "aggiornato": "2026-10-01T22:21:34+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 234,
+  "totale": 230,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 6,
+      "totale": 2,
       "eventi": [
-        {
-          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Guinea-Kenya",
-          "categoria": "Calcio",
-          "sottocartella": "Qualificazioni Coppa d’Africa",
-          "sport": "Calcio",
-          "competizione": "Qualificazioni Coppa d’Africa",
-          "evento": "Guinea-Kenya",
-          "inizio": "2026-10-01T18:00:00+02:00",
-          "data": "01/10/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-01T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Azerbaigian-Liechtenstein",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Azerbaigian-Liechtenstein",
-          "inizio": "2026-10-01T18:00:00+02:00",
-          "data": "01/10/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-01T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Qualificazioni Europei U21: Armenia-Italia",
-          "categoria": "Calcio",
-          "sottocartella": "Qualificazioni Europei U21",
-          "sport": "Calcio",
-          "competizione": "Qualificazioni Europei U21 2027",
-          "evento": "Armenia-Italia",
-          "inizio": "2026-10-01T18:30:00+02:00",
-          "data": "01/10/2026",
-          "ora": "18:30",
-          "canali": [
-            {
-              "nome": "Rai 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-01T18:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] Eurolega: Hapoel Tel Aviv-Real Madrid",
-          "categoria": "Basket",
-          "sottocartella": "Eurolega",
-          "sport": "Basket",
-          "competizione": "Eurolega",
-          "evento": "Hapoel Tel Aviv-Real Madrid",
-          "inizio": "2026-10-01T19:00:00+02:00",
-          "data": "01/10/2026",
-          "ora": "19:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-01T19:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] UEFA Nations League: Danimarca-Portogallo",
           "categoria": "Calcio",
@@ -324,7 +240,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-10-03T14:00",
+                  "orario": "2026-10-03T14:05",
                   "fonte": "config+tv8"
                 }
               ],
@@ -2095,7 +2011,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T03:50",
+                  "orario": "2026-10-03T03:45",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -2132,7 +2048,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T03:50",
+                  "orario": "2026-10-03T03:45",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -2169,7 +2085,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T08:00",
+                  "orario": "2026-10-03T07:55",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -3817,7 +3733,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T05:50",
+                  "orario": "2026-10-03T05:45",
                   "programma": "GP Giappone: Qualifiche",
                   "fonte": "tv8"
                 }
@@ -3841,7 +3757,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T06:45",
+                  "orario": "2026-10-03T06:40",
                   "programma": "GP Giappone: Qualifiche",
                   "fonte": "tv8"
                 }
@@ -4613,7 +4529,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 44,
+      "totale": 41,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -8694,78 +8610,9 @@
           ]
         },
         {
-          "nome": "Qualificazioni Coppa d’Africa",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Guinea-Kenya",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Guinea-Kenya",
-              "inizio": "2026-10-01T18:00:00+02:00",
-              "data": "01/10/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-01T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Angola-Malawi",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Angola-Malawi",
-              "inizio": "2026-10-06T21:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "UEFA Nations League",
-          "totale": 14,
+          "totale": 13,
           "eventi": [
-            {
-              "titolo": "UEFA Nations League: Azerbaigian-Liechtenstein",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Azerbaigian-Liechtenstein",
-              "inizio": "2026-10-01T18:00:00+02:00",
-              "data": "01/10/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-01T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "UEFA Nations League: Danimarca-Portogallo",
               "categoria": "Calcio",
@@ -9049,54 +8896,6 @@
           ]
         },
         {
-          "nome": "Qualificazioni Europei U21",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Europei U21: Armenia-Italia",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Europei U21",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Europei U21 2027",
-              "evento": "Armenia-Italia",
-              "inizio": "2026-10-01T18:30:00+02:00",
-              "data": "01/10/2026",
-              "ora": "18:30",
-              "canali": [
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-01T18:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Europei U21: Italia-Polonia",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Europei U21",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Europei U21 2027",
-              "evento": "Italia-Polonia",
-              "inizio": "2026-10-05T18:15:00+02:00",
-              "data": "05/10/2026",
-              "ora": "18:15",
-              "canali": [
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T18:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Liga Profesional",
           "totale": 4,
           "eventi": [
@@ -9233,6 +9032,60 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-03T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Qualificazioni Europei U21",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Qualificazioni Europei U21: Italia-Polonia",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Europei U21",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Europei U21 2027",
+              "evento": "Italia-Polonia",
+              "inizio": "2026-10-05T18:15:00+02:00",
+              "data": "05/10/2026",
+              "ora": "18:15",
+              "canali": [
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-05T18:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Qualificazioni Coppa d’Africa",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Angola-Malawi",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Angola-Malawi",
+              "inizio": "2026-10-06T21:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -9679,33 +9532,12 @@
     },
     {
       "nome": "Basket",
-      "totale": 7,
+      "totale": 6,
       "sottocartelle": [
         {
           "nome": "Eurolega",
-          "totale": 2,
+          "totale": 1,
           "eventi": [
-            {
-              "titolo": "Eurolega: Hapoel Tel Aviv-Real Madrid",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Hapoel Tel Aviv-Real Madrid",
-              "inizio": "2026-10-01T19:00:00+02:00",
-              "data": "01/10/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-01T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Eurolega: Baskonia-Olimpia Milano",
               "categoria": "Basket",
