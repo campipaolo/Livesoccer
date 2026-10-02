@@ -14,6 +14,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/casertana-vs-cavese/10dr7y#5721107",
       "channels": [
         {
+          "name": "Sky Sport 252",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -28,6 +33,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -35,6 +41,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -55,6 +62,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/cittadella-vs-albinoleffe/4pucb#5720347",
       "channels": [
         {
+          "name": "Sky Sport 253",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -69,6 +81,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -76,6 +89,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -96,7 +110,17 @@
       "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-perugia/aswk8#5720728",
       "channels": [
         {
+          "name": "Sky Sport 251",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "Sky Sport Calcio",
           "url": "",
           "stream": false
         },
@@ -110,14 +134,18 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 251",
             "SKY Go Italia",
+            "Sky Sport Calcio",
             "NOW TV"
           ]
         },
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 251",
             "SKY Go Italia",
+            "Sky Sport Calcio",
             "NOW TV"
           ]
         }
@@ -137,6 +165,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/sorrento-vs-virtus-casarano/gl1t4#5721114",
       "channels": [
         {
+          "name": "Sky Sport 254",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -151,6 +184,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -158,6 +192,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -178,6 +213,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/forli-vs-vado/zgk5j#5720734",
       "channels": [
         {
+          "name": "Sky Sport 255",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -192,6 +232,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -199,6 +240,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -3250,6 +3292,11 @@
           "name": "DAZN Italia",
           "url": "",
           "stream": false
+        },
+        {
+          "name": "DAZN1",
+          "url": "",
+          "stream": false
         }
       ],
       "canali_mondo": [
@@ -3554,7 +3601,8 @@
         {
           "paese": "Italia",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN1"
           ]
         },
         {
@@ -3763,7 +3811,8 @@
         {
           "paese": "San Marino",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN1"
           ]
         },
         {
