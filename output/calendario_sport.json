@@ -1,123 +1,811 @@
 {
-  "aggiornato": "2026-10-03T22:42:58+02:00",
+  "aggiornato": "2026-10-04T01:35:19+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 221,
+  "totale": 233,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 5,
+      "totale": 26,
       "eventi": [
         {
-          "titolo": "[Calcio] Serie C: Catania-Crotone",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Catania-Crotone",
-          "inizio": "2026-10-03T20:30:00+02:00",
-          "data": "03/10/2026",
-          "ora": "20:30",
+          "titolo": "[Motori] MotoGP: Grand Prix of Japan - Warm Up",
+          "categoria": "Motori",
+          "sottocartella": "MotoGP",
+          "sport": "Motori",
+          "competizione": "MotoGP",
+          "evento": "Grand Prix of Japan - Warm Up",
+          "sessione": "prove",
+          "circuito": "Mobility Resort Motegi, Motegi, Japan",
+          "inizio": "2026-10-04T02:35:00+02:00",
+          "data": "04/10/2026",
+          "ora": "02:35",
           "canali": [
             {
-              "nome": "Sky Sport Arena",
-              "numero": "",
+              "nome": "Sky Sport MotoGP",
+              "numero": "208",
               "tipo": "diretta",
-              "orario": "2026-10-03T20:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Pro Vercelli-Carpi",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Pro Vercelli-Carpi",
-          "inizio": "2026-10-03T20:30:00+02:00",
-          "data": "03/10/2026",
-          "ora": "20:30",
-          "canali": [
+              "orario": "2026-10-04T02:35",
+              "fonte": "dizzle+config"
+            },
             {
-              "nome": "Sky Sport Max",
+              "nome": "NOW",
               "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-03T20:30",
-              "fonte": "virgilio"
+              "tipo": "streaming",
+              "orario": "2026-10-04T02:35",
+              "fonte": "dizzle+config"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "fonte": "Dizzle0987/motorsport-calendar"
         },
         {
-          "titolo": "[Volley] Serie A1: Milano-Firenze",
-          "categoria": "Volley",
-          "sottocartella": "Serie A1 femminile",
-          "sport": "Pallavolo femminile",
-          "competizione": "Serie A1",
-          "evento": "Milano-Firenze",
-          "inizio": "2026-10-03T20:30:00+02:00",
-          "data": "03/10/2026",
-          "ora": "20:30",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-03T20:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Spagna-Cechia",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Spagna-Cechia",
-          "inizio": "2026-10-03T20:45:00+02:00",
-          "data": "03/10/2026",
-          "ora": "20:45",
+          "titolo": "[Motori] Moto2 e Moto3: M3 - Japanese GP - Race",
+          "categoria": "Motori",
+          "sottocartella": "Moto2 e Moto3",
+          "sport": "Motori",
+          "competizione": "Moto2 e Moto3",
+          "evento": "M3 - Japanese GP - Race",
+          "sessione": "gara",
+          "circuito": "Twin Ring Motegi, 120-1 Hiyama, Motegi, Haga District, Tochigi 321-3533, Giappone",
+          "inizio": "2026-10-04T04:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "04:00",
           "canali": [
             {
               "nome": "TV8",
               "numero": "8",
+              "tipo": "differita",
+              "orario": "2026-10-04T10:45",
+              "programma": "GP Giappone: Gara",
+              "fonte": "tv8"
+            }
+          ],
+          "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Tennis] WTA 1000 Pechino: 6a giornata",
+          "categoria": "Tennis",
+          "sottocartella": "WTA 1000 Pechino",
+          "sport": "Tennis",
+          "competizione": "WTA 1000 Pechino",
+          "evento": "6a giornata",
+          "inizio": "2026-10-04T05:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "05:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-03T20:45",
+              "orario": "2026-10-04T05:00",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-10-03T20:45",
+              "orario": "2026-10-04T05:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Liga Profesional: Newell’s-Lanus",
+          "titolo": "[Motori] Moto2 e Moto3: M2 - Japanese GP - Race",
+          "categoria": "Motori",
+          "sottocartella": "Moto2 e Moto3",
+          "sport": "Motori",
+          "competizione": "Moto2 e Moto3",
+          "evento": "M2 - Japanese GP - Race",
+          "sessione": "gara",
+          "circuito": "Twin Ring Motegi, 120-1 Hiyama, Motegi, Haga District, Tochigi 321-3533, Giappone",
+          "inizio": "2026-10-04T05:15:00+02:00",
+          "data": "04/10/2026",
+          "ora": "05:15",
+          "canali": [
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "differita",
+              "orario": "2026-10-04T10:45",
+              "programma": "GP Giappone: Gara",
+              "fonte": "tv8"
+            }
+          ],
+          "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Tennis] ATP & WTA",
+          "categoria": "Tennis",
+          "sottocartella": "ATP & WTA",
+          "sport": "Tennis",
+          "competizione": "ATP & WTA",
+          "evento": "ATP & WTA",
+          "inizio": "2026-10-04T06:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "06:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T06:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T07:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Motori] MotoGP: Grand Prix of Japan - Gara",
+          "categoria": "Motori",
+          "sottocartella": "MotoGP",
+          "sport": "Motori",
+          "competizione": "MotoGP",
+          "evento": "Grand Prix of Japan - Gara",
+          "sessione": "gara",
+          "circuito": "Mobility Resort Motegi, Motegi, Japan",
+          "inizio": "2026-10-04T07:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "07:00",
+          "canali": [
+            {
+              "nome": "Sky Sport MotoGP",
+              "numero": "208",
+              "tipo": "diretta",
+              "orario": "2026-10-04T07:00",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "NOW",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T07:00",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "differita",
+              "orario": "2026-10-04T13:50",
+              "fonte": "config+tv8"
+            }
+          ],
+          "fonte": "Dizzle0987/motorsport-calendar"
+        },
+        {
+          "titolo": "[Motori] Formula 1: Bahrain Grand Prix in Malaysia - Gara",
+          "categoria": "Motori",
+          "sottocartella": "Formula 1",
+          "sport": "Motori",
+          "competizione": "Formula 1",
+          "evento": "Bahrain Grand Prix in Malaysia - Gara",
+          "sessione": "gara",
+          "circuito": "Sepang International Circuit, Kuala Lumpur, Malaysia",
+          "inizio": "2026-10-04T09:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "09:00",
+          "canali": [
+            {
+              "nome": "Sky Sport F1",
+              "numero": "207",
+              "tipo": "diretta",
+              "orario": "2026-10-04T09:00",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "NOW",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T09:00",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-04T09:00",
+              "fonte": "config"
+            },
+            {
+              "nome": "Sky Sport 4K",
+              "numero": "213",
+              "tipo": "diretta",
+              "orario": "2026-10-04T09:00",
+              "fonte": "config"
+            },
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "differita",
+              "orario": "2026-10-04T16:35",
+              "fonte": "config+tv8"
+            }
+          ],
+          "fonte": "Dizzle0987/motorsport-calendar"
+        },
+        {
+          "titolo": "[Motori] GT World Challenge Europe: R9 Barcellona - Quali 2",
+          "categoria": "Motori",
+          "sottocartella": "GT World Challenge Europe",
+          "sport": "Motori",
+          "competizione": "GT World Challenge Europe",
+          "evento": "R9 Barcellona - Quali 2",
+          "sessione": "qualifiche",
+          "circuito": "Circuito di Catalogna, Carretera Granollers, A Parets km 2, Carrer Mas Moreneta, s/n, 08160 Barcelona, Spagna",
+          "inizio": "2026-10-04T11:10:00+02:00",
+          "data": "04/10/2026",
+          "ora": "11:10",
+          "canali": [],
+          "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Altri sport] Europei Ljubljana: Prova in linea Élite Uomini",
+          "categoria": "Altri sport",
+          "sottocartella": "Ciclismo",
+          "sport": "Ciclismo",
+          "competizione": "Europei Ljubljana 2026",
+          "evento": "Prova in linea Élite Uomini",
+          "inizio": "2026-10-04T12:20:00+02:00",
+          "data": "04/10/2026",
+          "ora": "12:20",
+          "canali": [
+            {
+              "nome": "Eurosport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T12:20",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Rai 2",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T14:05",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Lecco vs Union Brescia",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Lecco vs Union Brescia",
+          "inizio": "2026-10-04T12:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "12:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 256",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 256",
+                "SKY Go Italia",
+                "Sky Sport Calcio",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 256",
+                "SKY Go Italia",
+                "Sky Sport Calcio",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Treviso vs Giana Erminio",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Treviso vs Giana Erminio",
+          "inizio": "2026-10-04T12:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "12:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 257",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T12:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 257",
+                "SKY Go Italia",
+                "NOW TV",
+                "Sky Sport Mix"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 257",
+                "SKY Go Italia",
+                "NOW TV",
+                "Sky Sport Mix"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Campobasso vs Sassari Torres",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Campobasso vs Sassari Torres",
+          "inizio": "2026-10-04T14:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "14:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 253",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 253",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 253",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Cosenza vs Foggia",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Cosenza vs Foggia",
+          "inizio": "2026-10-04T14:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "14:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 251",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 251",
+                "SKY Go Italia",
+                "Sky Sport Calcio",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 251",
+                "SKY Go Italia",
+                "Sky Sport Calcio",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Nuova Monterosi vs Pineto",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Nuova Monterosi vs Pineto",
+          "inizio": "2026-10-04T14:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "14:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 254",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Basket] Serie A2: Vigevano-Rieti",
+          "categoria": "Basket",
+          "sottocartella": "Serie A2",
+          "sport": "Basket",
+          "competizione": "Serie A2",
+          "evento": "Vigevano-Rieti",
+          "inizio": "2026-10-04T16:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "16:00",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T16:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Serie A: Roma Basketball-Derthona Tortona",
+          "categoria": "Basket",
+          "sottocartella": "Serie A",
+          "sport": "Basket",
+          "competizione": "Serie A",
+          "evento": "Roma Basketball-Derthona Tortona",
+          "inizio": "2026-10-04T16:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "16:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-04T16:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Motori] GT World Challenge Europe: R9 Barcellona - Race 2",
+          "categoria": "Motori",
+          "sottocartella": "GT World Challenge Europe",
+          "sport": "Motori",
+          "competizione": "GT World Challenge Europe",
+          "evento": "R9 Barcellona - Race 2",
+          "sessione": "gara",
+          "circuito": "Circuito di Catalogna, Carretera Granollers, A Parets km 2, Carrer Mas Moreneta, s/n, 08160 Barcelona, Spagna",
+          "inizio": "2026-10-04T16:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "16:00",
+          "canali": [],
+          "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Monopoli-Savoia",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Monopoli-Savoia",
+          "inizio": "2026-10-04T17:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "17:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T17:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Reggiana-Spezia",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Reggiana-Spezia",
+          "inizio": "2026-10-04T17:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "17:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T17:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Serie A1: Livorno-Campobasso",
+          "categoria": "Basket",
+          "sottocartella": "Serie A1 femminile",
+          "sport": "Basket femminile",
+          "competizione": "Serie A1",
+          "evento": "Livorno-Campobasso",
+          "inizio": "2026-10-04T18:15:00+02:00",
+          "data": "04/10/2026",
+          "ora": "18:15",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T18:15",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Serie A: Virtus Bologna-Maxima Roma",
+          "categoria": "Basket",
+          "sottocartella": "Serie A",
+          "sport": "Basket",
+          "competizione": "Serie A",
+          "evento": "Virtus Bologna-Maxima Roma",
+          "inizio": "2026-10-04T18:15:00+02:00",
+          "data": "04/10/2026",
+          "ora": "18:15",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-04T18:15",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Liga Profesional: Huracan-Aldosivi",
           "categoria": "Calcio",
           "sottocartella": "Liga Profesional",
           "sport": "Calcio",
           "competizione": "Liga Profesional",
-          "evento": "Newell’s-Lanus",
-          "inizio": "2026-10-03T23:00:00+02:00",
-          "data": "03/10/2026",
-          "ora": "23:00",
+          "evento": "Huracan-Aldosivi",
+          "inizio": "2026-10-04T19:45:00+02:00",
+          "data": "04/10/2026",
+          "ora": "19:45",
           "canali": [
             {
               "nome": "Sportitalia",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-03T23:00",
+              "orario": "2026-10-04T19:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Salernitana-Bari",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Salernitana-Bari",
+          "inizio": "2026-10-04T20:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Germania-Grecia",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Nations League",
+          "sport": "Calcio",
+          "competizione": "UEFA Nations League",
+          "evento": "Germania-Grecia",
+          "inizio": "2026-10-04T20:45:00+02:00",
+          "data": "04/10/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Portogallo-Norvegia",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Nations League",
+          "sport": "Calcio",
+          "competizione": "UEFA Nations League",
+          "evento": "Portogallo-Norvegia",
+          "inizio": "2026-10-04T20:45:00+02:00",
+          "data": "04/10/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Liga Profesional: Talleres-Belgrano",
+          "categoria": "Calcio",
+          "sottocartella": "Liga Profesional",
+          "sport": "Calcio",
+          "competizione": "Liga Profesional",
+          "evento": "Talleres-Belgrano",
+          "inizio": "2026-10-04T22:00:00+02:00",
+          "data": "04/10/2026",
+          "ora": "22:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T22:00",
               "fonte": "virgilio"
             }
           ],
@@ -4137,7 +4825,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 41,
+      "totale": 47,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4167,6 +4855,13 @@
                   "tipo": "streaming",
                   "orario": "2026-10-10T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -4900,6 +5595,13 @@
                   "tipo": "streaming",
                   "orario": "2026-10-10T18:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T18:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -5656,6 +6358,20 @@
                   "tipo": "streaming",
                   "orario": "2026-10-10T20:45",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T20:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T20:45",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -7756,7 +8472,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 5,
+          "totale": 7,
           "eventi": [
             {
               "titolo": "Serie B: Avellino vs Sampdoria",
@@ -7839,6 +8555,13 @@
                   "tipo": "diretta",
                   "orario": "2026-10-10T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -7883,6 +8606,13 @@
                   "tipo": "diretta",
                   "orario": "2026-10-10T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -7935,6 +8665,13 @@
                   "tipo": "diretta",
                   "orario": "2026-10-10T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -7979,6 +8716,13 @@
                   "tipo": "diretta",
                   "orario": "2026-10-10T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -7998,55 +8742,55 @@
                 }
               ],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Vicenza-Pisa",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Vicenza-Pisa",
+              "inizio": "2026-10-10T17:15:00+02:00",
+              "data": "10/10/2026",
+              "ora": "17:15",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T17:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Arezzo-Cremonese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Arezzo-Cremonese",
+              "inizio": "2026-10-10T19:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "19:30",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T19:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Serie C",
-          "totale": 11,
+          "totale": 9,
           "eventi": [
-            {
-              "titolo": "Serie C: Catania-Crotone",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Catania-Crotone",
-              "inizio": "2026-10-03T20:30:00+02:00",
-              "data": "03/10/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Serie C: Pro Vercelli-Carpi",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Pro Vercelli-Carpi",
-              "inizio": "2026-10-03T20:30:00+02:00",
-              "data": "03/10/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Serie C: Lecco vs Union Brescia",
               "categoria": "Calcio",
@@ -8204,7 +8948,24 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 253",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 253",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8302,24 +9063,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 254",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 254",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8416,37 +9160,78 @@
           ]
         },
         {
-          "nome": "UEFA Nations League",
-          "totale": 9,
+          "nome": "Liga Profesional",
+          "totale": 3,
           "eventi": [
             {
-              "titolo": "UEFA Nations League: Spagna-Cechia",
+              "titolo": "Liga Profesional: Huracan-Aldosivi",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
+              "sottocartella": "Liga Profesional",
               "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Spagna-Cechia",
-              "inizio": "2026-10-03T20:45:00+02:00",
-              "data": "03/10/2026",
-              "ora": "20:45",
+              "competizione": "Liga Profesional",
+              "evento": "Huracan-Aldosivi",
+              "inizio": "2026-10-04T19:45:00+02:00",
+              "data": "04/10/2026",
+              "ora": "19:45",
               "canali": [
                 {
-                  "nome": "TV8",
-                  "numero": "8",
+                  "nome": "Sportitalia",
+                  "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-03T20:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T20:45",
+                  "orario": "2026-10-04T19:45",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "Liga Profesional: Talleres-Belgrano",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Talleres-Belgrano",
+              "inizio": "2026-10-04T22:00:00+02:00",
+              "data": "04/10/2026",
+              "ora": "22:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T22:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Istituto-Boca Juniors",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Istituto-Boca Juniors",
+              "inizio": "2026-10-10T00:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "00:30",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T00:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Nations League",
+          "totale": 8,
+          "eventi": [
             {
               "titolo": "UEFA Nations League: Germania-Grecia",
               "categoria": "Calcio",
@@ -8632,75 +9417,6 @@
           ]
         },
         {
-          "nome": "Liga Profesional",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "Liga Profesional: Newell’s-Lanus",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Newell’s-Lanus",
-              "inizio": "2026-10-03T23:00:00+02:00",
-              "data": "03/10/2026",
-              "ora": "23:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T23:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Huracan-Aldosivi",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Huracan-Aldosivi",
-              "inizio": "2026-10-04T19:45:00+02:00",
-              "data": "04/10/2026",
-              "ora": "19:45",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T19:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Talleres-Belgrano",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Talleres-Belgrano",
-              "inizio": "2026-10-04T22:00:00+02:00",
-              "data": "04/10/2026",
-              "ora": "22:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T22:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Qualificazioni Europei U21",
           "totale": 1,
           "eventi": [
@@ -8864,7 +9580,7 @@
         },
         {
           "nome": "Bundesliga",
-          "totale": 1,
+          "totale": 2,
           "eventi": [
             {
               "titolo": "Bundesliga: Borussia Dortmund-Werder Brema",
@@ -8882,6 +9598,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-09T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: RB Lipsia-Eintracht Francoforte",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "RB Lipsia-Eintracht Francoforte",
+              "inizio": "2026-10-10T18:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T18:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -8915,16 +9652,154 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "Primavera 1",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Primavera 1: Inter-Como",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Inter-Como",
+              "inizio": "2026-10-10T11:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Atalanta-Milan",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Atalanta-Milan",
+              "inizio": "2026-10-10T13:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Roma-Empoli",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Roma-Empoli",
+              "inizio": "2026-10-10T15:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Premier League",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Premier League: Arsenal-Leeds United",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Arsenal-Leeds United",
+              "inizio": "2026-10-10T13:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "13:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T13:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Chelsea-Bournemouth",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Chelsea-Bournemouth",
+              "inizio": "2026-10-10T16:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "16:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T16:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Manchester United-Tottenham",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Manchester United-Tottenham",
+              "inizio": "2026-10-10T18:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Tennis",
-      "totale": 25,
+      "totale": 29,
       "sottocartelle": [
         {
           "nome": "WTA 1000 Pechino",
-          "totale": 11,
+          "totale": 13,
           "eventi": [
             {
               "titolo": "WTA 1000 Pechino: 6a giornata",
@@ -9191,6 +10066,48 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 1a Semifinale Singolare",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "1a Semifinale Singolare",
+              "inizio": "2026-10-10T09:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "09:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T09:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 2a Semifinale Singolare",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "2a Semifinale Singolare",
+              "inizio": "2026-10-10T13:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -9410,7 +10327,7 @@
         },
         {
           "nome": "ATP Masters 1000 Shanghai",
-          "totale": 6,
+          "totale": 8,
           "eventi": [
             {
               "titolo": "ATP Masters 1000 Shanghai: 1a giornata",
@@ -9568,6 +10485,55 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-09T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 4a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "4a giornata",
+              "inizio": "2026-10-10T06:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T06:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T06:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 4a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "4a giornata",
+              "inizio": "2026-10-10T12:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T12:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -9845,45 +10811,12 @@
       ]
     },
     {
-      "nome": "Volley",
-      "totale": 1,
-      "sottocartelle": [
-        {
-          "nome": "Serie A1 femminile",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Serie A1: Milano-Firenze",
-              "categoria": "Volley",
-              "sottocartella": "Serie A1 femminile",
-              "sport": "Pallavolo femminile",
-              "competizione": "Serie A1",
-              "evento": "Milano-Firenze",
-              "inizio": "2026-10-03T20:30:00+02:00",
-              "data": "03/10/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nome": "Altri sport",
-      "totale": 8,
+      "totale": 11,
       "sottocartelle": [
         {
           "nome": "Ciclismo",
-          "totale": 8,
+          "totale": 9,
           "eventi": [
             {
               "titolo": "Europei Ljubljana: Prova in linea Élite Uomini",
@@ -10069,6 +11002,82 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-08T14:50",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Il Lombardia: .",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo",
+              "sport": "Ciclismo",
+              "competizione": "Il Lombardia",
+              "evento": ".",
+              "inizio": "2026-10-10T10:35:00+02:00",
+              "data": "10/10/2026",
+              "ora": "10:35",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T10:35",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T14:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Rugby",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "United Rugby Championship: Zebre-Edinburgh",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "United Rugby Championship",
+              "evento": "Zebre-Edinburgh",
+              "inizio": "2026-10-10T16:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "16:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T16:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "United Rugby Championship: Scarlets-Benetton Rugby",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "United Rugby Championship",
+              "evento": "Scarlets-Benetton Rugby",
+              "inizio": "2026-10-10T18:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T18:30",
                   "fonte": "virgilio"
                 }
               ],
