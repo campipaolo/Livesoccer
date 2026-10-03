@@ -2,38 +2,9 @@
   "eventi": [
     {
       "competizione": "Serie C",
-      "titolo": "Cavese vs Casertana",
+      "titolo": "Giugliano vs Barletta",
       "data": "2026-10-03",
-      "ora": "14:30",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Cittadella vs AlbinoLeffe",
-      "data": "2026-10-03",
-      "ora": "14:30",
+      "ora": "17:30",
       "canali": [
         "Sky Sport 253",
         "SKY Go Italia",
@@ -60,13 +31,42 @@
     },
     {
       "competizione": "Serie C",
-      "titolo": "Gubbio vs Perugia",
+      "titolo": "Grosseto vs Sambenedettese",
       "data": "2026-10-03",
-      "ora": "14:30",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Livorno vs Pescara",
+      "data": "2026-10-03",
+      "ora": "17:30",
       "canali": [
         "Sky Sport 251",
         "SKY Go Italia",
-        "Sky Sport Calcio",
+        "Sky Sport Max",
         "NOW TV"
       ],
       "canali_mondo": [
@@ -75,7 +75,7 @@
           "canali": [
             "Sky Sport 251",
             "SKY Go Italia",
-            "Sky Sport Calcio",
+            "Sky Sport Max",
             "NOW TV"
           ]
         },
@@ -84,7 +84,7 @@
           "canali": [
             "Sky Sport 251",
             "SKY Go Italia",
-            "Sky Sport Calcio",
+            "Sky Sport Max",
             "NOW TV"
           ]
         }
@@ -92,9 +92,38 @@
     },
     {
       "competizione": "Serie C",
-      "titolo": "Sorrento vs Virtus Casarano",
+      "titolo": "Monopoli vs Savoia",
       "data": "2026-10-03",
-      "ora": "14:30",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 255",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Union ArzignanoChiampo vs Pergolettese",
+      "data": "2026-10-03",
+      "ora": "17:30",
       "canali": [
         "Sky Sport 254",
         "SKY Go Italia",
@@ -121,11 +150,43 @@
     },
     {
       "competizione": "Serie C",
-      "titolo": "Vado vs Forlì",
+      "titolo": "Catania vs Crotone",
       "data": "2026-10-03",
-      "ora": "14:30",
+      "ora": "20:30",
       "canali": [
-        "Sky Sport 255",
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "Sky Sport Arena",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "Sky Sport Arena",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "Sky Sport Arena",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Folgore Caratese vs Desenzano Calvina",
+      "data": "2026-10-03",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 254",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -133,7 +194,7 @@
         {
           "paese": "Italia",
           "canali": [
-            "Sky Sport 255",
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -141,8 +202,81 @@
         {
           "paese": "San Marino",
           "canali": [
-            "Sky Sport 255",
+            "Sky Sport 254",
             "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Ospitaletto vs Renate",
+      "data": "2026-10-03",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Pro Vercelli vs Athletic Carpi",
+      "data": "2026-10-03",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Lecco vs Union Brescia",
+      "data": "2026-10-04",
+      "ora": "12:30",
+      "canali": [
+        "Sky Sport 256",
+        "SKY Go Italia",
+        "Sky Sport Calcio",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 256",
+            "SKY Go Italia",
+            "Sky Sport Calcio",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 256",
+            "SKY Go Italia",
+            "Sky Sport Calcio",
             "NOW TV"
           ]
         }

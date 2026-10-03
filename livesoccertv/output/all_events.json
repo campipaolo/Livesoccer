@@ -1,65 +1,17 @@
 {
   "events": [
     {
-      "id": "5721107",
+      "id": "5721109",
       "competition": "Serie C",
-      "home": "Cavese",
-      "away": "Casertana",
-      "title": "Cavese vs Casertana",
-      "kickoff": "2026-10-03T14:30:00+02:00",
+      "home": "Giugliano",
+      "away": "Barletta",
+      "title": "Giugliano vs Barletta",
+      "kickoff": "2026-10-03T17:30:00+02:00",
       "date": "2026-10-03",
-      "time": "14:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/casertana-vs-cavese/10dr7y#5721107",
-      "channels": [
-        {
-          "name": "Sky Sport 252",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5720347",
-      "competition": "Serie C",
-      "home": "Cittadella",
-      "away": "AlbinoLeffe",
-      "title": "Cittadella vs AlbinoLeffe",
-      "kickoff": "2026-10-03T14:30:00+02:00",
-      "date": "2026-10-03",
-      "time": "14:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/cittadella-vs-albinoleffe/4pucb#5720347",
+      "time": "17:30",
+      "status": "live",
+      "score": "1:0",
+      "match_url": "https://www.livesoccertv.com/it/match/barletta-vs-giugliano/1xwz5f#5721109",
       "channels": [
         {
           "name": "Sky Sport 253",
@@ -97,17 +49,65 @@
       ]
     },
     {
-      "id": "5720728",
+      "id": "5720727",
       "competition": "Serie C",
-      "home": "Gubbio",
-      "away": "Perugia",
-      "title": "Gubbio vs Perugia",
-      "kickoff": "2026-10-03T14:30:00+02:00",
+      "home": "Grosseto",
+      "away": "Sambenedettese",
+      "title": "Grosseto vs Sambenedettese",
+      "kickoff": "2026-10-03T17:30:00+02:00",
       "date": "2026-10-03",
-      "time": "14:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-perugia/aswk8#5720728",
+      "time": "17:30",
+      "status": "live",
+      "score": "0:3",
+      "match_url": "https://www.livesoccertv.com/it/match/grosseto-vs-sambenedettese/as0he#5720727",
+      "channels": [
+        {
+          "name": "Sky Sport 252",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720731",
+      "competition": "Serie C",
+      "home": "Livorno",
+      "away": "Pescara",
+      "title": "Livorno vs Pescara",
+      "kickoff": "2026-10-03T17:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "17:30",
+      "status": "live",
+      "score": "0:0",
+      "match_url": "https://www.livesoccertv.com/it/match/livorno-vs-pescara/3k8d4#5720731",
       "channels": [
         {
           "name": "Sky Sport 251",
@@ -120,7 +120,7 @@
           "stream": false
         },
         {
-          "name": "Sky Sport Calcio",
+          "name": "Sky Sport Max",
           "url": "",
           "stream": false
         },
@@ -136,7 +136,7 @@
           "canali": [
             "Sky Sport 251",
             "SKY Go Italia",
-            "Sky Sport Calcio",
+            "Sky Sport Max",
             "NOW TV"
           ]
         },
@@ -145,24 +145,72 @@
           "canali": [
             "Sky Sport 251",
             "SKY Go Italia",
-            "Sky Sport Calcio",
+            "Sky Sport Max",
             "NOW TV"
           ]
         }
       ]
     },
     {
-      "id": "5721114",
+      "id": "5721111",
       "competition": "Serie C",
-      "home": "Sorrento",
-      "away": "Virtus Casarano",
-      "title": "Sorrento vs Virtus Casarano",
-      "kickoff": "2026-10-03T14:30:00+02:00",
+      "home": "Monopoli",
+      "away": "Savoia",
+      "title": "Monopoli vs Savoia",
+      "kickoff": "2026-10-03T17:30:00+02:00",
       "date": "2026-10-03",
-      "time": "14:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/sorrento-vs-virtus-casarano/gl1t4#5721114",
+      "time": "17:30",
+      "status": "live",
+      "score": "0:0",
+      "match_url": "https://www.livesoccertv.com/it/match/monopoli-vs-savoia/1m66lt#5721111",
+      "channels": [
+        {
+          "name": "Sky Sport 255",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720346",
+      "competition": "Serie C",
+      "home": "Union ArzignanoChiampo",
+      "away": "Pergolettese",
+      "title": "Union ArzignanoChiampo vs Pergolettese",
+      "kickoff": "2026-10-03T17:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "17:30",
+      "status": "live",
+      "score": "2:1",
+      "match_url": "https://www.livesoccertv.com/it/match/pergolettese-vs-union-arzignanochiampo/1pv8ea#5720346",
       "channels": [
         {
           "name": "Sky Sport 254",
@@ -200,20 +248,75 @@
       ]
     },
     {
-      "id": "5720734",
+      "id": "5721106",
       "competition": "Serie C",
-      "home": "Vado",
-      "away": "Forlì",
-      "title": "Vado vs Forlì",
-      "kickoff": "2026-10-03T14:30:00+02:00",
+      "home": "Catania",
+      "away": "Crotone",
+      "title": "Catania vs Crotone",
+      "kickoff": "2026-10-03T20:30:00+02:00",
       "date": "2026-10-03",
-      "time": "14:30",
+      "time": "20:30",
       "status": "upcoming",
       "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/forli-vs-vado/zgk5j#5720734",
+      "match_url": "https://www.livesoccertv.com/it/match/catania-vs-crotone/35jv5#5721106",
       "channels": [
         {
-          "name": "Sky Sport 255",
+          "name": "Sky Sport 251",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "Sky Sport Arena",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "Sky Sport Arena",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 251",
+            "SKY Go Italia",
+            "Sky Sport Arena",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720349",
+      "competition": "Serie C",
+      "home": "Folgore Caratese",
+      "away": "Desenzano Calvina",
+      "title": "Folgore Caratese vs Desenzano Calvina",
+      "kickoff": "2026-10-03T20:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/folgore-caratese-vs-desenzano-calvina/2e5lwq#5720349",
+      "channels": [
+        {
+          "name": "Sky Sport 254",
           "url": "",
           "stream": false
         },
@@ -232,7 +335,7 @@
         {
           "paese": "Italia",
           "canali": [
-            "Sky Sport 255",
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -240,8 +343,142 @@
         {
           "paese": "San Marino",
           "canali": [
-            "Sky Sport 255",
+            "Sky Sport 254",
             "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720352",
+      "competition": "Serie C",
+      "home": "Ospitaletto",
+      "away": "Renate",
+      "title": "Ospitaletto vs Renate",
+      "kickoff": "2026-10-03T20:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/renate-vs-ospitaletto/7g7lm3#5720352",
+      "channels": [
+        {
+          "name": "Sky Sport 253",
+          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-3/",
+          "stream": false
+        },
+        {
+          "name": "SKY Go Italia",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5720353",
+      "competition": "Serie C",
+      "home": "Pro Vercelli",
+      "away": "Athletic Carpi",
+      "title": "Pro Vercelli vs Athletic Carpi",
+      "kickoff": "2026-10-03T20:30:00+02:00",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/pro-vercelli-vs-athletic-carpi/3z5603#5720353",
+      "channels": [
+        {
+          "name": "Sky Sport 252",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720351",
+      "competition": "Serie C",
+      "home": "Lecco",
+      "away": "Union Brescia",
+      "title": "Lecco vs Union Brescia",
+      "kickoff": "2026-10-04T12:30:00+02:00",
+      "date": "2026-10-04",
+      "time": "12:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/lecco-vs-union-brescia/8vhnz4#5720351",
+      "channels": [
+        {
+          "name": "Sky Sport 256",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "Sky Sport Calcio",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 256",
+            "SKY Go Italia",
+            "Sky Sport Calcio",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 256",
+            "SKY Go Italia",
+            "Sky Sport Calcio",
             "NOW TV"
           ]
         }
