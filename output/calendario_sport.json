@@ -1,197 +1,16 @@
 {
-  "aggiornato": "2026-10-03T00:15:41+02:00",
+  "aggiornato": "2026-10-03T07:20:28+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 244,
+  "totale": 238,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 31,
+      "totale": 25,
       "eventi": [
-        {
-          "titolo": "[Calcio] Amichevole: Argentina-Burkina Faso",
-          "categoria": "Calcio",
-          "sottocartella": "Amichevole",
-          "sport": "Calcio",
-          "competizione": "Amichevole",
-          "evento": "Argentina-Burkina Faso",
-          "inizio": "2026-10-03T01:50:00+02:00",
-          "data": "03/10/2026",
-          "ora": "01:50",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-03T01:50",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-03T02:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Liga Profesional: Boca Juniors-Union",
-          "categoria": "Calcio",
-          "sottocartella": "Liga Profesional",
-          "sport": "Calcio",
-          "competizione": "Liga Profesional",
-          "evento": "Boca Juniors-Union",
-          "inizio": "2026-10-03T02:30:00+02:00",
-          "data": "03/10/2026",
-          "ora": "02:30",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-03T02:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Grand Prix of Japan - FP2",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Grand Prix of Japan - FP2",
-          "sessione": "prove",
-          "circuito": "Mobility Resort Motegi, Motegi, Japan",
-          "inizio": "2026-10-03T03:10:00+02:00",
-          "data": "03/10/2026",
-          "ora": "03:10",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-03T03:10",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-03T03:10",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Grand Prix of Japan - Q1",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Grand Prix of Japan - Q1",
-          "sessione": "qualifiche",
-          "circuito": "Mobility Resort Motegi, Motegi, Japan",
-          "inizio": "2026-10-03T03:50:00+02:00",
-          "data": "03/10/2026",
-          "ora": "03:50",
-          "canali": [
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "diretta",
-              "orario": "2026-10-03T03:45",
-              "fonte": "dizzle+tv8"
-            },
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-03T03:50",
-              "fonte": "config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-03T03:50",
-              "fonte": "config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-03T04:00:00+02:00",
-          "data": "03/10/2026",
-          "ora": "04:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-03T04:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-03T07:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Grand Prix of Japan - Q2",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Grand Prix of Japan - Q2",
-          "sessione": "qualifiche",
-          "circuito": "Mobility Resort Motegi, Motegi, Japan",
-          "inizio": "2026-10-03T04:15:00+02:00",
-          "data": "03/10/2026",
-          "ora": "04:15",
-          "canali": [
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "diretta",
-              "orario": "2026-10-03T03:45",
-              "fonte": "dizzle+tv8"
-            },
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-03T04:15",
-              "fonte": "config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-03T04:15",
-              "fonte": "config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
         {
           "titolo": "[Motori] Moto2 e Moto3: M2 - Japanese GP - Quali",
           "categoria": "Motori",
@@ -974,7 +793,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 145,
+      "totale": 142,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -2731,112 +2550,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 54,
+          "totale": 51,
           "eventi": [
-            {
-              "titolo": "MotoGP: Grand Prix of Japan - FP2",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Grand Prix of Japan - FP2",
-              "sessione": "prove",
-              "circuito": "Mobility Resort Motegi, Motegi, Japan",
-              "inizio": "2026-10-03T03:10:00+02:00",
-              "data": "03/10/2026",
-              "ora": "03:10",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T03:10",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-03T03:10",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
-            {
-              "titolo": "MotoGP: Grand Prix of Japan - Q1",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Grand Prix of Japan - Q1",
-              "sessione": "qualifiche",
-              "circuito": "Mobility Resort Motegi, Motegi, Japan",
-              "inizio": "2026-10-03T03:50:00+02:00",
-              "data": "03/10/2026",
-              "ora": "03:50",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T03:45",
-                  "fonte": "dizzle+tv8"
-                },
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T03:50",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-03T03:50",
-                  "fonte": "config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
-            {
-              "titolo": "MotoGP: Grand Prix of Japan - Q2",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Grand Prix of Japan - Q2",
-              "sessione": "qualifiche",
-              "circuito": "Mobility Resort Motegi, Motegi, Japan",
-              "inizio": "2026-10-03T04:15:00+02:00",
-              "data": "03/10/2026",
-              "ora": "04:15",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T03:45",
-                  "fonte": "dizzle+tv8"
-                },
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T04:15",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-03T04:15",
-                  "fonte": "config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Grand Prix of Japan - Sprint",
               "categoria": "Motori",
@@ -5298,7 +5013,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 48,
+      "totale": 46,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -9526,36 +9241,8 @@
         },
         {
           "nome": "Amichevole",
-          "totale": 3,
+          "totale": 2,
           "eventi": [
-            {
-              "titolo": "Amichevole: Argentina-Burkina Faso",
-              "categoria": "Calcio",
-              "sottocartella": "Amichevole",
-              "sport": "Calcio",
-              "competizione": "Amichevole",
-              "evento": "Argentina-Burkina Faso",
-              "inizio": "2026-10-03T01:50:00+02:00",
-              "data": "03/10/2026",
-              "ora": "01:50",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T01:50",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T02:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Amichevole: Lazio-Juve Stabia",
               "categoria": "Calcio",
@@ -9593,96 +9280,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-06T01:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Liga Profesional",
-          "totale": 4,
-          "eventi": [
-            {
-              "titolo": "Liga Profesional: Boca Juniors-Union",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Boca Juniors-Union",
-              "inizio": "2026-10-03T02:30:00+02:00",
-              "data": "03/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Newell’s-Lanus",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Newell’s-Lanus",
-              "inizio": "2026-10-03T23:00:00+02:00",
-              "data": "03/10/2026",
-              "ora": "23:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T23:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Huracan-Aldosivi",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Huracan-Aldosivi",
-              "inizio": "2026-10-04T19:45:00+02:00",
-              "data": "04/10/2026",
-              "ora": "19:45",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T19:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Talleres-Belgrano",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Talleres-Belgrano",
-              "inizio": "2026-10-04T22:00:00+02:00",
-              "data": "04/10/2026",
-              "ora": "22:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T22:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -9955,6 +9552,75 @@
           ]
         },
         {
+          "nome": "Liga Profesional",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Liga Profesional: Newell’s-Lanus",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Newell’s-Lanus",
+              "inizio": "2026-10-03T23:00:00+02:00",
+              "data": "03/10/2026",
+              "ora": "23:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-03T23:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Huracan-Aldosivi",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Huracan-Aldosivi",
+              "inizio": "2026-10-04T19:45:00+02:00",
+              "data": "04/10/2026",
+              "ora": "19:45",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T19:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Talleres-Belgrano",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Talleres-Belgrano",
+              "inizio": "2026-10-04T22:00:00+02:00",
+              "data": "04/10/2026",
+              "ora": "22:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T22:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
           "nome": "Qualificazioni Europei U21",
           "totale": 1,
           "eventi": [
@@ -10147,91 +9813,8 @@
     },
     {
       "nome": "Tennis",
-      "totale": 26,
+      "totale": 25,
       "sottocartelle": [
-        {
-          "nome": "ATP & WTA",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-03T04:00:00+02:00",
-              "data": "03/10/2026",
-              "ora": "04:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T04:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-03T07:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-04T06:00:00+02:00",
-              "data": "04/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T07:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-06T15:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "WTA 1000 Pechino",
           "totale": 11,
@@ -10497,6 +10080,61 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-09T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP & WTA",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-04T06:00:00+02:00",
+              "data": "04/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T06:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T07:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-06T15:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T15:00",
                   "fonte": "virgilio"
                 }
               ],
