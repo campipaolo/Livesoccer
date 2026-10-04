@@ -1,389 +1,16 @@
 {
-  "aggiornato": "2026-10-04T14:23:38+02:00",
+  "aggiornato": "2026-10-04T17:44:53+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 228,
+  "totale": 225,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 20,
+      "totale": 17,
       "eventi": [
-        {
-          "titolo": "[Altri sport] Europei Ljubljana: Prova in linea Élite Uomini",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo",
-          "sport": "Ciclismo",
-          "competizione": "Europei Ljubljana 2026",
-          "evento": "Prova in linea Élite Uomini",
-          "inizio": "2026-10-04T12:20:00+02:00",
-          "data": "04/10/2026",
-          "ora": "12:20",
-          "canali": [
-            {
-              "nome": "Eurosport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T12:20",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Rai 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T14:05",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Lecco vs Union Brescia",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Lecco vs Union Brescia",
-          "inizio": "2026-10-04T12:30:00+02:00",
-          "data": "04/10/2026",
-          "ora": "12:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 256",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 256",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 256",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Treviso vs Giana Erminio",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Treviso vs Giana Erminio",
-          "inizio": "2026-10-04T12:30:00+02:00",
-          "data": "04/10/2026",
-          "ora": "12:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 257",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport Mix",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T12:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 257",
-                "SKY Go Italia",
-                "NOW TV",
-                "Sky Sport Mix"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 257",
-                "SKY Go Italia",
-                "NOW TV",
-                "Sky Sport Mix"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Campobasso vs Sassari Torres",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Campobasso vs Sassari Torres",
-          "inizio": "2026-10-04T14:30:00+02:00",
-          "data": "04/10/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 253",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 253",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 253",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Cosenza vs Foggia",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Cosenza vs Foggia",
-          "inizio": "2026-10-04T14:30:00+02:00",
-          "data": "04/10/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 251",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 251",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 251",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Nuova Monterosi vs Pineto",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Nuova Monterosi vs Pineto",
-          "inizio": "2026-10-04T14:30:00+02:00",
-          "data": "04/10/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 254",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 254",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 254",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Pianese vs Ravenna",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Pianese vs Ravenna",
-          "inizio": "2026-10-04T14:30:00+02:00",
-          "data": "04/10/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 252",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
         {
           "titolo": "[Basket] Serie A2: Vigevano-Rieti",
           "categoria": "Basket",
@@ -525,25 +152,47 @@
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Serie C: Reggiana-Spezia",
+          "titolo": "[Calcio] Serie C: Reggiana vs Spezia",
           "categoria": "Calcio",
           "sottocartella": "Serie C",
           "sport": "Calcio",
           "competizione": "Serie C",
-          "evento": "Reggiana-Spezia",
+          "evento": "Reggiana vs Spezia",
           "inizio": "2026-10-04T17:30:00+02:00",
           "data": "04/10/2026",
           "ora": "17:30",
           "canali": [
             {
+              "nome": "Sky Sport 251",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T17:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T17:30",
+              "fonte": "livesoccer"
+            },
+            {
               "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
               "orario": "2026-10-04T17:30",
-              "fonte": "virgilio"
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T17:30",
+              "fonte": "livesoccer"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
         },
         {
           "titolo": "[Basket] Serie A1: Livorno-Campobasso",
@@ -609,16 +258,287 @@
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Serie C: Salernitana-Bari",
+          "titolo": "[Calcio] Serie C: Alcione vs Trento",
           "categoria": "Calcio",
           "sottocartella": "Serie C",
           "sport": "Calcio",
           "competizione": "Serie C",
-          "evento": "Salernitana-Bari",
+          "evento": "Alcione vs Trento",
           "inizio": "2026-10-04T20:30:00+02:00",
           "data": "04/10/2026",
           "ora": "20:30",
           "canali": [
+            {
+              "nome": "Sky Sport 255",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 255",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 255",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Audace Cerignola vs Team Altamura",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Audace Cerignola vs Team Altamura",
+          "inizio": "2026-10-04T20:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 254",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 254",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 254",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Latina vs Ostia Mare Lidocalcio",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Latina vs Ostia Mare Lidocalcio",
+          "inizio": "2026-10-04T20:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 253",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 253",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 253",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Potenza Calcio vs Picerno",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Potenza Calcio vs Picerno",
+          "inizio": "2026-10-04T20:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 252",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Antenna Sud",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "NOW TV",
+                "Sky Sport Mix",
+                "Antenna Sud"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "NOW TV",
+                "Sky Sport Mix"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Salernitana vs Bari 1908",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Salernitana vs Bari 1908",
+          "inizio": "2026-10-04T20:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 251",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "RAI Sport 1",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "RaiPlay",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Uno",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T20:30",
+              "fonte": "livesoccer"
+            },
             {
               "nome": "Rai Sport",
               "numero": "",
@@ -634,7 +554,38 @@
               "fonte": "virgilio"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 251",
+                "RAI Sport 1",
+                "SKY Go Italia",
+                "RaiPlay",
+                "Sky Sport Uno",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 251",
+                "RAI Sport 1",
+                "SKY Go Italia",
+                "RaiPlay",
+                "Sky Sport Uno",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "RAI Sport 1",
+                "Sunrise TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
         },
         {
           "titolo": "[Calcio] UEFA Nations League: Germania-Grecia",
@@ -4539,7 +4490,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 50,
+      "totale": 48,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -8620,353 +8571,8 @@
         },
         {
           "nome": "Serie C",
-          "totale": 11,
+          "totale": 9,
           "eventi": [
-            {
-              "titolo": "Serie C: Lecco vs Union Brescia",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Lecco vs Union Brescia",
-              "inizio": "2026-10-04T12:30:00+02:00",
-              "data": "04/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 256",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 256",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 256",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Treviso vs Giana Erminio",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Treviso vs Giana Erminio",
-              "inizio": "2026-10-04T12:30:00+02:00",
-              "data": "04/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 257",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T12:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 257",
-                    "SKY Go Italia",
-                    "NOW TV",
-                    "Sky Sport Mix"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 257",
-                    "SKY Go Italia",
-                    "NOW TV",
-                    "Sky Sport Mix"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Campobasso vs Sassari Torres",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Campobasso vs Sassari Torres",
-              "inizio": "2026-10-04T14:30:00+02:00",
-              "data": "04/10/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 253",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 253",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 253",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Cosenza vs Foggia",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Cosenza vs Foggia",
-              "inizio": "2026-10-04T14:30:00+02:00",
-              "data": "04/10/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 251",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 251",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 251",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Nuova Monterosi vs Pineto",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Nuova Monterosi vs Pineto",
-              "inizio": "2026-10-04T14:30:00+02:00",
-              "data": "04/10/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 254",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 254",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 254",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Pianese vs Ravenna",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Pianese vs Ravenna",
-              "inizio": "2026-10-04T14:30:00+02:00",
-              "data": "04/10/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 252",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie C: Dolomiti Bellunesi vs Novara",
               "categoria": "Calcio",
@@ -9051,37 +8657,330 @@
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "Serie C: Reggiana-Spezia",
+              "titolo": "Serie C: Reggiana vs Spezia",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
               "sport": "Calcio",
               "competizione": "Serie C",
-              "evento": "Reggiana-Spezia",
+              "evento": "Reggiana vs Spezia",
               "inizio": "2026-10-04T17:30:00+02:00",
               "data": "04/10/2026",
               "ora": "17:30",
               "canali": [
                 {
+                  "nome": "Sky Sport 251",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T17:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T17:30",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "Sky Sport Calcio",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-04T17:30",
-                  "fonte": "virgilio"
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T17:30",
+                  "fonte": "livesoccer"
                 }
               ],
-              "fonte": "Virgilio Sport"
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
             },
             {
-              "titolo": "Serie C: Salernitana-Bari",
+              "titolo": "Serie C: Alcione vs Trento",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
               "sport": "Calcio",
               "competizione": "Serie C",
-              "evento": "Salernitana-Bari",
+              "evento": "Alcione vs Trento",
               "inizio": "2026-10-04T20:30:00+02:00",
               "data": "04/10/2026",
               "ora": "20:30",
               "canali": [
+                {
+                  "nome": "Sky Sport 255",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 255",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 255",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Audace Cerignola vs Team Altamura",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Audace Cerignola vs Team Altamura",
+              "inizio": "2026-10-04T20:30:00+02:00",
+              "data": "04/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 254",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 254",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 254",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Latina vs Ostia Mare Lidocalcio",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Latina vs Ostia Mare Lidocalcio",
+              "inizio": "2026-10-04T20:30:00+02:00",
+              "data": "04/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 253",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 253",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 253",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Potenza Calcio vs Picerno",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Potenza Calcio vs Picerno",
+              "inizio": "2026-10-04T20:30:00+02:00",
+              "data": "04/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 252",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Antenna Sud",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 252",
+                    "SKY Go Italia",
+                    "NOW TV",
+                    "Sky Sport Mix",
+                    "Antenna Sud"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 252",
+                    "SKY Go Italia",
+                    "NOW TV",
+                    "Sky Sport Mix"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Salernitana vs Bari 1908",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Salernitana vs Bari 1908",
+              "inizio": "2026-10-04T20:30:00+02:00",
+              "data": "04/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 251",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "RAI Sport 1",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "RaiPlay",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Sky Sport Uno",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T20:30",
+                  "fonte": "livesoccer"
+                },
                 {
                   "nome": "Rai Sport",
                   "numero": "",
@@ -9097,7 +8996,38 @@
                   "fonte": "virgilio"
                 }
               ],
-              "fonte": "Virgilio Sport"
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 251",
+                    "RAI Sport 1",
+                    "SKY Go Italia",
+                    "RaiPlay",
+                    "Sky Sport Uno",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 251",
+                    "RAI Sport 1",
+                    "SKY Go Italia",
+                    "RaiPlay",
+                    "Sky Sport Uno",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "RAI Sport 1",
+                    "Sunrise TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
             },
             {
               "titolo": "Serie C: Union Brescia-Pro Vercelli",
@@ -10719,40 +10649,12 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 11,
+      "totale": 10,
       "sottocartelle": [
         {
           "nome": "Ciclismo",
-          "totale": 9,
+          "totale": 8,
           "eventi": [
-            {
-              "titolo": "Europei Ljubljana: Prova in linea Élite Uomini",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo",
-              "sport": "Ciclismo",
-              "competizione": "Europei Ljubljana 2026",
-              "evento": "Prova in linea Élite Uomini",
-              "inizio": "2026-10-04T12:20:00+02:00",
-              "data": "04/10/2026",
-              "ora": "12:20",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T12:20",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T14:05",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Coppa Bernocchi: .",
               "categoria": "Altri sport",
