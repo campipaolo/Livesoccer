@@ -2,51 +2,6 @@
   "eventi": [
     {
       "competizione": "Serie C",
-      "titolo": "Dolomiti Bellunesi vs Novara",
-      "data": "2026-10-04",
-      "ora": "17:30",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "Sky Sport Arena",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "Sky Sport Arena",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "Sky Sport Arena",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Reggiana vs Spezia",
-      "data": "2026-10-04",
-      "ora": "17:30",
-      "canali": [
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV"
-      ],
-      "canali_mondo": []
-    },
-    {
-      "competizione": "Serie C",
       "titolo": "Alcione vs Trento",
       "data": "2026-10-04",
       "ora": "20:30",
@@ -239,6 +194,136 @@
           "canali": [
             "DAZN Italia",
             "LAB Channel"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Union Brescia vs Pro Vercelli",
+      "data": "2026-10-09",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Bari 1908 vs Giugliano",
+      "data": "2026-10-10",
+      "ora": "14:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Casertana vs Monopoli",
+      "data": "2026-10-10",
+      "ora": "14:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Crotone vs Audace Cerignola",
+      "data": "2026-10-10",
+      "ora": "14:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Pergolettese vs Athletic Carpi",
+      "data": "2026-10-10",
+      "ora": "14:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
           ]
         }
       ]
