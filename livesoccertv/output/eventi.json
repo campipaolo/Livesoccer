@@ -135,7 +135,85 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 254",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 254",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Pianese vs Ravenna",
+      "data": "2026-10-04",
+      "ora": "14:30",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Dolomiti Bellunesi vs Novara",
+      "data": "2026-10-04",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "Sky Sport Arena",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "Sky Sport Arena",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "Sky Sport Arena",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -229,6 +307,12 @@
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Australia",
+          "canali": [
+            "beIN SPORTS 2"
           ]
         },
         {
@@ -462,7 +546,8 @@
         {
           "paese": "Hong Kong",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "beIN SPORTS MAX Hong Kong"
           ]
         },
         {
@@ -1062,6 +1147,12 @@
           ]
         },
         {
+          "paese": "Australia",
+          "canali": [
+            "beIN SPORTS 2"
+          ]
+        },
+        {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
@@ -1295,7 +1386,9 @@
         {
           "paese": "Hong Kong",
           "canali": [
-            "M Plus Live"
+            "beIN Sports 1 Hong Kong",
+            "M Plus Live",
+            "beIN SPORTS MAX Hong Kong"
           ]
         },
         {
@@ -1792,6 +1885,12 @@
           ]
         },
         {
+          "paese": "Australia",
+          "canali": [
+            "beIN SPORTS 2"
+          ]
+        },
+        {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
@@ -2019,6 +2118,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "beIN Sports 1 Hong Kong",
             "M Plus Live"
           ]
         },
@@ -2243,6 +2343,12 @@
           ]
         },
         {
+          "paese": "Portogallo",
+          "canali": [
+            "Sport TV5"
+          ]
+        },
+        {
           "paese": "Porto Rico",
           "canali": [
             "Peacock",
@@ -2439,6 +2545,38 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Avellino vs Sampdoria",
+      "data": "2026-10-11",
+      "ora": "00:00",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
           ]
         }
       ]
