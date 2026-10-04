@@ -1,54 +1,6 @@
 {
   "events": [
     {
-      "id": "5720346",
-      "competition": "Serie C",
-      "home": "Union ArzignanoChiampo",
-      "away": "Pergolettese",
-      "title": "Union ArzignanoChiampo vs Pergolettese",
-      "kickoff": "2026-10-03T17:30:00+02:00",
-      "date": "2026-10-03",
-      "time": "17:30",
-      "status": "finished",
-      "score": "2:2",
-      "match_url": "https://www.livesoccertv.com/it/match/pergolettese-vs-union-arzignanochiampo/1pv8ea#5720346",
-      "channels": [
-        {
-          "name": "Sky Sport 254",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
       "id": "5721106",
       "competition": "Serie C",
       "home": "Catania",
@@ -732,7 +684,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -911,7 +864,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 1"
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -1067,7 +1021,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV1"
+            "Sport TV1",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -1636,7 +1591,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -1695,6 +1651,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 1",
             "MTV Katsomo"
           ]
         },
@@ -1815,7 +1772,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 1"
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -1966,6 +1924,13 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Portogallo",
+          "canali": [
+            "Sport TV2",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -2377,7 +2342,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -2436,6 +2402,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 1",
             "MTV Katsomo"
           ]
         },
@@ -2559,7 +2526,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 1"
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -2947,6 +2915,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 1",
             "Tring"
           ]
         },
@@ -3268,6 +3237,13 @@
           ]
         },
         {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
+          ]
+        },
+        {
           "paese": "Kuwait",
           "canali": [
             "STARZPLAY",
@@ -3409,6 +3385,13 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Portogallo",
+          "canali": [
+            "Sport TV2",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -3640,6 +3623,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 1",
             "Tring"
           ]
         },
@@ -3960,6 +3944,13 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {

@@ -348,7 +348,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -527,7 +528,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 1"
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -683,7 +685,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV1"
+            "Sport TV1",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -1177,7 +1180,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -1236,6 +1240,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 1",
             "MTV Katsomo"
           ]
         },
@@ -1356,7 +1361,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 1"
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -1507,6 +1513,13 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Portogallo",
+          "canali": [
+            "Sport TV2",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -1891,7 +1904,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -1950,6 +1964,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 1",
             "MTV Katsomo"
           ]
         },
@@ -2073,7 +2088,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 1"
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -2446,6 +2462,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 1",
             "Tring"
           ]
         },
@@ -2767,6 +2784,13 @@
           ]
         },
         {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
+          ]
+        },
+        {
           "paese": "Kuwait",
           "canali": [
             "STARZPLAY",
@@ -2908,6 +2932,13 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Portogallo",
+          "canali": [
+            "Sport TV2",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -3124,6 +3155,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 1",
             "Tring"
           ]
         },
@@ -3444,6 +3476,13 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
