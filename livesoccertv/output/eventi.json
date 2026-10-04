@@ -1,172 +1,6 @@
 {
   "eventi": [
     {
-      "competizione": "Serie C",
-      "titolo": "Alcione vs Trento",
-      "data": "2026-10-04",
-      "ora": "20:30",
-      "canali": [
-        "Sky Sport 255",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Audace Cerignola vs Team Altamura",
-      "data": "2026-10-04",
-      "ora": "20:30",
-      "canali": [
-        "Sky Sport 254",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Latina vs Ostia Mare Lidocalcio",
-      "data": "2026-10-04",
-      "ora": "20:30",
-      "canali": [
-        "Sky Sport 253",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Potenza Calcio vs Picerno",
-      "data": "2026-10-04",
-      "ora": "20:30",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "NOW TV",
-        "Sky Sport Mix",
-        "Antenna Sud"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV",
-            "Sky Sport Mix",
-            "Antenna Sud"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV",
-            "Sky Sport Mix"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Salernitana vs Bari 1908",
-      "data": "2026-10-04",
-      "ora": "20:30",
-      "canali": [
-        "Sky Sport 251",
-        "RAI Sport 1",
-        "SKY Go Italia",
-        "RaiPlay",
-        "Sky Sport Uno",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 251",
-            "RAI Sport 1",
-            "SKY Go Italia",
-            "RaiPlay",
-            "Sky Sport Uno",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 251",
-            "RAI Sport 1",
-            "SKY Go Italia",
-            "RaiPlay",
-            "Sky Sport Uno",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "RAI Sport 1",
-            "Sunrise TV"
-          ]
-        }
-      ]
-    },
-    {
       "competizione": "Serie B",
       "titolo": "Avellino vs Sampdoria",
       "data": "2026-10-09",
@@ -194,6 +28,12 @@
           "canali": [
             "DAZN Italia",
             "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 6 Serbia"
           ]
         }
       ]
@@ -285,22 +125,7 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -871,6 +696,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Матч! Футбол 1"
+          ]
+        },
+        {
           "paese": "Saint Barthelemy",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -914,6 +745,12 @@
           "paese": "Slovacchia",
           "canali": [
             "Sport 1 SK"
+          ]
+        },
+        {
+          "paese": "Slovenia",
+          "canali": [
+            "Arena Sport 2 Slovenia"
           ]
         },
         {
@@ -1008,6 +845,12 @@
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Ucraina",
+          "canali": [
+            "MEGOGO Football 2"
           ]
         },
         {
@@ -1714,6 +1557,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Матч! Футбол 1"
+          ]
+        },
+        {
           "paese": "Saint Barthelemy",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1757,6 +1606,12 @@
           "paese": "Slovacchia",
           "canali": [
             "Sport 1 SK"
+          ]
+        },
+        {
+          "paese": "Slovenia",
+          "canali": [
+            "Arena Sport 1 Premium"
           ]
         },
         {
@@ -1851,6 +1706,12 @@
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Ucraina",
+          "canali": [
+            "MEGOGO Football 2"
           ]
         },
         {
@@ -2445,6 +2306,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Матч! Футбол 1"
+          ]
+        },
+        {
           "paese": "Saint Barthelemy",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2491,6 +2358,12 @@
           "paese": "Slovacchia",
           "canali": [
             "Sport 1 SK"
+          ]
+        },
+        {
+          "paese": "Slovenia",
+          "canali": [
+            "Arena Sport 3 Slovenia"
           ]
         },
         {
@@ -2588,6 +2461,12 @@
           ]
         },
         {
+          "paese": "Ucraina",
+          "canali": [
+            "MEGOGO Football 3"
+          ]
+        },
+        {
           "paese": "Emirati Arabi Uniti",
           "canali": [
             "STARZPLAY",
@@ -2639,28 +2518,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie A",
@@ -3177,6 +3035,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Матч! Футбол 1"
+          ]
+        },
+        {
           "paese": "Saint Barthelemy",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3308,6 +3172,12 @@
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Ucraina",
+          "canali": [
+            "MEGOGO Football 2"
           ]
         },
         {
@@ -3864,6 +3734,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Матч! Футбол 1"
+          ]
+        },
+        {
           "paese": "Saint Barthelemy",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3995,6 +3871,12 @@
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Ucraina",
+          "canali": [
+            "MEGOGO Football 3"
           ]
         },
         {
