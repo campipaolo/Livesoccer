@@ -1,184 +1,16 @@
 {
-  "aggiornato": "2026-10-04T07:55:28+02:00",
+  "aggiornato": "2026-10-04T12:59:55+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 231,
+  "totale": 229,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 24,
+      "totale": 21,
       "eventi": [
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 6a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "6a giornata",
-          "inizio": "2026-10-04T05:00:00+02:00",
-          "data": "04/10/2026",
-          "ora": "05:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T05:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-04T05:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] Moto2 e Moto3: M2 - Japanese GP - Race",
-          "categoria": "Motori",
-          "sottocartella": "Moto2 e Moto3",
-          "sport": "Motori",
-          "competizione": "Moto2 e Moto3",
-          "evento": "M2 - Japanese GP - Race",
-          "sessione": "gara",
-          "circuito": "Twin Ring Motegi, 120-1 Hiyama, Motegi, Haga District, Tochigi 321-3533, Giappone",
-          "inizio": "2026-10-04T05:15:00+02:00",
-          "data": "04/10/2026",
-          "ora": "05:15",
-          "canali": [
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "differita",
-              "orario": "2026-10-04T10:45",
-              "programma": "GP Giappone: Gara",
-              "fonte": "tv8"
-            }
-          ],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-04T06:00:00+02:00",
-          "data": "04/10/2026",
-          "ora": "06:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T06:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-04T07:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Grand Prix of Japan - Gara",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Grand Prix of Japan - Gara",
-          "sessione": "gara",
-          "circuito": "Mobility Resort Motegi, Motegi, Japan",
-          "inizio": "2026-10-04T07:00:00+02:00",
-          "data": "04/10/2026",
-          "ora": "07:00",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-04T07:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T07:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "differita",
-              "orario": "2026-10-04T13:50",
-              "fonte": "config+tv8"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Motori] Formula 1: Bahrain Grand Prix in Malaysia - Gara",
-          "categoria": "Motori",
-          "sottocartella": "Formula 1",
-          "sport": "Motori",
-          "competizione": "Formula 1",
-          "evento": "Bahrain Grand Prix in Malaysia - Gara",
-          "sessione": "gara",
-          "circuito": "Sepang International Circuit, Kuala Lumpur, Malaysia",
-          "inizio": "2026-10-04T09:00:00+02:00",
-          "data": "04/10/2026",
-          "ora": "09:00",
-          "canali": [
-            {
-              "nome": "Sky Sport F1",
-              "numero": "207",
-              "tipo": "diretta",
-              "orario": "2026-10-04T09:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-04T09:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-04T09:00",
-              "fonte": "config"
-            },
-            {
-              "nome": "Sky Sport 4K",
-              "numero": "213",
-              "tipo": "diretta",
-              "orario": "2026-10-04T09:00",
-              "fonte": "config"
-            },
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "differita",
-              "orario": "2026-10-04T16:35",
-              "fonte": "config+tv8"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
         {
           "titolo": "[Motori] GT World Challenge Europe: R9 Barcellona - Quali 2",
           "categoria": "Motori",
@@ -494,7 +326,77 @@
               "fonte": "livesoccer"
             }
           ],
-          "canali_mondo": [],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 254",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 254",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Pianese vs Ravenna",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Pianese vs Ravenna",
+          "inizio": "2026-10-04T14:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "14:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 252",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T14:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -553,6 +455,68 @@
           "ora": "16:00",
           "canali": [],
           "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Dolomiti Bellunesi vs Novara",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Dolomiti Bellunesi vs Novara",
+          "inizio": "2026-10-04T17:30:00+02:00",
+          "data": "04/10/2026",
+          "ora": "17:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 252",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T17:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T17:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-04T17:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-04T17:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "Sky Sport Arena",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "Sky Sport Arena",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
         },
         {
           "titolo": "[Calcio] Serie C: Monopoli-Savoia",
@@ -761,63 +725,12 @@
     },
     {
       "nome": "Motori",
-      "totale": 133,
+      "totale": 130,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 31,
+          "totale": 30,
           "eventi": [
-            {
-              "titolo": "Formula 1: Bahrain Grand Prix in Malaysia - Gara",
-              "categoria": "Motori",
-              "sottocartella": "Formula 1",
-              "sport": "Motori",
-              "competizione": "Formula 1",
-              "evento": "Bahrain Grand Prix in Malaysia - Gara",
-              "sessione": "gara",
-              "circuito": "Sepang International Circuit, Kuala Lumpur, Malaysia",
-              "inizio": "2026-10-04T09:00:00+02:00",
-              "data": "04/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport F1",
-                  "numero": "207",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T09:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T09:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T09:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "Sky Sport 4K",
-                  "numero": "213",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T09:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-10-04T16:35",
-                  "fonte": "config+tv8"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "Formula 1: Singapore Grand Prix - FP1",
               "categoria": "Motori",
@@ -2393,45 +2306,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 49,
+          "totale": 48,
           "eventi": [
-            {
-              "titolo": "MotoGP: Grand Prix of Japan - Gara",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Grand Prix of Japan - Gara",
-              "sessione": "gara",
-              "circuito": "Mobility Resort Motegi, Motegi, Japan",
-              "inizio": "2026-10-04T07:00:00+02:00",
-              "data": "04/10/2026",
-              "ora": "07:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T07:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-04T07:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-10-04T13:50",
-                  "fonte": "config+tv8"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Grand Prix of Indonesia - Prove libere",
               "categoria": "Motori",
@@ -3974,32 +3850,8 @@
         },
         {
           "nome": "Moto2 e Moto3",
-          "totale": 24,
+          "totale": 23,
           "eventi": [
-            {
-              "titolo": "Moto2 e Moto3: M2 - Japanese GP - Race",
-              "categoria": "Motori",
-              "sottocartella": "Moto2 e Moto3",
-              "sport": "Motori",
-              "competizione": "Moto2 e Moto3",
-              "evento": "M2 - Japanese GP - Race",
-              "sessione": "gara",
-              "circuito": "Twin Ring Motegi, 120-1 Hiyama, Motegi, Haga District, Tochigi 321-3533, Giappone",
-              "inizio": "2026-10-04T05:15:00+02:00",
-              "data": "04/10/2026",
-              "ora": "05:15",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-10-04T10:45",
-                  "programma": "GP Giappone: Gara",
-                  "fonte": "tv8"
-                }
-              ],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "Moto2 e Moto3: M3 - Indonesian GP - Quali",
               "categoria": "Motori",
@@ -4717,7 +4569,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 47,
+      "totale": 50,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4807,6 +4659,12 @@
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Australia",
+                  "canali": [
+                    "beIN SPORTS 2"
                   ]
                 },
                 {
@@ -5040,7 +4898,8 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "beIN SPORTS MAX Hong Kong"
                   ]
                 },
                 {
@@ -5553,6 +5412,12 @@
                   ]
                 },
                 {
+                  "paese": "Australia",
+                  "canali": [
+                    "beIN SPORTS 2"
+                  ]
+                },
+                {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
@@ -5786,7 +5651,9 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
-                    "M Plus Live"
+                    "beIN Sports 1 Hong Kong",
+                    "M Plus Live",
+                    "beIN SPORTS MAX Hong Kong"
                   ]
                 },
                 {
@@ -6333,6 +6200,12 @@
                   ]
                 },
                 {
+                  "paese": "Australia",
+                  "canali": [
+                    "beIN SPORTS 2"
+                  ]
+                },
+                {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
@@ -6560,6 +6433,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "beIN Sports 1 Hong Kong",
                     "M Plus Live"
                   ]
                 },
@@ -6781,6 +6655,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Portogallo",
+                  "canali": [
+                    "Sport TV5"
                   ]
                 },
                 {
@@ -8403,7 +8283,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 7,
+          "totale": 8,
           "eventi": [
             {
               "titolo": "Serie B: Avellino vs Sampdoria",
@@ -8715,12 +8595,62 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Avellino vs Sampdoria",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Avellino vs Sampdoria",
+              "inizio": "2026-10-11T00:00:00+02:00",
+              "data": "11/10/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-11T00:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T00:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
             }
           ]
         },
         {
           "nome": "Serie C",
-          "totale": 9,
+          "totale": 11,
           "eventi": [
             {
               "titolo": "Serie C: Lecco vs Union Brescia",
@@ -8994,7 +8924,139 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 254",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 254",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Pianese vs Ravenna",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Pianese vs Ravenna",
+              "inizio": "2026-10-04T14:30:00+02:00",
+              "data": "04/10/2026",
+              "ora": "14:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 252",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T14:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T14:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T14:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 252",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 252",
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Dolomiti Bellunesi vs Novara",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Dolomiti Bellunesi vs Novara",
+              "inizio": "2026-10-04T17:30:00+02:00",
+              "data": "04/10/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 252",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T17:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T17:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-04T17:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-04T17:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 252",
+                    "SKY Go Italia",
+                    "Sky Sport Arena",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 252",
+                    "SKY Go Italia",
+                    "Sky Sport Arena",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9726,40 +9788,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 29,
+      "totale": 27,
       "sottocartelle": [
         {
           "nome": "WTA 1000 Pechino",
-          "totale": 13,
+          "totale": 12,
           "eventi": [
-            {
-              "titolo": "WTA 1000 Pechino: 6a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "6a giornata",
-              "inizio": "2026-10-04T05:00:00+02:00",
-              "data": "04/10/2026",
-              "ora": "05:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T05:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T05:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "WTA 1000 Pechino: 7a giornata",
               "categoria": "Tennis",
@@ -10043,61 +10077,6 @@
           ]
         },
         {
-          "nome": "ATP & WTA",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-04T06:00:00+02:00",
-              "data": "04/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-04T07:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-06T15:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "ATP 500 Pechino",
           "totale": 3,
           "eventi": [
@@ -10249,6 +10228,33 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-06T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP & WTA",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-06T15:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T15:00",
                   "fonte": "virgilio"
                 }
               ],
