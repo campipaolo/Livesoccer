@@ -2,189 +2,6 @@
   "eventi": [
     {
       "competizione": "Serie C",
-      "titolo": "Lecco vs Union Brescia",
-      "data": "2026-10-04",
-      "ora": "12:30",
-      "canali": [
-        "Sky Sport 256",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Treviso vs Giana Erminio",
-      "data": "2026-10-04",
-      "ora": "12:30",
-      "canali": [
-        "Sky Sport 257",
-        "SKY Go Italia",
-        "NOW TV",
-        "Sky Sport Mix"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 257",
-            "SKY Go Italia",
-            "NOW TV",
-            "Sky Sport Mix"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 257",
-            "SKY Go Italia",
-            "NOW TV",
-            "Sky Sport Mix"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Campobasso vs Sassari Torres",
-      "data": "2026-10-04",
-      "ora": "14:30",
-      "canali": [
-        "Sky Sport 253",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Cosenza vs Foggia",
-      "data": "2026-10-04",
-      "ora": "14:30",
-      "canali": [
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Nuova Monterosi vs Pineto",
-      "data": "2026-10-04",
-      "ora": "14:30",
-      "canali": [
-        "Sky Sport 254",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 254",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Pianese vs Ravenna",
-      "data": "2026-10-04",
-      "ora": "14:30",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie C",
       "titolo": "Dolomiti Bellunesi vs Novara",
       "data": "2026-10-04",
       "ora": "17:30",
@@ -211,6 +28,185 @@
             "SKY Go Italia",
             "Sky Sport Arena",
             "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Reggiana vs Spezia",
+      "data": "2026-10-04",
+      "ora": "17:30",
+      "canali": [
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "Sky Sport Calcio",
+        "NOW TV"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Alcione vs Trento",
+      "data": "2026-10-04",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 255",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 255",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Audace Cerignola vs Team Altamura",
+      "data": "2026-10-04",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 254",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 254",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 254",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Latina vs Ostia Mare Lidocalcio",
+      "data": "2026-10-04",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Potenza Calcio vs Picerno",
+      "data": "2026-10-04",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "NOW TV",
+        "Sky Sport Mix",
+        "Antenna Sud"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV",
+            "Sky Sport Mix",
+            "Antenna Sud"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV",
+            "Sky Sport Mix"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Salernitana vs Bari 1908",
+      "data": "2026-10-04",
+      "ora": "20:30",
+      "canali": [
+        "Sky Sport 251",
+        "RAI Sport 1",
+        "SKY Go Italia",
+        "RaiPlay",
+        "Sky Sport Uno",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 251",
+            "RAI Sport 1",
+            "SKY Go Italia",
+            "RaiPlay",
+            "Sky Sport Uno",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 251",
+            "RAI Sport 1",
+            "SKY Go Italia",
+            "RaiPlay",
+            "Sky Sport Uno",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "RAI Sport 1",
+            "Sunrise TV"
           ]
         }
       ]
