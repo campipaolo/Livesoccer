@@ -1,58 +1,16 @@
 {
-  "aggiornato": "2026-10-05T03:44:28+02:00",
+  "aggiornato": "2026-10-05T10:32:47+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 228,
+  "totale": 230,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 12,
+      "totale": 10,
       "eventi": [
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 7a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "7a giornata",
-          "inizio": "2026-10-05T05:00:00+02:00",
-          "data": "05/10/2026",
-          "ora": "05:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-05T05:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "WTA 1000 Pechino",
-          "inizio": "2026-10-05T06:00:00+02:00",
-          "data": "05/10/2026",
-          "ora": "06:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-05T06:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP 500 Pechino: 1a Semifinale",
           "categoria": "Tennis",
@@ -288,11 +246,11 @@
     },
     {
       "nome": "Motori",
-      "totale": 128,
+      "totale": 129,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 30,
+          "totale": 31,
           "eventi": [
             {
               "titolo": "Formula 1: Singapore Grand Prix - FP1",
@@ -1711,6 +1669,50 @@
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
+            },
+            {
+              "titolo": "Formula 1: Abu Dhabi Grand Prix - FP1",
+              "categoria": "Motori",
+              "sottocartella": "Formula 1",
+              "sport": "Motori",
+              "competizione": "Formula 1",
+              "evento": "Abu Dhabi Grand Prix - FP1",
+              "sessione": "prove",
+              "circuito": "Yas Marina Circuit, Abu Dhabi, UAE",
+              "inizio": "2026-12-04T10:30:00+01:00",
+              "data": "04/12/2026",
+              "ora": "10:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport F1",
+                  "numero": "207",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T10:30",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "NOW",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-12-04T10:30",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T10:30",
+                  "fonte": "config"
+                },
+                {
+                  "nome": "Sky Sport 4K",
+                  "numero": "213",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T10:30",
+                  "fonte": "config"
+                }
+              ],
+              "fonte": "Dizzle0987/motorsport-calendar"
             }
           ]
         },
@@ -2225,6 +2227,14 @@
                   "tipo": "streaming",
                   "orario": "2026-10-24T01:50",
                   "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T01:50",
+                  "programma": "GP Australia: Qualifiche",
+                  "fonte": "tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -2255,6 +2265,14 @@
                   "tipo": "streaming",
                   "orario": "2026-10-24T02:15",
                   "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T01:50",
+                  "programma": "GP Australia: Qualifiche",
+                  "fonte": "tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -2289,9 +2307,10 @@
                 {
                   "nome": "TV8",
                   "numero": "8",
-                  "tipo": "differita",
-                  "orario": "",
-                  "fonte": "config"
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T06:00",
+                  "fonte": "tv8",
+                  "programma": "GP Australia: Sprint Race"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -2357,8 +2376,8 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "",
-                  "fonte": "config"
+                  "orario": "2026-10-25T11:00",
+                  "fonte": "config+tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -3457,7 +3476,16 @@
               "inizio": "2026-10-24T03:50:00+02:00",
               "data": "24/10/2026",
               "ora": "03:50",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "2026-10-24T04:45",
+                  "programma": "GP Australia: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -3472,7 +3500,16 @@
               "inizio": "2026-10-24T04:45:00+02:00",
               "data": "24/10/2026",
               "ora": "04:45",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T04:45",
+                  "programma": "GP Australia: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -4102,7 +4139,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 50,
+      "totale": 53,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4189,6 +4226,12 @@
                   ]
                 },
                 {
+                  "paese": "Armenia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -4197,13 +4240,20 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
+                  ]
+                },
+                {
+                  "paese": "Azerbaigian",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -4225,6 +4275,12 @@
                   "paese": "Barbados",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -4388,6 +4444,12 @@
                   ]
                 },
                 {
+                  "paese": "Georgia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Germania",
                   "canali": [
                     "DAZN Deutschland"
@@ -4497,6 +4559,12 @@
                   ]
                 },
                 {
+                  "paese": "Kazakistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -4509,6 +4577,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Kirghizistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -4570,6 +4644,12 @@
                   ]
                 },
                 {
+                  "paese": "Moldavia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Monaco",
                   "canali": [
                     "DAZN France"
@@ -4593,6 +4673,13 @@
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Paesi Bassi",
+                  "canali": [
+                    "Ziggo Go",
+                    "Ziggo Sport 2"
                   ]
                 },
                 {
@@ -4676,9 +4763,18 @@
                   ]
                 },
                 {
+                  "paese": "Romania",
+                  "canali": [
+                    "Digi Sport 3 Romania",
+                    "Digi Online"
+                  ]
+                },
+                {
                   "paese": "Russia",
                   "canali": [
-                    "Матч! Футбол 1"
+                    "Sportbox.ru",
+                    "Матч! Футбол 1",
+                    "matchtv.ru"
                   ]
                 },
                 {
@@ -4802,6 +4898,12 @@
                   ]
                 },
                 {
+                  "paese": "Tajikistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -4823,6 +4925,12 @@
                   ]
                 },
                 {
+                  "paese": "Turkmenistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "U.S. Virgin Islands",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -4831,6 +4939,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -4853,6 +4962,12 @@
                   "canali": [
                     "Paramount+",
                     "Peacock"
+                  ]
+                },
+                {
+                  "paese": "Uzbekistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -4959,6 +5074,12 @@
                   ]
                 },
                 {
+                  "paese": "Armenia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -4967,13 +5088,20 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
+                  ]
+                },
+                {
+                  "paese": "Azerbaigian",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -4995,6 +5123,12 @@
                   "paese": "Barbados",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -5024,6 +5158,7 @@
                 {
                   "paese": "Brasile",
                   "canali": [
+                    "ESPN4 Brazil",
                     "Disney+ Premium Brazil"
                   ]
                 },
@@ -5161,6 +5296,12 @@
                   ]
                 },
                 {
+                  "paese": "Georgia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Germania",
                   "canali": [
                     "DAZN Deutschland"
@@ -5205,6 +5346,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "Now Player",
                     "beIN Sports 1 Hong Kong",
                     "M Plus Live",
                     "beIN SPORTS MAX Hong Kong"
@@ -5277,6 +5419,12 @@
                   ]
                 },
                 {
+                  "paese": "Kazakistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -5289,6 +5437,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Kirghizistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -5350,6 +5504,12 @@
                   ]
                 },
                 {
+                  "paese": "Moldavia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Monaco",
                   "canali": [
                     "DAZN France"
@@ -5373,6 +5533,13 @@
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Paesi Bassi",
+                  "canali": [
+                    "Ziggo Go",
+                    "Ziggo Sport 2"
                   ]
                 },
                 {
@@ -5458,9 +5625,18 @@
                   ]
                 },
                 {
+                  "paese": "Romania",
+                  "canali": [
+                    "Digi Sport 2 Romania",
+                    "Digi Online"
+                  ]
+                },
+                {
                   "paese": "Russia",
                   "canali": [
-                    "Матч! Футбол 1"
+                    "Sportbox.ru",
+                    "Матч! Футбол 1",
+                    "matchtv.ru"
                   ]
                 },
                 {
@@ -5584,6 +5760,12 @@
                   ]
                 },
                 {
+                  "paese": "Tajikistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5605,6 +5787,12 @@
                   ]
                 },
                 {
+                  "paese": "Turkmenistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "U.S. Virgin Islands",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5613,6 +5801,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -5639,6 +5828,12 @@
                     "Telemundo Deportes En Vivo",
                     "UNIVERSO",
                     "UNIVERSO NOW"
+                  ]
+                },
+                {
+                  "paese": "Uzbekistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -5773,6 +5968,12 @@
                   ]
                 },
                 {
+                  "paese": "Armenia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5781,13 +5982,20 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
+                  ]
+                },
+                {
+                  "paese": "Azerbaigian",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -5812,6 +6020,12 @@
                   ]
                 },
                 {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Belize",
                   "canali": [
                     "Nexgen"
@@ -5832,6 +6046,7 @@
                 {
                   "paese": "Brasile",
                   "canali": [
+                    "ESPN Brazil",
                     "Disney+ Premium Brazil"
                   ]
                 },
@@ -5969,6 +6184,12 @@
                   ]
                 },
                 {
+                  "paese": "Georgia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Germania",
                   "canali": [
                     "DAZN Deutschland"
@@ -6013,6 +6234,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "Now Player",
                     "beIN Sports 1 Hong Kong",
                     "M Plus Live"
                   ]
@@ -6087,6 +6309,12 @@
                   ]
                 },
                 {
+                  "paese": "Kazakistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -6099,6 +6327,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Kirghizistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -6160,6 +6394,12 @@
                   ]
                 },
                 {
+                  "paese": "Moldavia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Monaco",
                   "canali": [
                     "DAZN France"
@@ -6183,6 +6423,13 @@
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Paesi Bassi",
+                  "canali": [
+                    "Ziggo Go",
+                    "Ziggo Sport 2"
                   ]
                 },
                 {
@@ -6246,6 +6493,7 @@
                 {
                   "paese": "Portogallo",
                   "canali": [
+                    "Sport TV Multiscreen",
                     "Sport TV5"
                   ]
                 },
@@ -6265,9 +6513,18 @@
                   ]
                 },
                 {
+                  "paese": "Romania",
+                  "canali": [
+                    "Digi Online",
+                    "Digi Sport 4 Romania"
+                  ]
+                },
+                {
                   "paese": "Russia",
                   "canali": [
-                    "Матч! Футбол 1"
+                    "Sportbox.ru",
+                    "Матч! Футбол 1",
+                    "matchtv.ru"
                   ]
                 },
                 {
@@ -6394,6 +6651,12 @@
                   ]
                 },
                 {
+                  "paese": "Tajikistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6415,6 +6678,12 @@
                   ]
                 },
                 {
+                  "paese": "Turkmenistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "U.S. Virgin Islands",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6423,6 +6692,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 3"
                   ]
                 },
@@ -6445,6 +6715,12 @@
                   "canali": [
                     "Paramount+",
                     "Peacock"
+                  ]
+                },
+                {
+                  "paese": "Uzbekistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -6550,15 +6826,33 @@
                   ]
                 },
                 {
+                  "paese": "Armenia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
                   ]
                 },
                 {
+                  "paese": "Australia",
+                  "canali": [
+                    "beIN SPORTS 2"
+                  ]
+                },
+                {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
+                  ]
+                },
+                {
+                  "paese": "Azerbaigian",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -6583,6 +6877,12 @@
                   ]
                 },
                 {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Belize",
                   "canali": [
                     "Nexgen"
@@ -6603,6 +6903,7 @@
                 {
                   "paese": "Brasile",
                   "canali": [
+                    "ESPN Brazil",
                     "Disney+ Premium Brazil"
                   ]
                 },
@@ -6720,7 +7021,14 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 2",
                     "MTV Katsomo"
+                  ]
+                },
+                {
+                  "paese": "Georgia",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -6770,6 +7078,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "beIN Sports 3 Hong Kong",
                     "M Plus Live"
                   ]
                 },
@@ -6842,6 +7151,12 @@
                   ]
                 },
                 {
+                  "paese": "Kazakistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -6854,6 +7169,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Kirghizistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -6915,6 +7236,12 @@
                   ]
                 },
                 {
+                  "paese": "Moldavia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Montserrat",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6932,6 +7259,13 @@
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Paesi Bassi",
+                  "canali": [
+                    "Ziggo Go",
+                    "Ziggo Sport"
                   ]
                 },
                 {
@@ -7018,7 +7352,9 @@
                 {
                   "paese": "Russia",
                   "canali": [
-                    "Матч! Футбол 1"
+                    "Sportbox.ru",
+                    "Матч! Футбол 1",
+                    "matchtv.ru"
                   ]
                 },
                 {
@@ -7130,6 +7466,12 @@
                   ]
                 },
                 {
+                  "paese": "Tajikistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7151,6 +7493,12 @@
                   ]
                 },
                 {
+                  "paese": "Turkmenistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "U.S. Virgin Islands",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7159,6 +7507,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -7183,6 +7532,12 @@
                     "Paramount+",
                     "fuboTV",
                     "Telemundo Deportes Ahora"
+                  ]
+                },
+                {
+                  "paese": "Uzbekistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -7288,15 +7643,33 @@
                   ]
                 },
                 {
+                  "paese": "Armenia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
                   ]
                 },
                 {
+                  "paese": "Australia",
+                  "canali": [
+                    "beIN SPORTS 2"
+                  ]
+                },
+                {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
+                  ]
+                },
+                {
+                  "paese": "Azerbaigian",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -7318,6 +7691,12 @@
                   "paese": "Barbados",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -7347,6 +7726,7 @@
                 {
                   "paese": "Brasile",
                   "canali": [
+                    "ESPN4 Brazil",
                     "Disney+ Premium Brazil"
                   ]
                 },
@@ -7464,7 +7844,14 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 2",
                     "MTV Katsomo"
+                  ]
+                },
+                {
+                  "paese": "Georgia",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -7512,6 +7899,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "beIN Sports 3 Hong Kong",
                     "M Plus Live"
                   ]
                 },
@@ -7576,6 +7964,12 @@
                   ]
                 },
                 {
+                  "paese": "Kazakistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -7588,6 +7982,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Kirghizistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -7649,6 +8049,12 @@
                   ]
                 },
                 {
+                  "paese": "Moldavia",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Montserrat",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7666,6 +8072,13 @@
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Paesi Bassi",
+                  "canali": [
+                    "Ziggo Go",
+                    "Ziggo Sport"
                   ]
                 },
                 {
@@ -7742,9 +8155,18 @@
                   ]
                 },
                 {
+                  "paese": "Romania",
+                  "canali": [
+                    "Digi Sport 3 Romania",
+                    "Digi Online"
+                  ]
+                },
+                {
                   "paese": "Russia",
                   "canali": [
-                    "Матч! Футбол 1"
+                    "Sportbox.ru",
+                    "Матч! Футбол 1",
+                    "matchtv.ru"
                   ]
                 },
                 {
@@ -7855,6 +8277,12 @@
                   ]
                 },
                 {
+                  "paese": "Tajikistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7876,6 +8304,12 @@
                   ]
                 },
                 {
+                  "paese": "Turkmenistan",
+                  "canali": [
+                    "Q League"
+                  ]
+                },
+                {
                   "paese": "U.S. Virgin Islands",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7884,6 +8318,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 3"
                   ]
                 },
@@ -7906,6 +8341,12 @@
                   "canali": [
                     "Paramount+",
                     "Peacock"
+                  ]
+                },
+                {
+                  "paese": "Uzbekistan",
+                  "canali": [
+                    "Q League"
                   ]
                 },
                 {
@@ -8012,7 +8453,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 11,
+          "totale": 14,
           "eventi": [
             {
               "titolo": "Serie B: Avellino vs Sampdoria",
@@ -8049,10 +8490,28 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
                     "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -8071,7 +8530,8 @@
                 {
                   "paese": "Serbia",
                   "canali": [
-                    "Arena Sport 6 Serbia"
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
                   ]
                 }
               ],
@@ -8359,10 +8819,28 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
                     "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -8381,7 +8859,8 @@
                 {
                   "paese": "Serbia",
                   "canali": [
-                    "Arena Sport 6 Serbia"
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
                   ]
                 }
               ],
@@ -8449,6 +8928,93 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Empoli vs Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Empoli vs Palermo",
+              "inizio": "2026-10-12T03:30:00+02:00",
+              "data": "12/10/2026",
+              "ora": "03:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-12T03:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T03:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Modena vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Modena vs Verona",
+              "inizio": "2026-10-12T05:30:00+02:00",
+              "data": "12/10/2026",
+              "ora": "05:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-12T05:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T05:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Avellino vs Sampdoria",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Avellino vs Sampdoria",
+              "inizio": "2026-10-12T07:30:00+02:00",
+              "data": "12/10/2026",
+              "ora": "07:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-12T07:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T07:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
             }
           ]
         },
@@ -8621,7 +9187,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9299,54 +9880,171 @@
     },
     {
       "nome": "Tennis",
-      "totale": 31,
+      "totale": 29,
       "sottocartelle": [
         {
-          "nome": "WTA 1000 Pechino",
-          "totale": 13,
+          "nome": "ATP 500 Pechino",
+          "totale": 3,
           "eventi": [
             {
-              "titolo": "WTA 1000 Pechino: 7a giornata",
+              "titolo": "ATP 500 Pechino: 1a Semifinale",
               "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
+              "sottocartella": "ATP 500 Pechino",
               "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "7a giornata",
-              "inizio": "2026-10-05T05:00:00+02:00",
+              "competizione": "ATP 500 Pechino",
+              "evento": "1a Semifinale",
+              "inizio": "2026-10-05T09:00:00+02:00",
               "data": "05/10/2026",
-              "ora": "05:00",
+              "ora": "09:00",
               "canali": [
                 {
                   "nome": "Sky Sport Tennis",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-05T05:00",
+                  "orario": "2026-10-05T09:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "WTA 1000 Pechino",
+              "titolo": "ATP 500 Pechino: 2a Semifinale",
               "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
+              "sottocartella": "ATP 500 Pechino",
               "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "WTA 1000 Pechino",
-              "inizio": "2026-10-05T06:00:00+02:00",
+              "competizione": "ATP 500 Pechino",
+              "evento": "2a Semifinale",
+              "inizio": "2026-10-05T13:00:00+02:00",
               "data": "05/10/2026",
-              "ora": "06:00",
+              "ora": "13:00",
               "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-05T13:00",
+                  "fonte": "virgilio"
+                },
                 {
                   "nome": "Sky Sport Tennis",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-05T06:00",
+                  "orario": "2026-10-05T13:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "ATP 500 Pechino: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 500 Pechino",
+              "sport": "Tennis",
+              "competizione": "ATP 500 Pechino",
+              "evento": "Finale",
+              "inizio": "2026-10-06T13:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T13:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP 500 Tokyo",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "ATP 500 Tokyo: 1a Semifinale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 500 Tokyo",
+              "sport": "Tennis",
+              "competizione": "ATP 500 Tokyo",
+              "evento": "1a Semifinale",
+              "inizio": "2026-10-05T09:00:00+02:00",
+              "data": "05/10/2026",
+              "ora": "09:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-05T09:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP 500 Tokyo: 2a Semifinale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 500 Tokyo",
+              "sport": "Tennis",
+              "competizione": "ATP 500 Tokyo",
+              "evento": "2a Semifinale",
+              "inizio": "2026-10-05T11:00:00+02:00",
+              "data": "05/10/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-05T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP 500 Tokyo: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 500 Tokyo",
+              "sport": "Tennis",
+              "competizione": "ATP 500 Tokyo",
+              "evento": "Finale",
+              "inizio": "2026-10-06T11:00:00+02:00",
+              "data": "06/10/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T11:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "WTA 1000 Pechino",
+          "totale": 11,
+          "eventi": [
             {
               "titolo": "WTA 1000 Pechino: 6a giornata",
               "categoria": "Tennis",
@@ -9601,165 +10299,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-11T13:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP 500 Pechino",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "ATP 500 Pechino: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Pechino",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Pechino",
-              "evento": "1a Semifinale",
-              "inizio": "2026-10-05T09:00:00+02:00",
-              "data": "05/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 500 Pechino: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Pechino",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Pechino",
-              "evento": "2a Semifinale",
-              "inizio": "2026-10-05T13:00:00+02:00",
-              "data": "05/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 500 Pechino: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Pechino",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Pechino",
-              "evento": "Finale",
-              "inizio": "2026-10-06T13:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP 500 Tokyo",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "ATP 500 Tokyo: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Tokyo",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Tokyo",
-              "evento": "1a Semifinale",
-              "inizio": "2026-10-05T09:00:00+02:00",
-              "data": "05/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 500 Tokyo: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Tokyo",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Tokyo",
-              "evento": "2a Semifinale",
-              "inizio": "2026-10-05T11:00:00+02:00",
-              "data": "05/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 500 Tokyo: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Tokyo",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Tokyo",
-              "evento": "Finale",
-              "inizio": "2026-10-06T11:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T11:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T11:00",
                   "fonte": "virgilio"
                 }
               ],
