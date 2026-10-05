@@ -11,9 +11,21 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
+          ]
+        },
+        {
           "paese": "Brasile",
           "canali": [
             "SportyNet"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Stars"
           ]
         },
         {
@@ -326,6 +338,12 @@
           ]
         },
         {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
+          ]
+        },
+        {
           "paese": "Brasile",
           "canali": [
             "Disney+ Premium Brazil"
@@ -369,6 +387,12 @@
           "paese": "Cile",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -550,6 +574,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "Sport 6"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -634,6 +664,12 @@
           "paese": "Maldive",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Malta",
+          "canali": [
+            "TSN3 Malta"
           ]
         },
         {
@@ -756,6 +792,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 3 Poland"
           ]
         },
         {
@@ -922,6 +964,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1046,6 +1094,18 @@
         "LAB Channel"
       ],
       "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Plus"
+          ]
+        },
         {
           "paese": "Italia",
           "canali": [
@@ -1261,6 +1321,12 @@
           ]
         },
         {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
+          ]
+        },
+        {
           "paese": "Brasile",
           "canali": [
             "ESPN4 Brazil",
@@ -1307,6 +1373,12 @@
           "paese": "Cile",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -1584,6 +1656,12 @@
           ]
         },
         {
+          "paese": "Malta",
+          "canali": [
+            "TSN3 Malta"
+          ]
+        },
+        {
           "paese": "Martinica",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1703,6 +1781,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 1 Poland"
           ]
         },
         {
@@ -1868,6 +1952,12 @@
           "paese": "Tajikistan",
           "canali": [
             "Q League"
+          ]
+        },
+        {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
           ]
         },
         {
@@ -2099,6 +2189,12 @@
           ]
         },
         {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
+          ]
+        },
+        {
           "paese": "Brasile",
           "canali": [
             "ESPN Brazil",
@@ -2145,6 +2241,12 @@
           "paese": "Cile",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "ELTA Sports 1"
           ]
         },
         {
@@ -2334,6 +2436,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "Sport 4"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -2421,6 +2529,12 @@
           "paese": "Maldive",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Malta",
+          "canali": [
+            "TSN3 Malta"
           ]
         },
         {
@@ -2543,6 +2657,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 1 Poland"
           ]
         },
         {
@@ -2712,6 +2832,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2809,53 +2935,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 6 Serbia",
-            "Arena Cloud"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie A",
@@ -2988,6 +3068,12 @@
           ]
         },
         {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
+          ]
+        },
+        {
           "paese": "Brasile",
           "canali": [
             "ESPN Brazil",
@@ -3032,6 +3118,12 @@
           "paese": "Cile",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -3298,6 +3390,12 @@
           ]
         },
         {
+          "paese": "Malta",
+          "canali": [
+            "TSN3 Malta"
+          ]
+        },
+        {
           "paese": "Martinica",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3411,6 +3509,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 2 Poland"
           ]
         },
         {
@@ -3556,6 +3660,12 @@
           "paese": "Tajikistan",
           "canali": [
             "Q League"
+          ]
+        },
+        {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
           ]
         },
         {
@@ -3786,6 +3896,12 @@
           ]
         },
         {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
+          ]
+        },
+        {
           "paese": "Brasile",
           "canali": [
             "ESPN4 Brazil",
@@ -3830,6 +3946,12 @@
           "paese": "Cile",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -3999,6 +4121,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "Sport 2"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -4083,6 +4211,12 @@
           "paese": "Maldive",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Malta",
+          "canali": [
+            "TSN3 Malta"
           ]
         },
         {
@@ -4199,6 +4333,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 2 Poland"
           ]
         },
         {
@@ -4345,6 +4485,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -4442,7 +4588,42 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Plus"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
