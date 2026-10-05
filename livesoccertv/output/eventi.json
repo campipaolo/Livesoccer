@@ -11,10 +11,28 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
             "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
           ]
         },
         {
@@ -33,7 +51,8 @@
         {
           "paese": "Serbia",
           "canali": [
-            "Arena Sport 6 Serbia"
+            "Arena Sport 6 Serbia",
+            "Arena Cloud"
           ]
         }
       ]
@@ -125,7 +144,22 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie C",
@@ -210,6 +244,12 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -218,13 +258,20 @@
         {
           "paese": "Australia",
           "canali": [
-            "beIN SPORTS 2"
+            "beIN SPORTS 2",
+            "beIN Sports Connect"
           ]
         },
         {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
+          ]
+        },
+        {
+          "paese": "Azerbaigian",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -246,6 +293,12 @@
           "paese": "Barbados",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Bielorussia",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -409,6 +462,12 @@
           ]
         },
         {
+          "paese": "Georgia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Germania",
           "canali": [
             "DAZN Deutschland"
@@ -518,6 +577,12 @@
           ]
         },
         {
+          "paese": "Kazakistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
@@ -530,6 +595,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kirghizistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -591,6 +662,12 @@
           ]
         },
         {
+          "paese": "Moldavia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Monaco",
           "canali": [
             "DAZN France"
@@ -614,6 +691,13 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Go",
+            "Ziggo Sport 2"
           ]
         },
         {
@@ -697,9 +781,18 @@
           ]
         },
         {
+          "paese": "Romania",
+          "canali": [
+            "Digi Sport 3 Romania",
+            "Digi Online"
+          ]
+        },
+        {
           "paese": "Russia",
           "canali": [
-            "Матч! Футбол 1"
+            "Sportbox.ru",
+            "Матч! Футбол 1",
+            "matchtv.ru"
           ]
         },
         {
@@ -823,6 +916,12 @@
           ]
         },
         {
+          "paese": "Tajikistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -844,6 +943,12 @@
           ]
         },
         {
+          "paese": "Turkmenistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -852,6 +957,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 2"
           ]
         },
@@ -874,6 +980,12 @@
           "canali": [
             "Paramount+",
             "Peacock"
+          ]
+        },
+        {
+          "paese": "Uzbekistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -1067,6 +1179,12 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1075,13 +1193,20 @@
         {
           "paese": "Australia",
           "canali": [
-            "beIN SPORTS 2"
+            "beIN SPORTS 2",
+            "beIN Sports Connect"
           ]
         },
         {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
+          ]
+        },
+        {
+          "paese": "Azerbaigian",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -1103,6 +1228,12 @@
           "paese": "Barbados",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Bielorussia",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -1132,6 +1263,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN4 Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -1269,6 +1401,12 @@
           ]
         },
         {
+          "paese": "Georgia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Germania",
           "canali": [
             "DAZN Deutschland"
@@ -1313,6 +1451,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "Now Player",
             "beIN Sports 1 Hong Kong",
             "M Plus Live",
             "beIN SPORTS MAX Hong Kong"
@@ -1385,6 +1524,12 @@
           ]
         },
         {
+          "paese": "Kazakistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
@@ -1397,6 +1542,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kirghizistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -1458,6 +1609,12 @@
           ]
         },
         {
+          "paese": "Moldavia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Monaco",
           "canali": [
             "DAZN France"
@@ -1481,6 +1638,13 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Go",
+            "Ziggo Sport 2"
           ]
         },
         {
@@ -1566,9 +1730,18 @@
           ]
         },
         {
+          "paese": "Romania",
+          "canali": [
+            "Digi Sport 2 Romania",
+            "Digi Online"
+          ]
+        },
+        {
           "paese": "Russia",
           "canali": [
-            "Матч! Футбол 1"
+            "Sportbox.ru",
+            "Матч! Футбол 1",
+            "matchtv.ru"
           ]
         },
         {
@@ -1692,6 +1865,12 @@
           ]
         },
         {
+          "paese": "Tajikistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1713,6 +1892,12 @@
           ]
         },
         {
+          "paese": "Turkmenistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1721,6 +1906,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 2"
           ]
         },
@@ -1747,6 +1933,12 @@
             "Telemundo Deportes En Vivo",
             "UNIVERSO",
             "UNIVERSO NOW"
+          ]
+        },
+        {
+          "paese": "Uzbekistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -1831,6 +2023,12 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1839,13 +2037,20 @@
         {
           "paese": "Australia",
           "canali": [
-            "beIN SPORTS 2"
+            "beIN SPORTS 2",
+            "beIN Sports Connect"
           ]
         },
         {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
+          ]
+        },
+        {
+          "paese": "Azerbaigian",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -1870,6 +2075,12 @@
           ]
         },
         {
+          "paese": "Bielorussia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Belize",
           "canali": [
             "Nexgen"
@@ -1890,6 +2101,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -2027,6 +2239,12 @@
           ]
         },
         {
+          "paese": "Georgia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Germania",
           "canali": [
             "DAZN Deutschland"
@@ -2071,6 +2289,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "Now Player",
             "beIN Sports 1 Hong Kong",
             "M Plus Live"
           ]
@@ -2145,6 +2364,12 @@
           ]
         },
         {
+          "paese": "Kazakistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
@@ -2157,6 +2382,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kirghizistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -2218,6 +2449,12 @@
           ]
         },
         {
+          "paese": "Moldavia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Monaco",
           "canali": [
             "DAZN France"
@@ -2241,6 +2478,13 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Go",
+            "Ziggo Sport 2"
           ]
         },
         {
@@ -2304,6 +2548,7 @@
         {
           "paese": "Portogallo",
           "canali": [
+            "Sport TV Multiscreen",
             "Sport TV5"
           ]
         },
@@ -2323,9 +2568,18 @@
           ]
         },
         {
+          "paese": "Romania",
+          "canali": [
+            "Digi Online",
+            "Digi Sport 4 Romania"
+          ]
+        },
+        {
           "paese": "Russia",
           "canali": [
-            "Матч! Футбол 1"
+            "Sportbox.ru",
+            "Матч! Футбол 1",
+            "matchtv.ru"
           ]
         },
         {
@@ -2452,6 +2706,12 @@
           ]
         },
         {
+          "paese": "Tajikistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2473,6 +2733,12 @@
           ]
         },
         {
+          "paese": "Turkmenistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2481,6 +2747,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 3"
           ]
         },
@@ -2503,6 +2770,12 @@
           "canali": [
             "Paramount+",
             "Peacock"
+          ]
+        },
+        {
+          "paese": "Uzbekistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -2538,10 +2811,28 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
             "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
           ]
         },
         {
@@ -2560,7 +2851,8 @@
         {
           "paese": "Serbia",
           "canali": [
-            "Arena Sport 6 Serbia"
+            "Arena Sport 6 Serbia",
+            "Arena Cloud"
           ]
         }
       ]
@@ -2621,15 +2913,33 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
           ]
         },
         {
+          "paese": "Australia",
+          "canali": [
+            "beIN SPORTS 2"
+          ]
+        },
+        {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
+          ]
+        },
+        {
+          "paese": "Azerbaigian",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -2654,6 +2964,12 @@
           ]
         },
         {
+          "paese": "Bielorussia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Belize",
           "canali": [
             "Nexgen"
@@ -2674,6 +2990,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -2791,7 +3108,14 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 2",
             "MTV Katsomo"
+          ]
+        },
+        {
+          "paese": "Georgia",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -2841,6 +3165,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "beIN Sports 3 Hong Kong",
             "M Plus Live"
           ]
         },
@@ -2913,6 +3238,12 @@
           ]
         },
         {
+          "paese": "Kazakistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
@@ -2925,6 +3256,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kirghizistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -2986,6 +3323,12 @@
           ]
         },
         {
+          "paese": "Moldavia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Montserrat",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3003,6 +3346,13 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Go",
+            "Ziggo Sport"
           ]
         },
         {
@@ -3089,7 +3439,9 @@
         {
           "paese": "Russia",
           "canali": [
-            "Матч! Футбол 1"
+            "Sportbox.ru",
+            "Матч! Футбол 1",
+            "matchtv.ru"
           ]
         },
         {
@@ -3201,6 +3553,12 @@
           ]
         },
         {
+          "paese": "Tajikistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3222,6 +3580,12 @@
           ]
         },
         {
+          "paese": "Turkmenistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3230,6 +3594,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 2"
           ]
         },
@@ -3254,6 +3619,12 @@
             "Paramount+",
             "fuboTV",
             "Telemundo Deportes Ahora"
+          ]
+        },
+        {
+          "paese": "Uzbekistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -3334,15 +3705,33 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
           ]
         },
         {
+          "paese": "Australia",
+          "canali": [
+            "beIN SPORTS 2"
+          ]
+        },
+        {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
+          ]
+        },
+        {
+          "paese": "Azerbaigian",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -3364,6 +3753,12 @@
           "paese": "Barbados",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Bielorussia",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -3393,6 +3788,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN4 Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -3510,7 +3906,14 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 2",
             "MTV Katsomo"
+          ]
+        },
+        {
+          "paese": "Georgia",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -3558,6 +3961,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "beIN Sports 3 Hong Kong",
             "M Plus Live"
           ]
         },
@@ -3622,6 +4026,12 @@
           ]
         },
         {
+          "paese": "Kazakistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
@@ -3634,6 +4044,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kirghizistan",
+          "canali": [
+            "Q League"
           ]
         },
         {
@@ -3695,6 +4111,12 @@
           ]
         },
         {
+          "paese": "Moldavia",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Montserrat",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3712,6 +4134,13 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Go",
+            "Ziggo Sport"
           ]
         },
         {
@@ -3788,9 +4217,18 @@
           ]
         },
         {
+          "paese": "Romania",
+          "canali": [
+            "Digi Sport 3 Romania",
+            "Digi Online"
+          ]
+        },
+        {
           "paese": "Russia",
           "canali": [
-            "Матч! Футбол 1"
+            "Sportbox.ru",
+            "Матч! Футбол 1",
+            "matchtv.ru"
           ]
         },
         {
@@ -3901,6 +4339,12 @@
           ]
         },
         {
+          "paese": "Tajikistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3922,6 +4366,12 @@
           ]
         },
         {
+          "paese": "Turkmenistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "U.S. Virgin Islands",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3930,6 +4380,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 3"
           ]
         },
@@ -3955,6 +4406,12 @@
           ]
         },
         {
+          "paese": "Uzbekistan",
+          "canali": [
+            "Q League"
+          ]
+        },
+        {
           "paese": "Venezuela",
           "canali": [
             "Disney+ Premium Sur"
@@ -3975,6 +4432,39 @@
           ]
         }
       ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Empoli vs Palermo",
+      "data": "2026-10-12",
+      "ora": "03:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Modena vs Verona",
+      "data": "2026-10-12",
+      "ora": "05:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Avellino vs Sampdoria",
+      "data": "2026-10-12",
+      "ora": "07:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
     }
   ]
 }
