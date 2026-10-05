@@ -680,7 +680,8 @@
           "paese": "Canada",
           "canali": [
             "DAZN Canada",
-            "fuboTV Canada"
+            "fuboTV Canada",
+            "Fubo Sports Network 2 Canada"
           ]
         },
         {
@@ -1189,7 +1190,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Sport Live 4"
           ]
         },
         {
@@ -1612,7 +1614,8 @@
             "DAZN Canada",
             "TLN",
             "fuboTV Canada",
-            "VIVA"
+            "VIVA",
+            "Fubo Sports Network 8 Canada"
           ]
         },
         {
@@ -1774,6 +1777,12 @@
             "beIN Sports 1 Hong Kong",
             "M Plus Live",
             "beIN SPORTS MAX Hong Kong"
+          ]
+        },
+        {
+          "paese": "Ungheria",
+          "canali": [
+            "Match4"
           ]
         },
         {
@@ -2125,7 +2134,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Fotball"
           ]
         },
         {
@@ -2389,7 +2399,8 @@
             "DAZN Canada",
             "TLN",
             "fuboTV Canada",
-            "VIVA"
+            "VIVA",
+            "Fubo Sports Network 9 Canada"
           ]
         },
         {
@@ -2550,6 +2561,12 @@
           "canali": [
             "beIN Sports 1 Hong Kong",
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Ungheria",
+          "canali": [
+            "Arena4"
           ]
         },
         {
@@ -2904,7 +2921,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Fotball"
           ]
         },
         {
@@ -3021,7 +3039,34 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 6 Serbia"
+          ]
+        }
+      ]
     },
     {
       "id": "5653931",
@@ -3166,7 +3211,8 @@
           "paese": "Canada",
           "canali": [
             "DAZN Canada",
-            "fuboTV Canada"
+            "fuboTV Canada",
+            "Fubo Sports Network Canada"
           ]
         },
         {
@@ -3314,6 +3360,12 @@
           "paese": "Hong Kong",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Ungheria",
+          "canali": [
+            "Match4"
           ]
         },
         {
@@ -3648,7 +3700,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Sport Live 1"
           ]
         },
         {
@@ -3892,7 +3945,8 @@
           "paese": "Canada",
           "canali": [
             "DAZN Canada",
-            "fuboTV Canada"
+            "fuboTV Canada",
+            "Fubo Sports Network 4 Canada"
           ]
         },
         {
