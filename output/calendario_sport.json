@@ -1,72 +1,16 @@
 {
-  "aggiornato": "2026-10-05T16:42:53+02:00",
+  "aggiornato": "2026-10-05T20:01:30+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 228,
+  "totale": 229,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 6,
+      "totale": 4,
       "eventi": [
-        {
-          "titolo": "[Altri sport] Coppa Bernocchi: .",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo",
-          "sport": "Ciclismo",
-          "competizione": "Coppa Bernocchi",
-          "evento": ".",
-          "inizio": "2026-10-05T15:00:00+02:00",
-          "data": "05/10/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "Eurosport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-05T15:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-05T15:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 6a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "6a giornata",
-          "inizio": "2026-10-05T15:00:00+02:00",
-          "data": "05/10/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-05T15:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-05T15:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] UEFA Nations League: Cipro-Lettonia",
           "categoria": "Calcio",
@@ -2183,26 +2127,25 @@
               "ora": "01:50",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T01:50",
+                  "fonte": "dizzle+tv8"
+                },
+                {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
                   "orario": "2026-10-24T01:50",
-                  "fonte": "dizzle+config"
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
                   "orario": "2026-10-24T01:50",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T01:50",
-                  "programma": "GP Australia: Qualifiche",
-                  "fonte": "tv8"
+                  "fonte": "config"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -2221,26 +2164,25 @@
               "ora": "02:15",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T01:50",
+                  "fonte": "dizzle+tv8"
+                },
+                {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
                   "orario": "2026-10-24T02:15",
-                  "fonte": "dizzle+config"
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
                   "orario": "2026-10-24T02:15",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T01:50",
-                  "programma": "GP Australia: Qualifiche",
-                  "fonte": "tv8"
+                  "fonte": "config"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -2259,26 +2201,25 @@
               "ora": "06:00",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T06:00",
+                  "fonte": "dizzle+tv8"
+                },
+                {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
                   "orario": "2026-10-24T06:00",
-                  "fonte": "dizzle+config"
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
                   "orario": "2026-10-24T06:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T06:00",
-                  "fonte": "tv8",
-                  "programma": "GP Australia: Sprint Race"
+                  "fonte": "config"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -4276,6 +4217,12 @@
                   ]
                 },
                 {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
                   "paese": "Brasile",
                   "canali": [
                     "Disney+ Premium Brazil"
@@ -4319,6 +4266,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Taipei cinese",
+                  "canali": [
+                    "eltaott.tv"
                   ]
                 },
                 {
@@ -4500,6 +4453,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 6"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -4584,6 +4543,12 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Malta",
+                  "canali": [
+                    "TSN3 Malta"
                   ]
                 },
                 {
@@ -4706,6 +4671,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 3 Poland"
                   ]
                 },
                 {
@@ -4869,6 +4840,12 @@
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
+                  ]
+                },
+                {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
                   ]
                 },
                 {
@@ -5124,6 +5101,12 @@
                   ]
                 },
                 {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
                   "paese": "Brasile",
                   "canali": [
                     "ESPN4 Brazil",
@@ -5170,6 +5153,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Taipei cinese",
+                  "canali": [
+                    "eltaott.tv"
                   ]
                 },
                 {
@@ -5447,6 +5436,12 @@
                   ]
                 },
                 {
+                  "paese": "Malta",
+                  "canali": [
+                    "TSN3 Malta"
+                  ]
+                },
+                {
                   "paese": "Martinica",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5566,6 +5561,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 1 Poland"
                   ]
                 },
                 {
@@ -5731,6 +5732,12 @@
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
+                  ]
+                },
+                {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
                   ]
                 },
                 {
@@ -6012,6 +6019,12 @@
                   ]
                 },
                 {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
                   "paese": "Brasile",
                   "canali": [
                     "ESPN Brazil",
@@ -6058,6 +6071,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Taipei cinese",
+                  "canali": [
+                    "ELTA Sports 1"
                   ]
                 },
                 {
@@ -6247,6 +6266,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 4"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -6334,6 +6359,12 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Malta",
+                  "canali": [
+                    "TSN3 Malta"
                   ]
                 },
                 {
@@ -6456,6 +6487,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 1 Poland"
                   ]
                 },
                 {
@@ -6622,6 +6659,12 @@
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
+                  ]
+                },
+                {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
                   ]
                 },
                 {
@@ -6869,6 +6912,12 @@
                   ]
                 },
                 {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
                   "paese": "Brasile",
                   "canali": [
                     "ESPN Brazil",
@@ -6913,6 +6962,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Taipei cinese",
+                  "canali": [
+                    "eltaott.tv"
                   ]
                 },
                 {
@@ -7179,6 +7234,12 @@
                   ]
                 },
                 {
+                  "paese": "Malta",
+                  "canali": [
+                    "TSN3 Malta"
+                  ]
+                },
+                {
                   "paese": "Martinica",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7292,6 +7353,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 2 Poland"
                   ]
                 },
                 {
@@ -7437,6 +7504,12 @@
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
+                  ]
+                },
+                {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
                   ]
                 },
                 {
@@ -7692,6 +7765,12 @@
                   ]
                 },
                 {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
                   "paese": "Brasile",
                   "canali": [
                     "ESPN4 Brazil",
@@ -7736,6 +7815,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Taipei cinese",
+                  "canali": [
+                    "eltaott.tv"
                   ]
                 },
                 {
@@ -7905,6 +7990,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 2"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -7989,6 +8080,12 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Malta",
+                  "canali": [
+                    "TSN3 Malta"
                   ]
                 },
                 {
@@ -8105,6 +8202,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 2 Poland"
                   ]
                 },
                 {
@@ -8248,6 +8351,12 @@
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
+                  ]
+                },
+                {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
                   ]
                 },
                 {
@@ -8458,9 +8567,21 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
                   "paese": "Brasile",
                   "canali": [
                     "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
                   ]
                 },
                 {
@@ -8590,6 +8711,18 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
+                  ]
+                },
                 {
                   "paese": "Italia",
                   "canali": [
@@ -8785,53 +8918,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8923,7 +9010,42 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9363,13 +9485,6 @@
                 {
                   "nome": "Sky Sport 1",
                   "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T20:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "20",
-                  "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-06T20:45",
                   "fonte": "virgilio"
@@ -9848,40 +9963,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 25,
+      "totale": 24,
       "sottocartelle": [
         {
           "nome": "WTA 1000 Pechino",
-          "totale": 11,
+          "totale": 10,
           "eventi": [
-            {
-              "titolo": "WTA 1000 Pechino: 6a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "6a giornata",
-              "inizio": "2026-10-05T15:00:00+02:00",
-              "data": "05/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T15:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "WTA 1000 Pechino: 7a giornata",
               "categoria": "Tennis",
@@ -10131,15 +10218,15 @@
               "ora": "11:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-06T11:00",
                   "fonte": "virgilio"
                 },
                 {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-06T11:00",
                   "fonte": "virgilio"
@@ -10165,15 +10252,15 @@
               "ora": "13:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-06T13:00",
                   "fonte": "virgilio"
                 },
                 {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-06T13:00",
                   "fonte": "virgilio"
@@ -10697,41 +10784,46 @@
       ]
     },
     {
-      "nome": "Altri sport",
-      "totale": 11,
+      "nome": "Volley",
+      "totale": 1,
       "sottocartelle": [
         {
-          "nome": "Ciclismo",
-          "totale": 9,
+          "nome": "Serie A1 femminile",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "Coppa Bernocchi: .",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo",
-              "sport": "Ciclismo",
-              "competizione": "Coppa Bernocchi",
-              "evento": ".",
-              "inizio": "2026-10-05T15:00:00+02:00",
-              "data": "05/10/2026",
-              "ora": "15:00",
+              "titolo": "Serie A1: Conegliano-Busto Arsizio",
+              "categoria": "Volley",
+              "sottocartella": "Serie A1 femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "Serie A1",
+              "evento": "Conegliano-Busto Arsizio",
+              "inizio": "2026-10-10T20:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "20:30",
               "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-05T15:00",
-                  "fonte": "virgilio"
-                },
                 {
                   "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-05T15:00",
+                  "orario": "2026-10-10T20:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Altri sport",
+      "totale": 12,
+      "sottocartelle": [
+        {
+          "nome": "Ciclismo",
+          "totale": 8,
+          "eventi": [
             {
               "titolo": "Binche-Chimay-Binche: .",
               "categoria": "Altri sport",
@@ -10760,15 +10852,22 @@
               "sport": "Ciclismo",
               "competizione": "Europei Ljubljana 2026",
               "evento": "Staffetta mista a squadre",
-              "inizio": "2026-10-06T14:50:00+02:00",
+              "inizio": "2026-10-06T14:55:00+02:00",
               "data": "06/10/2026",
-              "ora": "14:50",
+              "ora": "14:55",
               "canali": [
                 {
                   "nome": "Eurosport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-06T14:50",
+                  "orario": "2026-10-06T14:55",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-06T14:55",
                   "fonte": "virgilio"
                 }
               ],
@@ -10809,15 +10908,22 @@
               "sport": "Ciclismo",
               "competizione": "Europei Ljubljana 2026",
               "evento": "Cronometro Élite Donne",
-              "inizio": "2026-10-07T14:20:00+02:00",
+              "inizio": "2026-10-07T14:25:00+02:00",
               "data": "07/10/2026",
-              "ora": "14:20",
+              "ora": "14:25",
               "canali": [
                 {
                   "nome": "Eurosport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-07T14:20",
+                  "orario": "2026-10-07T14:25",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T14:25",
                   "fonte": "virgilio"
                 }
               ],
@@ -10830,15 +10936,22 @@
               "sport": "Ciclismo",
               "competizione": "Europei Ljubljana 2026",
               "evento": "Cronometro Élite Uomini",
-              "inizio": "2026-10-07T16:05:00+02:00",
+              "inizio": "2026-10-07T16:10:00+02:00",
               "data": "07/10/2026",
-              "ora": "16:05",
+              "ora": "16:10",
               "canali": [
                 {
                   "nome": "Eurosport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-07T16:05",
+                  "orario": "2026-10-07T16:10",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T16:10",
                   "fonte": "virgilio"
                 }
               ],
@@ -10861,6 +10974,13 @@
                   "tipo": "diretta",
                   "orario": "2026-10-08T14:50",
                   "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T14:50",
+                  "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
@@ -10878,6 +10998,13 @@
               "canali": [
                 {
                   "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T10:35",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-10T10:35",
@@ -10909,6 +11036,60 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-11T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Baseball",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Qualificazioni Premier12: Colombia-Italia",
+              "categoria": "Altri sport",
+              "sottocartella": "Baseball",
+              "sport": "Baseball",
+              "competizione": "Qualificazioni Premier12 2027",
+              "evento": "Colombia-Italia",
+              "inizio": "2026-10-09T12:00:00+02:00",
+              "data": "09/10/2026",
+              "ora": "12:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-09T12:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Pallanuoto maschile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A1: Roma-Quinto",
+              "categoria": "Altri sport",
+              "sottocartella": "Pallanuoto maschile",
+              "sport": "Pallanuoto maschile",
+              "competizione": "Serie A1",
+              "evento": "Roma-Quinto",
+              "inizio": "2026-10-09T19:00:00+02:00",
+              "data": "09/10/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-09T19:00",
                   "fonte": "virgilio"
                 }
               ],
