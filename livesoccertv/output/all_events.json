@@ -625,6 +625,12 @@
           ]
         },
         {
+          "paese": "Grecia",
+          "canali": [
+            "MagentaSport 1"
+          ]
+        },
+        {
           "paese": "Grenada",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1668,6 +1674,12 @@
           ]
         },
         {
+          "paese": "Croazia",
+          "canali": [
+            "Arena Sport 3 Croatia"
+          ]
+        },
+        {
           "paese": "Cuba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1762,6 +1774,12 @@
           "paese": "Gran Bretagna",
           "canali": [
             "DAZN UK"
+          ]
+        },
+        {
+          "paese": "Grecia",
+          "canali": [
+            "MagentaSport 1"
           ]
         },
         {
@@ -2453,7 +2471,15 @@
           "paese": "Andorra",
           "canali": [
             "DAZN Spain",
-            "DAZN France"
+            "DAZN France",
+            "ZAP"
+          ]
+        },
+        {
+          "paese": "Angola",
+          "canali": [
+            "ZAP",
+            "ZSPORT 1"
           ]
         },
         {
@@ -2533,6 +2559,12 @@
           ]
         },
         {
+          "paese": "Belgio",
+          "canali": [
+            "DAZN Belgium"
+          ]
+        },
+        {
           "paese": "Belize",
           "canali": [
             "Nexgen"
@@ -2594,6 +2626,12 @@
           ]
         },
         {
+          "paese": "Capo Verde",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Isole Cayman",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2629,6 +2667,12 @@
           "paese": "Costa Rica",
           "canali": [
             "Disney+ Premium Norte"
+          ]
+        },
+        {
+          "paese": "Croazia",
+          "canali": [
+            "Arena Sport 7 Croatia"
           ]
         },
         {
@@ -2729,6 +2773,12 @@
           ]
         },
         {
+          "paese": "Grecia",
+          "canali": [
+            "MagentaSport 1"
+          ]
+        },
+        {
           "paese": "Grenada",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2744,6 +2794,12 @@
           "paese": "Guatemala",
           "canali": [
             "Disney+ Premium Norte"
+          ]
+        },
+        {
+          "paese": "Guinea-Bissau",
+          "canali": [
+            "ZAP"
           ]
         },
         {
@@ -2984,6 +3040,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "ZAP"
           ]
         },
         {
@@ -3231,6 +3293,12 @@
           ]
         },
         {
+          "paese": "São Tomé and Príncipe",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Tajikistan",
           "canali": [
             "Q League"
@@ -3381,67 +3449,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Moja TV",
-            "Arena Sport 2P",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Stars"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 6 Serbia",
-            "Arena Cloud"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653931",
@@ -3492,7 +3500,15 @@
         {
           "paese": "Andorra",
           "canali": [
-            "DAZN Spain"
+            "DAZN Spain",
+            "ZAP"
+          ]
+        },
+        {
+          "paese": "Angola",
+          "canali": [
+            "ZAP",
+            "ZSPORT 1"
           ]
         },
         {
@@ -3572,6 +3588,13 @@
           ]
         },
         {
+          "paese": "Belgio",
+          "canali": [
+            "DAZN1 Belgium",
+            "DAZN Belgium"
+          ]
+        },
+        {
           "paese": "Belize",
           "canali": [
             "Nexgen"
@@ -3644,6 +3667,12 @@
           ]
         },
         {
+          "paese": "Capo Verde",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Isole Cayman",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3688,6 +3717,12 @@
           "paese": "Costa Rica",
           "canali": [
             "Disney+ Premium Norte"
+          ]
+        },
+        {
+          "paese": "Croazia",
+          "canali": [
+            "Arena Sport 1 Croatia"
           ]
         },
         {
@@ -3785,6 +3820,12 @@
           ]
         },
         {
+          "paese": "Grecia",
+          "canali": [
+            "MagentaSport 1"
+          ]
+        },
+        {
           "paese": "Grenada",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3808,6 +3849,12 @@
             "StarTimes App",
             "Sporty TV",
             "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Guinea-Bissau",
+          "canali": [
+            "ZAP"
           ]
         },
         {
@@ -3962,6 +4009,12 @@
           ]
         },
         {
+          "paese": "Lussemburgo",
+          "canali": [
+            "DAZN1 Belgium"
+          ]
+        },
+        {
           "paese": "Macao",
           "canali": [
             "M Plus Live"
@@ -4049,6 +4102,7 @@
         {
           "paese": "Mozambico",
           "canali": [
+            "ZAP",
             "StarTimes App",
             "Sporty TV",
             "Sporty TV App"
@@ -4305,6 +4359,12 @@
           ]
         },
         {
+          "paese": "São Tomé and Príncipe",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Tajikistan",
           "canali": [
             "Q League"
@@ -4372,6 +4432,7 @@
           "paese": "Ucraina",
           "canali": [
             "Megogo",
+            "MEGOGO Football 1",
             "MEGOGO Football 2"
           ]
         },
@@ -4665,6 +4726,12 @@
           ]
         },
         {
+          "paese": "Croazia",
+          "canali": [
+            "Arena Sport 4 Croatia"
+          ]
+        },
+        {
           "paese": "Cuba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -4746,6 +4813,12 @@
           "paese": "Gran Bretagna",
           "canali": [
             "DAZN UK"
+          ]
+        },
+        {
+          "paese": "Grecia",
+          "canali": [
+            "MagentaSport 1"
           ]
         },
         {
@@ -5380,116 +5453,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Moja TV",
-            "Arena Sport 3",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5808941",
@@ -5515,7 +5479,67 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Moja TV",
+            "Arena Sport 2P",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Stars"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 6 Serbia",
+            "Arena Cloud"
+          ]
+        }
+      ]
     },
     {
       "id": "5809543",
@@ -5541,116 +5565,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Moja TV",
-            "Arena Sport 3",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     }
   ]
 }
