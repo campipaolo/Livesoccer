@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-07T00:39:59+02:00",
+  "aggiornato": "2026-10-07T01:39:45+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -4512,6 +4512,12 @@
                   ]
                 },
                 {
+                  "paese": "Cina",
+                  "canali": [
+                    "Migu"
+                  ]
+                },
+                {
                   "paese": "Taipei cinese",
                   "canali": [
                     "eltaott.tv"
@@ -5165,7 +5171,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -5478,6 +5485,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Cina",
+                  "canali": [
+                    "Migu"
                   ]
                 },
                 {
@@ -6137,7 +6150,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -6497,6 +6511,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Cina",
+                  "canali": [
+                    "Migu"
                   ]
                 },
                 {
@@ -7183,7 +7203,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -7522,6 +7543,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Cina",
+                  "canali": [
+                    "Migu"
                   ]
                 },
                 {
@@ -8236,7 +8263,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -8547,6 +8575,12 @@
                   "paese": "Cile",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Cina",
+                  "canali": [
+                    "Migu"
                   ]
                 },
                 {
@@ -9775,7 +9809,67 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9896,7 +9990,116 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 3",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Burundi",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Repubblica Democratica del Congo",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Ghana",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Guinea",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Nigeria",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Sierra Leone",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Sudafrica",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9925,67 +10128,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 2P",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Stars"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10056,22 +10199,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
