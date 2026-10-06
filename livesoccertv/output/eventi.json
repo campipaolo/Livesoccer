@@ -3159,7 +3159,67 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Moja TV",
+            "Arena Sport 2P",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Stars"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 6 Serbia",
+            "Arena Cloud"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie A",
@@ -5038,7 +5098,116 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Moja TV",
+            "Arena Sport 3",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Burundi",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Repubblica Democratica del Congo",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Ghana",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Guinea",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Kenya",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Nigeria",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "Ruanda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Sierra Leone",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Tanzania",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Uganda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -5050,6 +5219,126 @@
         "LAB Channel"
       ],
       "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Modena vs Verona",
+      "data": "2026-10-13",
+      "ora": "04:00",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Moja TV",
+            "Arena Sport 3",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Burundi",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Repubblica Democratica del Congo",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Ghana",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Guinea",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Kenya",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Nigeria",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "Ruanda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Sierra Leone",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Tanzania",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Uganda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     }
   ]
 }
