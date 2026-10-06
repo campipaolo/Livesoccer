@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-10-06T02:04:31+02:00",
+  "aggiornato": "2026-10-06T08:09:43+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 227,
+  "totale": 226,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 14,
       "eventi": [
-        {
-          "titolo": "[Calcio] Amichevole: Argentina-Benin",
-          "categoria": "Calcio",
-          "sottocartella": "Amichevole",
-          "sport": "Calcio",
-          "competizione": "Amichevole",
-          "evento": "Argentina-Benin",
-          "inizio": "2026-10-06T01:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "01:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T01:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] WTA 1000 Pechino: 7a giornata",
           "categoria": "Tennis",
@@ -4314,7 +4293,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 51,
+      "totale": 50,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4357,7 +4336,9 @@
                 {
                   "paese": "Afghanistan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4443,7 +4424,9 @@
                   "paese": "Bangladesh",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4473,7 +4456,9 @@
                 {
                   "paese": "Bhutan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4485,7 +4470,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -4694,7 +4681,9 @@
                 {
                   "paese": "India",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4834,18 +4823,22 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
                   "paese": "Maldive",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -4903,7 +4896,9 @@
                 {
                   "paese": "Nepal",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4974,6 +4969,7 @@
                 {
                   "paese": "Polonia",
                   "canali": [
+                    "Canal+",
                     "Eleven Sports 3 Poland"
                   ]
                 },
@@ -5096,7 +5092,9 @@
                   "paese": "Sri Lanka",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -5155,6 +5153,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -5431,7 +5430,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -5786,7 +5787,8 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
@@ -5798,6 +5800,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -5926,7 +5929,8 @@
                 {
                   "paese": "Polonia",
                   "canali": [
-                    "Eleven Sports 1 Poland"
+                    "Eleven Sports 1 Poland",
+                    "Canal+"
                   ]
                 },
                 {
@@ -6109,6 +6113,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -6412,7 +6417,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -6775,7 +6782,8 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
@@ -6787,6 +6795,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -6915,7 +6924,8 @@
                 {
                   "paese": "Polonia",
                   "canali": [
-                    "Eleven Sports 1 Poland"
+                    "Eleven Sports 1 Poland",
+                    "Canal+"
                   ]
                 },
                 {
@@ -7099,6 +7109,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -7305,7 +7316,8 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
@@ -7368,7 +7380,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -7401,6 +7415,12 @@
                   "canali": [
                     "Sporty TV",
                     "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Camerun",
+                  "canali": [
+                    "StarTimes App"
                   ]
                 },
                 {
@@ -7446,6 +7466,8 @@
                 {
                   "paese": "Repubblica Democratica del Congo",
                   "canali": [
+                    "StarTimes App",
+                    "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
                   ]
@@ -7537,6 +7559,7 @@
                 {
                   "paese": "Ghana",
                   "canali": [
+                    "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
                   ]
@@ -7570,6 +7593,7 @@
                 {
                   "paese": "Guinea",
                   "canali": [
+                    "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
                   ]
@@ -7670,9 +7694,17 @@
                 {
                   "paese": "Kenya",
                   "canali": [
+                    "StarTimes App",
                     "Azam Sports 3 HD",
                     "Sporty TV",
                     "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime+"
                   ]
                 },
                 {
@@ -7724,8 +7756,15 @@
                   ]
                 },
                 {
+                  "paese": "Madagascar",
+                  "canali": [
+                    "StarTimes App"
+                  ]
+                },
+                {
                   "paese": "Malawi",
                   "canali": [
+                    "StarTimes App",
                     "Azam Sports 3 HD"
                   ]
                 },
@@ -7733,7 +7772,8 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
@@ -7745,6 +7785,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -7796,6 +7837,7 @@
                 {
                   "paese": "Mozambico",
                   "canali": [
+                    "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
                   ]
@@ -7828,6 +7870,7 @@
                 {
                   "paese": "Nigeria",
                   "canali": [
+                    "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
                   ]
@@ -7881,7 +7924,8 @@
                 {
                   "paese": "Polonia",
                   "canali": [
-                    "Eleven Sports 2 Poland"
+                    "Eleven Sports 2 Poland",
+                    "Canal+"
                   ]
                 },
                 {
@@ -7918,6 +7962,7 @@
                 {
                   "paese": "Ruanda",
                   "canali": [
+                    "StarTimes App",
                     "Azam Sports 3 HD",
                     "Sporty TV",
                     "Sporty TV App"
@@ -7966,6 +8011,7 @@
                 {
                   "paese": "Sierra Leone",
                   "canali": [
+                    "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
                   ]
@@ -7980,6 +8026,7 @@
                 {
                   "paese": "Sudafrica",
                   "canali": [
+                    "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
                   ]
@@ -8054,6 +8101,7 @@
                 {
                   "paese": "Tanzania",
                   "canali": [
+                    "StarTimes App",
                     "Azam Sports 3 HD",
                     "Sporty TV",
                     "Sporty TV App"
@@ -8062,6 +8110,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -8101,6 +8150,7 @@
                 {
                   "paese": "Uganda",
                   "canali": [
+                    "StarTimes App",
                     "Azam Sports 3 HD",
                     "Sporty TV",
                     "Sporty TV App"
@@ -8165,6 +8215,7 @@
                 {
                   "paese": "Zambia",
                   "canali": [
+                    "StarTimes App",
                     "Azam Sports 3 HD"
                   ]
                 },
@@ -8271,7 +8322,8 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
@@ -8340,7 +8392,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -8677,6 +8731,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -8799,7 +8854,8 @@
                 {
                   "paese": "Polonia",
                   "canali": [
-                    "Eleven Sports 2 Poland"
+                    "Eleven Sports 2 Poland",
+                    "Canal+"
                   ]
                 },
                 {
@@ -8960,6 +9016,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -9248,7 +9305,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -9393,7 +9452,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2"
+                    "Moja TV",
+                    "Arena Sport 2",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -9597,65 +9658,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 2P"
-                  ]
-                },
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Stars"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9747,42 +9750,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 2"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9840,65 +9808,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 2P"
-                  ]
-                },
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Stars"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -10171,33 +10081,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-11T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Amichevole",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Amichevole: Argentina-Benin",
-              "categoria": "Calcio",
-              "sottocartella": "Amichevole",
-              "sport": "Calcio",
-              "competizione": "Amichevole",
-              "evento": "Argentina-Benin",
-              "inizio": "2026-10-06T01:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "01:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T01:00",
                   "fonte": "virgilio"
                 }
               ],
