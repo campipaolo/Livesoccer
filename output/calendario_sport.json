@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-06T08:09:43+02:00",
+  "aggiornato": "2026-10-06T16:00:25+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,113 +9,8 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 14,
+      "totale": 10,
       "eventi": [
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 7a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "7a giornata",
-          "inizio": "2026-10-06T06:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "06:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T06:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-06T07:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP 500 Tokyo: Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP 500 Tokyo",
-          "sport": "Tennis",
-          "competizione": "ATP 500 Tokyo",
-          "evento": "Finale",
-          "inizio": "2026-10-06T11:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "11:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-06T11:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T11:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Altri sport] Binche-Chimay-Binche: .",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo",
-          "sport": "Ciclismo",
-          "competizione": "Binche-Chimay-Binche",
-          "evento": ".",
-          "inizio": "2026-10-06T13:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Eurosport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP 500 Pechino: Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP 500 Pechino",
-          "sport": "Tennis",
-          "competizione": "ATP 500 Pechino",
-          "evento": "Finale",
-          "inizio": "2026-10-06T13:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-06T13:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Altri sport] Europei Ljubljana: Staffetta mista a squadre",
           "categoria": "Altri sport",
@@ -344,11 +239,11 @@
     },
     {
       "nome": "Motori",
-      "totale": 131,
+      "totale": 134,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 32,
+          "totale": 34,
           "eventi": [
             {
               "titolo": "Formula 1: Singapore Grand Prix - FP1",
@@ -1855,12 +1750,107 @@
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
+            },
+            {
+              "titolo": "Formula 1: Abu Dhabi Grand Prix - FP3",
+              "categoria": "Motori",
+              "sottocartella": "Formula 1",
+              "sport": "Motori",
+              "competizione": "Formula 1",
+              "evento": "Abu Dhabi Grand Prix - FP3",
+              "sessione": "prove",
+              "circuito": "Yas Marina Circuit, Abu Dhabi, UAE",
+              "inizio": "2026-12-05T11:30:00+01:00",
+              "data": "05/12/2026",
+              "ora": "11:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport F1",
+                  "numero": "207",
+                  "tipo": "diretta",
+                  "orario": "2026-12-05T11:30",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "NOW",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-12-05T11:30",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-05T11:30",
+                  "fonte": "config"
+                },
+                {
+                  "nome": "Sky Sport 4K",
+                  "numero": "213",
+                  "tipo": "diretta",
+                  "orario": "2026-12-05T11:30",
+                  "fonte": "config"
+                }
+              ],
+              "fonte": "Dizzle0987/motorsport-calendar"
+            },
+            {
+              "titolo": "Formula 1: Abu Dhabi Grand Prix - Qualifiche",
+              "categoria": "Motori",
+              "sottocartella": "Formula 1",
+              "sport": "Motori",
+              "competizione": "Formula 1",
+              "evento": "Abu Dhabi Grand Prix - Qualifiche",
+              "sessione": "qualifiche",
+              "circuito": "Yas Marina Circuit, Abu Dhabi, UAE",
+              "inizio": "2026-12-05T15:00:00+01:00",
+              "data": "05/12/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport F1",
+                  "numero": "207",
+                  "tipo": "diretta",
+                  "orario": "2026-12-05T15:00",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "NOW",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-12-05T15:00",
+                  "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-05T15:00",
+                  "fonte": "config"
+                },
+                {
+                  "nome": "Sky Sport 4K",
+                  "numero": "213",
+                  "tipo": "diretta",
+                  "orario": "2026-12-05T15:00",
+                  "fonte": "config"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "",
+                  "fonte": "config"
+                }
+              ],
+              "fonte": "Dizzle0987/motorsport-calendar"
             }
           ]
         },
         {
           "nome": "Formula 2 e Formula 3",
-          "totale": 4,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "Formula 2 e Formula 3: F2 - Qatar GP - Quali",
@@ -1919,6 +1909,21 @@
               "inizio": "2026-12-04T12:00:00+01:00",
               "data": "04/12/2026",
               "ora": "12:00",
+              "canali": [],
+              "fonte": "Fuori Traiettoria"
+            },
+            {
+              "titolo": "Formula 2 e Formula 3: F2 - Abu Dhabi GP - Sprint Race",
+              "categoria": "Motori",
+              "sottocartella": "Formula 2 e Formula 3",
+              "sport": "Motori",
+              "competizione": "Formula 2 e Formula 3",
+              "evento": "F2 - Abu Dhabi GP - Sprint Race",
+              "sessione": "sprint",
+              "circuito": "Yas Marina Circuit - Yas Island - Abu Dhabi - Emirati Arabi Uniti",
+              "inizio": "2026-12-05T13:15:00+01:00",
+              "data": "05/12/2026",
+              "ora": "13:15",
               "canali": [],
               "fonte": "Fuori Traiettoria"
             }
@@ -4293,7 +4298,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 50,
+      "totale": 51,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -9266,7 +9271,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 14,
+          "totale": 15,
           "eventi": [
             {
               "titolo": "Serie B: Avellino vs Sampdoria",
@@ -9658,7 +9663,67 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9779,7 +9844,116 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 3",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Burundi",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Repubblica Democratica del Congo",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Ghana",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Guinea",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Nigeria",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Sierra Leone",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Sudafrica",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9809,6 +9983,144 @@
                 }
               ],
               "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Modena vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Modena vs Verona",
+              "inizio": "2026-10-13T04:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "04:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-13T04:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T04:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 3",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Burundi",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Repubblica Democratica del Congo",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Ghana",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Guinea",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Nigeria",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Sierra Leone",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Sudafrica",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -10551,40 +10863,39 @@
     },
     {
       "nome": "Tennis",
-      "totale": 24,
+      "totale": 21,
       "sottocartelle": [
         {
-          "nome": "WTA 1000 Pechino",
-          "totale": 10,
+          "nome": "ATP & WTA",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "WTA 1000 Pechino: 7a giornata",
+              "titolo": "ATP & WTA",
               "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
+              "sottocartella": "ATP & WTA",
               "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "7a giornata",
-              "inizio": "2026-10-06T06:00:00+02:00",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-06T15:00:00+02:00",
               "data": "06/10/2026",
-              "ora": "06:00",
+              "ora": "15:00",
               "canali": [
                 {
                   "nome": "Sky Sport Tennis",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-06T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T07:00",
+                  "orario": "2026-10-06T15:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "WTA 1000 Pechino",
+          "totale": 9,
+          "eventi": [
             {
               "titolo": "WTA 1000 Pechino: 7a giornata",
               "categoria": "Tennis",
@@ -10783,101 +11094,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-11T13:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP 500 Tokyo",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "ATP 500 Tokyo: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Tokyo",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Tokyo",
-              "evento": "Finale",
-              "inizio": "2026-10-06T11:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T11:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP 500 Pechino",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "ATP 500 Pechino: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 500 Pechino",
-              "sport": "Tennis",
-              "competizione": "ATP 500 Pechino",
-              "evento": "Finale",
-              "inizio": "2026-10-06T13:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP & WTA",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-06T15:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T15:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11406,33 +11622,12 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 12,
+      "totale": 11,
       "sottocartelle": [
         {
           "nome": "Ciclismo",
-          "totale": 8,
+          "totale": 7,
           "eventi": [
-            {
-              "titolo": "Binche-Chimay-Binche: .",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo",
-              "sport": "Ciclismo",
-              "competizione": "Binche-Chimay-Binche",
-              "evento": ".",
-              "inizio": "2026-10-06T13:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Europei Ljubljana: Staffetta mista a squadre",
               "categoria": "Altri sport",
