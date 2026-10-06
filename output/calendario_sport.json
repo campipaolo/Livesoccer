@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-06T00:01:53+02:00",
+  "aggiornato": "2026-10-06T02:04:31+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -4501,6 +4501,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -4758,6 +4764,19 @@
                   ]
                 },
                 {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -4803,6 +4822,19 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malawi",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -4983,6 +5015,12 @@
                   ]
                 },
                 {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Saint Barthelemy",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5109,6 +5147,12 @@
                   ]
                 },
                 {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Thailandia",
                   "canali": [
                     "True Premier Football HD 3"
@@ -5145,6 +5189,12 @@
                   "paese": "U.S. Virgin Islands",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Azam Sports 3 HD"
                   ]
                 },
                 {
@@ -5199,6 +5249,18 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Zambia",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Zimbabwe",
+                  "canali": [
+                    "Azam Sports 3 HD"
                   ]
                 }
               ],
@@ -5383,6 +5445,12 @@
                   "paese": "Isole Vergini britanniche",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
                   ]
                 },
                 {
@@ -5648,6 +5716,19 @@
                   ]
                 },
                 {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -5693,6 +5774,19 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malawi",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -5875,6 +5969,12 @@
                   ]
                 },
                 {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Saint Barthelemy",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6001,6 +6101,12 @@
                   ]
                 },
                 {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Thailandia",
                   "canali": [
                     "True Premier Football HD 3"
@@ -6040,6 +6146,12 @@
                   ]
                 },
                 {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Ucraina",
                   "canali": [
                     "Megogo",
@@ -6068,7 +6180,8 @@
                     "Peacock",
                     "Telemundo Deportes En Vivo",
                     "UNIVERSO",
-                    "UNIVERSO NOW"
+                    "UNIVERSO NOW",
+                    "CBS Sports Golazo"
                   ]
                 },
                 {
@@ -6095,6 +6208,18 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Zambia",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Zimbabwe",
+                  "canali": [
+                    "Azam Sports 3 HD"
                   ]
                 }
               ],
@@ -6301,6 +6426,12 @@
                   "paese": "Isole Vergini britanniche",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
                   ]
                 },
                 {
@@ -6574,6 +6705,19 @@
                   ]
                 },
                 {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime 2"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -6619,6 +6763,19 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malawi",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -6799,6 +6956,12 @@
                   ]
                 },
                 {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Saint Barthelemy",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6928,6 +7091,12 @@
                   ]
                 },
                 {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Thailandia",
                   "canali": [
                     "True Premier Football HD 3"
@@ -6967,6 +7136,12 @@
                   ]
                 },
                 {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Ucraina",
                   "canali": [
                     "Megogo",
@@ -6991,7 +7166,8 @@
                   "paese": "USA",
                   "canali": [
                     "Paramount+",
-                    "Peacock"
+                    "Peacock",
+                    "CBS Sports Golazo"
                   ]
                 },
                 {
@@ -7018,6 +7194,18 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Zambia",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Zimbabwe",
+                  "canali": [
+                    "Azam Sports 3 HD"
                   ]
                 }
               ],
@@ -7197,9 +7385,22 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
+                  ]
+                },
+                {
+                  "paese": "Burundi",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
                   ]
                 },
                 {
@@ -7240,6 +7441,13 @@
                   "paese": "Colombia",
                   "canali": [
                     "Disney+ Premium Sur"
+                  ]
+                },
+                {
+                  "paese": "Repubblica Democratica del Congo",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
                   ]
                 },
                 {
@@ -7327,6 +7535,13 @@
                   ]
                 },
                 {
+                  "paese": "Ghana",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
+                  ]
+                },
+                {
                   "paese": "Gran Bretagna",
                   "canali": [
                     "DAZN UK",
@@ -7350,6 +7565,13 @@
                   "paese": "Guatemala",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Guinea",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
                   ]
                 },
                 {
@@ -7446,6 +7668,14 @@
                   ]
                 },
                 {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Azam Sports 3 HD",
+                    "Sporty TV",
+                    "Sporty TV App"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -7491,6 +7721,19 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malawi",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -7551,6 +7794,13 @@
                   ]
                 },
                 {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
+                  ]
+                },
+                {
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
@@ -7573,6 +7823,13 @@
                   "paese": "Nicaragua",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Nigeria",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
                   ]
                 },
                 {
@@ -7659,6 +7916,14 @@
                   ]
                 },
                 {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Azam Sports 3 HD",
+                    "Sporty TV",
+                    "Sporty TV App"
+                  ]
+                },
+                {
                   "paese": "Saint Barthelemy",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7699,10 +7964,24 @@
                   ]
                 },
                 {
+                  "paese": "Sierra Leone",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
+                  ]
+                },
+                {
                   "paese": "Somalia",
                   "canali": [
                     "STARZPLAY",
                     "Shasha"
+                  ]
+                },
+                {
+                  "paese": "Sudafrica",
+                  "canali": [
+                    "Sporty TV",
+                    "Sporty TV App"
                   ]
                 },
                 {
@@ -7773,6 +8052,14 @@
                   ]
                 },
                 {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Azam Sports 3 HD",
+                    "Sporty TV",
+                    "Sporty TV App"
+                  ]
+                },
+                {
                   "paese": "Thailandia",
                   "canali": [
                     "True Premier Football HD 3"
@@ -7809,6 +8096,14 @@
                   "paese": "U.S. Virgin Islands",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Azam Sports 3 HD",
+                    "Sporty TV",
+                    "Sporty TV App"
                   ]
                 },
                 {
@@ -7865,6 +8160,18 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Zambia",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Zimbabwe",
+                  "canali": [
+                    "Azam Sports 3 HD"
                   ]
                 }
               ],
@@ -8295,6 +8602,19 @@
                   ]
                 },
                 {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime"
+                  ]
+                },
+                {
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
@@ -8340,6 +8660,12 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malawi",
+                  "canali": [
+                    "Azam Sports 3 HD"
                   ]
                 },
                 {
@@ -8507,6 +8833,12 @@
                   ]
                 },
                 {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Saint Barthelemy",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -8620,6 +8952,12 @@
                   ]
                 },
                 {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Thailandia",
                   "canali": [
                     "True Premier Football HD 3"
@@ -8659,6 +8997,12 @@
                   ]
                 },
                 {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
                   "paese": "Ucraina",
                   "canali": [
                     "Megogo",
@@ -8683,7 +9027,8 @@
                   "paese": "USA",
                   "canali": [
                     "Paramount+",
-                    "Peacock"
+                    "Peacock",
+                    "CBS Sports Golazo"
                   ]
                 },
                 {
@@ -8710,6 +9055,18 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Zambia",
+                  "canali": [
+                    "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Zimbabwe",
+                  "canali": [
+                    "Azam Sports 3 HD"
                   ]
                 }
               ],
@@ -9240,7 +9597,65 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9425,7 +9840,65 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             }
           ]
