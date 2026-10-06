@@ -1,107 +1,16 @@
 {
-  "aggiornato": "2026-10-06T17:58:06+02:00",
+  "aggiornato": "2026-10-06T21:27:28+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 225,
+  "totale": 221,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 9,
+      "totale": 5,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-06T15:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T15:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 7a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "7a giornata",
-          "inizio": "2026-10-06T15:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-06T15:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Altri sport] Tre Valli Varesine: .",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo",
-          "sport": "Ciclismo",
-          "competizione": "Tre Valli Varesine",
-          "evento": ".",
-          "inizio": "2026-10-06T15:25:00+02:00",
-          "data": "06/10/2026",
-          "ora": "15:25",
-          "canali": [
-            {
-              "nome": "Eurosport 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T15:25",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Rai 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T15:25",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Kazakistan-Isole Faroe",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Kazakistan-Isole Faroe",
-          "inizio": "2026-10-06T16:00:00+02:00",
-          "data": "06/10/2026",
-          "ora": "16:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-06T16:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Basket] Eurocup: Buducnost-Napoli",
           "categoria": "Basket",
@@ -4270,7 +4179,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 51,
+      "totale": 50,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4616,6 +4525,12 @@
                   "paese": "Gran Bretagna",
                   "canali": [
                     "DAZN UK"
+                  ]
+                },
+                {
+                  "paese": "Grecia",
+                  "canali": [
+                    "MagentaSport 1"
                   ]
                 },
                 {
@@ -5486,6 +5401,12 @@
                   ]
                 },
                 {
+                  "paese": "Croazia",
+                  "canali": [
+                    "Arena Sport 3 Croatia"
+                  ]
+                },
+                {
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5580,6 +5501,12 @@
                   "paese": "Gran Bretagna",
                   "canali": [
                     "DAZN UK"
+                  ]
+                },
+                {
+                  "paese": "Grecia",
+                  "canali": [
+                    "MagentaSport 1"
                   ]
                 },
                 {
@@ -6294,7 +6221,15 @@
                   "paese": "Andorra",
                   "canali": [
                     "DAZN Spain",
-                    "DAZN France"
+                    "DAZN France",
+                    "ZAP"
+                  ]
+                },
+                {
+                  "paese": "Angola",
+                  "canali": [
+                    "ZAP",
+                    "ZSPORT 1"
                   ]
                 },
                 {
@@ -6374,6 +6309,12 @@
                   ]
                 },
                 {
+                  "paese": "Belgio",
+                  "canali": [
+                    "DAZN Belgium"
+                  ]
+                },
+                {
                   "paese": "Belize",
                   "canali": [
                     "Nexgen"
@@ -6435,6 +6376,12 @@
                   ]
                 },
                 {
+                  "paese": "Capo Verde",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Isole Cayman",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6470,6 +6417,12 @@
                   "paese": "Costa Rica",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Croazia",
+                  "canali": [
+                    "Arena Sport 7 Croatia"
                   ]
                 },
                 {
@@ -6570,6 +6523,12 @@
                   ]
                 },
                 {
+                  "paese": "Grecia",
+                  "canali": [
+                    "MagentaSport 1"
+                  ]
+                },
+                {
                   "paese": "Grenada",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6585,6 +6544,12 @@
                   "paese": "Guatemala",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Guinea-Bissau",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -6825,6 +6790,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -7072,6 +7043,12 @@
                   ]
                 },
                 {
+                  "paese": "São Tomé and Príncipe",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
@@ -7257,7 +7234,15 @@
                 {
                   "paese": "Andorra",
                   "canali": [
-                    "DAZN Spain"
+                    "DAZN Spain",
+                    "ZAP"
+                  ]
+                },
+                {
+                  "paese": "Angola",
+                  "canali": [
+                    "ZAP",
+                    "ZSPORT 1"
                   ]
                 },
                 {
@@ -7337,6 +7322,13 @@
                   ]
                 },
                 {
+                  "paese": "Belgio",
+                  "canali": [
+                    "DAZN1 Belgium",
+                    "DAZN Belgium"
+                  ]
+                },
+                {
                   "paese": "Belize",
                   "canali": [
                     "Nexgen"
@@ -7409,6 +7401,12 @@
                   ]
                 },
                 {
+                  "paese": "Capo Verde",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Isole Cayman",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7453,6 +7451,12 @@
                   "paese": "Costa Rica",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Croazia",
+                  "canali": [
+                    "Arena Sport 1 Croatia"
                   ]
                 },
                 {
@@ -7550,6 +7554,12 @@
                   ]
                 },
                 {
+                  "paese": "Grecia",
+                  "canali": [
+                    "MagentaSport 1"
+                  ]
+                },
+                {
                   "paese": "Grenada",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -7573,6 +7583,12 @@
                     "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Guinea-Bissau",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -7727,6 +7743,12 @@
                   ]
                 },
                 {
+                  "paese": "Lussemburgo",
+                  "canali": [
+                    "DAZN1 Belgium"
+                  ]
+                },
+                {
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
@@ -7814,6 +7836,7 @@
                 {
                   "paese": "Mozambico",
                   "canali": [
+                    "ZAP",
                     "StarTimes App",
                     "Sporty TV",
                     "Sporty TV App"
@@ -8070,6 +8093,12 @@
                   ]
                 },
                 {
+                  "paese": "São Tomé and Príncipe",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
@@ -8137,6 +8166,7 @@
                   "paese": "Ucraina",
                   "canali": [
                     "Megogo",
+                    "MEGOGO Football 1",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -8440,6 +8470,12 @@
                   ]
                 },
                 {
+                  "paese": "Croazia",
+                  "canali": [
+                    "Arena Sport 4 Croatia"
+                  ]
+                },
+                {
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -8521,6 +8557,12 @@
                   "paese": "Gran Bretagna",
                   "canali": [
                     "DAZN UK"
+                  ]
+                },
+                {
+                  "paese": "Grecia",
+                  "canali": [
+                    "MagentaSport 1"
                   ]
                 },
                 {
@@ -9635,67 +9677,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 2P",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Stars"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9816,116 +9798,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 3",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9954,7 +9827,67 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9983,116 +9916,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 3",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -10374,29 +10198,8 @@
         },
         {
           "nome": "UEFA Nations League",
-          "totale": 3,
+          "totale": 2,
           "eventi": [
-            {
-              "titolo": "UEFA Nations League: Kazakistan-Isole Faroe",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Kazakistan-Isole Faroe",
-              "inizio": "2026-10-06T16:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "16:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T16:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "UEFA Nations League: Croazia-Spagna",
               "categoria": "Calcio",
@@ -10835,244 +10638,8 @@
     },
     {
       "nome": "Tennis",
-      "totale": 21,
+      "totale": 19,
       "sottocartelle": [
-        {
-          "nome": "ATP & WTA",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-06T15:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "WTA 1000 Pechino",
-          "totale": 9,
-          "eventi": [
-            {
-              "titolo": "WTA 1000 Pechino: 7a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "7a giornata",
-              "inizio": "2026-10-06T15:00:00+02:00",
-              "data": "06/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 8a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "8a giornata",
-              "inizio": "2026-10-07T07:00:00+02:00",
-              "data": "07/10/2026",
-              "ora": "07:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T07:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 1^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "1^ Quarto di Finale",
-              "inizio": "2026-10-08T09:00:00+02:00",
-              "data": "08/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-08T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 2^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "2^ Quarto di Finale",
-              "inizio": "2026-10-08T13:00:00+02:00",
-              "data": "08/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-08T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-08T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 3^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "3^ Quarto di Finale",
-              "inizio": "2026-10-09T09:00:00+02:00",
-              "data": "09/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-09T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 4^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "4^ Quarto di Finale",
-              "inizio": "2026-10-09T13:00:00+02:00",
-              "data": "09/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-09T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 1a Semifinale Singolare",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "1a Semifinale Singolare",
-              "inizio": "2026-10-10T09:00:00+02:00",
-              "data": "10/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-10T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 2a Semifinale Singolare",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "2a Semifinale Singolare",
-              "inizio": "2026-10-10T13:00:00+02:00",
-              "data": "10/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-10T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "Finale",
-              "inizio": "2026-10-11T13:30:00+02:00",
-              "data": "11/10/2026",
-              "ora": "13:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T13:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "ATP Masters 1000 Shanghai",
           "totale": 10,
@@ -11339,6 +10906,194 @@
           ]
         },
         {
+          "nome": "WTA 1000 Pechino",
+          "totale": 8,
+          "eventi": [
+            {
+              "titolo": "WTA 1000 Pechino: 8a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "8a giornata",
+              "inizio": "2026-10-07T07:00:00+02:00",
+              "data": "07/10/2026",
+              "ora": "07:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T07:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-07T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 1^ Quarto di Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "1^ Quarto di Finale",
+              "inizio": "2026-10-08T09:00:00+02:00",
+              "data": "08/10/2026",
+              "ora": "09:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T09:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 2^ Quarto di Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "2^ Quarto di Finale",
+              "inizio": "2026-10-08T13:00:00+02:00",
+              "data": "08/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T13:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 3^ Quarto di Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "3^ Quarto di Finale",
+              "inizio": "2026-10-09T09:00:00+02:00",
+              "data": "09/10/2026",
+              "ora": "09:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-09T09:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 4^ Quarto di Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "4^ Quarto di Finale",
+              "inizio": "2026-10-09T13:00:00+02:00",
+              "data": "09/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-09T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 1a Semifinale Singolare",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "1a Semifinale Singolare",
+              "inizio": "2026-10-10T09:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "09:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T09:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: 2a Semifinale Singolare",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "2a Semifinale Singolare",
+              "inizio": "2026-10-10T13:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "Finale",
+              "inizio": "2026-10-11T13:30:00+02:00",
+              "data": "11/10/2026",
+              "ora": "13:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T13:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
           "nome": "WTA 1000 Wuhan",
           "totale": 1,
           "eventi": [
@@ -11594,40 +11349,12 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 10,
+      "totale": 9,
       "sottocartelle": [
         {
           "nome": "Ciclismo",
-          "totale": 6,
+          "totale": 5,
           "eventi": [
-            {
-              "titolo": "Tre Valli Varesine: .",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo",
-              "sport": "Ciclismo",
-              "competizione": "Tre Valli Varesine",
-              "evento": ".",
-              "inizio": "2026-10-06T15:25:00+02:00",
-              "data": "06/10/2026",
-              "ora": "15:25",
-              "canali": [
-                {
-                  "nome": "Eurosport 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T15:25",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-06T15:25",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Europei Ljubljana: Cronometro Élite Donne",
               "categoria": "Altri sport",
