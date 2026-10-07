@@ -1,58 +1,16 @@
 {
-  "aggiornato": "2026-10-07T20:38:47+02:00",
+  "aggiornato": "2026-10-07T22:38:21+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 227,
+  "totale": 225,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 3,
+      "totale": 1,
       "eventi": [
-        {
-          "titolo": "[Basket] Eurocup: Cluj Napoca-Reyer Venezia",
-          "categoria": "Basket",
-          "sottocartella": "Eurocup",
-          "sport": "Basket",
-          "competizione": "Eurocup",
-          "evento": "Cluj Napoca-Reyer Venezia",
-          "inizio": "2026-10-07T18:00:00+02:00",
-          "data": "07/10/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-07T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] Eurocup: Derthona Tortona-Le Mans",
-          "categoria": "Basket",
-          "sottocartella": "Eurocup",
-          "sport": "Basket",
-          "competizione": "Eurocup",
-          "evento": "Derthona Tortona-Le Mans",
-          "inizio": "2026-10-07T19:30:00+02:00",
-          "data": "07/10/2026",
-          "ora": "19:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-07T19:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Basket] Eurocup: BC Roma-Lietkabelis Panevezys",
           "categoria": "Basket",
@@ -11575,54 +11533,12 @@
     },
     {
       "nome": "Basket",
-      "totale": 6,
+      "totale": 4,
       "sottocartelle": [
         {
           "nome": "Eurocup",
-          "totale": 3,
+          "totale": 1,
           "eventi": [
-            {
-              "titolo": "Eurocup: Cluj Napoca-Reyer Venezia",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Cluj Napoca-Reyer Venezia",
-              "inizio": "2026-10-07T18:00:00+02:00",
-              "data": "07/10/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: Derthona Tortona-Le Mans",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Derthona Tortona-Le Mans",
-              "inizio": "2026-10-07T19:30:00+02:00",
-              "data": "07/10/2026",
-              "ora": "19:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T19:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Eurocup: BC Roma-Lietkabelis Panevezys",
               "categoria": "Basket",
