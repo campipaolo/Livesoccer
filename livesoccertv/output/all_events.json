@@ -189,16 +189,31 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5721120",
@@ -1698,6 +1713,13 @@
           ]
         },
         {
+          "paese": "Cipro",
+          "canali": [
+            "Cytavision on the Go",
+            "Cytavision Sports 4"
+          ]
+        },
+        {
           "paese": "Repubblica Ceca",
           "canali": [
             "Sport 1 CZ",
@@ -2703,6 +2725,13 @@
           ]
         },
         {
+          "paese": "Cipro",
+          "canali": [
+            "Cytavision on the Go",
+            "Cytavision Sports 4"
+          ]
+        },
+        {
           "paese": "Repubblica Ceca",
           "canali": [
             "Sport 1 CZ",
@@ -3590,6 +3619,7 @@
           "paese": "Andorra",
           "canali": [
             "DAZN Spain",
+            "DAZN France",
             "ZAP"
           ]
         },
@@ -3829,6 +3859,13 @@
           ]
         },
         {
+          "paese": "Cipro",
+          "canali": [
+            "Cytavision on the Go",
+            "Cytavision Sports 4"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
             "TV2 Play Denmark"
@@ -3886,6 +3923,12 @@
           "canali": [
             "MTV Urheilu 2",
             "MTV Katsomo"
+          ]
+        },
+        {
+          "paese": "Francia",
+          "canali": [
+            "DAZN France"
           ]
         },
         {
@@ -4180,6 +4223,12 @@
           "paese": "Moldavia",
           "canali": [
             "Q League"
+          ]
+        },
+        {
+          "paese": "Monaco",
+          "canali": [
+            "DAZN France"
           ]
         },
         {
@@ -4648,7 +4697,8 @@
         {
           "paese": "Andorra",
           "canali": [
-            "DAZN Spain"
+            "DAZN Spain",
+            "DAZN France"
           ]
         },
         {
@@ -4844,6 +4894,13 @@
           ]
         },
         {
+          "paese": "Cipro",
+          "canali": [
+            "Cytavision on the Go",
+            "Cytavision Sports 4"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
             "TV2 Play Denmark"
@@ -4901,6 +4958,12 @@
           "canali": [
             "MTV Urheilu 2",
             "MTV Katsomo"
+          ]
+        },
+        {
+          "paese": "Francia",
+          "canali": [
+            "DAZN France"
           ]
         },
         {
@@ -5145,6 +5208,12 @@
           "paese": "Moldavia",
           "canali": [
             "Q League"
+          ]
+        },
+        {
+          "paese": "Monaco",
+          "canali": [
+            "DAZN France"
           ]
         },
         {
@@ -5533,50 +5602,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Moja TV",
-            "Arena Sport 2",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Turchia",
-          "canali": [
-            "Sifir TV"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5808940",
@@ -5602,122 +5628,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Moja TV",
-            "Arena Sport 3",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Turchia",
-          "canali": [
-            "Sifir TV"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5808941",
@@ -5835,122 +5746,85 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
+      "canali_mondo": []
+    },
+    {
+      "id": "5810140",
+      "competition": "Serie B",
+      "home": "Avellino",
+      "away": "Sampdoria",
+      "title": "Avellino vs Sampdoria",
+      "kickoff": "2026-10-14T04:00:00+02:00",
+      "date": "2026-10-14",
+      "time": "04:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-avellino/6jjqj#5810140",
+      "channels": [
         {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Moja TV",
-            "Arena Sport 3",
-            "Arena Cloud"
-          ]
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Turchia",
-          "canali": [
-            "Sifir TV"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
         }
-      ]
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5810141",
+      "competition": "Serie B",
+      "home": "Empoli",
+      "away": "Palermo",
+      "title": "Empoli vs Palermo",
+      "kickoff": "2026-10-14T06:00:00+02:00",
+      "date": "2026-10-14",
+      "time": "06:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-empoli/361gm#5810141",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5810142",
+      "competition": "Serie B",
+      "home": "Modena",
+      "away": "Verona",
+      "title": "Modena vs Verona",
+      "kickoff": "2026-10-14T08:00:00+02:00",
+      "date": "2026-10-14",
+      "time": "08:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5810142",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
     }
   ]
 }

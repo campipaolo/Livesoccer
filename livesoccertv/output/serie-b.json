@@ -136,6 +136,42 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5809543"
+    },
+    {
+      "title": "[COLOR cyan]Mercoledi 14 Ottobre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]04:00[/COLOR] Avellino vs Sampdoria",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-avellino/6jjqj#5810140"
+    },
+    {
+      "title": "[COLOR yellow]06:00[/COLOR] Empoli vs Palermo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-empoli/361gm#5810141"
+    },
+    {
+      "title": "[COLOR yellow]08:00[/COLOR] Modena vs Verona",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5810142"
     }
   ]
 }
