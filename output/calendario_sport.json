@@ -1,79 +1,16 @@
 {
-  "aggiornato": "2026-10-07T06:46:29+02:00",
+  "aggiornato": "2026-10-07T13:35:54+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 227,
+  "totale": 229,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 8,
+      "totale": 6,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 1a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Shanghai",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Shanghai",
-          "evento": "1a giornata",
-          "inizio": "2026-10-07T06:00:00+02:00",
-          "data": "07/10/2026",
-          "ora": "06:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-07T06:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-07T06:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-07T06:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 8a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "8a giornata",
-          "inizio": "2026-10-07T07:00:00+02:00",
-          "data": "07/10/2026",
-          "ora": "07:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-07T07:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Mix",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-07T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP Masters 1000 Shanghai: 1a giornata",
           "categoria": "Tennis",
@@ -218,7 +155,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 134,
+      "totale": 135,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -1829,7 +1766,7 @@
         },
         {
           "nome": "Formula 2 e Formula 3",
-          "totale": 5,
+          "totale": 6,
           "eventi": [
             {
               "titolo": "Formula 2 e Formula 3: F2 - Qatar GP - Quali",
@@ -1903,6 +1840,21 @@
               "inizio": "2026-12-05T13:15:00+01:00",
               "data": "05/12/2026",
               "ora": "13:15",
+              "canali": [],
+              "fonte": "Fuori Traiettoria"
+            },
+            {
+              "titolo": "Formula 2 e Formula 3: F2 - Abu Dhabi GP - Feature Race",
+              "categoria": "Motori",
+              "sottocartella": "Formula 2 e Formula 3",
+              "sport": "Motori",
+              "competizione": "Formula 2 e Formula 3",
+              "evento": "F2 - Abu Dhabi GP - Feature Race",
+              "sessione": "gara",
+              "circuito": "Yas Marina Circuit - Abu Dhabi - Emirati Arabi Uniti",
+              "inizio": "2026-12-06T10:25:00+01:00",
+              "data": "06/12/2026",
+              "ora": "10:25",
               "canali": [],
               "fonte": "Fuori Traiettoria"
             }
@@ -3551,9 +3503,9 @@
               "evento": "M3 - Indonesian GP - Quali",
               "sessione": "qualifiche",
               "circuito": "Pertamina Mandalika International Street Circuit, Jl. Mandalika Resort Pantai Putri Nyale, Kuta, Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573, Indonesia",
-              "inizio": "2026-10-10T06:55:00+02:00",
+              "inizio": "2026-10-10T06:45:00+02:00",
               "data": "10/10/2026",
-              "ora": "06:55",
+              "ora": "06:45",
               "canali": [],
               "fonte": "Fuori Traiettoria"
             },
@@ -3566,9 +3518,9 @@
               "evento": "M2 - Indonesian GP - Quali",
               "sessione": "qualifiche",
               "circuito": "Pertamina Mandalika International Street Circuit, Jl. Mandalika Resort Pantai Putri Nyale, Kuta, Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573, Indonesia",
-              "inizio": "2026-10-10T07:50:00+02:00",
+              "inizio": "2026-10-10T07:40:00+02:00",
               "data": "10/10/2026",
-              "ora": "07:50",
+              "ora": "07:40",
               "canali": [],
               "fonte": "Fuori Traiettoria"
             },
@@ -3614,16 +3566,7 @@
               "inizio": "2026-10-24T03:50:00+02:00",
               "data": "24/10/2026",
               "ora": "03:50",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-10-24T04:45",
-                  "programma": "GP Australia: Qualifiche",
-                  "fonte": "tv8"
-                }
-              ],
+              "canali": [],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -3638,16 +3581,7 @@
               "inizio": "2026-10-24T04:45:00+02:00",
               "data": "24/10/2026",
               "ora": "04:45",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T04:45",
-                  "programma": "GP Australia: Qualifiche",
-                  "fonte": "tv8"
-                }
-              ],
+              "canali": [],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -4277,7 +4211,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 58,
+      "totale": 61,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -5526,6 +5460,13 @@
                   ]
                 },
                 {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
+                  ]
+                },
+                {
                   "paese": "Repubblica Ceca",
                   "canali": [
                     "Sport 1 CZ",
@@ -6554,6 +6495,13 @@
                   ]
                 },
                 {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
+                  ]
+                },
+                {
                   "paese": "Repubblica Ceca",
                   "canali": [
                     "Sport 1 CZ",
@@ -7359,6 +7307,7 @@
                   "paese": "Andorra",
                   "canali": [
                     "DAZN Spain",
+                    "DAZN France",
                     "ZAP"
                   ]
                 },
@@ -7598,6 +7547,13 @@
                   ]
                 },
                 {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
+                  ]
+                },
+                {
                   "paese": "Danimarca",
                   "canali": [
                     "TV2 Play Denmark"
@@ -7655,6 +7611,12 @@
                   "canali": [
                     "MTV Urheilu 2",
                     "MTV Katsomo"
+                  ]
+                },
+                {
+                  "paese": "Francia",
+                  "canali": [
+                    "DAZN France"
                   ]
                 },
                 {
@@ -7949,6 +7911,12 @@
                   "paese": "Moldavia",
                   "canali": [
                     "Q League"
+                  ]
+                },
+                {
+                  "paese": "Monaco",
+                  "canali": [
+                    "DAZN France"
                   ]
                 },
                 {
@@ -8427,7 +8395,8 @@
                 {
                   "paese": "Andorra",
                   "canali": [
-                    "DAZN Spain"
+                    "DAZN Spain",
+                    "DAZN France"
                   ]
                 },
                 {
@@ -8623,6 +8592,13 @@
                   ]
                 },
                 {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
+                  ]
+                },
+                {
                   "paese": "Danimarca",
                   "canali": [
                     "TV2 Play Denmark"
@@ -8680,6 +8656,12 @@
                   "canali": [
                     "MTV Urheilu 2",
                     "MTV Katsomo"
+                  ]
+                },
+                {
+                  "paese": "Francia",
+                  "canali": [
+                    "DAZN France"
                   ]
                 },
                 {
@@ -8924,6 +8906,12 @@
                   "paese": "Moldavia",
                   "canali": [
                     "Q League"
+                  ]
+                },
+                {
+                  "paese": "Monaco",
+                  "canali": [
+                    "DAZN France"
                   ]
                 },
                 {
@@ -9426,7 +9414,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 15,
+          "totale": 18,
           "eventi": [
             {
               "titolo": "Serie B: Avellino vs Sampdoria",
@@ -9988,50 +9976,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 2",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Turchia",
-                  "canali": [
-                    "Sifir TV"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10060,122 +10005,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 3",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Turchia",
-                  "canali": [
-                    "Sifir TV"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10299,122 +10129,94 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Avellino vs Sampdoria",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Avellino vs Sampdoria",
+              "inizio": "2026-10-14T04:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "04:00",
+              "canali": [
                 {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 3",
-                    "Arena Cloud"
-                  ]
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-14T04:00",
+                  "fonte": "livesoccer"
                 },
                 {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Turchia",
-                  "canali": [
-                    "Sifir TV"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T04:00",
+                  "fonte": "livesoccer"
                 }
               ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Empoli vs Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Empoli vs Palermo",
+              "inizio": "2026-10-14T06:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-14T06:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T06:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Modena vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Modena vs Verona",
+              "inizio": "2026-10-14T08:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "08:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-14T08:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T08:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -10544,7 +10346,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11297,47 +11114,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 19,
+      "totale": 17,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Shanghai",
-          "totale": 10,
+          "totale": 9,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Shanghai: 1a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Shanghai",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Shanghai",
-              "evento": "1a giornata",
-              "inizio": "2026-10-07T06:00:00+02:00",
-              "data": "07/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T06:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Shanghai: 1a giornata",
               "categoria": "Tennis",
@@ -11566,36 +11348,8 @@
         },
         {
           "nome": "WTA 1000 Pechino",
-          "totale": 8,
+          "totale": 7,
           "eventi": [
-            {
-              "titolo": "WTA 1000 Pechino: 8a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "8a giornata",
-              "inizio": "2026-10-07T07:00:00+02:00",
-              "data": "07/10/2026",
-              "ora": "07:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T07:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-07T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "WTA 1000 Pechino: 1^ Quarto di Finale",
               "categoria": "Tennis",
