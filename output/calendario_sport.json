@@ -1,72 +1,16 @@
 {
-  "aggiornato": "2026-10-08T06:54:47+02:00",
+  "aggiornato": "2026-10-08T12:37:09+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 238,
+  "totale": 268,
   "cartelle": [
     {
       "nome": "Oggi",
       "totale": 6,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 2a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Shanghai",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Shanghai",
-          "evento": "2a giornata",
-          "inizio": "2026-10-08T06:00:00+02:00",
-          "data": "08/10/2026",
-          "ora": "06:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-08T06:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-08T06:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-08T06:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 1^ Quarto di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "1^ Quarto di Finale",
-          "inizio": "2026-10-08T09:00:00+02:00",
-          "data": "08/10/2026",
-          "ora": "09:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-08T09:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP Masters 1000 Shanghai: 2a giornata",
           "categoria": "Tennis",
@@ -145,12 +89,61 @@
           "fonte": "Virgilio Sport"
         },
         {
+          "titolo": "[Tennis] WTA 1000 Pechino: Errani/Paolini-Dabrowski/Stefani",
+          "categoria": "Tennis",
+          "sottocartella": "WTA 1000 Pechino",
+          "sport": "Tennis",
+          "competizione": "WTA 1000 Pechino",
+          "evento": "Errani/Paolini-Dabrowski/Stefani",
+          "inizio": "2026-10-08T15:00:00+02:00",
+          "data": "08/10/2026",
+          "ora": "15:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-08T15:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
           "titolo": "[Basket] Eurolega: Maccabi Tel Aviv-Olimpia Milano",
           "categoria": "Basket",
           "sottocartella": "Eurolega",
           "sport": "Basket",
           "competizione": "Eurolega",
           "evento": "Maccabi Tel Aviv-Olimpia Milano",
+          "inizio": "2026-10-08T18:00:00+02:00",
+          "data": "08/10/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-08T18:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-08T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Bayern Monaco-Virtus Bologna",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Bayern Monaco-Virtus Bologna",
           "inizio": "2026-10-08T20:00:00+02:00",
           "data": "08/10/2026",
           "ora": "20:00",
@@ -158,6 +151,13 @@
             {
               "nome": "Sky Sport 1",
               "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-08T20:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
               "tipo": "diretta",
               "orario": "2026-10-08T20:00",
               "fonte": "virgilio"
@@ -4312,7 +4312,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 72,
+      "totale": 81,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -10385,7 +10385,7 @@
         },
         {
           "nome": "Serie C",
-          "totale": 9,
+          "totale": 16,
           "eventi": [
             {
               "titolo": "Serie C: Union Brescia vs Pro Vercelli",
@@ -10615,6 +10615,48 @@
               "fonte": "LiveSoccerTV"
             },
             {
+              "titolo": "Serie C: Novara-Cittadella",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Novara-Cittadella",
+              "inizio": "2026-10-10T17:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Spezia-Gubbio",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Spezia-Gubbio",
+              "inizio": "2026-10-10T20:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
               "titolo": "Serie C: Altamura-Catania",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
@@ -10657,6 +10699,90 @@
               "fonte": "Virgilio Sport"
             },
             {
+              "titolo": "Serie C: Forli-Livorno",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Forli-Livorno",
+              "inizio": "2026-10-11T17:30:00+02:00",
+              "data": "11/10/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Barletta-Cavese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Barletta-Cavese",
+              "inizio": "2026-10-12T20:30:00+02:00",
+              "data": "12/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Pescara-Guidonia Montecelio",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Pescara-Guidonia Montecelio",
+              "inizio": "2026-10-12T20:30:00+02:00",
+              "data": "12/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Picerno-Cosenza",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Picerno-Cosenza",
+              "inizio": "2026-10-12T20:30:00+02:00",
+              "data": "12/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
               "titolo": "Serie C: Giugliano-Inter U23",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
@@ -10672,6 +10798,34 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-13T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Juventus Next Gen-Lumezzane",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Juventus Next Gen-Lumezzane",
+              "inizio": "2026-10-13T16:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "16:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T16:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T16:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -10750,7 +10904,7 @@
         },
         {
           "nome": "Bundesliga 2",
-          "totale": 1,
+          "totale": 2,
           "eventi": [
             {
               "titolo": "Bundesliga 2: Heidenheim-Kaiserslautern",
@@ -10768,6 +10922,27 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-09T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga 2: Norimberga-Wolfsburg",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga 2",
+              "sport": "Calcio",
+              "competizione": "Bundesliga 2",
+              "evento": "Norimberga-Wolfsburg",
+              "inizio": "2026-10-10T20:30:00+02:00",
+              "data": "10/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T20:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -10855,12 +11030,12 @@
           "totale": 1,
           "eventi": [
             {
-              "titolo": "Serie A Futsal: Came Treviso-Fortitudo Pomezia",
+              "titolo": "Serie A Futsal: Napoli-L84 Torino",
               "categoria": "Calcio",
               "sottocartella": "Serie A Futsal",
               "sport": "Calcio a 5 maschile",
               "competizione": "Serie A Futsal",
-              "evento": "Came Treviso-Fortitudo Pomezia",
+              "evento": "Napoli-L84 Torino",
               "inizio": "2026-10-09T20:30:00+02:00",
               "data": "09/10/2026",
               "ora": "20:30",
@@ -10975,7 +11150,7 @@
         },
         {
           "nome": "Premier League",
-          "totale": 5,
+          "totale": 6,
           "eventi": [
             {
               "titolo": "Premier League: Arsenal-Leeds United",
@@ -11068,15 +11243,36 @@
               "sport": "Calcio",
               "competizione": "Premier League",
               "evento": "Liverpool-Manchester City",
-              "inizio": "2026-10-11T18:15:00+02:00",
+              "inizio": "2026-10-11T17:30:00+02:00",
               "data": "11/10/2026",
-              "ora": "18:15",
+              "ora": "17:30",
               "canali": [
                 {
                   "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-11T18:15",
+                  "orario": "2026-10-11T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Coventry City-Newcastle",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Coventry City-Newcastle",
+              "inizio": "2026-10-12T21:00:00+02:00",
+              "data": "12/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11086,7 +11282,7 @@
         },
         {
           "nome": "UEFA Champions League",
-          "totale": 19,
+          "totale": 18,
           "eventi": [
             {
               "titolo": "UEFA Champions League: Lens-Sporting",
@@ -11129,6 +11325,13 @@
               "canali": [
                 {
                   "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-13T18:45",
@@ -11224,6 +11427,13 @@
                   "tipo": "diretta",
                   "orario": "2026-10-13T21:00",
                   "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T21:00",
+                  "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
@@ -11287,6 +11497,13 @@
                   "tipo": "diretta",
                   "orario": "2026-10-13T21:00",
                   "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T21:00",
+                  "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
@@ -11305,6 +11522,13 @@
                 {
                   "nome": "Sky",
                   "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-14T18:45",
                   "fonte": "virgilio"
@@ -11329,21 +11553,7 @@
                   "tipo": "diretta",
                   "orario": "2026-10-14T18:45",
                   "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Lask-Liverpool",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Lask-Liverpool",
-              "inizio": "2026-10-14T18:45:00+02:00",
-              "data": "14/10/2026",
-              "ora": "18:45",
-              "canali": [
+                },
                 {
                   "nome": "Sky Sport Calcio",
                   "numero": "",
@@ -11367,6 +11577,13 @@
               "canali": [
                 {
                   "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-14T21:00",
@@ -11516,52 +11733,44 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "UEFA Youth League",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "UEFA Youth League: Roma-Real Madrid U19",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Youth League",
+              "sport": "Calcio",
+              "competizione": "UEFA Youth League",
+              "evento": "Roma-Real Madrid U19",
+              "inizio": "2026-10-14T14:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "14:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T14:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Tennis",
-      "totale": 16,
+      "totale": 25,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Shanghai",
-          "totale": 8,
+          "totale": 11,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Shanghai: 2a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Shanghai",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Shanghai",
-              "evento": "2a giornata",
-              "inizio": "2026-10-08T06:00:00+02:00",
-              "data": "08/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-08T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-08T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-08T06:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Shanghai: 2a giornata",
               "categoria": "Tennis",
@@ -11606,6 +11815,13 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-09T06:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-09T12:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11729,6 +11945,104 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 6 giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "6 giornata",
+              "inizio": "2026-10-12T06:00:00+02:00",
+              "data": "12/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T06:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 6a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "6a giornata",
+              "inizio": "2026-10-12T06:00:00+02:00",
+              "data": "12/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T06:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 7a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "7a giornata",
+              "inizio": "2026-10-13T06:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T06:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T12:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Masters 1000 Shanghai: 8a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "8a giornata",
+              "inizio": "2026-10-14T06:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T06:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T12:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -11736,27 +12050,6 @@
           "nome": "WTA 1000 Pechino",
           "totale": 7,
           "eventi": [
-            {
-              "titolo": "WTA 1000 Pechino: 1^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "1^ Quarto di Finale",
-              "inizio": "2026-10-08T09:00:00+02:00",
-              "data": "08/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-08T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "WTA 1000 Pechino: 2^ Quarto di Finale",
               "categoria": "Tennis",
@@ -11780,6 +12073,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-08T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: Errani/Paolini-Dabrowski/Stefani",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "Errani/Paolini-Dabrowski/Stefani",
+              "inizio": "2026-10-08T15:00:00+02:00",
+              "data": "08/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T15:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11870,12 +12184,12 @@
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "WTA 1000 Pechino: Finale",
+              "titolo": "WTA 1000 Pechino: WTA: Finale",
               "categoria": "Tennis",
               "sottocartella": "WTA 1000 Pechino",
               "sport": "Tennis",
               "competizione": "WTA 1000 Pechino",
-              "evento": "Finale",
+              "evento": "WTA: Finale",
               "inizio": "2026-10-11T13:30:00+02:00",
               "data": "11/10/2026",
               "ora": "13:30",
@@ -11894,7 +12208,7 @@
         },
         {
           "nome": "WTA 1000 Wuhan",
-          "totale": 1,
+          "totale": 7,
           "eventi": [
             {
               "titolo": "WTA 1000 Wuhan: 1a giornata",
@@ -11916,6 +12230,132 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Wuhan: 2a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "2a giornata",
+              "inizio": "2026-10-12T05:00:00+02:00",
+              "data": "12/10/2026",
+              "ora": "05:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T05:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Wuhan: 1a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "1a giornata",
+              "inizio": "2026-10-12T06:00:00+02:00",
+              "data": "12/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T06:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Wuhan: 3a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "3a giornata",
+              "inizio": "2026-10-13T05:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "05:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T05:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Wuhan: 2a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "2a giornata",
+              "inizio": "2026-10-13T06:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T06:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Wuhan: 4a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "4a giornata",
+              "inizio": "2026-10-14T05:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "05:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T05:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Wuhan: 3a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "3a giornata",
+              "inizio": "2026-10-14T06:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T06:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         }
@@ -11923,11 +12363,11 @@
     },
     {
       "nome": "Basket",
-      "totale": 3,
+      "totale": 15,
       "sottocartelle": [
         {
           "nome": "Eurolega",
-          "totale": 2,
+          "totale": 6,
           "eventi": [
             {
               "titolo": "Eurolega: Maccabi Tel Aviv-Olimpia Milano",
@@ -11936,6 +12376,34 @@
               "sport": "Basket",
               "competizione": "Eurolega",
               "evento": "Maccabi Tel Aviv-Olimpia Milano",
+              "inizio": "2026-10-08T18:00:00+02:00",
+              "data": "08/10/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T18:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Bayern Monaco-Virtus Bologna",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Bayern Monaco-Virtus Bologna",
               "inizio": "2026-10-08T20:00:00+02:00",
               "data": "08/10/2026",
               "ora": "20:00",
@@ -11946,17 +12414,45 @@
                   "tipo": "diretta",
                   "orario": "2026-10-08T20:00",
                   "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-08T20:00",
+                  "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "Eurolega: Barcellona-Zalgiris",
+              "titolo": "Eurolega: Olympiacos-Efes",
               "categoria": "Basket",
               "sottocartella": "Eurolega",
               "sport": "Basket",
               "competizione": "Eurolega",
-              "evento": "Barcellona-Zalgiris",
+              "evento": "Olympiacos-Efes",
+              "inizio": "2026-10-09T20:15:00+02:00",
+              "data": "09/10/2026",
+              "ora": "20:15",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-09T20:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Barcellona-Zalgiris Kaunas",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Barcellona-Zalgiris Kaunas",
               "inizio": "2026-10-09T20:30:00+02:00",
               "data": "09/10/2026",
               "ora": "20:30",
@@ -11970,13 +12466,83 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Olimpia Milano-Real Madrid",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Olimpia Milano-Real Madrid",
+              "inizio": "2026-10-13T20:30:00+02:00",
+              "data": "13/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Paris Basketball-Virtus Bologna",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Paris Basketball-Virtus Bologna",
+              "inizio": "2026-10-14T20:45:00+02:00",
+              "data": "14/10/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Serie A",
-          "totale": 1,
+          "totale": 2,
           "eventi": [
+            {
+              "titolo": "Serie A: Olimpia Milano-Universo Treviso",
+              "categoria": "Basket",
+              "sottocartella": "Serie A",
+              "sport": "Basket",
+              "competizione": "Serie A",
+              "evento": "Olimpia Milano-Universo Treviso",
+              "inizio": "2026-10-11T16:00:00+02:00",
+              "data": "11/10/2026",
+              "ora": "16:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T16:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T16:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
             {
               "titolo": "Serie A: Maxima Roma-BC Roma",
               "categoria": "Basket",
@@ -11989,10 +12555,176 @@
               "ora": "18:15",
               "canali": [
                 {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T18:15",
+                  "fonte": "virgilio"
+                },
+                {
                   "nome": "Sky Sport 1",
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-11T18:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "NBA",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "NBA: Orlando Magic-Cleveland Cavaliers",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Orlando Magic-Cleveland Cavaliers",
+              "inizio": "2026-10-13T01:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "01:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T01:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Eurocup",
+          "totale": 6,
+          "eventi": [
+            {
+              "titolo": "Eurocup: Aquila Trento-Niners Chemnitz",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Aquila Trento-Niners Chemnitz",
+              "inizio": "2026-10-13T20:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: BC Roma-Balkan Botevgrad",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "BC Roma-Balkan Botevgrad",
+              "inizio": "2026-10-13T20:00:00+02:00",
+              "data": "13/10/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-13T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Aris Thessaloniki-Derthona Tortona",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Aris Thessaloniki-Derthona Tortona",
+              "inizio": "2026-10-14T19:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Slask Wroclaw-Napoli Basket",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Slask Wroclaw-Napoli Basket",
+              "inizio": "2026-10-14T19:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Reyer Venezia-Ankara",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Reyer Venezia-Ankara",
+              "inizio": "2026-10-14T21:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Tenerife-Maxima Roma",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Tenerife-Maxima Roma",
+              "inizio": "2026-10-14T21:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T21:00",
                   "fonte": "virgilio"
                 }
               ],
