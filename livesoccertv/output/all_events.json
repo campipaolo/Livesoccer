@@ -53,6 +53,13 @@
           ]
         },
         {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 5 Live"
+          ]
+        },
+        {
           "paese": "Macedonia",
           "canali": [
             "Arena Cloud"
@@ -82,6 +89,13 @@
           "canali": [
             "Arena Sport 6 Serbia",
             "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 5 Live"
           ]
         },
         {
@@ -621,6 +635,7 @@
         {
           "paese": "Georgia",
           "canali": [
+            "Silk Sport HD 2",
             "Q League"
           ]
         },
@@ -815,6 +830,14 @@
           ]
         },
         {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Sport 1 Serbia",
+            "MaxTV Go",
+            "Arena Cloud"
+          ]
+        },
+        {
           "paese": "Malawi",
           "canali": [
             "Azam Sports 3 HD"
@@ -878,6 +901,13 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Sport 1 Serbia",
+            "Arena Cloud"
           ]
         },
         {
@@ -1000,7 +1030,10 @@
           "paese": "Romania",
           "canali": [
             "Digi Sport 3 Romania",
-            "Digi Online"
+            "Digi Online",
+            "Prima Sport 2",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -1055,6 +1088,13 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 1 Serbia",
+            "Arena Cloud"
           ]
         },
         {
@@ -1355,10 +1395,43 @@
           ]
         },
         {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
             "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 6 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -1558,7 +1631,8 @@
         {
           "paese": "Azerbaigian",
           "canali": [
-            "Q League"
+            "Q League",
+            "TV NET"
           ]
         },
         {
@@ -1944,6 +2018,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "Arena 4 Premium",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -1986,6 +2061,13 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 4 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -2050,6 +2132,13 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 4 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -2172,7 +2261,10 @@
           "paese": "Romania",
           "canali": [
             "Digi Sport 2 Romania",
-            "Digi Online"
+            "Digi Online",
+            "Prima Sport 2",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -2227,6 +2319,13 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 4 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -2970,6 +3069,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -3012,6 +3112,13 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 3 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -3076,6 +3183,13 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 3 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -3202,7 +3316,10 @@
           "paese": "Romania",
           "canali": [
             "Digi Online",
-            "Digi Sport 4 Romania"
+            "Digi Sport 4 Romania",
+            "Orange TV Go",
+            "Prima Sport 3",
+            "Prima Play"
           ]
         },
         {
@@ -3260,6 +3377,13 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 3 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -3610,7 +3734,8 @@
         {
           "paese": "Azerbaigian",
           "canali": [
-            "Q League"
+            "Q League",
+            "TV NET"
           ]
         },
         {
@@ -4044,6 +4169,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "Arena 1 Premium",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -4092,6 +4218,13 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 1 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -4163,6 +4296,13 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 1 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -4298,6 +4438,14 @@
           ]
         },
         {
+          "paese": "Romania",
+          "canali": [
+            "Prima Sport 1",
+            "Orange TV Go",
+            "Prima Play"
+          ]
+        },
+        {
           "paese": "Russia",
           "canali": [
             "Sportbox.ru",
@@ -4355,11 +4503,24 @@
           ]
         },
         {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 1 Premium",
+            "Arena Cloud"
+          ]
+        },
+        {
           "paese": "Sierra Leone",
           "canali": [
             "StarTimes App",
             "Sporty TV",
             "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Slovenia",
+          "canali": [
+            "Arena Sport 1 Slovenia"
           ]
         },
         {
@@ -4903,6 +5064,7 @@
         {
           "paese": "Georgia",
           "canali": [
+            "Silk Sport HD 1",
             "Q League"
           ]
         },
@@ -5050,6 +5212,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -5092,6 +5255,13 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 3 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -5148,6 +5318,13 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 3 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -5261,7 +5438,10 @@
           "paese": "Romania",
           "canali": [
             "Digi Sport 3 Romania",
-            "Digi Online"
+            "Digi Online",
+            "Orange TV Go",
+            "Prima Sport 3",
+            "Prima Play"
           ]
         },
         {
@@ -5316,6 +5496,19 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 3 Premium",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Slovenia",
+          "canali": [
+            "Arena Sport 3 Slovenia"
           ]
         },
         {
@@ -5604,18 +5797,13 @@
       "match_url": "https://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5809543",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
-          "stream": true
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "name": "fuboTV",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
-          "stream": true
-        },
-        {
-          "name": "FOX One",
-          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
