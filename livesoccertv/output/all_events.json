@@ -9,8 +9,8 @@
       "kickoff": "2026-10-09T20:30:00+02:00",
       "date": "2026-10-09",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "4:1",
       "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-avellino/6jjqj#5742517",
       "channels": [
         {
@@ -139,8 +139,8 @@
       "kickoff": "2026-10-09T20:30:00+02:00",
       "date": "2026-10-09",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "2:0",
       "match_url": "https://www.livesoccertv.com/it/match/pro-vercelli-vs-union-brescia/8unhre#5720356",
       "channels": [
         {
@@ -356,38 +356,52 @@
       "channels": [
         {
           "name": "Sky Sport 256",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-6/",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
+      "canali_mondo": []
+    },
+    {
+      "id": "5721123",
+      "competition": "Serie C",
+      "home": "Savoia",
+      "away": "Inter II",
+      "title": "Savoia vs Inter II",
+      "kickoff": "2026-10-10T14:30:00+02:00",
+      "date": "2026-10-10",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/savoia-vs-inter-ii/awb4om#5721123",
+      "channels": [
         {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
+          "name": "Sky Sport 252",
+          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-2/",
+          "stream": false
         },
         {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
+          "name": "SKY Go Italia",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "stream": false
         }
-      ]
+      ],
+      "canali_mondo": []
     },
     {
       "id": "5653932",
@@ -531,6 +545,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -629,6 +644,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -676,6 +692,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -696,6 +713,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -757,6 +775,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -769,6 +788,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -975,6 +995,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -1035,6 +1056,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1069,6 +1091,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1633,6 +1656,47 @@
       ]
     },
     {
+      "id": "5742522",
+      "competition": "Serie B",
+      "home": "Vicenza",
+      "away": "Pisa",
+      "title": "Vicenza vs Pisa",
+      "kickoff": "2026-10-10T17:15:00+02:00",
+      "date": "2026-10-10",
+      "time": "17:15",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/vicenza-vs-pisa/8psf8#5742522",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
+    },
+    {
       "id": "5653933",
       "competition": "Serie A",
       "home": "Internazionale",
@@ -1781,6 +1845,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -1882,6 +1947,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1936,6 +2002,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1956,6 +2023,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2024,6 +2092,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2036,6 +2105,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2256,6 +2326,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -2322,6 +2393,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2356,6 +2428,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3082,6 +3155,7 @@
         {
           "paese": "Georgia",
           "canali": [
+            "Silk Sport HD 3",
             "Q League"
           ]
         },
@@ -4087,6 +4161,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN 5 Norte",
             "Nexgen"
           ]
         },
@@ -4217,7 +4292,8 @@
         {
           "paese": "Costa Rica",
           "canali": [
-            "Disney+ Premium Norte"
+            "Disney+ Premium Norte",
+            "ESPN 5 Norte"
           ]
         },
         {
@@ -4270,7 +4346,8 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
-            "Disney+ Premium Norte"
+            "Disney+ Premium Norte",
+            "ESPN 5 Norte"
           ]
         },
         {
@@ -4291,7 +4368,8 @@
         {
           "paese": "El Salvador",
           "canali": [
-            "Disney+ Premium Norte"
+            "Disney+ Premium Norte",
+            "ESPN 5 Norte"
           ]
         },
         {
@@ -4368,7 +4446,8 @@
         {
           "paese": "Guatemala",
           "canali": [
-            "Disney+ Premium Norte"
+            "Disney+ Premium Norte",
+            "ESPN 5 Norte"
           ]
         },
         {
@@ -4394,7 +4473,8 @@
         {
           "paese": "Honduras",
           "canali": [
-            "Disney+ Premium Norte"
+            "Disney+ Premium Norte",
+            "ESPN 5 Norte"
           ]
         },
         {
@@ -4630,6 +4710,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -4699,7 +4780,8 @@
         {
           "paese": "Nicaragua",
           "canali": [
-            "Disney+ Premium Norte"
+            "Disney+ Premium Norte",
+            "ESPN 5 Norte"
           ]
         },
         {
@@ -4741,7 +4823,8 @@
         {
           "paese": "Panama",
           "canali": [
-            "Disney+ Premium Norte"
+            "Disney+ Premium Norte",
+            "ESPN 5 Norte"
           ]
         },
         {
@@ -4776,6 +4859,7 @@
           "paese": "Porto Rico",
           "canali": [
             "CBS Sports Network",
+            "Peacock",
             "Disney+ Premium Caribbean",
             "NAICOM"
           ]
@@ -5061,6 +5145,7 @@
             "CBS Sports Network",
             "Paramount+",
             "fuboTV",
+            "Peacock",
             "Telemundo Deportes Ahora"
           ]
         },
@@ -5248,6 +5333,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN2 Norte",
             "Nexgen"
           ]
         },
@@ -5347,6 +5433,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN2 Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5394,6 +5481,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN2 Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5414,6 +5502,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN2 Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5476,6 +5565,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN2 Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5488,6 +5578,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN2 Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5695,6 +5786,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN2 Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -5755,6 +5847,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN2 Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5789,6 +5882,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN2 Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -6124,7 +6218,96 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Moja TV",
+            "Arena Sport 2",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Plus"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 6 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Turchia",
+          "canali": [
+            "Sifir TV"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "DCTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "id": "5808940",
@@ -6919,22 +7102,193 @@
       "match_url": "https://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5810142",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
-          "stream": true
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "name": "fuboTV",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
-          "stream": true
-        },
-        {
-          "name": "FOX One",
-          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bielorussia",
+          "canali": [
+            "Sporttv"
+          ]
+        },
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 1",
+            "Moja TV",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Burundi",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Repubblica Democratica del Congo",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Ghana",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Guinea",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Gold"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Kenya",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "MaxTV Go",
+            "Arena Sport 5 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Sport 5 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Nigeria",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "Ruanda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 5 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Sierra Leone",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Tanzania",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Turchia",
+          "canali": [
+            "Sifir TV"
+          ]
+        },
+        {
+          "paese": "Uganda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "DCTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "id": "5811480",
