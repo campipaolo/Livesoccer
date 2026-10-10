@@ -1,74 +1,16 @@
 {
-  "aggiornato": "2026-10-10T11:52:28+02:00",
+  "aggiornato": "2026-10-10T13:00:51+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 296,
+  "totale": 295,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 36,
+      "totale": 34,
       "eventi": [
-        {
-          "titolo": "[Motori] MotoGP: Grand Prix of Indonesia - Sprint",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Grand Prix of Indonesia - Sprint",
-          "sessione": "sprint",
-          "circuito": "Pertamina Mandalika International Circuit, Lombok, Indonesia",
-          "inizio": "2026-10-10T09:00:00+02:00",
-          "data": "10/10/2026",
-          "ora": "09:00",
-          "canali": [
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "diretta",
-              "orario": "2026-10-10T08:55",
-              "fonte": "dizzle+tv8"
-            },
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-10T09:00",
-              "fonte": "config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-10T09:00",
-              "fonte": "config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Pechino: 1a Semifinale Singolare",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Pechino",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Pechino",
-          "evento": "1a Semifinale Singolare",
-          "inizio": "2026-10-10T09:00:00+02:00",
-          "data": "10/10/2026",
-          "ora": "09:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-10T09:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Altri sport] Il Lombardia: .",
           "categoria": "Altri sport",
@@ -4468,7 +4410,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 127,
+      "totale": 126,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -6203,45 +6145,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 43,
+          "totale": 42,
           "eventi": [
-            {
-              "titolo": "MotoGP: Grand Prix of Indonesia - Sprint",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Grand Prix of Indonesia - Sprint",
-              "sessione": "sprint",
-              "circuito": "Pertamina Mandalika International Circuit, Lombok, Indonesia",
-              "inizio": "2026-10-10T09:00:00+02:00",
-              "data": "10/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-10T08:55",
-                  "fonte": "dizzle+tv8"
-                },
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-10T09:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-10T09:00",
-                  "fonte": "config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Grand Prix of Indonesia - Warm Up",
               "categoria": "Motori",
@@ -8304,7 +8209,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 108,
+      "totale": 109,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -13932,7 +13837,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 19,
+          "totale": 20,
           "eventi": [
             {
               "titolo": "Serie B: Benevento vs Cesena",
@@ -14334,7 +14239,111 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Sporttv"
+                  ]
+                },
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 5 Live"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 5 Live"
+                  ]
+                },
+                {
+                  "paese": "Turchia",
+                  "canali": [
+                    "Sifir TV"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "DCTV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14426,7 +14435,96 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Turchia",
+                  "canali": [
+                    "Sifir TV"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "DCTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14455,7 +14553,183 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Sporttv"
+                  ]
+                },
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 1",
+                    "Moja TV",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Burundi",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Repubblica Democratica del Congo",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Ghana",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Guinea",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Gold"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Kenya",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "MaxTV Go",
+                    "Arena Sport 5 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Sport 5 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Nigeria",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "Ruanda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 5 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Sierra Leone",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Sudafrica",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Tanzania",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Turchia",
+                  "canali": [
+                    "Sifir TV"
+                  ]
+                },
+                {
+                  "paese": "Uganda",
+                  "canali": [
+                    "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "DCTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14542,7 +14816,111 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Sporttv"
+                  ]
+                },
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 5 Live"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 5 Live"
+                  ]
+                },
+                {
+                  "paese": "Turchia",
+                  "canali": [
+                    "Sifir TV"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "DCTV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14571,7 +14949,96 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Turchia",
+                  "canali": [
+                    "Sifir TV"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "DCTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14637,6 +15104,124 @@
                 }
               ],
               "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Empoli vs Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Empoli vs Palermo",
+              "inizio": "2026-10-16T11:00:00+02:00",
+              "data": "16/10/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-16T11:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-16T11:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Moja TV",
+                    "Arena Sport 2",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 6 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Turchia",
+                  "canali": [
+                    "Sifir TV"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "DCTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -16671,77 +17256,8 @@
     },
     {
       "nome": "Tennis",
-      "totale": 27,
+      "totale": 26,
       "sottocartelle": [
-        {
-          "nome": "WTA 1000 Pechino",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "WTA 1000 Pechino: 1a Semifinale Singolare",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "1a Semifinale Singolare",
-              "inizio": "2026-10-10T09:00:00+02:00",
-              "data": "10/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-10T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: 2a Semifinale Singolare",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "2a Semifinale Singolare",
-              "inizio": "2026-10-10T13:00:00+02:00",
-              "data": "10/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-10T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Pechino: WTA: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Pechino",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Pechino",
-              "evento": "WTA: Finale",
-              "inizio": "2026-10-11T13:30:00+02:00",
-              "data": "11/10/2026",
-              "ora": "13:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T13:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "ATP Masters 1000 Shanghai",
           "totale": 13,
@@ -17035,6 +17551,54 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-16T12:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "WTA 1000 Pechino",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "WTA 1000 Pechino: 2a Semifinale Singolare",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "2a Semifinale Singolare",
+              "inizio": "2026-10-10T13:00:00+02:00",
+              "data": "10/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-10T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 1000 Pechino: WTA: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Pechino",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Pechino",
+              "evento": "WTA: Finale",
+              "inizio": "2026-10-11T13:30:00+02:00",
+              "data": "11/10/2026",
+              "ora": "13:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T13:30",
                   "fonte": "virgilio"
                 }
               ],
