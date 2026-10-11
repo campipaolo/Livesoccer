@@ -1,200 +1,16 @@
 {
-  "aggiornato": "2026-10-11T02:17:29+02:00",
+  "aggiornato": "2026-10-11T07:49:09+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 299,
+  "totale": 296,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 38,
+      "totale": 35,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie B: Avellino vs Sampdoria",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Avellino vs Sampdoria",
-          "inizio": "2026-10-11T00:00:00+02:00",
-          "data": "11/10/2026",
-          "ora": "00:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-11T00:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-11T00:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Bielorussia",
-              "canali": [
-                "Sporttv"
-              ]
-            },
-            {
-              "paese": "Bosnia ed Erzegovina",
-              "canali": [
-                "Moja TV",
-                "Arena Sport 2P",
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Brasile",
-              "canali": [
-                "SportyNet"
-              ]
-            },
-            {
-              "paese": "Gran Bretagna",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Irlanda",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Israele",
-              "canali": [
-                "5Stars"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 5 Live"
-              ]
-            },
-            {
-              "paese": "Macedonia",
-              "canali": [
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Montenegro",
-              "canali": [
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Serbia",
-              "canali": [
-                "Arena Sport 6 Serbia",
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 5 Live"
-              ]
-            },
-            {
-              "paese": "Turchia",
-              "canali": [
-                "Sifir TV"
-              ]
-            },
-            {
-              "paese": "USA",
-              "canali": [
-                "DCTV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Liga Profesional: River Plate-Estudiantes",
-          "categoria": "Calcio",
-          "sottocartella": "Liga Profesional",
-          "sport": "Calcio",
-          "competizione": "Liga Profesional",
-          "evento": "River Plate-Estudiantes",
-          "inizio": "2026-10-11T02:30:00+02:00",
-          "data": "11/10/2026",
-          "ora": "02:30",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-11T02:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Grand Prix of Indonesia - Warm Up",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Grand Prix of Indonesia - Warm Up",
-          "sessione": "prove",
-          "circuito": "Pertamina Mandalika International Circuit, Lombok, Indonesia",
-          "inizio": "2026-10-11T04:40:00+02:00",
-          "data": "11/10/2026",
-          "ora": "04:40",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-11T04:40",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-11T04:40",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
         {
           "titolo": "[Tennis] WTA 1000 Wuhan: 1a giornata",
           "categoria": "Tennis",
@@ -6486,7 +6302,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 122,
+      "totale": 121,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -8119,38 +7935,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 42,
+          "totale": 41,
           "eventi": [
-            {
-              "titolo": "MotoGP: Grand Prix of Indonesia - Warm Up",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Grand Prix of Indonesia - Warm Up",
-              "sessione": "prove",
-              "circuito": "Pertamina Mandalika International Circuit, Lombok, Indonesia",
-              "inizio": "2026-10-11T04:40:00+02:00",
-              "data": "11/10/2026",
-              "ora": "04:40",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T04:40",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-11T04:40",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Grand Prix of Indonesia - Gara",
               "categoria": "Motori",
@@ -10144,7 +9930,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 112,
+      "totale": 110,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -15608,141 +15394,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 20,
+          "totale": 19,
           "eventi": [
-            {
-              "titolo": "Serie B: Avellino vs Sampdoria",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Avellino vs Sampdoria",
-              "inizio": "2026-10-11T00:00:00+02:00",
-              "data": "11/10/2026",
-              "ora": "00:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-11T00:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T00:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Bielorussia",
-                  "canali": [
-                    "Sporttv"
-                  ]
-                },
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 2P",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Stars"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 5 Live"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 5 Live"
-                  ]
-                },
-                {
-                  "paese": "Turchia",
-                  "canali": [
-                    "Sifir TV"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "DCTV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Catanzaro vs Mantova",
               "categoria": "Calcio",
@@ -17605,96 +17258,6 @@
           ]
         },
         {
-          "nome": "Liga Profesional",
-          "totale": 4,
-          "eventi": [
-            {
-              "titolo": "Liga Profesional: River Plate-Estudiantes",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "River Plate-Estudiantes",
-              "inizio": "2026-10-11T02:30:00+02:00",
-              "data": "11/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Racing-Belgrano",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Racing-Belgrano",
-              "inizio": "2026-10-12T00:15:00+02:00",
-              "data": "12/10/2026",
-              "ora": "00:15",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-12T00:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Sarmiento-River Plate",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Sarmiento-River Plate",
-              "inizio": "2026-10-15T00:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "00:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T00:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Boca Juniors-Talleres",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Boca Juniors-Talleres",
-              "inizio": "2026-10-17T02:30:00+02:00",
-              "data": "17/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Primavera 1",
           "totale": 6,
           "eventi": [
@@ -17972,6 +17535,75 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-17T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Liga Profesional",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Liga Profesional: Racing-Belgrano",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Racing-Belgrano",
+              "inizio": "2026-10-12T00:15:00+02:00",
+              "data": "12/10/2026",
+              "ora": "00:15",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T00:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Sarmiento-River Plate",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Sarmiento-River Plate",
+              "inizio": "2026-10-15T00:00:00+02:00",
+              "data": "15/10/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-15T00:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Boca Juniors-Talleres",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Boca Juniors-Talleres",
+              "inizio": "2026-10-17T02:30:00+02:00",
+              "data": "17/10/2026",
+              "ora": "02:30",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-17T02:30",
                   "fonte": "virgilio"
                 }
               ],
