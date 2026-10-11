@@ -1,119 +1,16 @@
 {
-  "aggiornato": "2026-10-11T09:01:31+02:00",
+  "aggiornato": "2026-10-11T14:52:36+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 293,
+  "totale": 289,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 32,
+      "totale": 28,
       "eventi": [
-        {
-          "titolo": "[Altri sport] Mondiali Gravel Nannup: Prova Élite Uomini",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo",
-          "sport": "Ciclismo",
-          "competizione": "Mondiali Gravel Nannup 2026",
-          "evento": "Prova Élite Uomini",
-          "inizio": "2026-10-11T06:30:00+02:00",
-          "data": "11/10/2026",
-          "ora": "06:30",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-11T06:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] Moto2 e Moto3: M2 - Indonesian GP - Race",
-          "categoria": "Motori",
-          "sottocartella": "Moto2 e Moto3",
-          "sport": "Motori",
-          "competizione": "Moto2 e Moto3",
-          "evento": "M2 - Indonesian GP - Race",
-          "sessione": "gara",
-          "circuito": "Pertamina Mandalika International Street Circuit, Jl. Mandalika Resort Pantai Putri Nyale, Kuta, Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573, Indonesia",
-          "inizio": "2026-10-11T07:15:00+02:00",
-          "data": "11/10/2026",
-          "ora": "07:15",
-          "canali": [
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "differita",
-              "orario": "2026-10-11T11:00",
-              "programma": "GP Indonesia: Gara",
-              "fonte": "tv8"
-            }
-          ],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Grand Prix of Indonesia - Gara",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Grand Prix of Indonesia - Gara",
-          "sessione": "gara",
-          "circuito": "Pertamina Mandalika International Circuit, Lombok, Indonesia",
-          "inizio": "2026-10-11T09:00:00+02:00",
-          "data": "11/10/2026",
-          "ora": "09:00",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-11T09:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-11T09:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "differita",
-              "orario": "2026-10-11T13:55",
-              "fonte": "config+tv8"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Calcio] Primavera 1: Fiorentina-Parma",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Fiorentina-Parma",
-          "inizio": "2026-10-11T10:45:00+02:00",
-          "data": "11/10/2026",
-          "ora": "10:45",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-11T10:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Motori] World Superbike: Estoril Round - SP Race",
           "categoria": "Motori",
@@ -6229,7 +6126,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 120,
+      "totale": 118,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -7862,45 +7759,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 41,
+          "totale": 40,
           "eventi": [
-            {
-              "titolo": "MotoGP: Grand Prix of Indonesia - Gara",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Grand Prix of Indonesia - Gara",
-              "sessione": "gara",
-              "circuito": "Pertamina Mandalika International Circuit, Lombok, Indonesia",
-              "inizio": "2026-10-11T09:00:00+02:00",
-              "data": "11/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T09:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-11T09:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-10-11T13:55",
-                  "fonte": "config+tv8"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Australian Motorcycle Grand Prix - Prove libere",
               "categoria": "Motori",
@@ -9189,32 +9049,8 @@
         },
         {
           "nome": "Moto2 e Moto3",
-          "totale": 20,
+          "totale": 19,
           "eventi": [
-            {
-              "titolo": "Moto2 e Moto3: M2 - Indonesian GP - Race",
-              "categoria": "Motori",
-              "sottocartella": "Moto2 e Moto3",
-              "sport": "Motori",
-              "competizione": "Moto2 e Moto3",
-              "evento": "M2 - Indonesian GP - Race",
-              "sessione": "gara",
-              "circuito": "Pertamina Mandalika International Street Circuit, Jl. Mandalika Resort Pantai Putri Nyale, Kuta, Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573, Indonesia",
-              "inizio": "2026-10-11T07:15:00+02:00",
-              "data": "11/10/2026",
-              "ora": "07:15",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-10-11T11:00",
-                  "programma": "GP Indonesia: Gara",
-                  "fonte": "tv8"
-                }
-              ],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "Moto2 e Moto3: M3 - Australian GP - Quali",
               "categoria": "Motori",
@@ -9833,7 +9669,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 110,
+      "totale": 109,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -17161,138 +16997,6 @@
           ]
         },
         {
-          "nome": "Primavera 1",
-          "totale": 6,
-          "eventi": [
-            {
-              "titolo": "Primavera 1: Fiorentina-Parma",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Fiorentina-Parma",
-              "inizio": "2026-10-11T10:45:00+02:00",
-              "data": "11/10/2026",
-              "ora": "10:45",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T10:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Juventus-Genoa",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Juventus-Genoa",
-              "inizio": "2026-10-11T15:00:00+02:00",
-              "data": "11/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Sassuolo-Albinoleffe",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Sassuolo-Albinoleffe",
-              "inizio": "2026-10-12T15:00:00+02:00",
-              "data": "12/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-12T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Parma-Bologna",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Parma-Bologna",
-              "inizio": "2026-10-16T15:00:00+02:00",
-              "data": "16/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Milan-Cagliari",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Milan-Cagliari",
-              "inizio": "2026-10-17T11:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Lazio-Inter",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Lazio-Inter",
-              "inizio": "2026-10-17T13:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Premier League",
           "totale": 7,
           "eventi": [
@@ -17438,6 +17142,117 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-17T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Primavera 1",
+          "totale": 5,
+          "eventi": [
+            {
+              "titolo": "Primavera 1: Juventus-Genoa",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Juventus-Genoa",
+              "inizio": "2026-10-11T15:00:00+02:00",
+              "data": "11/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-11T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Sassuolo-Albinoleffe",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Sassuolo-Albinoleffe",
+              "inizio": "2026-10-12T15:00:00+02:00",
+              "data": "12/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-12T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Parma-Bologna",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Parma-Bologna",
+              "inizio": "2026-10-16T15:00:00+02:00",
+              "data": "16/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-16T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Milan-Cagliari",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Milan-Cagliari",
+              "inizio": "2026-10-17T11:00:00+02:00",
+              "data": "17/10/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-17T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Lazio-Inter",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Lazio-Inter",
+              "inizio": "2026-10-17T13:00:00+02:00",
+              "data": "17/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-17T13:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -19695,33 +19510,39 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 18,
+      "totale": 17,
       "sottocartelle": [
         {
-          "nome": "Ciclismo",
-          "totale": 3,
+          "nome": "Baseball",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "Mondiali Gravel Nannup: Prova Élite Uomini",
+              "titolo": "Qualificazioni Premier12: Italia-Germania",
               "categoria": "Altri sport",
-              "sottocartella": "Ciclismo",
-              "sport": "Ciclismo",
-              "competizione": "Mondiali Gravel Nannup 2026",
-              "evento": "Prova Élite Uomini",
-              "inizio": "2026-10-11T06:30:00+02:00",
+              "sottocartella": "Baseball",
+              "sport": "Baseball",
+              "competizione": "Qualificazioni Premier12 2027",
+              "evento": "Italia-Germania",
+              "inizio": "2026-10-11T12:30:00+02:00",
               "data": "11/10/2026",
-              "ora": "06:30",
+              "ora": "12:30",
               "canali": [
                 {
                   "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-11T06:30",
+                  "orario": "2026-10-11T12:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "Ciclismo",
+          "totale": 2,
+          "eventi": [
             {
               "titolo": "Parigi-Tours: .",
               "categoria": "Altri sport",
@@ -19766,33 +19587,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-14T16:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Baseball",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Premier12: Italia-Germania",
-              "categoria": "Altri sport",
-              "sottocartella": "Baseball",
-              "sport": "Baseball",
-              "competizione": "Qualificazioni Premier12 2027",
-              "evento": "Italia-Germania",
-              "inizio": "2026-10-11T12:30:00+02:00",
-              "data": "11/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-11T12:30",
                   "fonte": "virgilio"
                 }
               ],
