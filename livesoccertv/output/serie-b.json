@@ -8,59 +8,13 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Domenica 11 Ottobre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]17:15[/COLOR] Calcio Padova vs Carrarese [COLOR gray]0:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/calcio-padova-vs-carrarese/8pbql#5785500"
-    },
-    {
-      "title": "[COLOR gray]19:30[/COLOR] Modena vs Verona [COLOR gray]3:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5785501"
-    },
-    {
       "title": "[COLOR cyan]Lunedi 12 Ottobre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
     },
     {
-      "title": "[COLOR red]03:30[/COLOR] Empoli vs Palermo [COLOR red]LIVE[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-empoli/361gm#5808938"
-    },
-    {
-      "title": "[COLOR yellow]05:30[/COLOR] Modena vs Verona",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5808940"
-    },
-    {
-      "title": "[COLOR yellow]07:30[/COLOR] Avellino vs Sampdoria",
+      "title": "[COLOR gray]07:30[/COLOR] Avellino vs Sampdoria",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -116,11 +70,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5810142"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5810142"
     },
     {
       "title": "[COLOR cyan]Venerdi 16 Ottobre[/COLOR]",
@@ -153,10 +106,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5812508"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5812508"
     },
     {
       "title": "[COLOR yellow]20:30[/COLOR] Verona vs Catanzaro",
@@ -173,6 +127,16 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
+    },
+    {
+      "title": "[COLOR yellow]06:00[/COLOR] Verona vs Catanzaro",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5812511"
     },
     {
       "title": "[COLOR yellow]15:00[/COLOR] Ascoli vs Empoli",
@@ -213,6 +177,22 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-carrarese/8q0s6#5742528"
+    },
+    {
+      "title": "[COLOR cyan]Domenica 18 Ottobre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]07:30[/COLOR] Mantova vs Palermo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5813094"
     }
   ]
 }
