@@ -14,16 +14,6 @@
       "info": ""
     },
     {
-      "title": "[COLOR gray]15:00[/COLOR] Catanzaro vs Mantova [COLOR gray]1:3[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/mantova-vs-catanzaro/8st9g#5785499"
-    },
-    {
       "title": "[COLOR gray]17:15[/COLOR] Calcio Padova vs Carrarese [COLOR gray]0:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
@@ -50,7 +40,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]03:30[/COLOR] Empoli vs Palermo",
+      "title": "[COLOR red]03:30[/COLOR] Empoli vs Palermo [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -126,10 +116,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5810142"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5810142"
     },
     {
       "title": "[COLOR cyan]Venerdi 16 Ottobre[/COLOR]",
