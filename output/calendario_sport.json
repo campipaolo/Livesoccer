@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-13T12:21:34+02:00",
+  "aggiornato": "2026-10-13T20:02:48+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,139 +9,8 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 16,
+      "totale": 14,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie C: Giugliano vs Inter II",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Giugliano vs Inter II",
-          "inizio": "2026-10-13T15:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 251",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-13T15:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-13T15:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-13T15:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-13T15:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 251",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 251",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Juventus II vs Lumezzane",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Juventus II vs Lumezzane",
-          "inizio": "2026-10-13T16:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "16:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 252",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-13T16:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-13T16:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-13T16:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-13T16:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-13T16:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "Sky Sport Max",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "Sky Sport Max",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
         {
           "titolo": "[Calcio] Qualificazioni Mondiali Brasile: Italia-Bielorussia",
           "categoria": "Calcio",
@@ -4179,7 +4048,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -4210,7 +4081,8 @@
                   "paese": "Canada",
                   "canali": [
                     "DAZN Canada",
-                    "fuboTV Canada"
+                    "fuboTV Canada",
+                    "Fubo Sports Network Canada"
                   ]
                 },
                 {
@@ -4552,7 +4424,8 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
@@ -4564,6 +4437,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -4889,7 +4763,6 @@
                   "paese": "Turchia",
                   "canali": [
                     "S Sport+",
-                    "S Sport 2",
                     "Disney+ Premium Turkey"
                   ]
                 },
@@ -5095,7 +4968,8 @@
                   "paese": "Belgio",
                   "canali": [
                     "DAZN2 Belgium",
-                    "DAZN Belgium"
+                    "DAZN Belgium",
+                    "Proximus Pickx"
                   ]
                 },
                 {
@@ -5119,7 +4993,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -5461,7 +5337,8 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
@@ -5473,6 +5350,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -5590,6 +5468,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 1 Poland"
                   ]
                 },
                 {
@@ -5732,7 +5616,8 @@
                 {
                   "paese": "Svezia",
                   "canali": [
-                    "TV4 Play"
+                    "TV4 Play",
+                    "TV4 Sportkanalen"
                   ]
                 },
                 {
@@ -5767,7 +5652,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -5974,7 +5860,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -6315,7 +6203,8 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
@@ -6327,6 +6216,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -6444,6 +6334,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 2 Poland"
                   ]
                 },
                 {
@@ -6586,7 +6482,8 @@
                 {
                   "paese": "Svezia",
                   "canali": [
-                    "TV4 Play"
+                    "TV4 Play",
+                    "TV4 Sportkanalen"
                   ]
                 },
                 {
@@ -6621,7 +6518,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -6840,7 +6738,8 @@
                   "paese": "Belgio",
                   "canali": [
                     "DAZN1 Belgium",
-                    "DAZN Belgium"
+                    "DAZN Belgium",
+                    "Proximus Pickx"
                   ]
                 },
                 {
@@ -6864,7 +6763,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -7215,7 +7116,8 @@
                   "paese": "Malesia",
                   "canali": [
                     "Astro Go",
-                    "Astro Football"
+                    "Astro Football",
+                    "sooka"
                   ]
                 },
                 {
@@ -7227,6 +7129,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -7280,6 +7183,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Birmania",
+                  "canali": [
+                    "M Channel Sport"
                   ]
                 },
                 {
@@ -7344,6 +7253,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 1 Poland"
                   ]
                 },
                 {
@@ -7526,7 +7441,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -7678,7 +7594,8 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
@@ -7742,7 +7659,9 @@
                 {
                   "paese": "Bosnia ed Erzegovina",
                   "canali": [
-                    "Arena Sport 2P"
+                    "Moja TV",
+                    "Arena Sport 2P",
+                    "Arena Cloud"
                   ]
                 },
                 {
@@ -7931,6 +7850,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "Now Player",
                     "beIN Sports 1 Hong Kong",
                     "M Plus Live"
                   ]
@@ -8053,6 +7973,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -8163,6 +8084,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 1 Poland"
                   ]
                 },
                 {
@@ -8333,7 +8260,8 @@
                 {
                   "paese": "Turchia",
                   "canali": [
-                    "S Sport+"
+                    "S Sport+",
+                    "S Sport 2"
                   ]
                 },
                 {
@@ -8345,6 +8273,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 1"
                   ]
                 },
@@ -8529,7 +8458,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 19,
+          "totale": 20,
           "eventi": [
             {
               "titolo": "Serie B: Avellino vs Sampdoria",
@@ -8554,269 +8483,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-14T04:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Empoli vs Palermo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Empoli vs Palermo",
-              "inizio": "2026-10-14T06:00:00+02:00",
-              "data": "14/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-14T06:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-14T06:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Modena vs Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Modena vs Verona",
-              "inizio": "2026-10-14T08:00:00+02:00",
-              "data": "14/10/2026",
-              "ora": "08:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-14T08:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-14T08:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Bielorussia",
-                  "canali": [
-                    "Sporttv"
-                  ]
-                },
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 1",
-                    "Moja TV",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "MaxTV Go",
-                    "Arena Sport 5 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Sport 5 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 5 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Turchia",
-                  "canali": [
-                    "Sifir TV"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "DCTV",
-                    "FOX One"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Avellino vs Sampdoria",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Avellino vs Sampdoria",
-              "inizio": "2026-10-16T09:00:00+02:00",
-              "data": "16/10/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-16T09:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T09:00",
                   "fonte": "livesoccer"
                 }
               ],
@@ -8934,6 +8600,93 @@
               "sport": "Calcio",
               "competizione": "Serie B",
               "evento": "Empoli vs Palermo",
+              "inizio": "2026-10-14T06:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-14T06:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T06:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Modena vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Modena vs Verona",
+              "inizio": "2026-10-14T08:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "08:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-14T08:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T08:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Avellino vs Sampdoria",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Avellino vs Sampdoria",
+              "inizio": "2026-10-16T09:00:00+02:00",
+              "data": "16/10/2026",
+              "ora": "09:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-16T09:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-16T09:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Empoli vs Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Empoli vs Palermo",
               "inizio": "2026-10-16T11:00:00+02:00",
               "data": "16/10/2026",
               "ora": "11:00",
@@ -8953,96 +8706,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 2",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Turchia",
-                  "canali": [
-                    "Sifir TV"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "DCTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9298,6 +8962,12 @@
                   ]
                 },
                 {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
                   "paese": "Macedonia",
                   "canali": [
                     "Arena Cloud"
@@ -9321,6 +8991,12 @@
                   "canali": [
                     "Arena Sport 7 Serbia",
                     "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 1 Live"
                   ]
                 }
               ],
@@ -9352,47 +9028,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9653,42 +9289,28 @@
               "ora": "07:30",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-10-18T07:30",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T07:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-18T07:30",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9780,6 +9402,62 @@
                   "fonte": "livesoccer"
                 }
               ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 1 Live"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Verona vs Catanzaro",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Verona vs Catanzaro",
+              "inizio": "2026-10-19T08:00:00+02:00",
+              "data": "19/10/2026",
+              "ora": "08:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-19T08:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-19T08:00",
+                  "fonte": "livesoccer"
+                }
+              ],
               "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
@@ -9787,139 +9465,8 @@
         },
         {
           "nome": "Serie C",
-          "totale": 15,
+          "totale": 14,
           "eventi": [
-            {
-              "titolo": "Serie C: Giugliano vs Inter II",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Giugliano vs Inter II",
-              "inizio": "2026-10-13T15:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 251",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-13T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-13T15:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 251",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 251",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Juventus II vs Lumezzane",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Juventus II vs Lumezzane",
-              "inizio": "2026-10-13T16:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "16:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 252",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T16:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-13T16:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T16:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-13T16:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T16:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Max",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Max",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie C: Latina vs Atalanta II",
               "categoria": "Calcio",
@@ -10085,16 +9632,74 @@
               "fonte": "LiveSoccerTV"
             },
             {
-              "titolo": "Serie C: Inter U23-Monopoli",
+              "titolo": "Serie C: Athletic Carpi vs Lumezzane",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
               "sport": "Calcio",
               "competizione": "Serie C",
-              "evento": "Inter U23-Monopoli",
+              "evento": "Athletic Carpi vs Lumezzane",
               "inizio": "2026-10-17T14:30:00+02:00",
               "data": "17/10/2026",
               "ora": "14:30",
               "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-17T14:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-17T14:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Inter II vs Monopoli",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Inter II vs Monopoli",
+              "inizio": "2026-10-17T14:30:00+02:00",
+              "data": "17/10/2026",
+              "ora": "14:30",
+              "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-17T14:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-17T14:30",
+                  "fonte": "livesoccer"
+                },
                 {
                   "nome": "Sky Sport 1",
                   "numero": "201",
@@ -10103,7 +9708,23 @@
                   "fonte": "virgilio"
                 }
               ],
-              "fonte": "Virgilio Sport"
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
             },
             {
               "titolo": "Serie C: Reggiana-Torres",
@@ -10675,15 +10296,15 @@
               "ora": "21:00",
               "canali": [
                 {
-                  "nome": "Sky",
-                  "numero": "",
+                  "nome": "TV8",
+                  "numero": "8",
                   "tipo": "diretta",
                   "orario": "2026-10-14T21:00",
                   "fonte": "virgilio"
                 },
                 {
-                  "nome": "TV8",
-                  "numero": "8",
+                  "nome": "Sky",
+                  "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-14T21:00",
                   "fonte": "virgilio"
@@ -12976,15 +12597,15 @@
               "sport": "Ciclismo",
               "competizione": "Giro del Veneto",
               "evento": ".",
-              "inizio": "2026-10-14T15:30:00+02:00",
+              "inizio": "2026-10-14T15:15:00+02:00",
               "data": "14/10/2026",
-              "ora": "15:30",
+              "ora": "15:15",
               "canali": [
                 {
                   "nome": "Rai 2",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-14T15:30",
+                  "orario": "2026-10-14T15:15",
                   "fonte": "virgilio"
                 },
                 {
