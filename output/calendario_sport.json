@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-13T21:18:30+02:00",
+  "aggiornato": "2026-10-14T00:45:45+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,311 +9,795 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 13,
+      "totale": 27,
       "eventi": [
         {
-          "titolo": "[Calcio] UEFA Champions League: Lens-Sporting",
+          "titolo": "[Calcio] Serie B: Avellino vs Sampdoria",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "Serie B",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Lens-Sporting",
-          "inizio": "2026-10-13T18:45:00+02:00",
-          "data": "13/10/2026",
-          "ora": "18:45",
+          "competizione": "Serie B",
+          "evento": "Avellino vs Sampdoria",
+          "inizio": "2026-10-14T04:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "04:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "DAZN Italia",
               "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-13T18:45",
-              "fonte": "virgilio"
+              "tipo": "streaming",
+              "orario": "2026-10-14T04:00",
+              "fonte": "livesoccer"
             },
             {
-              "nome": "Sky Sport Calcio",
+              "nome": "LAB Channel",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T18:45",
+              "orario": "2026-10-14T04:00",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Bielorussia",
+              "canali": [
+                "Sporttv"
+              ]
+            },
+            {
+              "paese": "Bosnia ed Erzegovina",
+              "canali": [
+                "Moja TV",
+                "Arena Sport 2P",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Brasile",
+              "canali": [
+                "SportyNet"
+              ]
+            },
+            {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Israele",
+              "canali": [
+                "5Stars"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Liechtenstein",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 5 Live"
+              ]
+            },
+            {
+              "paese": "Macedonia",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Montenegro",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Russia",
+              "canali": [
+                "Телеканал Футбол"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Serbia",
+              "canali": [
+                "Arena Sport 6 Serbia",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 5 Live"
+              ]
+            },
+            {
+              "paese": "Turchia",
+              "canali": [
+                "Sifir TV"
+              ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "DCTV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Tennis] WTA 1000 Wuhan: 4a giornata",
+          "categoria": "Tennis",
+          "sottocartella": "WTA 1000 Wuhan",
+          "sport": "Tennis",
+          "competizione": "WTA 1000 Wuhan",
+          "evento": "4a giornata",
+          "inizio": "2026-10-14T05:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "05:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T05:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Sabah-Slavia Praga",
+          "titolo": "[Calcio] Serie B: Empoli vs Palermo",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "Serie B",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Sabah-Slavia Praga",
-          "inizio": "2026-10-13T18:45:00+02:00",
-          "data": "13/10/2026",
-          "ora": "18:45",
+          "competizione": "Serie B",
+          "evento": "Empoli vs Palermo",
+          "inizio": "2026-10-14T06:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "06:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-14T06:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T18:45",
+              "orario": "2026-10-14T06:00",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 8a giornata",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Masters 1000 Shanghai",
+          "sport": "Tennis",
+          "competizione": "ATP Masters 1000 Shanghai",
+          "evento": "8a giornata",
+          "inizio": "2026-10-14T06:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "06:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-14T06:00",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport Arena",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T18:45",
+              "orario": "2026-10-14T12:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Eurocup: Aquila Trento-Niners Chemnitz",
-          "categoria": "Basket",
-          "sottocartella": "Eurocup",
-          "sport": "Basket",
-          "competizione": "Eurocup",
-          "evento": "Aquila Trento-Niners Chemnitz",
-          "inizio": "2026-10-13T20:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "20:00",
+          "titolo": "[Tennis] WTA 1000 Wuhan: 3a giornata",
+          "categoria": "Tennis",
+          "sottocartella": "WTA 1000 Wuhan",
+          "sport": "Tennis",
+          "competizione": "WTA 1000 Wuhan",
+          "evento": "3a giornata",
+          "inizio": "2026-10-14T06:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "06:00",
           "canali": [
             {
-              "nome": "Sky Sport Mix",
+              "nome": "Sky Sport Tennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T20:00",
+              "orario": "2026-10-14T06:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Eurocup: BC Roma-Balkan Botevgrad",
-          "categoria": "Basket",
-          "sottocartella": "Eurocup",
-          "sport": "Basket",
-          "competizione": "Eurocup",
-          "evento": "BC Roma-Balkan Botevgrad",
-          "inizio": "2026-10-13T20:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "20:00",
+          "titolo": "[Calcio] Serie B: Modena vs Verona",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Modena vs Verona",
+          "inizio": "2026-10-14T08:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "08:00",
           "canali": [
             {
-              "nome": "Sky Sport Max",
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-14T08:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T20:00",
-              "fonte": "virgilio"
+              "orario": "2026-10-14T08:00",
+              "fonte": "livesoccer"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Altri sport] Hockey su Pista: Svizzera-Italia",
+          "titolo": "[Altri sport] Eneco Tour: 1a tappa",
           "categoria": "Altri sport",
-          "sottocartella": "World skate games asunción",
-          "sport": "World skate games asunción 2026",
-          "competizione": "Hockey su Pista",
-          "evento": "Svizzera-Italia",
-          "inizio": "2026-10-13T20:30:00+02:00",
-          "data": "13/10/2026",
-          "ora": "20:30",
+          "sottocartella": "Ciclismo femminile",
+          "sport": "Ciclismo femminile",
+          "competizione": "Eneco Tour",
+          "evento": "1a tappa",
+          "inizio": "2026-10-14T10:35:00+02:00",
+          "data": "14/10/2026",
+          "ora": "10:35",
+          "canali": [
+            {
+              "nome": "Eurosport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T10:35",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Mondiali Shanghai: 1a giornata",
+          "categoria": "Altri sport",
+          "sottocartella": "Ciclismo su pista",
+          "sport": "Ciclismo su pista",
+          "competizione": "Mondiali Shanghai 2026",
+          "evento": "1a giornata",
+          "inizio": "2026-10-14T12:10:00+02:00",
+          "data": "14/10/2026",
+          "ora": "12:10",
           "canali": [
             {
               "nome": "Rai Sport",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T20:30",
+              "orario": "2026-10-14T12:10",
               "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] Eurolega: Olimpia Milano-Real Madrid",
-          "categoria": "Basket",
-          "sottocartella": "Eurolega",
-          "sport": "Basket",
-          "competizione": "Eurolega",
-          "evento": "Olimpia Milano-Real Madrid",
-          "inizio": "2026-10-13T20:30:00+02:00",
-          "data": "13/10/2026",
-          "ora": "20:30",
-          "canali": [
+            },
             {
-              "nome": "Sky Sport Basket",
+              "nome": "Eurosport 2",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T20:30",
+              "orario": "2026-10-14T12:25",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Arsenal-Lille",
+          "titolo": "[Calcio] UEFA Youth League: Roma-Real Madrid U19",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "UEFA Youth League",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Arsenal-Lille",
-          "inizio": "2026-10-13T21:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "21:00",
+          "competizione": "UEFA Youth League",
+          "evento": "Roma-Real Madrid U19",
+          "inizio": "2026-10-14T14:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "14:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "Sky Sport Max",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T14:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Atletico Madrid-Manchester United",
+          "titolo": "[Calcio] Serie C: Latina vs Atalanta II",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "Serie C",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Atletico Madrid-Manchester United",
-          "inizio": "2026-10-13T21:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "21:00",
+          "competizione": "Serie C",
+          "evento": "Latina vs Atalanta II",
+          "inizio": "2026-10-14T15:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "15:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "Sky Sport 251",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Champions League: Galatasaray-Barcellona",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Galatasaray-Barcellona",
-          "inizio": "2026-10-13T21:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "21:00",
-          "canali": [
+              "orario": "2026-10-14T15:00",
+              "fonte": "livesoccer"
+            },
             {
-              "nome": "Sky",
+              "nome": "SKY Go Italia",
               "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
-              "fonte": "virgilio"
+              "tipo": "streaming",
+              "orario": "2026-10-14T15:00",
+              "fonte": "livesoccer"
             },
             {
               "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-14T15:00",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 251",
+                "SKY Go Italia",
+                "Sky Sport Calcio",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 251",
+                "SKY Go Italia",
+                "Sky Sport Calcio",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Altri sport] Giro del Veneto: .",
+          "categoria": "Altri sport",
+          "sottocartella": "Ciclismo",
+          "sport": "Ciclismo",
+          "competizione": "Giro del Veneto",
+          "evento": ".",
+          "inizio": "2026-10-14T15:15:00+02:00",
+          "data": "14/10/2026",
+          "ora": "15:15",
+          "canali": [
+            {
+              "nome": "Rai 2",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T15:15",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Eurosport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T16:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Inter-Bruges",
+          "titolo": "[Calcio] UEFA Champions League: Feyenoord-Como",
           "categoria": "Calcio",
           "sottocartella": "UEFA Champions League",
           "sport": "Calcio",
           "competizione": "UEFA Champions League",
-          "evento": "Inter-Bruges",
-          "inizio": "2026-10-13T21:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "21:00",
+          "evento": "Feyenoord-Como",
+          "inizio": "2026-10-14T18:45:00+02:00",
+          "data": "14/10/2026",
+          "ora": "18:45",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T18:45",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T18:45",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Lipsia-Psv",
+          "titolo": "[Calcio] UEFA Champions League: LASK-Liverpool",
           "categoria": "Calcio",
           "sottocartella": "UEFA Champions League",
           "sport": "Calcio",
           "competizione": "UEFA Champions League",
-          "evento": "Lipsia-Psv",
-          "inizio": "2026-10-13T21:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "21:00",
+          "evento": "LASK-Liverpool",
+          "inizio": "2026-10-14T18:45:00+02:00",
+          "data": "14/10/2026",
+          "ora": "18:45",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T18:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T18:45",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Viking-Bayern Monaco",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Viking-Bayern Monaco",
-          "inizio": "2026-10-13T21:00:00+02:00",
-          "data": "13/10/2026",
-          "ora": "21:00",
+          "titolo": "[Basket] Eurocup: Aris Thessaloniki-Derthona Tortona",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Aris Thessaloniki-Derthona Tortona",
+          "inizio": "2026-10-14T19:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "19:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "Sky Sport Mix",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T19:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Villarreal-Napoli",
+          "titolo": "[Basket] Eurocup: Slask Wroclaw-Napoli Basket",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Slask Wroclaw-Napoli Basket",
+          "inizio": "2026-10-14T19:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "19:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T19:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Volley] Serie A1: Chieri-Conegliano",
+          "categoria": "Volley",
+          "sottocartella": "Serie A1 femminile",
+          "sport": "Pallavolo femminile",
+          "competizione": "Serie A1",
+          "evento": "Chieri-Conegliano",
+          "inizio": "2026-10-14T20:30:00+02:00",
+          "data": "14/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Paris Basketball-Virtus Bologna",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Paris Basketball-Virtus Bologna",
+          "inizio": "2026-10-14T20:45:00+02:00",
+          "data": "14/10/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurocup: Reyer Venezia-Ankara",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Reyer Venezia-Ankara",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurocup: Tenerife-Maxima Roma",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Tenerife-Maxima Roma",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Aston Villa-Fenerbahce",
           "categoria": "Calcio",
           "sottocartella": "UEFA Champions League",
           "sport": "Calcio",
           "competizione": "UEFA Champions League",
-          "evento": "Villarreal-Napoli",
-          "inizio": "2026-10-13T21:00:00+02:00",
-          "data": "13/10/2026",
+          "evento": "Aston Villa-Fenerbahce",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
           "ora": "21:00",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T21:00",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport Arena",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-13T21:00",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Bodo Glimt-Borussia Dortmund",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Bodo Glimt-Borussia Dortmund",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Manchester City-PSG",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Manchester City-PSG",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Real Betis-Porto",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Real Betis-Porto",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Roma-Real Madrid",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Roma-Real Madrid",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Amazon Prime Video",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Shakhtar Donetsk-AEK Atene",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Shakhtar Donetsk-AEK Atene",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Slovan-Stoccarda",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Slovan-Stoccarda",
+          "inizio": "2026-10-14T21:00:00+02:00",
+          "data": "14/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Hockey su Pista: Italia-Portogallo",
+          "categoria": "Altri sport",
+          "sottocartella": "World skate games asunción",
+          "sport": "World skate games asunción 2026",
+          "competizione": "Hockey su Pista",
+          "evento": "Italia-Portogallo",
+          "inizio": "2026-10-14T22:45:00+02:00",
+          "data": "14/10/2026",
+          "ora": "22:45",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-14T22:45",
               "fonte": "virgilio"
             }
           ],
@@ -3865,7 +4349,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 104,
+      "totale": 106,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -9904,233 +10388,36 @@
           ]
         },
         {
-          "nome": "UEFA Champions League",
-          "totale": 18,
+          "nome": "UEFA Youth League",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "UEFA Champions League: Lens-Sporting",
+              "titolo": "UEFA Youth League: Roma-Real Madrid U19",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
+              "sottocartella": "UEFA Youth League",
               "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Lens-Sporting",
-              "inizio": "2026-10-13T18:45:00+02:00",
-              "data": "13/10/2026",
-              "ora": "18:45",
+              "competizione": "UEFA Youth League",
+              "evento": "Roma-Real Madrid U19",
+              "inizio": "2026-10-14T14:00:00+02:00",
+              "data": "14/10/2026",
+              "ora": "14:00",
               "canali": [
                 {
-                  "nome": "Sky",
+                  "nome": "Sky Sport Max",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-13T18:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T18:45",
+                  "orario": "2026-10-14T14:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Sabah-Slavia Praga",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Sabah-Slavia Praga",
-              "inizio": "2026-10-13T18:45:00+02:00",
-              "data": "13/10/2026",
-              "ora": "18:45",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T18:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T18:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Arsenal-Lille",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Arsenal-Lille",
-              "inizio": "2026-10-13T21:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Atletico Madrid-Manchester United",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Atletico Madrid-Manchester United",
-              "inizio": "2026-10-13T21:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Galatasaray-Barcellona",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Galatasaray-Barcellona",
-              "inizio": "2026-10-13T21:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Inter-Bruges",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Inter-Bruges",
-              "inizio": "2026-10-13T21:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Lipsia-Psv",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Lipsia-Psv",
-              "inizio": "2026-10-13T21:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Viking-Bayern Monaco",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Viking-Bayern Monaco",
-              "inizio": "2026-10-13T21:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Villarreal-Napoli",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Villarreal-Napoli",
-              "inizio": "2026-10-13T21:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Champions League",
+          "totale": 20,
+          "eventi": [
             {
               "titolo": "UEFA Champions League: Feyenoord-Como",
               "categoria": "Calcio",
@@ -10354,29 +10641,240 @@
                 }
               ],
               "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Youth League",
-          "totale": 1,
-          "eventi": [
+            },
             {
-              "titolo": "UEFA Youth League: Roma-Real Madrid U19",
+              "titolo": "UEFA Champions League: Fenerbahce-Slavia Praga",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Youth League",
+              "sottocartella": "UEFA Champions League",
               "sport": "Calcio",
-              "competizione": "UEFA Youth League",
-              "evento": "Roma-Real Madrid U19",
-              "inizio": "2026-10-14T14:00:00+02:00",
-              "data": "14/10/2026",
-              "ora": "14:00",
+              "competizione": "UEFA Champions League",
+              "evento": "Fenerbahce-Slavia Praga",
+              "inizio": "2026-10-20T18:45:00+02:00",
+              "data": "20/10/2026",
+              "ora": "18:45",
               "canali": [
                 {
-                  "nome": "Sky Sport Max",
+                  "nome": "Sky",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-14T14:00",
+                  "orario": "2026-10-20T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Sabah-Borussia Dortmund",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Sabah-Borussia Dortmund",
+              "inizio": "2026-10-20T18:45:00+02:00",
+              "data": "20/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Liverpool-Villarreal",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Liverpool-Villarreal",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Manchester City-AEK Atene",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Manchester City-AEK Atene",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Manchester City-Aek Atene",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Manchester City-Aek Atene",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Napoli-Bodo Glimt",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Napoli-Bodo Glimt",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: PSG-Barcellona",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "PSG-Barcellona",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Porto-Psv",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Porto-Psv",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Roma-Slovan",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Roma-Slovan",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Roma-Slovan Bratislava",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Roma-Slovan Bratislava",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Stoccarda-Atletico Madrid",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Stoccarda-Atletico Madrid",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11811,54 +12309,12 @@
     },
     {
       "nome": "Basket",
-      "totale": 14,
+      "totale": 13,
       "sottocartelle": [
         {
           "nome": "Eurocup",
           "totale": 6,
           "eventi": [
-            {
-              "titolo": "Eurocup: Aquila Trento-Niners Chemnitz",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Aquila Trento-Niners Chemnitz",
-              "inizio": "2026-10-13T20:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: BC Roma-Balkan Botevgrad",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "BC Roma-Balkan Botevgrad",
-              "inizio": "2026-10-13T20:00:00+02:00",
-              "data": "13/10/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Eurocup: Aris Thessaloniki-Derthona Tortona",
               "categoria": "Basket",
@@ -11942,34 +12398,55 @@
                 }
               ],
               "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Eurolega",
-          "totale": 6,
-          "eventi": [
+            },
             {
-              "titolo": "Eurolega: Olimpia Milano-Real Madrid",
+              "titolo": "Eurocup: Manresa-Roma BC",
               "categoria": "Basket",
-              "sottocartella": "Eurolega",
+              "sottocartella": "Eurocup",
               "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olimpia Milano-Real Madrid",
-              "inizio": "2026-10-13T20:30:00+02:00",
-              "data": "13/10/2026",
+              "competizione": "Eurocup",
+              "evento": "Manresa-Roma BC",
+              "inizio": "2026-10-20T20:30:00+02:00",
+              "data": "20/10/2026",
               "ora": "20:30",
               "canali": [
                 {
-                  "nome": "Sky Sport Basket",
+                  "nome": "Sky Sport Max",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-13T20:30",
+                  "orario": "2026-10-20T20:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "Eurocup: Maxima Roma-Reyer Venezia",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Maxima Roma-Reyer Venezia",
+              "inizio": "2026-10-20T21:00:00+02:00",
+              "data": "20/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-20T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Eurolega",
+          "totale": 5,
+          "eventi": [
             {
               "titolo": "Eurolega: Paris Basketball-Virtus Bologna",
               "categoria": "Basket",
@@ -12217,56 +12694,8 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 18,
+      "totale": 17,
       "sottocartelle": [
-        {
-          "nome": "World skate games asunción",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Hockey su Pista: Svizzera-Italia",
-              "categoria": "Altri sport",
-              "sottocartella": "World skate games asunción",
-              "sport": "World skate games asunción 2026",
-              "competizione": "Hockey su Pista",
-              "evento": "Svizzera-Italia",
-              "inizio": "2026-10-13T20:30:00+02:00",
-              "data": "13/10/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-13T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Hockey su Pista: Italia-Portogallo",
-              "categoria": "Altri sport",
-              "sottocartella": "World skate games asunción",
-              "sport": "World skate games asunción 2026",
-              "competizione": "Hockey su Pista",
-              "evento": "Italia-Portogallo",
-              "inizio": "2026-10-14T22:45:00+02:00",
-              "data": "14/10/2026",
-              "ora": "22:45",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-14T22:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Ciclismo femminile",
           "totale": 5,
@@ -12586,6 +13015,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-18T15:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "World skate games asunción",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Hockey su Pista: Italia-Portogallo",
+              "categoria": "Altri sport",
+              "sottocartella": "World skate games asunción",
+              "sport": "World skate games asunción 2026",
+              "competizione": "Hockey su Pista",
+              "evento": "Italia-Portogallo",
+              "inizio": "2026-10-14T22:45:00+02:00",
+              "data": "14/10/2026",
+              "ora": "22:45",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-14T22:45",
                   "fonte": "virgilio"
                 }
               ],
