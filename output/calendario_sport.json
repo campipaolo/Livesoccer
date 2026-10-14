@@ -1,66 +1,16 @@
 {
-  "aggiornato": "2026-10-14T09:17:27+02:00",
+  "aggiornato": "2026-10-14T13:55:17+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 272,
+  "totale": 270,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 22,
+      "totale": 20,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie B: Modena vs Verona",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Modena vs Verona",
-          "inizio": "2026-10-14T08:00:00+02:00",
-          "data": "14/10/2026",
-          "ora": "08:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-14T08:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-14T08:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Altri sport] Eneco Tour: 1a tappa",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo femminile",
-          "sport": "Ciclismo femminile",
-          "competizione": "Eneco Tour",
-          "evento": "1a tappa",
-          "inizio": "2026-10-14T10:35:00+02:00",
-          "data": "14/10/2026",
-          "ora": "10:35",
-          "canali": [
-            {
-              "nome": "Eurosport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-14T10:35",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Altri sport] Mondiali Shanghai: 1a giornata",
           "categoria": "Altri sport",
@@ -4117,7 +4067,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 104,
+      "totale": 103,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4559,37 +4509,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 18,
+          "totale": 17,
           "eventi": [
-            {
-              "titolo": "Serie B: Modena vs Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Modena vs Verona",
-              "inizio": "2026-10-14T08:00:00+02:00",
-              "data": "14/10/2026",
-              "ora": "08:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-14T08:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-14T08:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Avellino vs Sampdoria",
               "categoria": "Calcio",
@@ -7981,119 +7902,8 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 17,
+      "totale": 16,
       "sottocartelle": [
-        {
-          "nome": "Ciclismo femminile",
-          "totale": 5,
-          "eventi": [
-            {
-              "titolo": "Eneco Tour: 1a tappa",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo femminile",
-              "sport": "Ciclismo femminile",
-              "competizione": "Eneco Tour",
-              "evento": "1a tappa",
-              "inizio": "2026-10-14T10:35:00+02:00",
-              "data": "14/10/2026",
-              "ora": "10:35",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-14T10:35",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eneco Tour: 2a tappa",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo femminile",
-              "sport": "Ciclismo femminile",
-              "competizione": "Eneco Tour",
-              "evento": "2a tappa",
-              "inizio": "2026-10-15T11:05:00+02:00",
-              "data": "15/10/2026",
-              "ora": "11:05",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T11:05",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eneco Tour: 3a tappa",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo femminile",
-              "sport": "Ciclismo femminile",
-              "competizione": "Eneco Tour",
-              "evento": "3a tappa",
-              "inizio": "2026-10-16T10:25:00+02:00",
-              "data": "16/10/2026",
-              "ora": "10:25",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T10:25",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eneco Tour: 4a tappa",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo femminile",
-              "sport": "Ciclismo femminile",
-              "competizione": "Eneco Tour",
-              "evento": "4a tappa",
-              "inizio": "2026-10-17T12:35:00+02:00",
-              "data": "17/10/2026",
-              "ora": "12:35",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T12:35",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eneco Tour: 5a tappa",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo femminile",
-              "sport": "Ciclismo femminile",
-              "competizione": "Eneco Tour",
-              "evento": "5a tappa",
-              "inizio": "2026-10-18T12:30:00+02:00",
-              "data": "18/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T12:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Ciclismo su pista",
           "totale": 6,
@@ -8329,6 +8139,96 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-14T22:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Ciclismo femminile",
+          "totale": 4,
+          "eventi": [
+            {
+              "titolo": "Eneco Tour: 2a tappa",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo femminile",
+              "sport": "Ciclismo femminile",
+              "competizione": "Eneco Tour",
+              "evento": "2a tappa",
+              "inizio": "2026-10-15T11:05:00+02:00",
+              "data": "15/10/2026",
+              "ora": "11:05",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-15T11:05",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eneco Tour: 3a tappa",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo femminile",
+              "sport": "Ciclismo femminile",
+              "competizione": "Eneco Tour",
+              "evento": "3a tappa",
+              "inizio": "2026-10-16T10:25:00+02:00",
+              "data": "16/10/2026",
+              "ora": "10:25",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-16T10:25",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eneco Tour: 4a tappa",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo femminile",
+              "sport": "Ciclismo femminile",
+              "competizione": "Eneco Tour",
+              "evento": "4a tappa",
+              "inizio": "2026-10-17T12:35:00+02:00",
+              "data": "17/10/2026",
+              "ora": "12:35",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-17T12:35",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eneco Tour: 5a tappa",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo femminile",
+              "sport": "Ciclismo femminile",
+              "competizione": "Eneco Tour",
+              "evento": "5a tappa",
+              "inizio": "2026-10-18T12:30:00+02:00",
+              "data": "18/10/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T12:30",
                   "fonte": "virgilio"
                 }
               ],
