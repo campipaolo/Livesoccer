@@ -14,7 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]04:00[/COLOR] Avellino vs Sampdoria",
+      "title": "[COLOR gray]04:00[/COLOR] Avellino vs Sampdoria",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -24,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-avellino/6jjqj#5810140"
     },
     {
-      "title": "[COLOR yellow]06:00[/COLOR] Empoli vs Palermo",
+      "title": "[COLOR gray]06:00[/COLOR] Empoli vs Palermo",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -34,7 +34,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-empoli/361gm#5810141"
     },
     {
-      "title": "[COLOR yellow]08:00[/COLOR] Modena vs Verona",
+      "title": "[COLOR red]08:00[/COLOR] Modena vs Verona [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -156,11 +156,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5813094"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5813094"
     },
     {
       "title": "[COLOR cyan]Lunedi 19 Ottobre[/COLOR]",
