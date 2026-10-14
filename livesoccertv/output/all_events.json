@@ -9,8 +9,8 @@
       "kickoff": "2026-10-14T15:00:00+02:00",
       "date": "2026-10-14",
       "time": "15:00",
-      "status": "live",
-      "score": "0:0",
+      "status": "finished",
+      "score": "2:0",
       "match_url": "https://www.livesoccertv.com/it/match/latina-vs-atalanta-ii/4k5fk9#5798158",
       "channels": [
         {
@@ -560,6 +560,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
@@ -980,6 +986,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 1",
             "MTV Katsomo"
           ]
         },
@@ -1518,6 +1525,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1639,61 +1652,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Israele",
-          "canali": [
-            "Sport 5max"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720367",
@@ -2116,6 +2075,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Max",
             "MTV Katsomo"
           ]
         },
@@ -3203,6 +3163,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 1",
             "MTV Katsomo"
           ]
         },
@@ -4145,6 +4106,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 2",
             "MTV Katsomo"
           ]
         },
@@ -4550,6 +4512,7 @@
           "paese": "Russia",
           "canali": [
             "Sportbox.ru",
+            "Матч!",
             "Матч! Футбол 1",
             "matchtv.ru"
           ]
@@ -4753,6 +4716,7 @@
             "fuboTV",
             "Peacock",
             "Telemundo",
+            "Telemundo Deportes En Vivo",
             "CBS Sports Golazo"
           ]
         },
@@ -4875,6 +4839,12 @@
           "paese": "Nigeria",
           "canali": [
             "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
           ]
         },
         {
@@ -5211,6 +5181,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 2",
             "MTV Katsomo"
           ]
         },
@@ -5779,7 +5750,8 @@
           "paese": "USA",
           "canali": [
             "Paramount+",
-            "Peacock"
+            "Peacock",
+            "Telemundo Deportes Ahora"
           ]
         },
         {
@@ -5830,52 +5802,22 @@
       "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5813619",
       "channels": [
         {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "stream": true
         },
         {
-          "name": "LAB Channel",
-          "url": "",
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5813623",
@@ -5932,6 +5874,12 @@
           "paese": "Montenegro",
           "canali": [
             "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
           ]
         },
         {
@@ -6045,6 +5993,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
           "paese": "Ruanda",
           "canali": [
             "Sporty TV App"
@@ -6104,18 +6058,13 @@
       "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5814124",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
-          "stream": true
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "name": "fuboTV",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
-          "stream": true
-        },
-        {
-          "name": "FOX One",
-          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
