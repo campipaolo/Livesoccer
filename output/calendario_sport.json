@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-14T19:12:25+02:00",
+  "aggiornato": "2026-10-14T20:23:04+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -4259,6 +4259,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 1",
                     "MTV Katsomo"
                   ]
                 },
@@ -4797,6 +4798,12 @@
                   ]
                 },
                 {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5202,6 +5209,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Max",
                     "MTV Katsomo"
                   ]
                 },
@@ -6135,6 +6143,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 1",
                     "MTV Katsomo"
                   ]
                 },
@@ -7100,6 +7109,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 2",
                     "MTV Katsomo"
                   ]
                 },
@@ -7505,6 +7515,7 @@
                   "paese": "Russia",
                   "canali": [
                     "Sportbox.ru",
+                    "Матч!",
                     "Матч! Футбол 1",
                     "matchtv.ru"
                   ]
@@ -7708,6 +7719,7 @@
                     "fuboTV",
                     "Peacock",
                     "Telemundo",
+                    "Telemundo Deportes En Vivo",
                     "CBS Sports Golazo"
                   ]
                 },
@@ -8043,6 +8055,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 2",
                     "MTV Katsomo"
                   ]
                 },
@@ -8611,7 +8624,8 @@
                   "paese": "USA",
                   "canali": [
                     "Paramount+",
-                    "Peacock"
+                    "Peacock",
+                    "Telemundo Deportes Ahora"
                   ]
                 },
                 {
@@ -9311,6 +9325,12 @@
                   ]
                 },
                 {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
                   "paese": "San Marino",
                   "canali": [
                     "DAZN Italia",
@@ -9360,61 +9380,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9753,6 +9719,12 @@
                   ]
                 },
                 {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
                   "paese": "Ruanda",
                   "canali": [
                     "Sporty TV App"
@@ -9874,56 +9846,28 @@
               "ora": "00:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-10-19T00:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-19T00:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-19T00:00",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9983,6 +9927,12 @@
                   "paese": "Montenegro",
                   "canali": [
                     "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
                   ]
                 },
                 {
@@ -10099,6 +10049,12 @@
                   ]
                 },
                 {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
                   "paese": "Ruanda",
                   "canali": [
                     "Sporty TV App"
@@ -10157,21 +10113,14 @@
               "ora": "12:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
                   "numero": "",
-                  "tipo": "diretta",
+                  "tipo": "streaming",
                   "orario": "2026-10-19T12:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "fuboTV",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-19T12:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "FOX One",
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-19T12:00",
