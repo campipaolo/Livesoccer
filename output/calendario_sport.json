@@ -1,295 +1,1688 @@
 {
-  "aggiornato": "2026-10-15T23:24:46+02:00",
+  "aggiornato": "2026-10-16T00:00:50+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 258,
+  "totale": 270,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 12,
+      "totale": 21,
       "eventi": [
         {
-          "titolo": "[Basket] Eurolega: Olimpia Milano-Dubai Basketball",
+          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 2^ Quarto di Finale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Masters 1000 Shanghai",
+          "sport": "Tennis",
+          "competizione": "ATP Masters 1000 Shanghai",
+          "evento": "2^ Quarto di Finale",
+          "inizio": "2026-10-16T07:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "07:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T07:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] WTA 1000 Wuhan: 2^ Quarto di Finale",
+          "categoria": "Tennis",
+          "sottocartella": "WTA 1000 Wuhan",
+          "sport": "Tennis",
+          "competizione": "WTA 1000 Wuhan",
+          "evento": "2^ Quarto di Finale",
+          "inizio": "2026-10-16T07:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "07:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T07:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 3^ Quarto Di Finale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Masters 1000 Shanghai",
+          "sport": "Tennis",
+          "competizione": "ATP Masters 1000 Shanghai",
+          "evento": "3^ Quarto Di Finale",
+          "inizio": "2026-10-16T08:30:00+02:00",
+          "data": "16/10/2026",
+          "ora": "08:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-16T08:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Avellino vs Sampdoria",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Avellino vs Sampdoria",
+          "inizio": "2026-10-16T09:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "09:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T09:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T09:00",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Bielorussia",
+              "canali": [
+                "Sporttv"
+              ]
+            },
+            {
+              "paese": "Bosnia ed Erzegovina",
+              "canali": [
+                "Moja TV",
+                "Arena Sport 2P",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Brasile",
+              "canali": [
+                "SportyNet"
+              ]
+            },
+            {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Israele",
+              "canali": [
+                "5Stars"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Liechtenstein",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 5 Live"
+              ]
+            },
+            {
+              "paese": "Macedonia",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Montenegro",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Russia",
+              "canali": [
+                "Телеканал Футбол"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Serbia",
+              "canali": [
+                "Arena Sport 6 Serbia",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 5 Live"
+              ]
+            },
+            {
+              "paese": "Turchia",
+              "canali": [
+                "Sifir TV"
+              ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "DCTV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Tennis] WTA 1000 Wuhan: 3^ Quarto di Finale",
+          "categoria": "Tennis",
+          "sottocartella": "WTA 1000 Wuhan",
+          "sport": "Tennis",
+          "competizione": "WTA 1000 Wuhan",
+          "evento": "3^ Quarto di Finale",
+          "inizio": "2026-10-16T09:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "09:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T09:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Eneco Tour: 3a tappa",
+          "categoria": "Altri sport",
+          "sottocartella": "Ciclismo femminile",
+          "sport": "Ciclismo femminile",
+          "competizione": "Eneco Tour",
+          "evento": "3a tappa",
+          "inizio": "2026-10-16T10:25:00+02:00",
+          "data": "16/10/2026",
+          "ora": "10:25",
+          "canali": [
+            {
+              "nome": "Eurosport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T10:25",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Mondiali Shanghai: 3a giornata",
+          "categoria": "Altri sport",
+          "sottocartella": "Ciclismo su pista",
+          "sport": "Ciclismo su pista",
+          "competizione": "Mondiali Shanghai 2026",
+          "evento": "3a giornata",
+          "inizio": "2026-10-16T10:40:00+02:00",
+          "data": "16/10/2026",
+          "ora": "10:40",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T10:40",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Eurosport 2",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T10:55",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Empoli vs Palermo",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Empoli vs Palermo",
+          "inizio": "2026-10-16T11:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "11:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T11:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T11:00",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 4^ Quarto Di Finale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Masters 1000 Shanghai",
+          "sport": "Tennis",
+          "competizione": "ATP Masters 1000 Shanghai",
+          "evento": "4^ Quarto Di Finale",
+          "inizio": "2026-10-16T12:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "12:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-16T12:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Modena vs Verona",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Modena vs Verona",
+          "inizio": "2026-10-16T13:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "13:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T13:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T13:00",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Tennis] WTA 1000 Wuhan: 4^ Quarto di Finale",
+          "categoria": "Tennis",
+          "sottocartella": "WTA 1000 Wuhan",
+          "sport": "Tennis",
+          "competizione": "WTA 1000 Wuhan",
+          "evento": "4^ Quarto di Finale",
+          "inizio": "2026-10-16T13:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "13:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T13:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Primavera 1: Parma-Bologna",
+          "categoria": "Calcio",
+          "sottocartella": "Primavera 1",
+          "sport": "Calcio",
+          "competizione": "Primavera 1",
+          "evento": "Parma-Bologna",
+          "inizio": "2026-10-16T15:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "15:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T15:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Saudi League: Al Riyadh-Al Hilal",
+          "categoria": "Calcio",
+          "sottocartella": "Saudi League",
+          "sport": "Calcio",
+          "competizione": "Saudi League",
+          "evento": "Al Riyadh-Al Hilal",
+          "inizio": "2026-10-16T17:00:00+02:00",
+          "data": "16/10/2026",
+          "ora": "17:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T17:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Bundesliga 2: Cottbus-Norimberga",
+          "categoria": "Calcio",
+          "sottocartella": "Bundesliga 2",
+          "sport": "Calcio",
+          "competizione": "Bundesliga 2",
+          "evento": "Cottbus-Norimberga",
+          "inizio": "2026-10-16T18:30:00+02:00",
+          "data": "16/10/2026",
+          "ora": "18:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Barcellona-Olympiacos",
           "categoria": "Basket",
           "sottocartella": "Eurolega",
           "sport": "Basket",
           "competizione": "Eurolega",
-          "evento": "Olimpia Milano-Dubai Basketball",
-          "inizio": "2026-10-15T20:30:00+02:00",
-          "data": "15/10/2026",
+          "evento": "Barcellona-Olympiacos",
+          "inizio": "2026-10-16T20:30:00+02:00",
+          "data": "16/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Virtus Bologna-Baskonia Vitoria Gasteiz",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Virtus Bologna-Baskonia Vitoria Gasteiz",
+          "inizio": "2026-10-16T20:30:00+02:00",
+          "data": "16/10/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-15T20:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Conference League: Atalanta-Pafos",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Conference League",
-          "sport": "Calcio",
-          "competizione": "UEFA Conference League",
-          "evento": "Atalanta-Pafos",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Europa League: Benfica-Celtic",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
-          "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Benfica-Celtic",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Europa League: Bournemouth-Sturm Graz",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
-          "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Bournemouth-Sturm Graz",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Europa League: Celta Vigo-Juventus",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
-          "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Celta Vigo-Juventus",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
+              "orario": "2026-10-16T20:30",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
+              "orario": "2026-10-16T20:30",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Europa League: Dinamo Zagabria-Anderlecht",
+          "titolo": "[Calcio] Bundesliga: Eintracht-Colonia",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
+          "sottocartella": "Bundesliga",
           "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Dinamo Zagabria-Anderlecht",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
+          "competizione": "Bundesliga",
+          "evento": "Eintracht-Colonia",
+          "inizio": "2026-10-16T20:30:00+02:00",
+          "data": "16/10/2026",
+          "ora": "20:30",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
+              "orario": "2026-10-16T20:30",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Europa League: Ferencvaros-Viktoria Plzen",
+          "titolo": "[Calcio] Serie B: Verona vs Catanzaro",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
+          "sottocartella": "Serie B",
           "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Ferencvaros-Viktoria Plzen",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
+          "competizione": "Serie B",
+          "evento": "Verona vs Catanzaro",
+          "inizio": "2026-10-16T20:30:00+02:00",
+          "data": "16/10/2026",
+          "ora": "20:30",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
+              "orario": "2026-10-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-16T20:30",
               "fonte": "virgilio"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "canali_mondo": [
+            {
+              "paese": "Israele",
+              "canali": [
+                "Sport 5max"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Liechtenstein",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 1 Live"
+              ]
+            },
+            {
+              "paese": "Macedonia",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Montenegro",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Russia",
+              "canali": [
+                "Телеканал Футбол"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Serbia",
+              "canali": [
+                "Arena Sport 7 Serbia",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 1 Live"
+              ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "Fox Soccer Plus",
+                "fuboTV",
+                "FOX One"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] UEFA Europa League: Hoffenheim-Besiktas",
+          "titolo": "[Calcio] Serie C: Livorno vs Grosseto",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
+          "sottocartella": "Serie C",
           "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Hoffenheim-Besiktas",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
+          "competizione": "Serie C",
+          "evento": "Livorno vs Grosseto",
+          "inizio": "2026-10-16T20:30:00+02:00",
+          "data": "16/10/2026",
+          "ora": "20:30",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Arena",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
+              "orario": "2026-10-16T20:30",
               "fonte": "virgilio"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] UEFA Europa League: Jagiellonia Bialystok-Ararat Armenia",
+          "titolo": "[Calcio] Serie C: Pro Vercelli vs Lecco",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
+          "sottocartella": "Serie C",
           "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Jagiellonia Bialystok-Ararat Armenia",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
+          "competizione": "Serie C",
+          "evento": "Pro Vercelli vs Lecco",
+          "inizio": "2026-10-16T20:30:00+02:00",
+          "data": "16/10/2026",
+          "ora": "20:30",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Mix",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
+              "orario": "2026-10-16T20:30",
               "fonte": "virgilio"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] UEFA Europa League: Marsiglia-Olympiacos",
+          "titolo": "[Calcio] Serie A: Frosinone vs Sassuolo",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
+          "sottocartella": "Serie A",
           "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Marsiglia-Olympiacos",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
+          "competizione": "Serie A",
+          "evento": "Frosinone vs Sassuolo",
+          "inizio": "2026-10-16T20:45:00+02:00",
+          "data": "16/10/2026",
+          "ora": "20:45",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN1",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
+              "orario": "2026-10-16T20:45",
               "fonte": "virgilio"
             }
           ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Europa League: NEC-Levski Sofia",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
-          "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "NEC-Levski Sofia",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
-          "canali": [
+          "canali_mondo": [
             {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
+              "paese": "Afghanistan",
+              "canali": [
+                "ZEE5"
+              ]
+            },
+            {
+              "paese": "Albania",
+              "canali": [
+                "Tring Sport 1",
+                "Tring"
+              ]
+            },
+            {
+              "paese": "Algeria",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Andorra",
+              "canali": [
+                "DAZN Spain",
+                "DAZN France"
+              ]
+            },
+            {
+              "paese": "Anguilla",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Antigua e Barbuda",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Argentina",
+              "canali": [
+                "Disney+ Premium Argentina"
+              ]
+            },
+            {
+              "paese": "Armenia",
+              "canali": [
+                "Fast Sports 2",
+                "FAST TV"
+              ]
+            },
+            {
+              "paese": "Aruba",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Australia",
+              "canali": [
+                "beIN Sports 1",
+                "beIN Sports Connect"
+              ]
+            },
+            {
+              "paese": "Austria",
+              "canali": [
+                "DAZN Austria",
+                "DAZN2 Germany"
+              ]
+            },
+            {
+              "paese": "Bahrain",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Bangladesh",
+              "canali": [
+                "ZEE5",
+                "Begin"
+              ]
+            },
+            {
+              "paese": "Barbados",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Belgio",
+              "canali": [
+                "DAZN Belgium"
+              ]
+            },
+            {
+              "paese": "Belize",
+              "canali": [
+                "ESPN3 Norte",
+                "Nexgen"
+              ]
+            },
+            {
+              "paese": "Bhutan",
+              "canali": [
+                "ZEE5"
+              ]
+            },
+            {
+              "paese": "Bolivia",
+              "canali": [
+                "Disney+ Premium Chile"
+              ]
+            },
+            {
+              "paese": "Bosnia ed Erzegovina",
+              "canali": [
+                "Moja TV",
+                "Arena Sport 2P",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Brasile",
+              "canali": [
+                "Disney+ Premium Brazil"
+              ]
+            },
+            {
+              "paese": "Isole Vergini britanniche",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Brunei",
+              "canali": [
+                "Astro Go"
+              ]
+            },
+            {
+              "paese": "Bulgaria",
+              "canali": [
+                "MAX Sport 3"
+              ]
+            },
+            {
+              "paese": "Canada",
+              "canali": [
+                "DAZN Canada",
+                "fuboTV Canada",
+                "Fubo Sports Network Canada"
+              ]
+            },
+            {
+              "paese": "Isole Cayman",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Ciad",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Cile",
+              "canali": [
+                "Disney+ Premium Chile"
+              ]
+            },
+            {
+              "paese": "Cina",
+              "canali": [
+                "Migu"
+              ]
+            },
+            {
+              "paese": "Taipei cinese",
+              "canali": [
+                "eltaott.tv"
+              ]
+            },
+            {
+              "paese": "Colombia",
+              "canali": [
+                "Disney+ Premium Sur"
+              ]
+            },
+            {
+              "paese": "Costa Rica",
+              "canali": [
+                "Disney+ Premium Norte",
+                "ESPN3 Norte"
+              ]
+            },
+            {
+              "paese": "Croazia",
+              "canali": [
+                "Arena Sport 2 Croatia",
+                "MAXtv To Go"
+              ]
+            },
+            {
+              "paese": "Cuba",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Cipro",
+              "canali": [
+                "Cytavision on the Go",
+                "Cytavision Sports 4"
+              ]
+            },
+            {
+              "paese": "Repubblica Ceca",
+              "canali": [
+                "Sport 1 CZ",
+                "OnePlay"
+              ]
+            },
+            {
+              "paese": "Danimarca",
+              "canali": [
+                "TV2 Play Denmark",
+                "TV2 Sport X"
+              ]
+            },
+            {
+              "paese": "Gibuti",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Dominica",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Repubblica Dominicana",
+              "canali": [
+                "Disney+ Premium Caribbean",
+                "Disney+ Premium Norte",
+                "ESPN3 Norte"
+              ]
+            },
+            {
+              "paese": "Ecuador",
+              "canali": [
+                "Disney+ Premium Sur"
+              ]
+            },
+            {
+              "paese": "Egitto",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "El Salvador",
+              "canali": [
+                "Disney+ Premium Norte",
+                "ESPN3 Norte"
+              ]
+            },
+            {
+              "paese": "Isole Faroe",
+              "canali": [
+                "TV2 Play Denmark",
+                "TV2 Sport X"
+              ]
+            },
+            {
+              "paese": "Finlandia",
+              "canali": [
+                "MTV Urheilu 1",
+                "MTV Katsomo"
+              ]
+            },
+            {
+              "paese": "Francia",
+              "canali": [
+                "DAZN France"
+              ]
+            },
+            {
+              "paese": "Georgia",
+              "canali": [
+                "Silk Universal"
+              ]
+            },
+            {
+              "paese": "Germania",
+              "canali": [
+                "DAZN Deutschland",
+                "DAZN2 Germany"
+              ]
+            },
+            {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DAZN UK"
+              ]
+            },
+            {
+              "paese": "Grecia",
+              "canali": [
+                "MagentaSport 2"
+              ]
+            },
+            {
+              "paese": "Grenada",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Guadalupa",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Guatemala",
+              "canali": [
+                "Disney+ Premium Norte",
+                "ESPN3 Norte"
+              ]
+            },
+            {
+              "paese": "Haiti",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Honduras",
+              "canali": [
+                "Disney+ Premium Norte",
+                "ESPN3 Norte"
+              ]
+            },
+            {
+              "paese": "Hong Kong",
+              "canali": [
+                "Now Player",
+                "beIN Sports 1 Hong Kong",
+                "M Plus Live",
+                "beIN SPORTS MAX Hong Kong"
+              ]
+            },
+            {
+              "paese": "India",
+              "canali": [
+                "ZEE5"
+              ]
+            },
+            {
+              "paese": "Indonesia",
+              "canali": [
+                "Vidio"
+              ]
+            },
+            {
+              "paese": "Iran",
+              "canali": [
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Iraq",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Almanasa",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DAZN UK"
+              ]
+            },
+            {
+              "paese": "Israele",
+              "canali": [
+                "Sport 4"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "DAZN1"
+              ]
+            },
+            {
+              "paese": "Giamaica",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Giappone",
+              "canali": [
+                "DAZN Japan"
+              ]
+            },
+            {
+              "paese": "Giordania",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Kenya",
+              "canali": [
+                "Azam Sports 3 HD"
+              ]
+            },
+            {
+              "paese": "Corea del Sud",
+              "canali": [
+                "SPOTV NOW",
+                "SPOTV Prime+"
+              ]
+            },
+            {
+              "paese": "Kosovo",
+              "canali": [
+                "Tring Sport 1",
+                "TV Vala Kosovo Telecom"
+              ]
+            },
+            {
+              "paese": "Kuwait",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Libano",
+              "canali": [
+                "STARZPLAY",
+                "Shasha"
+              ]
+            },
+            {
+              "paese": "Libia",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Liechtenstein",
+              "canali": [
+                "DAZN Deutschland"
+              ]
+            },
+            {
+              "paese": "Macao",
+              "canali": [
+                "M Plus Live"
+              ]
+            },
+            {
+              "paese": "Macedonia",
+              "canali": [
+                "Arena Sport 3 Serbia",
+                "MaxTV Go",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Malawi",
+              "canali": [
+                "Azam Sports 3 HD"
+              ]
+            },
+            {
+              "paese": "Malesia",
+              "canali": [
+                "Astro Go",
+                "Astro Football",
+                "sooka"
+              ]
+            },
+            {
+              "paese": "Maldive",
+              "canali": [
+                "ZEE5"
+              ]
+            },
+            {
+              "paese": "Malta",
+              "canali": [
+                "GO TV Anywhere",
+                "TSN3 Malta"
+              ]
+            },
+            {
+              "paese": "Martinica",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Mauritania",
+              "canali": [
+                "STARZPLAY",
+                "Shasha"
+              ]
+            },
+            {
+              "paese": "Mauritius",
+              "canali": [
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Messico",
+              "canali": [
+                "Disney+ Premium Mexico"
+              ]
+            },
+            {
+              "paese": "Monaco",
+              "canali": [
+                "DAZN France"
+              ]
+            },
+            {
+              "paese": "Montenegro",
+              "canali": [
+                "Arena Sport 3 Serbia",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Montserrat",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Marocco",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Nepal",
+              "canali": [
+                "ZEE5"
+              ]
+            },
+            {
+              "paese": "Nuova Zelanda",
+              "canali": [
+                "beIN Sports Connect New Zealand"
+              ]
+            },
+            {
+              "paese": "Nicaragua",
+              "canali": [
+                "Disney+ Premium Norte",
+                "ESPN3 Norte"
+              ]
+            },
+            {
+              "paese": "Norvegia",
+              "canali": [
+                "VG+"
+              ]
+            },
+            {
+              "paese": "Oman",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Pakistan",
+              "canali": [
+                "Begin"
+              ]
+            },
+            {
+              "paese": "Palestina",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Panama",
+              "canali": [
+                "Disney+ Premium Norte",
+                "ESPN3 Norte"
+              ]
+            },
+            {
+              "paese": "Paraguay",
+              "canali": [
+                "Disney+ Premium Argentina"
+              ]
+            },
+            {
+              "paese": "Perù",
+              "canali": [
+                "Disney+ Premium Chile"
+              ]
+            },
+            {
+              "paese": "Polonia",
+              "canali": [
+                "Eleven Sports 2 Poland",
+                "Canal+"
+              ]
+            },
+            {
+              "paese": "Portogallo",
+              "canali": [
+                "Sport TV2",
+                "Sport TV Multiscreen"
+              ]
+            },
+            {
+              "paese": "Porto Rico",
+              "canali": [
+                "CBS Sports Network",
+                "Peacock",
+                "Disney+ Premium Caribbean",
+                "NAICOM"
+              ]
+            },
+            {
+              "paese": "Qatar",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Romania",
+              "canali": [
+                "Digi Sport 2 Romania",
+                "Digi Online",
+                "Prima Sport 2",
+                "Orange TV Go",
+                "Prima Play"
+              ]
+            },
+            {
+              "paese": "Russia",
+              "canali": [
+                "Sportbox.ru",
+                "Матч! Футбол 1",
+                "matchtv.ru"
+              ]
+            },
+            {
+              "paese": "Ruanda",
+              "canali": [
+                "Azam Sports 3 HD"
+              ]
+            },
+            {
+              "paese": "Saint Barthelemy",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Saint Kitts e Nevis",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Santa Lucia",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Saint Martin",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "DAZN1"
+              ]
+            },
+            {
+              "paese": "Arabia Saudita",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "STC TV",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Serbia",
+              "canali": [
+                "Arena Sport 3 Serbia",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Slovacchia",
+              "canali": [
+                "Sport 1 SK"
+              ]
+            },
+            {
+              "paese": "Slovenia",
+              "canali": [
+                "Arena Sport 1 Premium"
+              ]
+            },
+            {
+              "paese": "Somalia",
+              "canali": [
+                "STARZPLAY",
+                "Shasha"
+              ]
+            },
+            {
+              "paese": "Sud Sudan",
+              "canali": [
+                "STARZPLAY",
+                "Shasha"
+              ]
+            },
+            {
+              "paese": "Spagna",
+              "canali": [
+                "DAZN Spain"
+              ]
+            },
+            {
+              "paese": "Sri Lanka",
+              "canali": [
+                "ZEE5",
+                "Begin"
+              ]
+            },
+            {
+              "paese": "St. Vincent / Grenadines",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Sudan",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Suriname",
+              "canali": [
+                "SCCN"
+              ]
+            },
+            {
+              "paese": "Svezia",
+              "canali": [
+                "TV4 Play"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "DAZN Switzerland"
+              ]
+            },
+            {
+              "paese": "Siria",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Tanzania",
+              "canali": [
+                "Azam Sports 3 HD"
+              ]
+            },
+            {
+              "paese": "Thailandia",
+              "canali": [
+                "True ID",
+                "True Premier Football HD 3"
+              ]
+            },
+            {
+              "paese": "Trinidad e Tobago",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Tunisia",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Diwan Sport",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Turchia",
+              "canali": [
+                "S Sport+"
+              ]
+            },
+            {
+              "paese": "U.S. Virgin Islands",
+              "canali": [
+                "Disney+ Premium Caribbean"
+              ]
+            },
+            {
+              "paese": "Uganda",
+              "canali": [
+                "Azam Sports 3 HD"
+              ]
+            },
+            {
+              "paese": "Ucraina",
+              "canali": [
+                "Megogo",
+                "MEGOGO Football 2"
+              ]
+            },
+            {
+              "paese": "Emirati Arabi Uniti",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Uruguay",
+              "canali": [
+                "Disney+ Premium Argentina"
+              ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "CBS Sports Network",
+                "Paramount+",
+                "fuboTV",
+                "Peacock",
+                "Telemundo Deportes Ahora"
+              ]
+            },
+            {
+              "paese": "Venezuela",
+              "canali": [
+                "Disney+ Premium Sur"
+              ]
+            },
+            {
+              "paese": "Vietnam",
+              "canali": [
+                "MyTV Vietnam"
+              ]
+            },
+            {
+              "paese": "Yemen",
+              "canali": [
+                "STARZPLAY",
+                "Shasha",
+                "Thmanyah"
+              ]
+            },
+            {
+              "paese": "Zambia",
+              "canali": [
+                "Azam Sports 3 HD"
+              ]
+            },
+            {
+              "paese": "Zimbabwe",
+              "canali": [
+                "Azam Sports 3 HD"
+              ]
             }
           ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Europa League: Rennes-OFI",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
-          "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Rennes-OFI",
-          "inizio": "2026-10-15T21:00:00+02:00",
-          "data": "15/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-15T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
+          "fonte": "LiveSoccerTV"
         }
       ]
     },
@@ -3837,7 +5230,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 99,
+      "totale": 108,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4888,6 +6281,7 @@
                 {
                   "paese": "Argentina",
                   "canali": [
+                    "ESPN3 Argentina",
                     "Disney+ Premium Argentina"
                   ]
                 },
@@ -4954,6 +6348,7 @@
                 {
                   "paese": "Bolivia",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -5015,7 +6410,8 @@
                 {
                   "paese": "Cile",
                   "canali": [
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN3 Chile"
                   ]
                 },
                 {
@@ -5033,6 +6429,7 @@
                 {
                   "paese": "Colombia",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -5093,6 +6490,7 @@
                 {
                   "paese": "Ecuador",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -5218,6 +6616,12 @@
                   "paese": "Irlanda",
                   "canali": [
                     "DAZN UK"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 4"
                   ]
                 },
                 {
@@ -5462,12 +6866,14 @@
                 {
                   "paese": "Paraguay",
                   "canali": [
-                    "Disney+ Premium Argentina"
+                    "Disney+ Premium Argentina",
+                    "ESPN3 Colombia"
                   ]
                 },
                 {
                   "paese": "Perù",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -5705,7 +7111,8 @@
                 {
                   "paese": "Uruguay",
                   "canali": [
-                    "Disney+ Premium Argentina"
+                    "Disney+ Premium Argentina",
+                    "ESPN3 Colombia"
                   ]
                 },
                 {
@@ -5718,6 +7125,7 @@
                 {
                   "paese": "Venezuela",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -5827,6 +7235,7 @@
                 {
                   "paese": "Argentina",
                   "canali": [
+                    "ESPN3 Argentina",
                     "Disney+ Premium Argentina"
                   ]
                 },
@@ -5891,6 +7300,7 @@
                 {
                   "paese": "Bolivia",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -5952,7 +7362,8 @@
                 {
                   "paese": "Cile",
                   "canali": [
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN3 Chile"
                   ]
                 },
                 {
@@ -5970,6 +7381,7 @@
                 {
                   "paese": "Colombia",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -6030,6 +7442,7 @@
                 {
                   "paese": "Ecuador",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -6407,12 +7820,14 @@
                 {
                   "paese": "Paraguay",
                   "canali": [
-                    "Disney+ Premium Argentina"
+                    "Disney+ Premium Argentina",
+                    "ESPN3 Colombia"
                   ]
                 },
                 {
                   "paese": "Perù",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -6649,7 +8064,8 @@
                 {
                   "paese": "Uruguay",
                   "canali": [
-                    "Disney+ Premium Argentina"
+                    "Disney+ Premium Argentina",
+                    "ESPN3 Colombia"
                   ]
                 },
                 {
@@ -6663,6 +8079,7 @@
                 {
                   "paese": "Venezuela",
                   "canali": [
+                    "ESPN3 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -6728,6 +8145,13 @@
                   "fonte": "livesoccer"
                 },
                 {
+                  "nome": "Sky Sport Uno",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-17T20:45",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "Sky Sport Calcio",
                   "numero": "",
                   "tipo": "diretta",
@@ -6738,6 +8162,13 @@
                   "nome": "NOW TV",
                   "numero": "",
                   "tipo": "streaming",
+                  "orario": "2026-10-17T20:45",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Sky Sport 4K",
+                  "numero": "213",
+                  "tipo": "diretta",
                   "orario": "2026-10-17T20:45",
                   "fonte": "livesoccer"
                 },
@@ -6800,6 +8231,7 @@
                 {
                   "paese": "Argentina",
                   "canali": [
+                    "ESPN2 Argentina",
                     "Disney+ Premium Argentina"
                   ]
                 },
@@ -6872,6 +8304,7 @@
                 {
                   "paese": "Bolivia",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -6935,6 +8368,7 @@
                 {
                   "paese": "Cile",
                   "canali": [
+                    "ESPN Chile",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -6953,6 +8387,7 @@
                 {
                   "paese": "Colombia",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -7012,6 +8447,7 @@
                 {
                   "paese": "Ecuador",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -7145,13 +8581,21 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 4"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
                     "Sky Sport 251",
                     "SKY Go Italia",
+                    "Sky Sport Uno",
                     "Sky Sport Calcio",
-                    "NOW TV"
+                    "NOW TV",
+                    "Sky Sport 4K"
                   ]
                 },
                 {
@@ -7391,12 +8835,14 @@
                 {
                   "paese": "Paraguay",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Argentina"
                   ]
                 },
                 {
                   "paese": "Perù",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -7488,8 +8934,10 @@
                     "DAZN Italia",
                     "Sky Sport 251",
                     "SKY Go Italia",
+                    "Sky Sport Uno",
                     "Sky Sport Calcio",
-                    "NOW TV"
+                    "NOW TV",
+                    "Sky Sport 4K"
                   ]
                 },
                 {
@@ -7641,6 +9089,7 @@
                 {
                   "paese": "Uruguay",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Argentina"
                   ]
                 },
@@ -7658,6 +9107,7 @@
                 {
                   "paese": "Venezuela",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -7767,6 +9217,7 @@
                 {
                   "paese": "Argentina",
                   "canali": [
+                    "ESPN2 Argentina",
                     "Disney+ Premium Argentina"
                   ]
                 },
@@ -7838,6 +9289,7 @@
                 {
                   "paese": "Bolivia",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -7892,6 +9344,7 @@
                 {
                   "paese": "Cile",
                   "canali": [
+                    "ESPN2 Chile",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -7910,6 +9363,7 @@
                 {
                   "paese": "Colombia",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -7917,6 +9371,12 @@
                   "paese": "Costa Rica",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Croazia",
+                  "canali": [
+                    "Arena Sport 1 Croatia"
                   ]
                 },
                 {
@@ -7962,6 +9422,7 @@
                 {
                   "paese": "Ecuador",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -8319,12 +9780,14 @@
                 {
                   "paese": "Paraguay",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Argentina"
                   ]
                 },
                 {
                   "paese": "Perù",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Chile"
                   ]
                 },
@@ -8561,6 +10024,7 @@
                 {
                   "paese": "Uruguay",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Argentina"
                   ]
                 },
@@ -8575,6 +10039,7 @@
                 {
                   "paese": "Venezuela",
                   "canali": [
+                    "ESPN2 Colombia",
                     "Disney+ Premium Sur"
                   ]
                 },
@@ -8912,96 +10377,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Moja TV",
-                    "Arena Sport 2",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 6 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Turchia",
-                  "canali": [
-                    "Sifir TV"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "DCTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9163,75 +10539,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9506,126 +10814,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9717,67 +10906,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9792,14 +10921,21 @@
               "ora": "08:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-10-19T08:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-19T08:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-19T08:00",
@@ -9864,67 +11000,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -10112,7 +11188,22 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10378,277 +11469,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-20T15:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Conference League",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "UEFA Conference League: Atalanta-Pafos",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Conference League",
-              "sport": "Calcio",
-              "competizione": "UEFA Conference League",
-              "evento": "Atalanta-Pafos",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Europa League",
-          "totale": 10,
-          "eventi": [
-            {
-              "titolo": "UEFA Europa League: Benfica-Celtic",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Benfica-Celtic",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Bournemouth-Sturm Graz",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Bournemouth-Sturm Graz",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Celta Vigo-Juventus",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Celta Vigo-Juventus",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Dinamo Zagabria-Anderlecht",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Dinamo Zagabria-Anderlecht",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Ferencvaros-Viktoria Plzen",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Ferencvaros-Viktoria Plzen",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Hoffenheim-Besiktas",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Hoffenheim-Besiktas",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Jagiellonia Bialystok-Ararat Armenia",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Jagiellonia Bialystok-Ararat Armenia",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Marsiglia-Olympiacos",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Marsiglia-Olympiacos",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: NEC-Levski Sofia",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "NEC-Levski Sofia",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Europa League: Rennes-OFI",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Rennes-OFI",
-              "inizio": "2026-10-15T21:00:00+02:00",
-              "data": "15/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11691,12 +12511,500 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "UEFA Conference League",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "UEFA Conference League: Kairat Almaty-Panathinaikos",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Conference League",
+              "sport": "Calcio",
+              "competizione": "UEFA Conference League",
+              "evento": "Kairat Almaty-Panathinaikos",
+              "inizio": "2026-10-22T16:30:00+02:00",
+              "data": "22/10/2026",
+              "ora": "16:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T16:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Conference League: Ajax-Atalanta",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Conference League",
+              "sport": "Calcio",
+              "competizione": "UEFA Conference League",
+              "evento": "Ajax-Atalanta",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Europa League",
+          "totale": 18,
+          "eventi": [
+            {
+              "titolo": "UEFA Europa League: Ararat Armenia-AZ Alkmaar",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Ararat Armenia-AZ Alkmaar",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Dinamo Zagabria-NEC",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Dinamo Zagabria-NEC",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Ferencvaros-Torreense",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Ferencvaros-Torreense",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Juventus-Rennes",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Juventus-Rennes",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Lech Poznan-Sunderland",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Lech Poznan-Sunderland",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: OFI-Bayer Leverkusen",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "OFI-Bayer Leverkusen",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Sturm Graz-Marsiglia",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Sturm Graz-Marsiglia",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Union Saint Gilloise-Hapoel Beer Sheva",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Union Saint Gilloise-Hapoel Beer Sheva",
+              "inizio": "2026-10-22T18:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Besiktas-Crystal Palace",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Besiktas-Crystal Palace",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Bournemouth-Milan",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Bournemouth-Milan",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Celje-Salisburgo",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Celje-Salisburgo",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Celtic-Celta Vigo",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Celtic-Celta Vigo",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Hoffenheim-Lione",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Hoffenheim-Lione",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Jagiellonia Bialystok-Anderlecht",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Jagiellonia Bialystok-Anderlecht",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Lillestrom-Real Sociedad",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Lillestrom-Real Sociedad",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Olympiacos-Sparta Praga",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Olympiacos-Sparta Praga",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Omonia Nicosia-Benfica",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Omonia Nicosia-Benfica",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Europa League: Viktoria Plzen-Levski Sofia",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Europa League",
+              "sport": "Calcio",
+              "competizione": "UEFA Europa League",
+              "evento": "Viktoria Plzen-Levski Sofia",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Tennis",
-      "totale": 16,
+      "totale": 17,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Shanghai",
@@ -11985,7 +13293,7 @@
         },
         {
           "nome": "ATP & WTA",
-          "totale": 4,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "ATP & WTA",
@@ -12091,6 +13399,34 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-22T04:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "04:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T04:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T08:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         }
@@ -12098,33 +13434,12 @@
     },
     {
       "nome": "Basket",
-      "totale": 11,
+      "totale": 12,
       "sottocartelle": [
         {
           "nome": "Eurolega",
-          "totale": 4,
+          "totale": 5,
           "eventi": [
-            {
-              "titolo": "Eurolega: Olimpia Milano-Dubai Basketball",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olimpia Milano-Dubai Basketball",
-              "inizio": "2026-10-15T20:30:00+02:00",
-              "data": "15/10/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-15T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Eurolega: Barcellona-Olympiacos",
               "categoria": "Basket",
@@ -12190,6 +13505,48 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-21T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Olimpia Milano-Barcellona",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Olimpia Milano-Barcellona",
+              "inizio": "2026-10-22T20:30:00+02:00",
+              "data": "22/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Partizan-Stella Rossa",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Partizan-Stella Rossa",
+              "inizio": "2026-10-22T20:45:00+02:00",
+              "data": "22/10/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T20:45",
                   "fonte": "virgilio"
                 }
               ],
@@ -12420,7 +13777,7 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 12,
+      "totale": 13,
       "sottocartelle": [
         {
           "nome": "Ciclismo femminile",
@@ -12717,6 +14074,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-18T15:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Pallamano maschile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Qualificazioni Mondiali: Bulgaria-Italia",
+              "categoria": "Altri sport",
+              "sottocartella": "Pallamano maschile",
+              "sport": "Pallamano maschile",
+              "competizione": "Qualificazioni Mondiali 2027",
+              "evento": "Bulgaria-Italia",
+              "inizio": "2026-10-22T18:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T18:00",
                   "fonte": "virgilio"
                 }
               ],
