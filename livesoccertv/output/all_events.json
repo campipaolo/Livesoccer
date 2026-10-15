@@ -154,96 +154,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Moja TV",
-            "Arena Sport 2",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 6 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "Turchia",
-          "canali": [
-            "Sifir TV"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "DCTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5812508",
@@ -1429,75 +1340,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Israele",
-          "canali": [
-            "Sport 5max"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720367",
@@ -1555,16 +1398,31 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5720747",
@@ -1675,6 +1533,7 @@
         {
           "paese": "Argentina",
           "canali": [
+            "ESPN3 Argentina",
             "Disney+ Premium Argentina"
           ]
         },
@@ -1741,6 +1600,7 @@
         {
           "paese": "Bolivia",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -1802,7 +1662,8 @@
         {
           "paese": "Cile",
           "canali": [
-            "Disney+ Premium Chile"
+            "Disney+ Premium Chile",
+            "ESPN3 Chile"
           ]
         },
         {
@@ -1820,6 +1681,7 @@
         {
           "paese": "Colombia",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -1880,6 +1742,7 @@
         {
           "paese": "Ecuador",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -2005,6 +1868,12 @@
           "paese": "Irlanda",
           "canali": [
             "DAZN UK"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "Sport 4"
           ]
         },
         {
@@ -2249,12 +2118,14 @@
         {
           "paese": "Paraguay",
           "canali": [
-            "Disney+ Premium Argentina"
+            "Disney+ Premium Argentina",
+            "ESPN3 Colombia"
           ]
         },
         {
           "paese": "Perù",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -2492,7 +2363,8 @@
         {
           "paese": "Uruguay",
           "canali": [
-            "Disney+ Premium Argentina"
+            "Disney+ Premium Argentina",
+            "ESPN3 Colombia"
           ]
         },
         {
@@ -2505,6 +2377,7 @@
         {
           "paese": "Venezuela",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -2768,6 +2641,7 @@
         {
           "paese": "Argentina",
           "canali": [
+            "ESPN3 Argentina",
             "Disney+ Premium Argentina"
           ]
         },
@@ -2832,6 +2706,7 @@
         {
           "paese": "Bolivia",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -2893,7 +2768,8 @@
         {
           "paese": "Cile",
           "canali": [
-            "Disney+ Premium Chile"
+            "Disney+ Premium Chile",
+            "ESPN3 Chile"
           ]
         },
         {
@@ -2911,6 +2787,7 @@
         {
           "paese": "Colombia",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -2971,6 +2848,7 @@
         {
           "paese": "Ecuador",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -3348,12 +3226,14 @@
         {
           "paese": "Paraguay",
           "canali": [
-            "Disney+ Premium Argentina"
+            "Disney+ Premium Argentina",
+            "ESPN3 Colombia"
           ]
         },
         {
           "paese": "Perù",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -3590,7 +3470,8 @@
         {
           "paese": "Uruguay",
           "canali": [
-            "Disney+ Premium Argentina"
+            "Disney+ Premium Argentina",
+            "ESPN3 Colombia"
           ]
         },
         {
@@ -3604,6 +3485,7 @@
         {
           "paese": "Venezuela",
           "canali": [
+            "ESPN3 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -3664,12 +3546,22 @@
           "stream": false
         },
         {
+          "name": "Sky Sport Uno",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "Sky Sport Calcio",
           "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "Sky Sport 4K",
           "url": "",
           "stream": false
         }
@@ -3718,6 +3610,7 @@
         {
           "paese": "Argentina",
           "canali": [
+            "ESPN2 Argentina",
             "Disney+ Premium Argentina"
           ]
         },
@@ -3790,6 +3683,7 @@
         {
           "paese": "Bolivia",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -3853,6 +3747,7 @@
         {
           "paese": "Cile",
           "canali": [
+            "ESPN Chile",
             "Disney+ Premium Chile"
           ]
         },
@@ -3871,6 +3766,7 @@
         {
           "paese": "Colombia",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -3930,6 +3826,7 @@
         {
           "paese": "Ecuador",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -4063,13 +3960,21 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "Sport 4"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
             "Sky Sport 251",
             "SKY Go Italia",
+            "Sky Sport Uno",
             "Sky Sport Calcio",
-            "NOW TV"
+            "NOW TV",
+            "Sky Sport 4K"
           ]
         },
         {
@@ -4309,12 +4214,14 @@
         {
           "paese": "Paraguay",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Argentina"
           ]
         },
         {
           "paese": "Perù",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -4406,8 +4313,10 @@
             "DAZN Italia",
             "Sky Sport 251",
             "SKY Go Italia",
+            "Sky Sport Uno",
             "Sky Sport Calcio",
-            "NOW TV"
+            "NOW TV",
+            "Sky Sport 4K"
           ]
         },
         {
@@ -4559,6 +4468,7 @@
         {
           "paese": "Uruguay",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Argentina"
           ]
         },
@@ -4576,6 +4486,7 @@
         {
           "paese": "Venezuela",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -4631,126 +4542,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653947",
@@ -4820,6 +4612,7 @@
         {
           "paese": "Argentina",
           "canali": [
+            "ESPN2 Argentina",
             "Disney+ Premium Argentina"
           ]
         },
@@ -4891,6 +4684,7 @@
         {
           "paese": "Bolivia",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -4945,6 +4739,7 @@
         {
           "paese": "Cile",
           "canali": [
+            "ESPN2 Chile",
             "Disney+ Premium Chile"
           ]
         },
@@ -4963,6 +4758,7 @@
         {
           "paese": "Colombia",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -4970,6 +4766,12 @@
           "paese": "Costa Rica",
           "canali": [
             "Disney+ Premium Norte"
+          ]
+        },
+        {
+          "paese": "Croazia",
+          "canali": [
+            "Arena Sport 1 Croatia"
           ]
         },
         {
@@ -5015,6 +4817,7 @@
         {
           "paese": "Ecuador",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -5372,12 +5175,14 @@
         {
           "paese": "Paraguay",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Argentina"
           ]
         },
         {
           "paese": "Perù",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Chile"
           ]
         },
@@ -5614,6 +5419,7 @@
         {
           "paese": "Uruguay",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Argentina"
           ]
         },
@@ -5628,6 +5434,7 @@
         {
           "paese": "Venezuela",
           "canali": [
+            "ESPN2 Colombia",
             "Disney+ Premium Sur"
           ]
         },
@@ -5683,67 +5490,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5813623",
@@ -5759,13 +5506,18 @@
       "match_url": "https://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5813623",
       "channels": [
         {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "stream": true
         },
         {
-          "name": "LAB Channel",
-          "url": "",
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
           "stream": false
         }
       ],
@@ -5821,67 +5573,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     }
   ]
 }
