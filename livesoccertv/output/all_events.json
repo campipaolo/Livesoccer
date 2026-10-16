@@ -1,17 +1,17 @@
 {
   "events": [
     {
-      "id": "5811480",
+      "id": "5812508",
       "competition": "Serie B",
-      "home": "Avellino",
-      "away": "Sampdoria",
-      "title": "Avellino vs Sampdoria",
-      "kickoff": "2026-10-16T09:00:00+02:00",
+      "home": "Modena",
+      "away": "Verona",
+      "title": "Modena vs Verona",
+      "kickoff": "2026-10-16T13:00:00+02:00",
       "date": "2026-10-16",
-      "time": "09:00",
+      "time": "13:00",
       "status": "finished",
       "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-avellino/6jjqj#5811480",
+      "match_url": "https://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5812508",
       "channels": [
         {
           "name": "DAZN Italia",
@@ -34,21 +34,39 @@
         {
           "paese": "Bosnia ed Erzegovina",
           "canali": [
+            "Arena Sport 1",
             "Moja TV",
-            "Arena Sport 2P",
             "Arena Cloud"
           ]
         },
         {
-          "paese": "Brasile",
+          "paese": "Burundi",
           "canali": [
-            "SportyNet"
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Repubblica Democratica del Congo",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Ghana",
+          "canali": [
+            "Sporty TV App"
           ]
         },
         {
           "paese": "Gran Bretagna",
           "canali": [
             "DCTV"
+          ]
+        },
+        {
+          "paese": "Guinea",
+          "canali": [
+            "Sporty TV App"
           ]
         },
         {
@@ -60,7 +78,7 @@
         {
           "paese": "Israele",
           "canali": [
-            "5Stars"
+            "5Gold"
           ]
         },
         {
@@ -71,28 +89,55 @@
           ]
         },
         {
+          "paese": "Kenya",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
           "paese": "Liechtenstein",
           "canali": [
-            "Blue Sport",
-            "Blue Sport 5 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
           "paese": "Macedonia",
           "canali": [
+            "MaxTV Go",
+            "Arena Sport 5 Serbia",
             "Arena Cloud"
           ]
         },
         {
           "paese": "Montenegro",
           "canali": [
+            "Arena Sport 5 Serbia",
             "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Nigeria",
+          "canali": [
+            "Sporty TV App"
           ]
         },
         {
           "paese": "Russia",
           "canali": [
             "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "Ruanda",
+          "canali": [
+            "Sporty TV App"
           ]
         },
         {
@@ -105,15 +150,33 @@
         {
           "paese": "Serbia",
           "canali": [
-            "Arena Sport 6 Serbia",
+            "Arena Sport 5 Serbia",
             "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Sierra Leone",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "Sporty TV App"
           ]
         },
         {
           "paese": "Svizzera",
           "canali": [
-            "Blue Sport",
-            "Blue Sport 5 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Tanzania",
+          "canali": [
+            "Sporty TV App"
           ]
         },
         {
@@ -123,64 +186,21 @@
           ]
         },
         {
+          "paese": "Uganda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
           "paese": "USA",
           "canali": [
-            "DCTV"
+            "Fox Soccer Plus",
+            "fuboTV",
+            "DCTV",
+            "FOX One"
           ]
         }
       ]
-    },
-    {
-      "id": "5812507",
-      "competition": "Serie B",
-      "home": "Empoli",
-      "away": "Palermo",
-      "title": "Empoli vs Palermo",
-      "kickoff": "2026-10-16T11:00:00+02:00",
-      "date": "2026-10-16",
-      "time": "11:00",
-      "status": "live",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-empoli/361gm#5812507",
-      "channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "LAB Channel",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": []
-    },
-    {
-      "id": "5812508",
-      "competition": "Serie B",
-      "home": "Modena",
-      "away": "Verona",
-      "title": "Modena vs Verona",
-      "kickoff": "2026-10-16T13:00:00+02:00",
-      "date": "2026-10-16",
-      "time": "13:00",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/modena-vs-verona/66xyo#5812508",
-      "channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "LAB Channel",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": []
     },
     {
       "id": "5742535",
@@ -6069,75 +6089,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Arena Sport 1",
-            "Moja TV",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5813623",
@@ -6392,12 +6344,85 @@
       "match_url": "https://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5818111",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "Sport 5max"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "id": "5818112",
@@ -6420,6 +6445,121 @@
         {
           "name": "LAB Channel",
           "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5814124",
+      "competition": "Serie B",
+      "home": "Sampdoria",
+      "away": "Arezzo",
+      "title": "Sampdoria vs Arezzo",
+      "kickoff": "2026-10-19T12:00:00+02:00",
+      "date": "2026-10-19",
+      "time": "12:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5814124",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 1",
+            "Moja TV",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Gold"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5818113",
+      "competition": "Serie B",
+      "home": "Sampdoria",
+      "away": "Arezzo",
+      "title": "Sampdoria vs Arezzo",
+      "kickoff": "2026-10-19T14:00:00+02:00",
+      "date": "2026-10-19",
+      "time": "14:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5818113",
+      "channels": [
+        {
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
           "stream": false
         }
       ],

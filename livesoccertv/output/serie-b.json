@@ -14,27 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR gray]09:00[/COLOR] Avellino vs Sampdoria",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-avellino/6jjqj#5811480"
-    },
-    {
-      "title": "[COLOR red]11:00[/COLOR] Empoli vs Palermo [COLOR red]LIVE[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-empoli/361gm#5812507"
-    },
-    {
-      "title": "[COLOR yellow]13:00[/COLOR] Modena vs Verona",
+      "title": "[COLOR gray]13:00[/COLOR] Modena vs Verona",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -166,9 +146,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5818111"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5818111"
     },
     {
       "title": "[COLOR yellow]12:00[/COLOR] Mantova vs Palermo",
@@ -179,6 +160,25 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112"
+    },
+    {
+      "title": "[COLOR yellow]12:00[/COLOR] Sampdoria vs Arezzo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5814124"
+    },
+    {
+      "title": "[COLOR yellow]14:00[/COLOR] Sampdoria vs Arezzo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Fox Soccer Plus"
+      ],
+      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5818113"
     }
   ]
 }
