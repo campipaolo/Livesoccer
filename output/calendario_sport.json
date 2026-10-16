@@ -1,144 +1,16 @@
 {
-  "aggiornato": "2026-10-16T13:26:35+02:00",
+  "aggiornato": "2026-10-16T17:21:38+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 265,
+  "totale": 262,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 10,
       "eventi": [
-        {
-          "titolo": "[Altri sport] Mondiali Shanghai: 3a giornata",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo su pista",
-          "sport": "Ciclismo su pista",
-          "competizione": "Mondiali Shanghai 2026",
-          "evento": "3a giornata",
-          "inizio": "2026-10-16T10:40:00+02:00",
-          "data": "16/10/2026",
-          "ora": "10:40",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-16T10:40",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Eurosport 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-16T10:55",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Empoli vs Palermo",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Empoli vs Palermo",
-          "inizio": "2026-10-16T11:00:00+02:00",
-          "data": "16/10/2026",
-          "ora": "11:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-16T11:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-16T11:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 4^ Quarto Di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Shanghai",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Shanghai",
-          "evento": "4^ Quarto Di Finale",
-          "inizio": "2026-10-16T12:00:00+02:00",
-          "data": "16/10/2026",
-          "ora": "12:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-16T12:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Modena vs Verona",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Modena vs Verona",
-          "inizio": "2026-10-16T13:00:00+02:00",
-          "data": "16/10/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-16T13:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-16T13:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Wuhan: 4^ Quarto di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Wuhan",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Wuhan",
-          "evento": "4^ Quarto di Finale",
-          "inizio": "2026-10-16T13:00:00+02:00",
-          "data": "16/10/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-16T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Primavera 1: Parma-Bologna",
           "categoria": "Calcio",
@@ -10626,64 +10498,6 @@
           "totale": 19,
           "eventi": [
             {
-              "titolo": "Serie B: Empoli vs Palermo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Empoli vs Palermo",
-              "inizio": "2026-10-16T11:00:00+02:00",
-              "data": "16/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-16T11:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T11:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Modena vs Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Modena vs Verona",
-              "inizio": "2026-10-16T13:00:00+02:00",
-              "data": "16/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-16T13:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T13:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
               "titolo": "Serie B: Verona vs Catanzaro",
               "categoria": "Calcio",
               "sottocartella": "Serie B",
@@ -11367,75 +11181,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 1",
-                    "Moja TV",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11695,14 +11441,89 @@
               "ora": "10:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-19T10:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-19T10:00",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 5max"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 7 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11728,6 +11549,125 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-19T12:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Sampdoria vs Arezzo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Sampdoria vs Arezzo",
+              "inizio": "2026-10-19T12:00:00+02:00",
+              "data": "19/10/2026",
+              "ora": "12:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-19T12:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-19T12:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 1",
+                    "Moja TV",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Gold"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 7 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Sampdoria vs Arezzo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Sampdoria vs Arezzo",
+              "inizio": "2026-10-19T14:00:00+02:00",
+              "data": "19/10/2026",
+              "ora": "14:00",
+              "canali": [
+                {
+                  "nome": "Fox Soccer Plus",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-19T14:00",
                   "fonte": "livesoccer"
                 }
               ],
@@ -13735,33 +13675,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 13,
+      "totale": 11,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Shanghai",
-          "totale": 4,
+          "totale": 3,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Shanghai: 4^ Quarto Di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Shanghai",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Shanghai",
-              "evento": "4^ Quarto Di Finale",
-              "inizio": "2026-10-16T12:00:00+02:00",
-              "data": "16/10/2026",
-              "ora": "12:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T12:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Shanghai: 1a Semifinale",
               "categoria": "Tennis",
@@ -13850,29 +13769,8 @@
         },
         {
           "nome": "WTA 1000 Wuhan",
-          "totale": 4,
+          "totale": 3,
           "eventi": [
-            {
-              "titolo": "WTA 1000 Wuhan: 4^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Wuhan",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Wuhan",
-              "evento": "4^ Quarto di Finale",
-              "inizio": "2026-10-16T13:00:00+02:00",
-              "data": "16/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "WTA 1000 Wuhan: 1a Semifinale",
               "categoria": "Tennis",
@@ -14424,40 +14322,60 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 12,
+      "totale": 11,
       "sottocartelle": [
         {
-          "nome": "Ciclismo su pista",
-          "totale": 4,
+          "nome": "Rugby femminile",
+          "totale": 2,
           "eventi": [
             {
-              "titolo": "Mondiali Shanghai: 3a giornata",
+              "titolo": "WXV Global Series: Stati Uniti-Italia",
               "categoria": "Altri sport",
-              "sottocartella": "Ciclismo su pista",
-              "sport": "Ciclismo su pista",
-              "competizione": "Mondiali Shanghai 2026",
-              "evento": "3a giornata",
-              "inizio": "2026-10-16T10:40:00+02:00",
-              "data": "16/10/2026",
-              "ora": "10:40",
+              "sottocartella": "Rugby femminile",
+              "sport": "Rugby femminile",
+              "competizione": "WXV Global Series",
+              "evento": "Stati Uniti-Italia",
+              "inizio": "2026-10-17T00:00:00+02:00",
+              "data": "17/10/2026",
+              "ora": "00:00",
               "canali": [
                 {
-                  "nome": "Rai Sport",
-                  "numero": "",
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
                   "tipo": "diretta",
-                  "orario": "2026-10-16T10:40",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Eurosport 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T10:55",
+                  "orario": "2026-10-17T00:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "WXV Global Series: Usa-Italia",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby femminile",
+              "sport": "Rugby femminile",
+              "competizione": "WXV Global Series",
+              "evento": "Usa-Italia",
+              "inizio": "2026-10-17T00:00:00+02:00",
+              "data": "17/10/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-17T00:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Ciclismo su pista",
+          "totale": 3,
+          "eventi": [
             {
               "titolo": "Mondiali Shanghai: 5a giornata",
               "categoria": "Altri sport",
@@ -14523,54 +14441,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-18T07:25",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Rugby femminile",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "WXV Global Series: Stati Uniti-Italia",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby femminile",
-              "sport": "Rugby femminile",
-              "competizione": "WXV Global Series",
-              "evento": "Stati Uniti-Italia",
-              "inizio": "2026-10-17T00:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "00:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T00:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WXV Global Series: Usa-Italia",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby femminile",
-              "sport": "Rugby femminile",
-              "competizione": "WXV Global Series",
-              "evento": "Usa-Italia",
-              "inizio": "2026-10-17T00:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "00:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T00:00",
                   "fonte": "virgilio"
                 }
               ],
