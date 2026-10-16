@@ -2,17 +2,6 @@
   "eventi": [
     {
       "competizione": "Serie B",
-      "titolo": "Avellino vs Sampdoria",
-      "data": "2026-10-16",
-      "ora": "09:00",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": []
-    },
-    {
-      "competizione": "Serie B",
       "titolo": "Empoli vs Palermo",
       "data": "2026-10-16",
       "ora": "11:00",
@@ -205,6 +194,12 @@
           ]
         },
         {
+          "paese": "Angola",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Anguilla",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -286,6 +281,12 @@
           ]
         },
         {
+          "paese": "Benin",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Bhutan",
           "canali": [
             "ZEE5",
@@ -305,6 +306,12 @@
             "Moja TV",
             "Arena Sport 2P",
             "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Botswana",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -332,11 +339,35 @@
           ]
         },
         {
+          "paese": "Burkina Faso",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Burundi",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Camerun",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Canada",
           "canali": [
             "DAZN Canada",
             "fuboTV Canada",
             "Fubo Sports Network Canada"
+          ]
+        },
+        {
+          "paese": "Capo Verde",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -346,8 +377,15 @@
           ]
         },
         {
+          "paese": "Repubblica Centrafricana",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Ciad",
           "canali": [
+            "SuperSport GOtv Football",
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
@@ -375,6 +413,19 @@
           "paese": "Colombia",
           "canali": [
             "Disney+ Premium Sur"
+          ]
+        },
+        {
+          "paese": "Comore",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Repubblica Democratica del Congo",
+          "canali": [
+            "SuperSport GOtv Football",
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -412,6 +463,12 @@
           ]
         },
         {
+          "paese": "Costa d'Avorio",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
             "TV2 Play Denmark",
@@ -421,6 +478,7 @@
         {
           "paese": "Gibuti",
           "canali": [
+            "SuperSport GOtv Football",
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
@@ -462,6 +520,24 @@
           ]
         },
         {
+          "paese": "Guinea Equatoriale",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Eritrea",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Etiopia",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Isole Faroe",
           "canali": [
             "TV2 Play Denmark",
@@ -482,6 +558,18 @@
           ]
         },
         {
+          "paese": "Gabon",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Gambia",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Georgia",
           "canali": [
             "Silk Universal"
@@ -492,6 +580,12 @@
           "canali": [
             "DAZN Deutschland",
             "DAZN2 Germany"
+          ]
+        },
+        {
+          "paese": "Ghana",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -523,6 +617,18 @@
           "canali": [
             "Disney+ Premium Norte",
             "ESPN3 Norte"
+          ]
+        },
+        {
+          "paese": "Guinea",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Guinea-Bissau",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -619,6 +725,7 @@
         {
           "paese": "Kenya",
           "canali": [
+            "SuperSport GOtv Football",
             "Azam Sports 3 HD"
           ]
         },
@@ -652,6 +759,18 @@
           ]
         },
         {
+          "paese": "Lesotho",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Liberia",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Libia",
           "canali": [
             "STARZPLAY",
@@ -681,8 +800,15 @@
           ]
         },
         {
+          "paese": "Madagascar",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Malawi",
           "canali": [
+            "SuperSport GOtv Football",
             "Azam Sports 3 HD"
           ]
         },
@@ -703,6 +829,12 @@
           ]
         },
         {
+          "paese": "Mali",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Malta",
           "canali": [
             "GO TV Anywhere",
@@ -718,6 +850,7 @@
         {
           "paese": "Mauritania",
           "canali": [
+            "SuperSport GOtv Football",
             "STARZPLAY",
             "Shasha"
           ]
@@ -725,7 +858,14 @@
         {
           "paese": "Mauritius",
           "canali": [
+            "SuperSport GOtv Football",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Mayotte",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -762,6 +902,18 @@
           ]
         },
         {
+          "paese": "Mozambico",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Namibia",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Nepal",
           "canali": [
             "ZEE5",
@@ -780,6 +932,18 @@
           "canali": [
             "Disney+ Premium Norte",
             "ESPN3 Norte"
+          ]
+        },
+        {
+          "paese": "Niger",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Nigeria",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -861,6 +1025,12 @@
           ]
         },
         {
+          "paese": "Reunion",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Romania",
           "canali": [
             "Digi Sport 2 Romania",
@@ -881,6 +1051,7 @@
         {
           "paese": "Ruanda",
           "canali": [
+            "SuperSport GOtv Football",
             "Azam Sports 3 HD"
           ]
         },
@@ -888,6 +1059,12 @@
           "paese": "Saint Barthelemy",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Saint Helena",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -925,10 +1102,28 @@
           ]
         },
         {
+          "paese": "Senegal",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Serbia",
           "canali": [
             "Arena Sport 3 Serbia",
             "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Seychelles",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
+          "paese": "Sierra Leone",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -946,8 +1141,16 @@
         {
           "paese": "Somalia",
           "canali": [
+            "SuperSport GOtv Football",
             "STARZPLAY",
             "Shasha"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "SuperSport Football",
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -981,6 +1184,7 @@
         {
           "paese": "Sudan",
           "canali": [
+            "SuperSport GOtv Football",
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
@@ -990,6 +1194,12 @@
           "paese": "Suriname",
           "canali": [
             "SCCN"
+          ]
+        },
+        {
+          "paese": "Swaziland",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -1013,8 +1223,15 @@
           ]
         },
         {
+          "paese": "São Tomé and Príncipe",
+          "canali": [
+            "SuperSport GOtv Football"
+          ]
+        },
+        {
           "paese": "Tanzania",
           "canali": [
+            "SuperSport GOtv Football",
             "Azam Sports 3 HD"
           ]
         },
@@ -1023,6 +1240,12 @@
           "canali": [
             "True ID",
             "True Premier Football HD 3"
+          ]
+        },
+        {
+          "paese": "Togo",
+          "canali": [
+            "SuperSport GOtv Football"
           ]
         },
         {
@@ -1055,6 +1278,7 @@
         {
           "paese": "Uganda",
           "canali": [
+            "SuperSport GOtv Football",
             "Azam Sports 3 HD"
           ]
         },
@@ -1112,13 +1336,94 @@
         {
           "paese": "Zambia",
           "canali": [
+            "SuperSport GOtv Football",
             "Azam Sports 3 HD"
           ]
         },
         {
           "paese": "Zimbabwe",
           "canali": [
+            "SuperSport GOtv Football",
             "Azam Sports 3 HD"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Verona vs Catanzaro",
+      "data": "2026-10-17",
+      "ora": "02:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "Sport 5max"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
           ]
         }
       ]
@@ -1313,6 +1618,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -1415,6 +1721,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1463,6 +1770,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1484,6 +1792,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1540,6 +1849,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1552,6 +1862,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1813,6 +2124,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1847,6 +2159,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -1976,6 +2289,12 @@
           "canali": [
             "STARZPLAY",
             "Shasha"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "SuperSport Football"
           ]
         },
         {
@@ -2361,6 +2680,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -2463,6 +2783,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2511,6 +2832,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2532,6 +2854,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2594,6 +2917,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2606,6 +2930,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2863,6 +3188,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2897,6 +3223,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3025,6 +3352,12 @@
           "canali": [
             "STARZPLAY",
             "Shasha"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "SuperSport Football"
           ]
         },
         {
@@ -3320,6 +3653,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -3424,6 +3758,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3471,6 +3806,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3492,6 +3828,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3547,6 +3884,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3559,6 +3897,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3833,6 +4172,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3867,6 +4207,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4005,6 +4346,12 @@
           "canali": [
             "STARZPLAY",
             "Shasha"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "SuperSport Football"
           ]
         },
         {
@@ -4189,7 +4536,126 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
+          "paese": "Burundi",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Repubblica Democratica del Congo",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Ghana",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Guinea",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Plus"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Kenya",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 2 Live"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Nigeria",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "Ruanda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Sierra Leone",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 2 Live"
+          ]
+        },
+        {
+          "paese": "Tanzania",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Uganda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie A",
@@ -4308,6 +4774,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -4409,6 +4876,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4456,6 +4924,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4477,6 +4946,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4533,6 +5003,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4545,6 +5016,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4796,6 +5268,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4830,6 +5303,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4958,6 +5432,12 @@
           "canali": [
             "STARZPLAY",
             "Shasha"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "SuperSport Football"
           ]
         },
         {
@@ -5139,7 +5619,75 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 1",
+            "Moja TV",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Gold"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -5147,11 +5695,78 @@
       "data": "2026-10-19",
       "ora": "08:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "Sport 5max"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -5162,11 +5777,140 @@
         "DAZN Italia",
         "LAB Channel"
       ],
+      "canali_mondo": [
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
+          "paese": "Burundi",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Repubblica Democratica del Congo",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Ghana",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Guinea",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Plus"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Kenya",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 2 Live"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Nigeria",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "Ruanda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Sierra Leone",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Sudafrica",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 2 Live"
+          ]
+        },
+        {
+          "paese": "Tanzania",
+          "canali": [
+            "Sporty TV App"
+          ]
+        },
+        {
+          "paese": "Uganda",
+          "canali": [
+            "Sporty TV App"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Verona vs Catanzaro",
+      "data": "2026-10-19",
+      "ora": "10:00",
+      "canali": [
+        "Fox Soccer Plus"
+      ],
       "canali_mondo": []
     },
     {
       "competizione": "Serie B",
-      "titolo": "Sampdoria vs Arezzo",
+      "titolo": "Mantova vs Palermo",
       "data": "2026-10-19",
       "ora": "12:00",
       "canali": [
