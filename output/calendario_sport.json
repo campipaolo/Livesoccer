@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-10-16T21:28:38+02:00",
+  "aggiornato": "2026-10-16T23:11:16+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 261,
+  "totale": 260,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 8,
+      "totale": 7,
       "eventi": [
-        {
-          "titolo": "[Calcio] Bundesliga 2: Cottbus-Norimberga",
-          "categoria": "Calcio",
-          "sottocartella": "Bundesliga 2",
-          "sport": "Calcio",
-          "competizione": "Bundesliga 2",
-          "evento": "Cottbus-Norimberga",
-          "inizio": "2026-10-16T18:30:00+02:00",
-          "data": "16/10/2026",
-          "ora": "18:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-16T18:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Basket] Eurolega: Barcellona-Olympiacos",
           "categoria": "Basket",
@@ -5103,7 +5082,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 107,
+      "totale": 106,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -13098,54 +13077,6 @@
           ]
         },
         {
-          "nome": "Bundesliga 2",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Bundesliga 2: Cottbus-Norimberga",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga 2",
-              "sport": "Calcio",
-              "competizione": "Bundesliga 2",
-              "evento": "Cottbus-Norimberga",
-              "inizio": "2026-10-16T18:30:00+02:00",
-              "data": "16/10/2026",
-              "ora": "18:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-16T18:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Bundesliga 2: Wolfsburg-Heidenheim",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga 2",
-              "sport": "Calcio",
-              "competizione": "Bundesliga 2",
-              "evento": "Wolfsburg-Heidenheim",
-              "inizio": "2026-10-17T13:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Bundesliga",
           "totale": 4,
           "eventi": [
@@ -13366,6 +13297,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-18T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Bundesliga 2",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Bundesliga 2: Wolfsburg-Heidenheim",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga 2",
+              "sport": "Calcio",
+              "competizione": "Bundesliga 2",
+              "evento": "Wolfsburg-Heidenheim",
+              "inizio": "2026-10-17T13:00:00+02:00",
+              "data": "17/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-17T13:00",
                   "fonte": "virgilio"
                 }
               ],
