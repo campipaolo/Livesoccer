@@ -1,264 +1,16 @@
 {
-  "aggiornato": "2026-10-17T13:30:44+02:00",
+  "aggiornato": "2026-10-17T17:15:57+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 262,
+  "totale": 250,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 38,
+      "totale": 26,
       "eventi": [
-        {
-          "titolo": "[Calcio] Primavera 1: Milan-Cagliari",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Milan-Cagliari",
-          "inizio": "2026-10-17T11:00:00+02:00",
-          "data": "17/10/2026",
-          "ora": "11:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T11:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Wuhan: 1a Semifinale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Wuhan",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Wuhan",
-          "evento": "1a Semifinale",
-          "inizio": "2026-10-17T11:00:00+02:00",
-          "data": "17/10/2026",
-          "ora": "11:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T11:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] World Superbike: Spanish Round - Superpole",
-          "categoria": "Motori",
-          "sottocartella": "World Superbike",
-          "sport": "Motori",
-          "competizione": "World Superbike",
-          "evento": "Spanish Round - Superpole",
-          "sessione": "qualifiche",
-          "circuito": "Circuito di Jerez de la Frontera, Carretera de Arcos-Jerez de la Frontera, Km 10, 11405 Jerez de la Frontera, Cádiz, Spagna",
-          "inizio": "2026-10-17T11:15:00+02:00",
-          "data": "17/10/2026",
-          "ora": "11:15",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Altri sport] Mondiali Shanghai: 4a giornata",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo su pista",
-          "sport": "Ciclismo su pista",
-          "competizione": "Mondiali Shanghai 2026",
-          "evento": "4a giornata",
-          "inizio": "2026-10-17T11:25:00+02:00",
-          "data": "17/10/2026",
-          "ora": "11:25",
-          "canali": [
-            {
-              "nome": "Eurosport 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T11:25",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T11:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] GT World Challenge Europe: R10 Portimao - Quali",
-          "categoria": "Motori",
-          "sottocartella": "GT World Challenge Europe",
-          "sport": "Motori",
-          "competizione": "GT World Challenge Europe",
-          "evento": "R10 Portimao - Quali",
-          "sessione": "qualifiche",
-          "circuito": "Autódromo Internacional do Algarve, Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão, Portogallo",
-          "inizio": "2026-10-17T11:40:00+02:00",
-          "data": "17/10/2026",
-          "ora": "11:40",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Motori] WEC: 6 Hours of Barcelona - Quali LMGT3",
-          "categoria": "Motori",
-          "sottocartella": "WEC",
-          "sport": "Motori",
-          "competizione": "WEC",
-          "evento": "6 Hours of Barcelona - Quali LMGT3",
-          "sessione": "qualifiche",
-          "circuito": "Circuito di Catalogna, Mas La Moreneta s/n, 08160 Montmeló, Barcelona, Spagna",
-          "inizio": "2026-10-17T11:50:00+02:00",
-          "data": "17/10/2026",
-          "ora": "11:50",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Tennis] WTA 1000 Wuhan: 2a Semifinale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 1000 Wuhan",
-          "sport": "Tennis",
-          "competizione": "WTA 1000 Wuhan",
-          "evento": "2a Semifinale",
-          "inizio": "2026-10-17T12:30:00+02:00",
-          "data": "17/10/2026",
-          "ora": "12:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T12:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Altri sport] Eneco Tour: 4a tappa",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo femminile",
-          "sport": "Ciclismo femminile",
-          "competizione": "Eneco Tour",
-          "evento": "4a tappa",
-          "inizio": "2026-10-17T12:35:00+02:00",
-          "data": "17/10/2026",
-          "ora": "12:35",
-          "canali": [
-            {
-              "nome": "Eurosport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T12:35",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Bundesliga 2: Wolfsburg-Heidenheim",
-          "categoria": "Calcio",
-          "sottocartella": "Bundesliga 2",
-          "sport": "Calcio",
-          "competizione": "Bundesliga 2",
-          "evento": "Wolfsburg-Heidenheim",
-          "inizio": "2026-10-17T13:00:00+02:00",
-          "data": "17/10/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Mix",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Primavera 1: Lazio-Inter",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Lazio-Inter",
-          "inizio": "2026-10-17T13:00:00+02:00",
-          "data": "17/10/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Shanghai: 2a Semifinale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Shanghai",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Shanghai",
-          "evento": "2a Semifinale",
-          "inizio": "2026-10-17T13:00:00+02:00",
-          "data": "17/10/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-17T13:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Premier League: Everton-Chelsea",
-          "categoria": "Calcio",
-          "sottocartella": "Premier League",
-          "sport": "Calcio",
-          "competizione": "Premier League",
-          "evento": "Everton-Chelsea",
-          "inizio": "2026-10-17T13:30:00+02:00",
-          "data": "17/10/2026",
-          "ora": "13:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-17T13:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Serie C: Athletic Carpi vs Lumezzane",
           "categoria": "Calcio",
@@ -4451,7 +4203,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 118,
+      "totale": 115,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -5961,23 +5713,8 @@
         },
         {
           "nome": "WEC",
-          "totale": 5,
+          "totale": 4,
           "eventi": [
-            {
-              "titolo": "WEC: 6 Hours of Barcelona - Quali LMGT3",
-              "categoria": "Motori",
-              "sottocartella": "WEC",
-              "sport": "Motori",
-              "competizione": "WEC",
-              "evento": "6 Hours of Barcelona - Quali LMGT3",
-              "sessione": "qualifiche",
-              "circuito": "Circuito di Catalogna, Mas La Moreneta s/n, 08160 Montmeló, Barcelona, Spagna",
-              "inizio": "2026-10-17T11:50:00+02:00",
-              "data": "17/10/2026",
-              "ora": "11:50",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "WEC: 6 Hours of Barcelona - Quali Hypercar",
               "categoria": "Motori",
@@ -6042,23 +5779,8 @@
         },
         {
           "nome": "GT World Challenge Europe",
-          "totale": 2,
+          "totale": 1,
           "eventi": [
-            {
-              "titolo": "GT World Challenge Europe: R10 Portimao - Quali",
-              "categoria": "Motori",
-              "sottocartella": "GT World Challenge Europe",
-              "sport": "Motori",
-              "competizione": "GT World Challenge Europe",
-              "evento": "R10 Portimao - Quali",
-              "sessione": "qualifiche",
-              "circuito": "Autódromo Internacional do Algarve, Sítio do Escampadinho, Mexilhoeira Grande, 8500-148 Portimão, Portogallo",
-              "inizio": "2026-10-17T11:40:00+02:00",
-              "data": "17/10/2026",
-              "ora": "11:40",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "GT World Challenge Europe: R10 Portimao - Race",
               "categoria": "Motori",
@@ -7712,23 +7434,8 @@
         },
         {
           "nome": "World Superbike",
-          "totale": 4,
+          "totale": 3,
           "eventi": [
-            {
-              "titolo": "World Superbike: Spanish Round - Superpole",
-              "categoria": "Motori",
-              "sottocartella": "World Superbike",
-              "sport": "Motori",
-              "competizione": "World Superbike",
-              "evento": "Spanish Round - Superpole",
-              "sessione": "qualifiche",
-              "circuito": "Circuito di Jerez de la Frontera, Carretera de Arcos-Jerez de la Frontera, Km 10, 11405 Jerez de la Frontera, Cádiz, Spagna",
-              "inizio": "2026-10-17T11:15:00+02:00",
-              "data": "17/10/2026",
-              "ora": "11:15",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "World Superbike: Spanish Round - Race 1",
               "categoria": "Motori",
@@ -7993,7 +7700,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 105,
+      "totale": 101,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -15279,178 +14986,67 @@
           ]
         },
         {
-          "nome": "Primavera 1",
-          "totale": 6,
+          "nome": "Bundesliga",
+          "totale": 3,
           "eventi": [
             {
-              "titolo": "Primavera 1: Milan-Cagliari",
+              "titolo": "Bundesliga: Union Berlino-Borussia Dortmund",
               "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
+              "sottocartella": "Bundesliga",
               "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Milan-Cagliari",
-              "inizio": "2026-10-17T11:00:00+02:00",
+              "competizione": "Bundesliga",
+              "evento": "Union Berlino-Borussia Dortmund",
+              "inizio": "2026-10-17T15:30:00+02:00",
               "data": "17/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Lazio-Inter",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Lazio-Inter",
-              "inizio": "2026-10-17T13:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Monza-Juventus",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Monza-Juventus",
-              "inizio": "2026-10-18T11:00:00+02:00",
-              "data": "18/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Empoli-Atalanta",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Empoli-Atalanta",
-              "inizio": "2026-10-18T13:00:00+02:00",
-              "data": "18/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Atalanta-Lazio",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Atalanta-Lazio",
-              "inizio": "2026-10-23T15:00:00+02:00",
-              "data": "23/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Sassuolo-Torino",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Sassuolo-Torino",
-              "inizio": "2026-10-23T17:00:00+02:00",
-              "data": "23/10/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Bundesliga 2",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Bundesliga 2: Wolfsburg-Heidenheim",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga 2",
-              "sport": "Calcio",
-              "competizione": "Bundesliga 2",
-              "evento": "Wolfsburg-Heidenheim",
-              "inizio": "2026-10-17T13:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "13:00",
+              "ora": "15:30",
               "canali": [
                 {
                   "nome": "Sky Sport Mix",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-17T13:00",
+                  "orario": "2026-10-17T15:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "Bundesliga 2: Bochum-Wolfsburg",
+              "titolo": "Bundesliga: Bayern Monaco-RB Lipsia",
               "categoria": "Calcio",
-              "sottocartella": "Bundesliga 2",
+              "sottocartella": "Bundesliga",
               "sport": "Calcio",
-              "competizione": "Bundesliga 2",
-              "evento": "Bochum-Wolfsburg",
-              "inizio": "2026-10-23T18:30:00+02:00",
-              "data": "23/10/2026",
+              "competizione": "Bundesliga",
+              "evento": "Bayern Monaco-RB Lipsia",
+              "inizio": "2026-10-17T18:30:00+02:00",
+              "data": "17/10/2026",
               "ora": "18:30",
               "canali": [
                 {
-                  "nome": "Sky Sport Max",
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-23T18:30",
+                  "orario": "2026-10-17T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: Borussia Moenchengladbach-TSG 1899 Hoffenheim",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Borussia Moenchengladbach-TSG 1899 Hoffenheim",
+              "inizio": "2026-10-18T17:30:00+02:00",
+              "data": "18/10/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T17:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -15460,29 +15056,8 @@
         },
         {
           "nome": "Premier League",
-          "totale": 11,
+          "totale": 10,
           "eventi": [
-            {
-              "titolo": "Premier League: Everton-Chelsea",
-              "categoria": "Calcio",
-              "sottocartella": "Premier League",
-              "sport": "Calcio",
-              "competizione": "Premier League",
-              "evento": "Everton-Chelsea",
-              "inizio": "2026-10-17T13:30:00+02:00",
-              "data": "17/10/2026",
-              "ora": "13:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T13:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Premier League: Brentford-Liverpool",
               "categoria": "Calcio",
@@ -15696,67 +15271,88 @@
           ]
         },
         {
-          "nome": "Bundesliga",
-          "totale": 3,
+          "nome": "Primavera 1",
+          "totale": 4,
           "eventi": [
             {
-              "titolo": "Bundesliga: Union Berlino-Borussia Dortmund",
+              "titolo": "Primavera 1: Monza-Juventus",
               "categoria": "Calcio",
-              "sottocartella": "Bundesliga",
+              "sottocartella": "Primavera 1",
               "sport": "Calcio",
-              "competizione": "Bundesliga",
-              "evento": "Union Berlino-Borussia Dortmund",
-              "inizio": "2026-10-17T15:30:00+02:00",
-              "data": "17/10/2026",
-              "ora": "15:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T15:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Bundesliga: Bayern Monaco-RB Lipsia",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga",
-              "sport": "Calcio",
-              "competizione": "Bundesliga",
-              "evento": "Bayern Monaco-RB Lipsia",
-              "inizio": "2026-10-17T18:30:00+02:00",
-              "data": "17/10/2026",
-              "ora": "18:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T18:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Bundesliga: Borussia Moenchengladbach-TSG 1899 Hoffenheim",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga",
-              "sport": "Calcio",
-              "competizione": "Bundesliga",
-              "evento": "Borussia Moenchengladbach-TSG 1899 Hoffenheim",
-              "inizio": "2026-10-18T17:30:00+02:00",
+              "competizione": "Primavera 1",
+              "evento": "Monza-Juventus",
+              "inizio": "2026-10-18T11:00:00+02:00",
               "data": "18/10/2026",
-              "ora": "17:30",
+              "ora": "11:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Mix",
+                  "nome": "Sportitalia",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-18T17:30",
+                  "orario": "2026-10-18T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Empoli-Atalanta",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Empoli-Atalanta",
+              "inizio": "2026-10-18T13:00:00+02:00",
+              "data": "18/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Atalanta-Lazio",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Atalanta-Lazio",
+              "inizio": "2026-10-23T15:00:00+02:00",
+              "data": "23/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Sassuolo-Torino",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Sassuolo-Torino",
+              "inizio": "2026-10-23T17:00:00+02:00",
+              "data": "23/10/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T17:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -16801,144 +16397,40 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "Bundesliga 2",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Bundesliga 2: Bochum-Wolfsburg",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga 2",
+              "sport": "Calcio",
+              "competizione": "Bundesliga 2",
+              "evento": "Bochum-Wolfsburg",
+              "inizio": "2026-10-23T18:30:00+02:00",
+              "data": "23/10/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Tennis",
-      "totale": 12,
+      "totale": 9,
       "sottocartelle": [
-        {
-          "nome": "WTA 1000 Wuhan",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "WTA 1000 Wuhan: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Wuhan",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Wuhan",
-              "evento": "1a Semifinale",
-              "inizio": "2026-10-17T11:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Wuhan: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Wuhan",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Wuhan",
-              "evento": "2a Semifinale",
-              "inizio": "2026-10-17T12:30:00+02:00",
-              "data": "17/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T12:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 1000 Wuhan: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Wuhan",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Wuhan",
-              "evento": "Finale",
-              "inizio": "2026-10-18T12:30:00+02:00",
-              "data": "18/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T12:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP Masters 1000 Shanghai",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Shanghai: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Shanghai",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Shanghai",
-              "evento": "2a Semifinale",
-              "inizio": "2026-10-17T13:00:00+02:00",
-              "data": "17/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Masters 1000 Shanghai: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Shanghai",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Shanghai",
-              "evento": "Finale",
-              "inizio": "2026-10-18T10:30:00+02:00",
-              "data": "18/10/2026",
-              "ora": "10:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T10:30",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T10:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "ATP & WTA",
           "totale": 6,
@@ -17099,6 +16591,67 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-23T08:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP Masters 1000 Shanghai",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "ATP Masters 1000 Shanghai: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Shanghai",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "Finale",
+              "inizio": "2026-10-18T10:30:00+02:00",
+              "data": "18/10/2026",
+              "ora": "10:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T10:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T10:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "WTA 1000 Wuhan",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "WTA 1000 Wuhan: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "Finale",
+              "inizio": "2026-10-18T12:30:00+02:00",
+              "data": "18/10/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T12:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -17521,118 +17074,8 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 11,
+      "totale": 9,
       "sottocartelle": [
-        {
-          "nome": "Ciclismo su pista",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Mondiali Shanghai: 4a giornata",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo su pista",
-              "sport": "Ciclismo su pista",
-              "competizione": "Mondiali Shanghai 2026",
-              "evento": "4a giornata",
-              "inizio": "2026-10-17T11:25:00+02:00",
-              "data": "17/10/2026",
-              "ora": "11:25",
-              "canali": [
-                {
-                  "nome": "Eurosport 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T11:25",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T11:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Mondiali Shanghai: 5a giornata",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo su pista",
-              "sport": "Ciclismo su pista",
-              "competizione": "Mondiali Shanghai 2026",
-              "evento": "5a giornata",
-              "inizio": "2026-10-18T07:10:00+02:00",
-              "data": "18/10/2026",
-              "ora": "07:10",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T07:10",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Eurosport 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T07:25",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Ciclismo femminile",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Eneco Tour: 4a tappa",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo femminile",
-              "sport": "Ciclismo femminile",
-              "competizione": "Eneco Tour",
-              "evento": "4a tappa",
-              "inizio": "2026-10-17T12:35:00+02:00",
-              "data": "17/10/2026",
-              "ora": "12:35",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-17T12:35",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eneco Tour: 5a tappa",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo femminile",
-              "sport": "Ciclismo femminile",
-              "competizione": "Eneco Tour",
-              "evento": "5a tappa",
-              "inizio": "2026-10-18T12:30:00+02:00",
-              "data": "18/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T12:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Rugby",
           "totale": 2,
@@ -17682,6 +17125,40 @@
           ]
         },
         {
+          "nome": "Ciclismo su pista",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Mondiali Shanghai: 5a giornata",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo su pista",
+              "sport": "Ciclismo su pista",
+              "competizione": "Mondiali Shanghai 2026",
+              "evento": "5a giornata",
+              "inizio": "2026-10-18T07:10:00+02:00",
+              "data": "18/10/2026",
+              "ora": "07:10",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T07:10",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Eurosport 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T07:25",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
           "nome": "Atletica leggera",
           "totale": 1,
           "eventi": [
@@ -17701,6 +17178,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-18T08:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Ciclismo femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Eneco Tour: 5a tappa",
+              "categoria": "Altri sport",
+              "sottocartella": "Ciclismo femminile",
+              "sport": "Ciclismo femminile",
+              "competizione": "Eneco Tour",
+              "evento": "5a tappa",
+              "inizio": "2026-10-18T12:30:00+02:00",
+              "data": "18/10/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T12:30",
                   "fonte": "virgilio"
                 }
               ],
