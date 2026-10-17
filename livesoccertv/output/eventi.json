@@ -1,104 +1,6 @@
 {
   "eventi": [
     {
-      "competizione": "Serie B",
-      "titolo": "Verona vs Catanzaro",
-      "data": "2026-10-17",
-      "ora": "02:30",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "Sport 5max"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "DCTV",
-            "FOX One"
-          ]
-        }
-      ]
-    },
-    {
       "competizione": "Serie C",
       "titolo": "Athletic Carpi vs Lumezzane",
       "data": "2026-10-17",
@@ -470,7 +372,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -690,6 +593,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "Arena 5 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -1029,6 +933,7 @@
         {
           "paese": "Sudafrica",
           "canali": [
+            "DStv App",
             "SuperSport Football"
           ]
         },
@@ -1723,7 +1628,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -1954,6 +1860,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "Arena 4 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -2279,6 +2186,7 @@
         {
           "paese": "Sudafrica",
           "canali": [
+            "DStv App",
             "SuperSport Football"
           ]
         },
@@ -2707,7 +2615,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -2936,6 +2845,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "Arena 1 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -3168,7 +3078,7 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV1",
+            "Sport TV2",
             "Sport TV Multiscreen"
           ]
         },
@@ -3288,6 +3198,7 @@
         {
           "paese": "Sudafrica",
           "canali": [
+            "DStv App",
             "SuperSport Football"
           ]
         },
@@ -3463,17 +3374,6 @@
           ]
         }
       ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Mantova vs Palermo",
-      "data": "2026-10-18",
-      "ora": "07:30",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": []
     },
     {
       "competizione": "Serie A",
@@ -3735,7 +3635,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -3959,6 +3860,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -4296,6 +4198,7 @@
         {
           "paese": "Sudafrica",
           "canali": [
+            "DStv App",
             "SuperSport Football"
           ]
         },
@@ -4518,6 +4421,7 @@
         {
           "paese": "Angola",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4627,6 +4531,7 @@
         {
           "paese": "Botswana",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4658,18 +4563,21 @@
         {
           "paese": "Burkina Faso",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Burundi",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Camerun",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4684,6 +4592,7 @@
         {
           "paese": "Capo Verde",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4702,6 +4611,7 @@
         {
           "paese": "Ciad",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "STARZPLAY",
             "Shasha",
@@ -4743,6 +4653,7 @@
         {
           "paese": "Repubblica Democratica del Congo",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "SuperSport OTT 6"
           ]
@@ -4770,12 +4681,14 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
           "paese": "Costa d'Avorio",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4788,6 +4701,7 @@
         {
           "paese": "Gibuti",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "STARZPLAY",
             "Shasha",
@@ -4833,18 +4747,21 @@
         {
           "paese": "Guinea Equatoriale",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Eritrea",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Etiopia",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4870,12 +4787,14 @@
         {
           "paese": "Gabon",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Gambia",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4894,6 +4813,7 @@
         {
           "paese": "Ghana",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -4931,12 +4851,14 @@
         {
           "paese": "Guinea",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Guinea-Bissau",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5033,6 +4955,7 @@
         {
           "paese": "Kenya",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "Azam Sports 3 HD"
           ]
@@ -5049,6 +4972,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -5070,12 +4994,14 @@
         {
           "paese": "Lesotho",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Liberia",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5111,12 +5037,14 @@
         {
           "paese": "Madagascar",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Malawi",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "Azam Sports 3 HD"
           ]
@@ -5142,6 +5070,7 @@
         {
           "paese": "Mali",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5161,6 +5090,7 @@
         {
           "paese": "Mauritania",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "STARZPLAY",
             "Shasha"
@@ -5169,6 +5099,7 @@
         {
           "paese": "Mauritius",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "Thmanyah"
           ]
@@ -5216,12 +5147,14 @@
         {
           "paese": "Mozambico",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Namibia",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5256,12 +5189,14 @@
         {
           "paese": "Niger",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Nigeria",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5425,6 +5360,7 @@
         {
           "paese": "Senegal",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5438,12 +5374,14 @@
         {
           "paese": "Seychelles",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
         {
           "paese": "Sierra Leone",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5476,6 +5414,7 @@
         {
           "paese": "Sud Sudan",
           "canali": [
+            "DStv Now",
             "STARZPLAY",
             "Shasha"
           ]
@@ -5508,6 +5447,7 @@
         {
           "paese": "Sudan",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "STARZPLAY",
             "Shasha",
@@ -5523,6 +5463,7 @@
         {
           "paese": "Swaziland",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5555,6 +5496,7 @@
         {
           "paese": "Tanzania",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "Azam Sports 3 HD"
           ]
@@ -5562,6 +5504,7 @@
         {
           "paese": "Togo",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6"
           ]
         },
@@ -5597,6 +5540,7 @@
         {
           "paese": "Uganda",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "Azam Sports 3 HD"
           ]
@@ -5667,6 +5611,7 @@
         {
           "paese": "Zimbabwe",
           "canali": [
+            "DStv Now",
             "SuperSport OTT 6",
             "Azam Sports 3 HD"
           ]
@@ -5674,454 +5619,33 @@
       ]
     },
     {
-      "competizione": "Serie B",
-      "titolo": "Sampdoria vs Arezzo",
-      "data": "2026-10-19",
-      "ora": "00:00",
+      "competizione": "Serie C",
+      "titolo": "Pineto vs Reggiana",
+      "data": "2026-10-20",
+      "ora": "15:30",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": []
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Verona vs Catanzaro",
-      "data": "2026-10-19",
-      "ora": "08:00",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": []
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Mantova vs Palermo",
-      "data": "2026-10-19",
-      "ora": "10:00",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
       ],
       "canali_mondo": [
         {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
           "paese": "Italia",
           "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
           ]
         },
         {
           "paese": "San Marino",
           "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "DCTV"
+            "Sky Sport 253",
+            "SKY Go Italia",
+            "NOW TV"
           ]
         }
       ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Verona vs Catanzaro",
-      "data": "2026-10-19",
-      "ora": "10:00",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "Sport 5max"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "DCTV",
-            "FOX One"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Mantova vs Palermo",
-      "data": "2026-10-19",
-      "ora": "12:00",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "DCTV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Sampdoria vs Arezzo",
-      "data": "2026-10-19",
-      "ora": "12:00",
-      "canali": [
-        "fuboTV",
-        "FOX One"
-      ],
-      "canali_mondo": []
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Sampdoria vs Arezzo",
-      "data": "2026-10-19",
-      "ora": "14:00",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": []
     }
   ]
 }

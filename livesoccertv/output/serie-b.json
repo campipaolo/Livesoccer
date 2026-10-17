@@ -8,36 +8,10 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Venerdi 16 Ottobre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]20:30[/COLOR] Verona vs Catanzaro [COLOR gray]2:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5742535"
-    },
-    {
       "title": "[COLOR cyan]Sabato 17 Ottobre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
-    },
-    {
-      "title": "[COLOR red]02:30[/COLOR] Verona vs Catanzaro [COLOR red]LIVE[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5818106"
     },
     {
       "title": "[COLOR yellow]15:00[/COLOR] Ascoli vs Empoli",
@@ -88,98 +62,6 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5742531"
-    },
-    {
-      "title": "[COLOR cyan]Domenica 18 Ottobre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR yellow]07:30[/COLOR] Mantova vs Palermo",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5813094"
-    },
-    {
-      "title": "[COLOR cyan]Lunedi 19 Ottobre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR yellow]00:00[/COLOR] Sampdoria vs Arezzo",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5813619"
-    },
-    {
-      "title": "[COLOR yellow]08:00[/COLOR] Verona vs Catanzaro",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5813623"
-    },
-    {
-      "title": "[COLOR yellow]10:00[/COLOR] Mantova vs Palermo",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5814123"
-    },
-    {
-      "title": "[COLOR yellow]10:00[/COLOR] Verona vs Catanzaro",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5818111"
-    },
-    {
-      "title": "[COLOR yellow]12:00[/COLOR] Mantova vs Palermo",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112"
-    },
-    {
-      "title": "[COLOR yellow]12:00[/COLOR] Sampdoria vs Arezzo",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "fuboTV",
-        "FOX One"
-      ],
-      "info": "Serie B\nCanali: fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5814124"
-    },
-    {
-      "title": "[COLOR yellow]14:00[/COLOR] Sampdoria vs Arezzo",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5818113"
     }
   ]
 }
