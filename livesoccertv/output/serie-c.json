@@ -8,100 +8,13 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Sabato 17 Ottobre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]17:30[/COLOR] Folgore Caratese vs Treviso [COLOR gray]0:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 253",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/treviso-vs-folgore-caratese/g4omv#5720370"
-    },
-    {
-      "title": "[COLOR gray]17:30[/COLOR] Potenza Calcio vs Catania [COLOR gray]2:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "Sky Sport Uno",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 251, SKY Go Italia, Sky Sport Uno, NOW TV\nhttps://www.livesoccertv.com/it/match/catania-vs-potenza-calcio/14znfu#5721132"
-    },
-    {
-      "title": "[COLOR gray]17:30[/COLOR] Salernitana vs Scafatese [COLOR gray]2:2[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "NOW TV",
-        "Sky Sport Mix"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, NOW TV, Sky Sport Mix\nhttps://www.livesoccertv.com/it/match/salernitana-vs-scafatese/8x86m7#5721133"
-    },
-    {
       "title": "[COLOR cyan]Domenica 18 Ottobre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
     },
     {
-      "title": "[COLOR yellow]12:30[/COLOR] Campobasso vs Perugia",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 252",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/perugia-vs-campobasso/e7pc4#5720745"
-    },
-    {
-      "title": "[COLOR yellow]12:30[/COLOR] Latina vs Vis Pesaro",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 257",
-        "SKY Go Italia",
-        "NOW TV",
-        "Sky Sport Mix"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 257, SKY Go Italia, NOW TV, Sky Sport Mix\nhttps://www.livesoccertv.com/it/match/latina-vs-vis-pesaro/gj4q8#5720748"
-    },
-    {
-      "title": "[COLOR yellow]14:30[/COLOR] Audace Cerignola vs Savoia",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 254",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 254, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/savoia-vs-audace-cerignola/2y6wvd#5721125"
-    },
-    {
-      "title": "[COLOR yellow]14:30[/COLOR] Cavese vs Virtus Casarano",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Sky Sport 255",
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "info": "Serie C\nCanali: Sky Sport 255, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/virtus-casarano-vs-cavese/10egta#5721128"
-    },
-    {
-      "title": "[COLOR yellow]14:30[/COLOR] Cosenza vs Team Altamura",
+      "title": "[COLOR red]17:30[/COLOR] Alcione vs Desenzano Calvina [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -109,7 +22,116 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "info": "Serie C\nCanali: Sky Sport 256, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/cosenza-vs-team-altamura/23xz2m#5721129"
+      "info": "Serie C\nCanali: Sky Sport 256, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/desenzano-calvina-vs-alcione/89a1e4#5720366"
+    },
+    {
+      "title": "[COLOR red]17:30[/COLOR] Barletta vs Picerno [COLOR red]LIVE[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 254",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 254, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/barletta-vs-picerno/1lrazh#5721127"
+    },
+    {
+      "title": "[COLOR red]17:30[/COLOR] Ospitaletto vs Pergolettese [COLOR red]LIVE[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 257",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 257, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/pergolettese-vs-ospitaletto/7p5zhf#5720373"
+    },
+    {
+      "title": "[COLOR red]17:30[/COLOR] Pescara vs Ostia Mare Lidocalcio [COLOR red]LIVE[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "Sky Sport Arena",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, Sky Sport Arena, NOW TV\nhttps://www.livesoccertv.com/it/match/pescara-vs-ostia-mare-lidocalcio/oz1ra#5720750"
+    },
+    {
+      "title": "[COLOR red]17:30[/COLOR] Sorrento vs Casertana [COLOR red]LIVE[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/sorrento-vs-casertana/gkkj7#5721134"
+    },
+    {
+      "title": "[COLOR cyan]Lunedi 19 Ottobre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]20:30[/COLOR] Cittadella vs Union ArzignanoChiampo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 255",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 255, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/cittadella-vs-union-arzignanochiampo/1a7chz#5720368"
+    },
+    {
+      "title": "[COLOR yellow]20:30[/COLOR] Dolomiti Bellunesi vs Trento",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 256",
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 256, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/trento-vs-dolomiti-bellunesi/7ai0ra#5720369"
+    },
+    {
+      "title": "[COLOR yellow]20:30[/COLOR] Giana Erminio vs Union Brescia",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 252",
+        "SKY Go Italia",
+        "Sky Sport Max",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 252, SKY Go Italia, Sky Sport Max, NOW TV\nhttps://www.livesoccertv.com/it/match/giana-erminio-vs-union-brescia/av0hg5#5720371"
+    },
+    {
+      "title": "[COLOR yellow]20:30[/COLOR] Giugliano vs Foggia",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 254",
+        "SKY Go Italia",
+        "NOW TV",
+        "Sky Sport Mix"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 254, SKY Go Italia, NOW TV, Sky Sport Mix\nhttps://www.livesoccertv.com/it/match/foggia-vs-giugliano/1xsphx#5721130"
+    },
+    {
+      "title": "[COLOR yellow]20:30[/COLOR] Juventus II vs Renate",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Sky Sport 253",
+        "SKY Go Italia",
+        "Sky Sport Uno",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: Sky Sport 253, SKY Go Italia, Sky Sport Uno, NOW TV\nhttps://www.livesoccertv.com/it/match/renate-vs-juventus-ii/1u4l3b#5720372"
     }
   ]
 }

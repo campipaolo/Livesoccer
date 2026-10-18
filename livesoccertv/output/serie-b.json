@@ -8,39 +8,13 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Sabato 17 Ottobre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]19:30[/COLOR] Pisa vs Cremonese [COLOR gray]3:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/pisa-vs-cremonese/dw7t2#5742533"
-    },
-    {
       "title": "[COLOR cyan]Domenica 18 Ottobre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
     },
     {
-      "title": "[COLOR yellow]07:30[/COLOR] Mantova vs Palermo",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5813094"
-    },
-    {
-      "title": "[COLOR yellow]15:00[/COLOR] Juve Stabia vs Südtirol",
+      "title": "[COLOR gray]15:00[/COLOR] Juve Stabia vs Südtirol [COLOR gray]3:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -50,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/juve-stabia-vs-sudtirol/aos7d#5742530"
     },
     {
-      "title": "[COLOR yellow]17:15[/COLOR] Cesena vs Avellino",
+      "title": "[COLOR red]17:15[/COLOR] Cesena vs Avellino [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -100,10 +74,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112"
     },
     {
       "title": "[COLOR yellow]14:00[/COLOR] Sampdoria vs Arezzo",
@@ -142,9 +117,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/empoli-vs-lr-vicenza/13vwv27tq#5818852"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/empoli-vs-lr-vicenza/13vwv27tq#5818852"
     },
     {
       "title": "[COLOR yellow]15:00[/COLOR] Avellino vs Calcio Padova",
@@ -155,6 +132,42 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/calcio-padova-vs-avellino/8oa7u#5742537"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Cremonese vs Juve Stabia",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/juve-stabia-vs-cremonese/aowtu#5742539"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Modena vs Cesena",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-modena/4p8uv#5742542"
+    },
+    {
+      "title": "[COLOR cyan]Domenica 25 Ottobre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]04:30[/COLOR] Arezzo vs Benevento",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5819264"
     }
   ]
 }
