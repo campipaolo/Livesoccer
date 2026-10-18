@@ -1,94 +1,16 @@
 {
-  "aggiornato": "2026-10-18T05:24:52+02:00",
+  "aggiornato": "2026-10-18T10:47:11+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 266,
+  "totale": 263,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 40,
+      "totale": 37,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-18T04:00:00+02:00",
-          "data": "18/10/2026",
-          "ora": "04:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-18T04:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Altri sport] Mondiali Shanghai: 5a giornata",
-          "categoria": "Altri sport",
-          "sottocartella": "Ciclismo su pista",
-          "sport": "Ciclismo su pista",
-          "competizione": "Mondiali Shanghai 2026",
-          "evento": "5a giornata",
-          "inizio": "2026-10-18T07:10:00+02:00",
-          "data": "18/10/2026",
-          "ora": "07:10",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-18T07:10",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Eurosport 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-18T07:25",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Mantova vs Palermo",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Mantova vs Palermo",
-          "inizio": "2026-10-18T07:30:00+02:00",
-          "data": "18/10/2026",
-          "ora": "07:30",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-18T07:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-18T07:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
-        },
         {
           "titolo": "[Altri sport] Maratona di Amsterdam: .",
           "categoria": "Altri sport",
@@ -9292,7 +9214,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 110,
+      "totale": 109,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -15100,37 +15022,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 17,
+          "totale": 16,
           "eventi": [
-            {
-              "titolo": "Serie B: Mantova vs Palermo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Mantova vs Palermo",
-              "inizio": "2026-10-18T07:30:00+02:00",
-              "data": "18/10/2026",
-              "ora": "07:30",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-18T07:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T07:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Juve Stabia vs Südtirol",
               "categoria": "Calcio",
@@ -17832,33 +17725,73 @@
     },
     {
       "nome": "Tennis",
-      "totale": 17,
+      "totale": 16,
       "sottocartelle": [
         {
-          "nome": "ATP & WTA",
-          "totale": 6,
+          "nome": "ATP Masters 1000 Shanghai",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "ATP & WTA",
+              "titolo": "ATP Masters 1000 Shanghai: Finale",
               "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
+              "sottocartella": "ATP Masters 1000 Shanghai",
               "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-18T04:00:00+02:00",
+              "competizione": "ATP Masters 1000 Shanghai",
+              "evento": "Finale",
+              "inizio": "2026-10-18T10:30:00+02:00",
               "data": "18/10/2026",
-              "ora": "04:00",
+              "ora": "10:30",
               "canali": [
                 {
                   "nome": "Sky Sport Tennis",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-18T04:00",
+                  "orario": "2026-10-18T10:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T10:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "WTA 1000 Wuhan",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "WTA 1000 Wuhan: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 1000 Wuhan",
+              "sport": "Tennis",
+              "competizione": "WTA 1000 Wuhan",
+              "evento": "Finale",
+              "inizio": "2026-10-18T12:30:00+02:00",
+              "data": "18/10/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-18T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP & WTA",
+          "totale": 5,
+          "eventi": [
             {
               "titolo": "ATP & WTA",
               "categoria": "Tennis",
@@ -17994,67 +17927,6 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-23T08:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP Masters 1000 Shanghai",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Shanghai: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Shanghai",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Shanghai",
-              "evento": "Finale",
-              "inizio": "2026-10-18T10:30:00+02:00",
-              "data": "18/10/2026",
-              "ora": "10:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T10:30",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T10:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "WTA 1000 Wuhan",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "WTA 1000 Wuhan: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 1000 Wuhan",
-              "sport": "Tennis",
-              "competizione": "WTA 1000 Wuhan",
-              "evento": "Finale",
-              "inizio": "2026-10-18T12:30:00+02:00",
-              "data": "18/10/2026",
-              "ora": "12:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T12:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -18656,42 +18528,8 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 12,
+      "totale": 11,
       "sottocartelle": [
-        {
-          "nome": "Ciclismo su pista",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Mondiali Shanghai: 5a giornata",
-              "categoria": "Altri sport",
-              "sottocartella": "Ciclismo su pista",
-              "sport": "Ciclismo su pista",
-              "competizione": "Mondiali Shanghai 2026",
-              "evento": "5a giornata",
-              "inizio": "2026-10-18T07:10:00+02:00",
-              "data": "18/10/2026",
-              "ora": "07:10",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T07:10",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Eurosport 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-18T07:25",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Atletica leggera",
           "totale": 1,
