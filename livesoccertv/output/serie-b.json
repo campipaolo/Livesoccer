@@ -24,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/juve-stabia-vs-sudtirol/aos7d#5742530"
     },
     {
-      "title": "[COLOR red]17:15[/COLOR] Cesena vs Avellino [COLOR red]LIVE[/COLOR]",
+      "title": "[COLOR gray]17:15[/COLOR] Cesena vs Avellino [COLOR gray]1:1[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -34,7 +34,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-avellino/8npej#5742529"
     },
     {
-      "title": "[COLOR yellow]19:30[/COLOR] Sampdoria vs Arezzo",
+      "title": "[COLOR gray]19:30[/COLOR] Sampdoria vs Arezzo [COLOR gray]1:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -74,11 +74,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112"
     },
     {
       "title": "[COLOR yellow]14:00[/COLOR] Sampdoria vs Arezzo",
@@ -152,6 +151,16 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-modena/4p8uv#5742542"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Südtirol vs Sampdoria",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-sudtirol/6kjya#5742544"
     },
     {
       "title": "[COLOR cyan]Domenica 25 Ottobre[/COLOR]",
