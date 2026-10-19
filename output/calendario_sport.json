@@ -1,183 +1,27 @@
 {
-  "aggiornato": "2026-10-19T14:27:32+02:00",
+  "aggiornato": "2026-10-19T21:13:48+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 250,
+  "totale": 253,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 9,
+      "totale": 8,
       "eventi": [
         {
-          "titolo": "[Calcio] Serie B: Sampdoria vs Arezzo",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Sampdoria vs Arezzo",
-          "inizio": "2026-10-19T14:00:00+02:00",
-          "data": "19/10/2026",
-          "ora": "14:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-19T14:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-19T14:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Bielorussia",
-              "canali": [
-                "Sporttv"
-              ]
-            },
-            {
-              "paese": "Bosnia ed Erzegovina",
-              "canali": [
-                "Arena Sport 1",
-                "Moja TV",
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Gran Bretagna",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Irlanda",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Israele",
-              "canali": [
-                "5Gold"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 1 Live"
-              ]
-            },
-            {
-              "paese": "Macedonia",
-              "canali": [
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Montenegro",
-              "canali": [
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Serbia",
-              "canali": [
-                "Arena Sport 7 Serbia",
-                "Arena Cloud"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 1 Live"
-              ]
-            },
-            {
-              "paese": "USA",
-              "canali": [
-                "DCTV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie A: Monza vs Cagliari",
+          "titolo": "[Calcio] Serie A: Monza-Cagliari",
           "categoria": "Calcio",
           "sottocartella": "Serie A",
           "sport": "Calcio",
           "competizione": "Serie A",
-          "evento": "Monza vs Cagliari",
+          "evento": "Monza-Cagliari",
           "inizio": "2026-10-19T18:30:00+02:00",
           "data": "19/10/2026",
           "ora": "18:30",
           "canali": [
-            {
-              "nome": "Paramount+",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-19T18:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Peacock",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-19T18:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "DAZN Canada",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-19T18:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Disney+ Premium Caribbean",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-19T18:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "fuboTV Canada",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-19T18:30",
-              "fonte": "livesoccer"
-            },
             {
               "nome": "DAZN",
               "numero": "",
@@ -186,8 +30,7 @@
               "fonte": "virgilio"
             }
           ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
+          "fonte": "Virgilio Sport"
         },
         {
           "titolo": "[Calcio] Serie C: Cittadella vs Union ArzignanoChiampo",
@@ -4000,58 +3843,23 @@
     },
     {
       "nome": "Calcio",
-      "totale": 99,
+      "totale": 102,
       "sottocartelle": [
         {
           "nome": "Serie A",
           "totale": 12,
           "eventi": [
             {
-              "titolo": "Serie A: Monza vs Cagliari",
+              "titolo": "Serie A: Monza-Cagliari",
               "categoria": "Calcio",
               "sottocartella": "Serie A",
               "sport": "Calcio",
               "competizione": "Serie A",
-              "evento": "Monza vs Cagliari",
+              "evento": "Monza-Cagliari",
               "inizio": "2026-10-19T18:30:00+02:00",
               "data": "19/10/2026",
               "ora": "18:30",
               "canali": [
-                {
-                  "nome": "Paramount+",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-19T18:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Peacock",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-19T18:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN Canada",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-19T18:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Disney+ Premium Caribbean",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-19T18:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "fuboTV Canada",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-19T18:30",
-                  "fonte": "livesoccer"
-                },
                 {
                   "nome": "DAZN",
                   "numero": "",
@@ -4060,8 +3868,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
+              "fonte": "Virgilio Sport"
             },
             {
               "titolo": "Serie A: Parma vs Torino",
@@ -4153,6 +3960,13 @@
                   "fonte": "livesoccer"
                 },
                 {
+                  "nome": "CBS Sports Golazo",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T20:45",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "DAZN Canada",
                   "numero": "",
                   "tipo": "streaming",
@@ -4161,13 +3975,6 @@
                 },
                 {
                   "nome": "Disney+ Premium Caribbean",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "fuboTV Canada",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-23T20:45",
@@ -4306,16 +4113,51 @@
               "fonte": "LiveSoccerTV"
             },
             {
-              "titolo": "Serie A: Napoli-Roma",
+              "titolo": "Serie A: Napoli vs Roma",
               "categoria": "Calcio",
               "sottocartella": "Serie A",
               "sport": "Calcio",
               "competizione": "Serie A",
-              "evento": "Napoli-Roma",
+              "evento": "Napoli vs Roma",
               "inizio": "2026-10-24T18:00:00+02:00",
               "data": "24/10/2026",
               "ora": "18:00",
               "canali": [
+                {
+                  "nome": "Paramount+",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T18:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T18:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Peacock",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T18:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "UNIVERSO",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T18:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "CBS Sports Golazo",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T18:00",
+                  "fonte": "livesoccer"
+                },
                 {
                   "nome": "DAZN",
                   "numero": "",
@@ -4324,25 +4166,54 @@
                   "fonte": "virgilio"
                 }
               ],
-              "fonte": "Virgilio Sport"
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
             },
             {
-              "titolo": "Serie A: Lazio-Parma",
+              "titolo": "Serie A: Lazio vs Parma",
               "categoria": "Calcio",
               "sottocartella": "Serie A",
               "sport": "Calcio",
               "competizione": "Serie A",
-              "evento": "Lazio-Parma",
+              "evento": "Lazio vs Parma",
               "inizio": "2026-10-24T20:45:00+02:00",
               "data": "24/10/2026",
               "ora": "20:45",
               "canali": [
                 {
-                  "nome": "Sky",
+                  "nome": "Paramount+",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-24T20:45",
-                  "fonte": "virgilio"
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T20:45",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Peacock",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T20:45",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Telemundo",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T20:45",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "CBS Sports Golazo",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T20:45",
+                  "fonte": "livesoccer"
                 },
                 {
                   "nome": "DAZN",
@@ -4359,7 +4230,8 @@
                   "fonte": "virgilio"
                 }
               ],
-              "fonte": "Virgilio Sport"
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
             },
             {
               "titolo": "Serie A: Inter-Fiorentina",
@@ -4491,129 +4363,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 13,
+          "totale": 12,
           "eventi": [
-            {
-              "titolo": "Serie B: Sampdoria vs Arezzo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Sampdoria vs Arezzo",
-              "inizio": "2026-10-19T14:00:00+02:00",
-              "data": "19/10/2026",
-              "ora": "14:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-19T14:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-19T14:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Bielorussia",
-                  "canali": [
-                    "Sporttv"
-                  ]
-                },
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 1",
-                    "Moja TV",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "DCTV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Empoli vs Vicenza",
               "categoria": "Calcio",
@@ -5013,7 +4764,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -5077,7 +4843,7 @@
         },
         {
           "nome": "Serie C",
-          "totale": 14,
+          "totale": 18,
           "eventi": [
             {
               "titolo": "Serie C: Cittadella vs Union ArzignanoChiampo",
@@ -5400,16 +5166,30 @@
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "Serie C: Casertana-Bari",
+              "titolo": "Serie C: Casertana vs Bari 1908",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
               "sport": "Calcio",
               "competizione": "Serie C",
-              "evento": "Casertana-Bari",
+              "evento": "Casertana vs Bari 1908",
               "inizio": "2026-10-23T20:30:00+02:00",
               "data": "23/10/2026",
               "ora": "20:30",
               "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
                 {
                   "nome": "Sky Sport 1",
                   "numero": "201",
@@ -5418,7 +5198,199 @@
                   "fonte": "virgilio"
                 }
               ],
-              "fonte": "Virgilio Sport"
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Ostia Mare Lidocalcio vs Vado",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Ostia Mare Lidocalcio vs Vado",
+              "inizio": "2026-10-23T20:30:00+02:00",
+              "data": "23/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Perugia vs Pescara",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Perugia vs Pescara",
+              "inizio": "2026-10-23T20:30:00+02:00",
+              "data": "23/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Pineto vs Gubbio",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Pineto vs Gubbio",
+              "inizio": "2026-10-23T20:30:00+02:00",
+              "data": "23/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Team Altamura vs Potenza Calcio",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Team Altamura vs Potenza Calcio",
+              "inizio": "2026-10-23T20:30:00+02:00",
+              "data": "23/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
             },
             {
               "titolo": "Serie C: Inter U23-Sorrento",
