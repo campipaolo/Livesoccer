@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-10-19T21:13:48+02:00",
+  "aggiornato": "2026-10-19T22:36:13+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 253,
+  "totale": 252,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 8,
+      "totale": 7,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie A: Monza-Cagliari",
-          "categoria": "Calcio",
-          "sottocartella": "Serie A",
-          "sport": "Calcio",
-          "competizione": "Serie A",
-          "evento": "Monza-Cagliari",
-          "inizio": "2026-10-19T18:30:00+02:00",
-          "data": "19/10/2026",
-          "ora": "18:30",
-          "canali": [
-            {
-              "nome": "DAZN",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-19T18:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Serie C: Cittadella vs Union ArzignanoChiampo",
           "categoria": "Calcio",
@@ -3843,33 +3822,12 @@
     },
     {
       "nome": "Calcio",
-      "totale": 102,
+      "totale": 101,
       "sottocartelle": [
         {
           "nome": "Serie A",
-          "totale": 12,
+          "totale": 11,
           "eventi": [
-            {
-              "titolo": "Serie A: Monza-Cagliari",
-              "categoria": "Calcio",
-              "sottocartella": "Serie A",
-              "sport": "Calcio",
-              "competizione": "Serie A",
-              "evento": "Monza-Cagliari",
-              "inizio": "2026-10-19T18:30:00+02:00",
-              "data": "19/10/2026",
-              "ora": "18:30",
-              "canali": [
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-19T18:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Serie A: Parma vs Torino",
               "categoria": "Calcio",
