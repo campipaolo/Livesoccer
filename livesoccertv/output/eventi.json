@@ -1,123 +1,6 @@
 {
   "eventi": [
     {
-      "competizione": "Serie B",
-      "titolo": "Sampdoria vs Arezzo",
-      "data": "2026-10-19",
-      "ora": "14:00",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Arena Sport 1",
-            "Moja TV",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "DCTV"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie A",
-      "titolo": "Monza vs Cagliari",
-      "data": "2026-10-19",
-      "ora": "18:30",
-      "canali": [
-        "Paramount+",
-        "Peacock",
-        "DAZN Canada",
-        "Disney+ Premium Caribbean",
-        "fuboTV Canada"
-      ],
-      "canali_mondo": []
-    },
-    {
       "competizione": "Serie C",
       "titolo": "Cittadella vs Union ArzignanoChiampo",
       "data": "2026-10-19",
@@ -331,6 +214,136 @@
       ]
     },
     {
+      "competizione": "Serie C",
+      "titolo": "Casertana vs Bari 1908",
+      "data": "2026-10-23",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Ostia Mare Lidocalcio vs Vado",
+      "data": "2026-10-23",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Perugia vs Pescara",
+      "data": "2026-10-23",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Pineto vs Gubbio",
+      "data": "2026-10-23",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Team Altamura vs Potenza Calcio",
+      "data": "2026-10-23",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
       "competizione": "Serie A",
       "titolo": "Torino vs Monza",
       "data": "2026-10-23",
@@ -338,9 +351,9 @@
       "canali": [
         "Paramount+",
         "Peacock",
+        "CBS Sports Golazo",
         "DAZN Canada",
-        "Disney+ Premium Caribbean",
-        "fuboTV Canada"
+        "Disney+ Premium Caribbean"
       ],
       "canali_mondo": []
     },
@@ -489,6 +502,34 @@
       ]
     },
     {
+      "competizione": "Serie A",
+      "titolo": "Napoli vs Roma",
+      "data": "2026-10-24",
+      "ora": "18:00",
+      "canali": [
+        "Paramount+",
+        "fuboTV",
+        "Peacock",
+        "UNIVERSO",
+        "CBS Sports Golazo"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie A",
+      "titolo": "Lazio vs Parma",
+      "data": "2026-10-24",
+      "ora": "20:45",
+      "canali": [
+        "Paramount+",
+        "fuboTV",
+        "Peacock",
+        "Telemundo",
+        "CBS Sports Golazo"
+      ],
+      "canali_mondo": []
+    },
+    {
       "competizione": "Serie B",
       "titolo": "Arezzo vs Benevento",
       "data": "2026-10-25",
@@ -497,7 +538,22 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",

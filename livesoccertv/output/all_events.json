@@ -1,406 +1,6 @@
 {
   "events": [
     {
-      "id": "5818111",
-      "competition": "Serie B",
-      "home": "Verona",
-      "away": "Catanzaro",
-      "title": "Verona vs Catanzaro",
-      "kickoff": "2026-10-19T10:00:00+02:00",
-      "date": "2026-10-19",
-      "time": "10:00",
-      "status": "finished",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5818111",
-      "channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "LAB Channel",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "Sport 5max"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "DCTV",
-            "FOX One"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5818112",
-      "competition": "Serie B",
-      "home": "Mantova",
-      "away": "Palermo",
-      "title": "Mantova vs Palermo",
-      "kickoff": "2026-10-19T12:00:00+02:00",
-      "date": "2026-10-19",
-      "time": "12:00",
-      "status": "finished",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112",
-      "channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "LAB Channel",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "DCTV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5818113",
-      "competition": "Serie B",
-      "home": "Sampdoria",
-      "away": "Arezzo",
-      "title": "Sampdoria vs Arezzo",
-      "kickoff": "2026-10-19T14:00:00+02:00",
-      "date": "2026-10-19",
-      "time": "14:00",
-      "status": "live",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-arezzo/8a88t#5818113",
-      "channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "LAB Channel",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Arena Sport 1",
-            "Moja TV",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "DCTV"
-          ]
-        }
-      ]
-    },
-    {
       "id": "5653945",
       "competition": "Serie A",
       "home": "Monza",
@@ -409,36 +9,10 @@
       "kickoff": "2026-10-19T18:30:00+02:00",
       "date": "2026-10-19",
       "time": "18:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "4:0",
       "match_url": "https://www.livesoccertv.com/it/match/cagliari-vs-monza/6in7u#5653945",
-      "channels": [
-        {
-          "name": "Paramount+",
-          "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
-          "stream": true
-        },
-        {
-          "name": "Peacock",
-          "url": "https://www.livesoccertv.com/it/channels/peacock/",
-          "stream": true
-        },
-        {
-          "name": "DAZN Canada",
-          "url": "https://www.livesoccertv.com/it/channels/dazn-canada/",
-          "stream": false
-        },
-        {
-          "name": "Disney+ Premium Caribbean",
-          "url": "https://www.livesoccertv.com/it/channels/espn-play-caribbean/",
-          "stream": false
-        },
-        {
-          "name": "fuboTV Canada",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv-canada/",
-          "stream": false
-        }
-      ],
+      "channels": [],
       "canali_mondo": []
     },
     {
@@ -450,8 +24,8 @@
       "kickoff": "2026-10-19T20:30:00+02:00",
       "date": "2026-10-19",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "live",
+      "score": "0:0",
       "match_url": "https://www.livesoccertv.com/it/match/cittadella-vs-union-arzignanochiampo/1a7chz#5720368",
       "channels": [
         {
@@ -498,8 +72,8 @@
       "kickoff": "2026-10-19T20:30:00+02:00",
       "date": "2026-10-19",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "live",
+      "score": "0:2",
       "match_url": "https://www.livesoccertv.com/it/match/trento-vs-dolomiti-bellunesi/7ai0ra#5720369",
       "channels": [
         {
@@ -546,8 +120,8 @@
       "kickoff": "2026-10-19T20:30:00+02:00",
       "date": "2026-10-19",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "live",
+      "score": "1:0",
       "match_url": "https://www.livesoccertv.com/it/match/giana-erminio-vs-union-brescia/av0hg5#5720371",
       "channels": [
         {
@@ -601,8 +175,8 @@
       "kickoff": "2026-10-19T20:30:00+02:00",
       "date": "2026-10-19",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "live",
+      "score": "2:1",
       "match_url": "https://www.livesoccertv.com/it/match/foggia-vs-giugliano/1xsphx#5721130",
       "channels": [
         {
@@ -656,8 +230,8 @@
       "kickoff": "2026-10-19T20:30:00+02:00",
       "date": "2026-10-19",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "live",
+      "score": "1:0",
       "match_url": "https://www.livesoccertv.com/it/match/renate-vs-juventus-ii/1u4l3b#5720372",
       "channels": [
         {
@@ -711,8 +285,8 @@
       "kickoff": "2026-10-19T20:45:00+02:00",
       "date": "2026-10-19",
       "time": "20:45",
-      "status": "upcoming",
-      "score": "",
+      "status": "live",
+      "score": "0:1",
       "match_url": "https://www.livesoccertv.com/it/match/parma-vs-torino/36qo8#5653946",
       "channels": [
         {
@@ -804,6 +378,211 @@
       ]
     },
     {
+      "id": "5721136",
+      "competition": "Serie C",
+      "home": "Casertana",
+      "away": "Bari 1908",
+      "title": "Casertana vs Bari 1908",
+      "kickoff": "2026-10-23T20:30:00+02:00",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/bari-1908-vs-casertana/8f408#5721136",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720758",
+      "competition": "Serie C",
+      "home": "Ostia Mare Lidocalcio",
+      "away": "Vado",
+      "title": "Ostia Mare Lidocalcio vs Vado",
+      "kickoff": "2026-10-23T20:30:00+02:00",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/vado-vs-ostia-mare-lidocalcio/1lhe0d#5720758",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720759",
+      "competition": "Serie C",
+      "home": "Perugia",
+      "away": "Pescara",
+      "title": "Perugia vs Pescara",
+      "kickoff": "2026-10-23T20:30:00+02:00",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/pescara-vs-perugia/9i49h#5720759",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5720760",
+      "competition": "Serie C",
+      "home": "Pineto",
+      "away": "Gubbio",
+      "title": "Pineto vs Gubbio",
+      "kickoff": "2026-10-23T20:30:00+02:00",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-pineto/1ggxnu#5720760",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5721135",
+      "competition": "Serie C",
+      "home": "Team Altamura",
+      "away": "Potenza Calcio",
+      "title": "Team Altamura vs Potenza Calcio",
+      "kickoff": "2026-10-23T20:30:00+02:00",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/potenza-calcio-vs-team-altamura/44vz2q#5721135",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
       "id": "5653957",
       "competition": "Serie A",
       "home": "Torino",
@@ -827,6 +606,11 @@
           "stream": true
         },
         {
+          "name": "CBS Sports Golazo",
+          "url": "https://www.livesoccertv.com/it/channels/cbs-sports-golazo/",
+          "stream": true
+        },
+        {
           "name": "DAZN Canada",
           "url": "https://www.livesoccertv.com/it/channels/dazn-canada/",
           "stream": false
@@ -834,11 +618,6 @@
         {
           "name": "Disney+ Premium Caribbean",
           "url": "https://www.livesoccertv.com/it/channels/espn-play-caribbean/",
-          "stream": false
-        },
-        {
-          "name": "fuboTV Canada",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv-canada/",
           "stream": false
         }
       ],
@@ -1122,6 +901,88 @@
       ]
     },
     {
+      "id": "5653956",
+      "competition": "Serie A",
+      "home": "Napoli",
+      "away": "Roma",
+      "title": "Napoli vs Roma",
+      "kickoff": "2026-10-24T18:00:00+02:00",
+      "date": "2026-10-24",
+      "time": "18:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/roma-vs-napoli/1wx7p#5653956",
+      "channels": [
+        {
+          "name": "Paramount+",
+          "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
+          "stream": true
+        },
+        {
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.livesoccertv.com/it/channels/peacock/",
+          "stream": true
+        },
+        {
+          "name": "UNIVERSO",
+          "url": "https://www.livesoccertv.com/it/channels/nbc-universo/",
+          "stream": false
+        },
+        {
+          "name": "CBS Sports Golazo",
+          "url": "https://www.livesoccertv.com/it/channels/cbs-sports-golazo/",
+          "stream": true
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5653954",
+      "competition": "Serie A",
+      "home": "Lazio",
+      "away": "Parma",
+      "title": "Lazio vs Parma",
+      "kickoff": "2026-10-24T20:45:00+02:00",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/lazio-vs-parma/1xkqx#5653954",
+      "channels": [
+        {
+          "name": "Paramount+",
+          "url": "https://www.livesoccertv.com/it/channels/paramountplus/",
+          "stream": true
+        },
+        {
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.livesoccertv.com/it/channels/peacock/",
+          "stream": true
+        },
+        {
+          "name": "Telemundo",
+          "url": "https://www.livesoccertv.com/it/channels/telemundo/",
+          "stream": false
+        },
+        {
+          "name": "CBS Sports Golazo",
+          "url": "https://www.livesoccertv.com/it/channels/cbs-sports-golazo/",
+          "stream": true
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
       "id": "5819264",
       "competition": "Serie B",
       "home": "Arezzo",
@@ -1145,7 +1006,22 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5819866",

@@ -14,20 +14,14 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]18:30[/COLOR] Monza vs Cagliari",
+      "title": "[COLOR gray]18:30[/COLOR] Monza vs Cagliari [COLOR gray]4:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Paramount+",
-        "Peacock",
-        "DAZN Canada",
-        "Disney+ Premium Caribbean",
-        "fuboTV Canada"
-      ],
-      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/cagliari-vs-monza/6in7u#5653945"
+      "canali": [],
+      "info": "Serie A\nCanali: Nessun canale indicato\nhttps://www.livesoccertv.com/it/match/cagliari-vs-monza/6in7u#5653945"
     },
     {
-      "title": "[COLOR yellow]20:45[/COLOR] Parma vs Torino",
+      "title": "[COLOR red]20:45[/COLOR] Parma vs Torino [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -52,11 +46,11 @@
       "canali": [
         "Paramount+",
         "Peacock",
+        "CBS Sports Golazo",
         "DAZN Canada",
-        "Disney+ Premium Caribbean",
-        "fuboTV Canada"
+        "Disney+ Premium Caribbean"
       ],
-      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/torino-vs-monza/8po92#5653957"
+      "info": "Serie A\nCanali: Paramount+, Peacock, CBS Sports Golazo, DAZN Canada, Disney+ Premium Caribbean\nhttps://www.livesoccertv.com/it/match/torino-vs-monza/8po92#5653957"
     },
     {
       "title": "[COLOR cyan]Sabato 24 Ottobre[/COLOR]",
@@ -89,6 +83,32 @@
         "fuboTV Canada"
       ],
       "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/sassuolo-vs-como/8p7k1#5653951"
+    },
+    {
+      "title": "[COLOR yellow]18:00[/COLOR] Napoli vs Roma",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Paramount+",
+        "fuboTV",
+        "Peacock",
+        "UNIVERSO",
+        "CBS Sports Golazo"
+      ],
+      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, UNIVERSO, CBS Sports Golazo\nhttps://www.livesoccertv.com/it/match/roma-vs-napoli/1wx7p#5653956"
+    },
+    {
+      "title": "[COLOR yellow]20:45[/COLOR] Lazio vs Parma",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Paramount+",
+        "fuboTV",
+        "Peacock",
+        "Telemundo",
+        "CBS Sports Golazo"
+      ],
+      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, Telemundo, CBS Sports Golazo\nhttps://www.livesoccertv.com/it/match/lazio-vs-parma/1xkqx#5653954"
     }
   ]
 }
