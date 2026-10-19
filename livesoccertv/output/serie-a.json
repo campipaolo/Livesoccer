@@ -8,22 +8,6 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Domenica 18 Ottobre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]20:45[/COLOR] Juventus vs Lazio [COLOR gray]0:3[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "DAZN1"
-      ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/juventus-vs-lazio/1xcw0#5653944"
-    },
-    {
       "title": "[COLOR cyan]Lunedi 19 Ottobre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
@@ -34,24 +18,26 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN1"
+        "Paramount+",
+        "Peacock",
+        "DAZN Canada",
+        "Disney+ Premium Caribbean",
+        "fuboTV Canada"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/cagliari-vs-monza/6in7u#5653945"
+      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/cagliari-vs-monza/6in7u#5653945"
     },
     {
       "title": "[COLOR yellow]20:45[/COLOR] Parma vs Torino",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV",
-        "Sky Sport 4K"
+        "Paramount+",
+        "fuboTV",
+        "Peacock",
+        "Telemundo",
+        "Telemundo Deportes En Vivo"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV, Sky Sport 4K\nhttps://www.livesoccertv.com/it/match/parma-vs-torino/36qo8#5653946"
+      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, Telemundo, Telemundo Deportes En Vivo\nhttps://www.livesoccertv.com/it/match/parma-vs-torino/36qo8#5653946"
     },
     {
       "title": "[COLOR cyan]Venerdi 23 Ottobre[/COLOR]",
@@ -64,13 +50,13 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV"
+        "Paramount+",
+        "Peacock",
+        "DAZN Canada",
+        "Disney+ Premium Caribbean",
+        "fuboTV Canada"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/torino-vs-monza/8po92#5653957"
+      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/torino-vs-monza/8po92#5653957"
     },
     {
       "title": "[COLOR cyan]Sabato 24 Ottobre[/COLOR]",
@@ -83,20 +69,26 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN2"
+        "Paramount+",
+        "Peacock",
+        "DAZN Canada",
+        "Disney+ Premium Caribbean",
+        "fuboTV Canada"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN2\nhttps://www.livesoccertv.com/it/match/bologna-vs-cagliari/1wlhe#5653950"
+      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/bologna-vs-cagliari/1wlhe#5653950"
     },
     {
       "title": "[COLOR yellow]15:00[/COLOR] Como vs Sassuolo",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN1"
+        "Paramount+",
+        "Peacock",
+        "DAZN Canada",
+        "Disney+ Premium Caribbean",
+        "fuboTV Canada"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/sassuolo-vs-como/8p7k1#5653951"
+      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/sassuolo-vs-como/8p7k1#5653951"
     }
   ]
 }

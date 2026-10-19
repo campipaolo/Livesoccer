@@ -14,7 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]10:00[/COLOR] Verona vs Catanzaro",
+      "title": "[COLOR gray]10:00[/COLOR] Verona vs Catanzaro",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -24,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-catanzaro/asrwz#5818111"
     },
     {
-      "title": "[COLOR yellow]12:00[/COLOR] Mantova vs Palermo",
+      "title": "[COLOR gray]12:00[/COLOR] Mantova vs Palermo",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -34,7 +34,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-mantova/35ovu#5818112"
     },
     {
-      "title": "[COLOR yellow]14:00[/COLOR] Sampdoria vs Arezzo",
+      "title": "[COLOR red]14:00[/COLOR] Sampdoria vs Arezzo [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -127,11 +127,20 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5819264"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5819264"
+    },
+    {
+      "title": "[COLOR yellow]23:00[/COLOR] Palermo vs Carrarese",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-carrarese/6k92x#5819866"
     }
   ]
 }
