@@ -20,7 +20,8 @@
         {
           "paese": "Liechtenstein",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -52,7 +53,8 @@
         {
           "paese": "Svizzera",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         }
       ]
@@ -66,7 +68,22 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie C",
@@ -103,22 +120,7 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -318,7 +320,9 @@
         {
           "paese": "Bosnia ed Erzegovina",
           "canali": [
-            "Arena Sport 2P"
+            "Moja TV",
+            "Arena Sport 2P",
+            "Arena Cloud"
           ]
         },
         {
@@ -332,6 +336,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
           ]
         },
         {
@@ -373,6 +383,12 @@
           "paese": "Cina",
           "canali": [
             "Migu"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -630,7 +646,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 1"
+            "Tring Sport 1",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -689,6 +706,14 @@
           ]
         },
         {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Football",
+            "sooka"
+          ]
+        },
+        {
           "paese": "Maldive",
           "canali": [
             "ZEE5",
@@ -699,6 +724,7 @@
         {
           "paese": "Malta",
           "canali": [
+            "GO TV Anywhere",
             "TSN3 Malta"
           ]
         },
@@ -1019,6 +1045,13 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True ID",
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1264,7 +1297,9 @@
         {
           "paese": "Bosnia ed Erzegovina",
           "canali": [
-            "Arena Sport 4"
+            "Moja TV",
+            "Arena Sport 4",
+            "Arena Cloud"
           ]
         },
         {
@@ -1277,6 +1312,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
           ]
         },
         {
@@ -1311,6 +1352,12 @@
           "paese": "Cina",
           "canali": [
             "Migu"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -1536,7 +1583,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "Tring Sport 2"
+            "Tring Sport 2",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -1583,6 +1631,14 @@
           ]
         },
         {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "sooka",
+            "Astro Arena Bola 2"
+          ]
+        },
+        {
           "paese": "Maldive",
           "canali": [
             "ZEE5"
@@ -1591,7 +1647,8 @@
         {
           "paese": "Malta",
           "canali": [
-            "TSN8 Malta"
+            "TSN8 Malta",
+            "GO TV Anywhere"
           ]
         },
         {
@@ -1853,6 +1910,13 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True ID",
+            "True Premier Football HD 4"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2065,7 +2129,9 @@
         {
           "paese": "Bosnia ed Erzegovina",
           "canali": [
-            "Arena Sport 2P"
+            "Moja TV",
+            "Arena Sport 2P",
+            "Arena Cloud"
           ]
         },
         {
@@ -2085,6 +2151,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
           ]
         },
         {
@@ -2161,6 +2233,12 @@
           "paese": "Cina",
           "canali": [
             "Migu"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -2460,7 +2538,8 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
-            "Arena 3 Premium"
+            "Arena 3 Premium",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -2534,6 +2613,14 @@
           ]
         },
         {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Football",
+            "sooka"
+          ]
+        },
+        {
           "paese": "Maldive",
           "canali": [
             "ZEE5"
@@ -2549,6 +2636,7 @@
         {
           "paese": "Malta",
           "canali": [
+            "GO TV Anywhere",
             "TSN3 Malta"
           ]
         },
@@ -2941,6 +3029,13 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True ID",
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Togo",
           "canali": [
             "DStv Now",
@@ -2966,7 +3061,8 @@
           "paese": "Turchia",
           "canali": [
             "S Sport+",
-            "S Sport 2"
+            "S Sport 2",
+            "Disney+ Premium Turkey"
           ]
         },
         {
@@ -3268,7 +3364,8 @@
           "paese": "Belgio",
           "canali": [
             "DAZN1 Belgium",
-            "DAZN Belgium"
+            "DAZN Belgium",
+            "Proximus Pickx"
           ]
         },
         {
@@ -3292,19 +3389,28 @@
         {
           "paese": "Bosnia ed Erzegovina",
           "canali": [
-            "Arena Sport 2P"
+            "Moja TV",
+            "Arena Sport 2P",
+            "Arena Cloud"
           ]
         },
         {
           "paese": "Brasile",
           "canali": [
-            "Disney+ Premium Brazil"
+            "Disney+ Premium Brazil",
+            "CazéTV"
           ]
         },
         {
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
           ]
         },
         {
@@ -3347,6 +3453,12 @@
           "paese": "Cina",
           "canali": [
             "Migu"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -3595,7 +3707,8 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
-            "Arena 3 Premium"
+            "Arena 3 Premium",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -3653,6 +3766,14 @@
           ]
         },
         {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Football",
+            "sooka"
+          ]
+        },
+        {
           "paese": "Maldive",
           "canali": [
             "ZEE5"
@@ -3661,6 +3782,7 @@
         {
           "paese": "Malta",
           "canali": [
+            "GO TV Anywhere",
             "TSN3 Malta"
           ]
         },
@@ -3973,6 +4095,13 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True ID",
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3991,7 +4120,8 @@
           "paese": "Turchia",
           "canali": [
             "S Sport+",
-            "S Sport 2"
+            "S Sport 2",
+            "Disney+ Premium Turkey"
           ]
         },
         {
@@ -4210,7 +4340,9 @@
         {
           "paese": "Bosnia ed Erzegovina",
           "canali": [
-            "Arena Sport 2P"
+            "Moja TV",
+            "Arena Sport 2P",
+            "Arena Cloud"
           ]
         },
         {
@@ -4223,6 +4355,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
           ]
         },
         {
@@ -4263,6 +4401,12 @@
           "paese": "Cina",
           "canali": [
             "Migu"
+          ]
+        },
+        {
+          "paese": "Taipei cinese",
+          "canali": [
+            "eltaott.tv"
           ]
         },
         {
@@ -4513,7 +4657,8 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
-            "Arena 3 Premium"
+            "Arena 3 Premium",
+            "TV Vala Kosovo Telecom"
           ]
         },
         {
@@ -4565,6 +4710,14 @@
           ]
         },
         {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Football",
+            "sooka"
+          ]
+        },
+        {
           "paese": "Maldive",
           "canali": [
             "ZEE5"
@@ -4573,6 +4726,7 @@
         {
           "paese": "Malta",
           "canali": [
+            "GO TV Anywhere",
             "TSN3 Malta"
           ]
         },
@@ -4895,6 +5049,13 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True ID",
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -4913,7 +5074,8 @@
           "paese": "Turchia",
           "canali": [
             "S Sport+",
-            "S Sport 2"
+            "S Sport 2",
+            "Disney+ Premium Turkey"
           ]
         },
         {
@@ -4996,7 +5158,22 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -5007,7 +5184,28 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     }
   ]
 }
