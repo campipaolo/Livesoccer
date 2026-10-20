@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-10-20T05:51:31+02:00",
+  "aggiornato": "2026-10-20T10:34:37+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 247,
+  "totale": 246,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 16,
+      "totale": 15,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-20T04:00:00+02:00",
-          "data": "20/10/2026",
-          "ora": "04:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-20T04:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-20T08:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Serie C: Pineto-Reggiana",
           "categoria": "Calcio",
@@ -11302,40 +11274,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 19,
+      "totale": 18,
       "sottocartelle": [
         {
           "nome": "ATP & WTA",
-          "totale": 6,
+          "totale": 5,
           "eventi": [
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-20T04:00:00+02:00",
-              "data": "20/10/2026",
-              "ora": "04:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-20T04:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-20T08:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP & WTA",
               "categoria": "Tennis",
