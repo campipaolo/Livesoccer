@@ -120,6 +120,17 @@
         "SKY Go Italia",
         "NOW TV"
       ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Pineto vs Gubbio",
+      "data": "2026-10-23",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
       "canali_mondo": [
         {
           "paese": "Italia",
@@ -136,17 +147,6 @@
           ]
         }
       ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Pineto vs Gubbio",
-      "data": "2026-10-23",
-      "ora": "20:30",
-      "canali": [
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": []
     },
     {
       "competizione": "Serie C",

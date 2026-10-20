@@ -171,6 +171,32 @@
       "channels": [
         {
           "name": "SKY Go Italia",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5720760",
+      "competition": "Serie C",
+      "home": "Pineto",
+      "away": "Gubbio",
+      "title": "Pineto vs Gubbio",
+      "kickoff": "2026-10-23T20:30:00+02:00",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-pineto/1ggxnu#5720760",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
           "url": "",
           "stream": false
         },
@@ -196,32 +222,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "5720760",
-      "competition": "Serie C",
-      "home": "Pineto",
-      "away": "Gubbio",
-      "title": "Pineto vs Gubbio",
-      "kickoff": "2026-10-23T20:30:00+02:00",
-      "date": "2026-10-23",
-      "time": "20:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-pineto/1ggxnu#5720760",
-      "channels": [
-        {
-          "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
-          "stream": false
-        }
-      ],
-      "canali_mondo": []
     },
     {
       "id": "5721135",
