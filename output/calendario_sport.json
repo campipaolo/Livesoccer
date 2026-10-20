@@ -1,58 +1,16 @@
 {
-  "aggiornato": "2026-10-20T16:52:28+02:00",
+  "aggiornato": "2026-10-20T21:07:50+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 249,
+  "totale": 246,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 13,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie C: Pineto-Reggiana",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Pineto-Reggiana",
-          "inizio": "2026-10-20T15:30:00+02:00",
-          "data": "20/10/2026",
-          "ora": "15:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-20T15:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Altri sport] Amichevole Internazionale: Italia-Spagna",
-          "categoria": "Altri sport",
-          "sottocartella": "Pallanuoto maschile",
-          "sport": "Pallanuoto maschile",
-          "competizione": "Amichevole Internazionale",
-          "evento": "Italia-Spagna",
-          "inizio": "2026-10-20T18:00:00+02:00",
-          "data": "20/10/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-20T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] UEFA Champions League: Fenerbahce-Slavia Praga",
           "categoria": "Calcio",
@@ -3781,7 +3739,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 98,
+      "totale": 97,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4868,29 +4826,8 @@
         },
         {
           "nome": "Serie C",
-          "totale": 14,
+          "totale": 13,
           "eventi": [
-            {
-              "titolo": "Serie C: Pineto-Reggiana",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Pineto-Reggiana",
-              "inizio": "2026-10-20T15:30:00+02:00",
-              "data": "20/10/2026",
-              "ora": "15:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-20T15:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Serie C: Casertana vs Bari 1908",
               "categoria": "Calcio",
@@ -5012,22 +4949,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -5056,7 +4978,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -5632,6 +5569,13 @@
               "ora": "21:00",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-10-21T21:00",
+                  "fonte": "virgilio"
+                },
+                {
                   "nome": "Sky",
                   "numero": "",
                   "tipo": "diretta",
@@ -5641,13 +5585,6 @@
                 {
                   "nome": "Sky Sport Calcio",
                   "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
                   "tipo": "diretta",
                   "orario": "2026-10-21T21:00",
                   "fonte": "virgilio"
@@ -5914,13 +5851,6 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-10-22T18:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-22T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -7145,7 +7075,7 @@
     },
     {
       "nome": "Basket",
-      "totale": 13,
+      "totale": 12,
       "sottocartelle": [
         {
           "nome": "Eurocup",
@@ -7371,7 +7301,7 @@
         },
         {
           "nome": "Serie A",
-          "totale": 3,
+          "totale": 2,
           "eventi": [
             {
               "titolo": "Serie A: Derthona Tortona-Napoli",
@@ -7390,21 +7320,7 @@
                   "tipo": "diretta",
                   "orario": "2026-10-25T12:00",
                   "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Serie A: Derthona Tortona-Napoli Basket",
-              "categoria": "Basket",
-              "sottocartella": "Serie A",
-              "sport": "Basket",
-              "competizione": "Serie A",
-              "evento": "Derthona Tortona-Napoli Basket",
-              "inizio": "2026-10-25T12:00:00+01:00",
-              "data": "25/10/2026",
-              "ora": "12:00",
-              "canali": [
+                },
                 {
                   "nome": "Sky Sport Basket",
                   "numero": "",
@@ -7482,35 +7398,8 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 10,
+      "totale": 9,
       "sottocartelle": [
-        {
-          "nome": "Pallanuoto maschile",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Amichevole Internazionale: Italia-Spagna",
-              "categoria": "Altri sport",
-              "sottocartella": "Pallanuoto maschile",
-              "sport": "Pallanuoto maschile",
-              "competizione": "Amichevole Internazionale",
-              "evento": "Italia-Spagna",
-              "inizio": "2026-10-20T18:00:00+02:00",
-              "data": "20/10/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-20T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Pallamano maschile",
           "totale": 2,
@@ -7618,15 +7507,15 @@
               "sport": "Sci alpino",
               "competizione": "Coppa del Mondo – Soelden",
               "evento": "Slalom Gigante F (1a manche): 1a manche",
-              "inizio": "2026-10-24T09:30:00+02:00",
+              "inizio": "2026-10-24T10:00:00+02:00",
               "data": "24/10/2026",
-              "ora": "09:30",
+              "ora": "10:00",
               "canali": [
                 {
                   "nome": "Eurosport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-24T09:30",
+                  "orario": "2026-10-24T10:00",
                   "fonte": "virgilio"
                 },
                 {
@@ -7646,15 +7535,15 @@
               "sport": "Sci alpino",
               "competizione": "Coppa del Mondo – Soelden",
               "evento": "Slalom Gigante F (2a manche): 2a manche",
-              "inizio": "2026-10-24T12:30:00+02:00",
+              "inizio": "2026-10-24T13:00:00+02:00",
               "data": "24/10/2026",
-              "ora": "12:30",
+              "ora": "13:00",
               "canali": [
                 {
                   "nome": "Eurosport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-24T12:30",
+                  "orario": "2026-10-24T13:00",
                   "fonte": "virgilio"
                 },
                 {
