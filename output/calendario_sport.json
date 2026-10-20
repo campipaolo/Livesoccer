@@ -1,11 +1,11 @@
 {
-  "aggiornato": "2026-10-20T10:34:37+02:00",
+  "aggiornato": "2026-10-20T11:16:35+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 246,
+  "totale": 249,
   "cartelle": [
     {
       "nome": "Oggi",
@@ -3781,7 +3781,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 95,
+      "totale": 98,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -3845,7 +3845,9 @@
                 {
                   "paese": "Afghanistan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -3932,7 +3934,9 @@
                   "paese": "Bangladesh",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -3962,7 +3966,9 @@
                 {
                   "paese": "Bhutan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4213,7 +4219,9 @@
                 {
                   "paese": "India",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4373,7 +4381,9 @@
                   "canali": [
                     "ZEE5",
                     "ICE Plus",
-                    "Medianet"
+                    "Medianet",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4444,7 +4454,9 @@
                 {
                   "paese": "Nepal",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -4535,6 +4547,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Romania",
+                  "canali": [
+                    "Prima Sport 3"
                   ]
                 },
                 {
@@ -4644,7 +4662,9 @@
                   "paese": "Sri Lanka",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -5961,6 +5981,12 @@
                   ]
                 },
                 {
+                  "paese": "Croazia",
+                  "canali": [
+                    "Arena Sport 2 Croatia"
+                  ]
+                },
+                {
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6527,7 +6553,8 @@
                   "paese": "Romania",
                   "canali": [
                     "Digi Sport 2 Romania",
-                    "Digi Online"
+                    "Digi Online",
+                    "Prima Sport 2"
                   ]
                 },
                 {
@@ -7557,7 +7584,8 @@
                   "paese": "Romania",
                   "canali": [
                     "Digi Sport 2 Romania",
-                    "Digi Online"
+                    "Digi Online",
+                    "Prima Sport 2"
                   ]
                 },
                 {
@@ -8551,6 +8579,7 @@
                   "paese": "Romania",
                   "canali": [
                     "Digi Online",
+                    "Prima Sport 2",
                     "Digi Sport 4 Romania"
                   ]
                 },
@@ -8937,7 +8966,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 12,
+          "totale": 15,
           "eventi": [
             {
               "titolo": "Serie B: Empoli vs Vicenza",
@@ -9361,10 +9390,22 @@
                   ]
                 },
                 {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live"
+                  ]
+                },
+                {
                   "paese": "San Marino",
                   "canali": [
                     "DAZN Italia",
                     "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live"
                   ]
                 }
               ],
@@ -9424,28 +9465,87 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Arezzo vs Benevento",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Arezzo vs Benevento",
+              "inizio": "2026-10-26T15:00:00+01:00",
+              "data": "26/10/2026",
+              "ora": "15:00",
+              "canali": [
                 {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-26T15:00",
+                  "fonte": "livesoccer"
                 },
                 {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-26T15:00",
+                  "fonte": "livesoccer"
                 }
               ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Empoli vs Lr Vicenza",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Empoli vs Lr Vicenza",
+              "inizio": "2026-10-26T17:00:00+01:00",
+              "data": "26/10/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Fox Soccer Plus",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-26T17:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Palermo vs Carrarese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Palermo vs Carrarese",
+              "inizio": "2026-10-27T06:30:00+01:00",
+              "data": "27/10/2026",
+              "ora": "06:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-27T06:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-27T06:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -9552,22 +9652,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9596,7 +9681,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
