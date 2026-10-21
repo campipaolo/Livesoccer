@@ -37,6 +37,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
@@ -120,7 +126,22 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie C",
@@ -1790,6 +1811,12 @@
           ]
         },
         {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 4 Poland"
+          ]
+        },
+        {
           "paese": "Porto Rico",
           "canali": [
             "Peacock",
@@ -1802,6 +1829,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Romania",
+          "canali": [
+            "Prima Play"
           ]
         },
         {
@@ -1855,6 +1888,12 @@
           "paese": "Slovacchia",
           "canali": [
             "Sport 1 SK"
+          ]
+        },
+        {
+          "paese": "Slovenia",
+          "canali": [
+            "Arena Sport 4 Slovenia"
           ]
         },
         {
@@ -2701,6 +2740,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -2829,6 +2869,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 1 Poland"
           ]
         },
         {
@@ -3840,6 +3886,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -3951,6 +3998,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 1 Poland"
           ]
         },
         {
@@ -4793,6 +4846,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -5218,6 +5272,58 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Arezzo vs Benevento",
+      "data": "2026-10-25",
+      "ora": "05:00",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
@@ -5285,39 +5391,11 @@
       "data": "2026-10-26",
       "ora": "15:00",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5336,6 +5414,17 @@
       "titolo": "Palermo vs Carrarese",
       "data": "2026-10-27",
       "ora": "06:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Ascoli vs Sampdoria",
+      "data": "2026-10-28",
+      "ora": "04:00",
       "canali": [
         "DAZN Italia",
         "LAB Channel"

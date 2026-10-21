@@ -97,6 +97,16 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5819264"
     },
     {
+      "title": "[COLOR yellow]05:00[/COLOR] Arezzo vs Benevento",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5820935"
+    },
+    {
       "title": "[COLOR yellow]23:00[/COLOR] Palermo vs Carrarese",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
@@ -117,10 +127,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5820369"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5820369"
     },
     {
       "title": "[COLOR yellow]17:00[/COLOR] Empoli vs Lr Vicenza",
@@ -148,6 +159,22 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-carrarese/6k92x#5820376"
+    },
+    {
+      "title": "[COLOR cyan]Mercoledi 28 Ottobre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]04:00[/COLOR] Ascoli vs Sampdoria",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-ascoli/35yxy#5820942"
     }
   ]
 }

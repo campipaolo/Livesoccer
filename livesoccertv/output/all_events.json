@@ -52,6 +52,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
@@ -171,16 +177,31 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5720760",
@@ -1941,6 +1962,12 @@
           ]
         },
         {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 4 Poland"
+          ]
+        },
+        {
           "paese": "Porto Rico",
           "canali": [
             "Peacock",
@@ -1953,6 +1980,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Romania",
+          "canali": [
+            "Prima Play"
           ]
         },
         {
@@ -2006,6 +2039,12 @@
           "paese": "Slovacchia",
           "canali": [
             "Sport 1 SK"
+          ]
+        },
+        {
+          "paese": "Slovenia",
+          "canali": [
+            "Arena Sport 4 Slovenia"
           ]
         },
         {
@@ -2867,6 +2906,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -2995,6 +3035,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 1 Poland"
           ]
         },
         {
@@ -4081,6 +4127,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -4192,6 +4239,12 @@
           "paese": "Perù",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Polonia",
+          "canali": [
+            "Eleven Sports 1 Poland"
           ]
         },
         {
@@ -5061,6 +5114,7 @@
         {
           "paese": "Messico",
           "canali": [
+            "ESPN Mexico",
             "Disney+ Premium Mexico"
           ]
         },
@@ -5501,6 +5555,73 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5820935",
+      "competition": "Serie B",
+      "home": "Arezzo",
+      "away": "Benevento",
+      "title": "Arezzo vs Benevento",
+      "kickoff": "2026-10-25T05:00:00+01:00",
+      "date": "2026-10-25",
+      "time": "05:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5820935",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
@@ -5591,46 +5712,22 @@
       "match_url": "https://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5820369",
       "channels": [
         {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "stream": true
         },
         {
-          "name": "LAB Channel",
-          "url": "",
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5820370",
@@ -5675,6 +5772,32 @@
       "status": "upcoming",
       "score": "",
       "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-carrarese/6k92x#5820376",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5820942",
+      "competition": "Serie B",
+      "home": "Ascoli",
+      "away": "Sampdoria",
+      "title": "Ascoli vs Sampdoria",
+      "kickoff": "2026-10-28T04:00:00+01:00",
+      "date": "2026-10-28",
+      "time": "04:00",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-ascoli/35yxy#5820942",
       "channels": [
         {
           "name": "DAZN Italia",
