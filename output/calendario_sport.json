@@ -1,186 +1,592 @@
 {
-  "aggiornato": "2026-10-21T23:44:18+02:00",
+  "aggiornato": "2026-10-22T00:12:08+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 248,
+  "totale": 256,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 7,
+      "totale": 25,
       "eventi": [
         {
-          "titolo": "[Calcio] UEFA Champions League: Aston Villa-Viking",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Aston Villa-Viking",
-          "inizio": "2026-10-21T21:00:00+02:00",
-          "data": "21/10/2026",
-          "ora": "21:00",
+          "titolo": "[Basket] NBA: Philadelphia 76ers-Cleveland Cavaliers",
+          "categoria": "Basket",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "Philadelphia 76ers-Cleveland Cavaliers",
+          "inizio": "2026-10-22T01:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "01:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
+              "orario": "2026-10-22T01:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Bayern Monaco-Arsenal",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Bayern Monaco-Arsenal",
-          "inizio": "2026-10-21T21:00:00+02:00",
-          "data": "21/10/2026",
-          "ora": "21:00",
+          "titolo": "[Tennis] ATP & WTA",
+          "categoria": "Tennis",
+          "sottocartella": "ATP & WTA",
+          "sport": "Tennis",
+          "competizione": "ATP & WTA",
+          "evento": "ATP & WTA",
+          "inizio": "2026-10-22T04:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "04:00",
           "canali": [
             {
-              "nome": "TV8",
-              "numero": "8",
+              "nome": "Sky Sport Tennis",
+              "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
+              "orario": "2026-10-22T04:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-22T08:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Conference League: Kairat Almaty-Panathinaikos",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Conference League",
+          "sport": "Calcio",
+          "competizione": "UEFA Conference League",
+          "evento": "Kairat Almaty-Panathinaikos",
+          "inizio": "2026-10-22T16:30:00+02:00",
+          "data": "22/10/2026",
+          "ora": "16:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T16:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Qualificazioni Mondiali: Bulgaria-Italia",
+          "categoria": "Altri sport",
+          "sottocartella": "Pallamano maschile",
+          "sport": "Pallamano maschile",
+          "competizione": "Qualificazioni Mondiali 2027",
+          "evento": "Bulgaria-Italia",
+          "inizio": "2026-10-22T18:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Ararat Armenia-AZ Alkmaar",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Ararat Armenia-AZ Alkmaar",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Dinamo Zagabria-NEC",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Dinamo Zagabria-NEC",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Ferencvaros-Torreense",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Ferencvaros-Torreense",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Juventus-Rennes",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Juventus-Rennes",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Lech Poznan-Sunderland",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Lech Poznan-Sunderland",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: OFI-Bayer Leverkusen",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "OFI-Bayer Leverkusen",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
+              "orario": "2026-10-22T18:45",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Bruges-Lens",
+          "titolo": "[Calcio] UEFA Europa League: Sturm Graz-Marsiglia",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "UEFA Europa League",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Bruges-Lens",
-          "inizio": "2026-10-21T21:00:00+02:00",
-          "data": "21/10/2026",
+          "competizione": "UEFA Europa League",
+          "evento": "Sturm Graz-Marsiglia",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Union Saint Gilloise-Hapoel Beer Sheva",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Union Saint Gilloise-Hapoel Beer Sheva",
+          "inizio": "2026-10-22T18:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "18:45",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T18:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Olimpia Milano-Barcellona",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Olimpia Milano-Barcellona",
+          "inizio": "2026-10-22T20:30:00+02:00",
+          "data": "22/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Partizan-Stella Rossa",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Partizan-Stella Rossa",
+          "inizio": "2026-10-22T20:45:00+02:00",
+          "data": "22/10/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Conference League: Ajax-Atalanta",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Conference League",
+          "sport": "Calcio",
+          "competizione": "UEFA Conference League",
+          "evento": "Ajax-Atalanta",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
           "ora": "21:00",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Champions League: Inter-Shakhtar Donetsk",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Inter-Shakhtar Donetsk",
-          "inizio": "2026-10-21T21:00:00+02:00",
-          "data": "21/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Amazon Prime Video",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Champions League: Real Betis-Feyenoord",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Real Betis-Feyenoord",
-          "inizio": "2026-10-21T21:00:00+02:00",
-          "data": "21/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Champions League: Real Madrid-Lipsia",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Real Madrid-Lipsia",
-          "inizio": "2026-10-21T21:00:00+02:00",
-          "data": "21/10/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
+              "orario": "2026-10-22T21:00",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport Arena",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
+              "orario": "2026-10-22T21:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Sporting-LASK",
+          "titolo": "[Calcio] UEFA Europa League: Besiktas-Crystal Palace",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "UEFA Europa League",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Sporting-LASK",
-          "inizio": "2026-10-21T21:00:00+02:00",
-          "data": "21/10/2026",
+          "competizione": "UEFA Europa League",
+          "evento": "Besiktas-Crystal Palace",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
           "ora": "21:00",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-21T21:00",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Bournemouth-Milan",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Bournemouth-Milan",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Celje-Salisburgo",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Celje-Salisburgo",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Celtic-Celta Vigo",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Celtic-Celta Vigo",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Hoffenheim-Lione",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Hoffenheim-Lione",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Jagiellonia Bialystok-Anderlecht",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Jagiellonia Bialystok-Anderlecht",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Lillestrom-Real Sociedad",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Lillestrom-Real Sociedad",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Olympiacos-Sparta Praga",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Olympiacos-Sparta Praga",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Omonia Nicosia-Benfica",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Omonia Nicosia-Benfica",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Europa League: Viktoria Plzen-Levski Sofia",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Europa League",
+          "sport": "Calcio",
+          "competizione": "UEFA Europa League",
+          "evento": "Viktoria Plzen-Levski Sofia",
+          "inizio": "2026-10-22T21:00:00+02:00",
+          "data": "22/10/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-22T21:00",
               "fonte": "virgilio"
             }
           ],
@@ -3613,11 +4019,11 @@
     },
     {
       "nome": "Calcio",
-      "totale": 96,
+      "totale": 99,
       "sottocartelle": [
         {
           "nome": "Serie A",
-          "totale": 13,
+          "totale": 18,
           "eventi": [
             {
               "titolo": "Serie A: Torino vs Monza",
@@ -5290,6 +5696,12 @@
                   ]
                 },
                 {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 4 Poland"
+                  ]
+                },
+                {
                   "paese": "Porto Rico",
                   "canali": [
                     "Peacock",
@@ -5302,6 +5714,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Romania",
+                  "canali": [
+                    "Prima Play"
                   ]
                 },
                 {
@@ -5355,6 +5773,12 @@
                   "paese": "Slovacchia",
                   "canali": [
                     "Sport 1 SK"
+                  ]
+                },
+                {
+                  "paese": "Slovenia",
+                  "canali": [
+                    "Arena Sport 4 Slovenia"
                   ]
                 },
                 {
@@ -6226,6 +6650,7 @@
                 {
                   "paese": "Messico",
                   "canali": [
+                    "ESPN Mexico",
                     "Disney+ Premium Mexico"
                   ]
                 },
@@ -6354,6 +6779,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 1 Poland"
                   ]
                 },
                 {
@@ -7286,6 +7717,7 @@
                 {
                   "paese": "Messico",
                   "canali": [
+                    "ESPN Mexico",
                     "Disney+ Premium Mexico"
                   ]
                 },
@@ -7397,6 +7829,12 @@
                   "paese": "Perù",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Polonia",
+                  "canali": [
+                    "Eleven Sports 1 Poland"
                   ]
                 },
                 {
@@ -8282,6 +8720,7 @@
                 {
                   "paese": "Messico",
                   "canali": [
+                    "ESPN Mexico",
                     "Disney+ Premium Mexico"
                   ]
                 },
@@ -8885,12 +9324,145 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Milan-Bologna",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Milan-Bologna",
+              "inizio": "2026-10-28T18:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Parma-Udinese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Parma-Udinese",
+              "inizio": "2026-10-28T18:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Venezia-Inter",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Venezia-Inter",
+              "inizio": "2026-10-28T18:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T18:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T18:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Genoa-Juventus",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Genoa-Juventus",
+              "inizio": "2026-10-28T20:45:00+01:00",
+              "data": "28/10/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Monza-Napoli",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Monza-Napoli",
+              "inizio": "2026-10-28T20:45:00+01:00",
+              "data": "28/10/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T20:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T20:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Serie B",
-          "totale": 22,
+          "totale": 27,
           "eventi": [
             {
               "titolo": "Serie B: Empoli vs Vicenza",
@@ -8950,6 +9522,12 @@
                   "paese": "Montenegro",
                   "canali": [
                     "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
                   ]
                 },
                 {
@@ -9321,6 +9899,76 @@
                   ]
                 },
                 {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Arezzo vs Benevento",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Arezzo vs Benevento",
+              "inizio": "2026-10-25T05:00:00+01:00",
+              "data": "25/10/2026",
+              "ora": "05:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-25T05:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-25T05:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
                   "paese": "San Marino",
                   "canali": [
                     "DAZN Italia",
@@ -9441,50 +10089,28 @@
               "ora": "15:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-10-26T15:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-26T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-26T15:00",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9698,6 +10324,98 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Ascoli vs Sampdoria",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Ascoli vs Sampdoria",
+              "inizio": "2026-10-28T04:00:00+01:00",
+              "data": "28/10/2026",
+              "ora": "04:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-28T04:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T04:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Pisa-Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Pisa-Palermo",
+              "inizio": "2026-10-28T19:00:00+01:00",
+              "data": "28/10/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Carrarese-Arezzo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Carrarese-Arezzo",
+              "inizio": "2026-10-28T20:00:00+01:00",
+              "data": "28/10/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Juve Stabia-Hellas Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Juve Stabia-Hellas Verona",
+              "inizio": "2026-10-28T20:00:00+01:00",
+              "data": "28/10/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -9826,7 +10544,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10122,187 +10855,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-27T14:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Champions League",
-          "totale": 7,
-          "eventi": [
-            {
-              "titolo": "UEFA Champions League: Aston Villa-Viking",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Aston Villa-Viking",
-              "inizio": "2026-10-21T21:00:00+02:00",
-              "data": "21/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Bayern Monaco-Arsenal",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Bayern Monaco-Arsenal",
-              "inizio": "2026-10-21T21:00:00+02:00",
-              "data": "21/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Bruges-Lens",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Bruges-Lens",
-              "inizio": "2026-10-21T21:00:00+02:00",
-              "data": "21/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Inter-Shakhtar Donetsk",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Inter-Shakhtar Donetsk",
-              "inizio": "2026-10-21T21:00:00+02:00",
-              "data": "21/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Amazon Prime Video",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Real Betis-Feyenoord",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Real Betis-Feyenoord",
-              "inizio": "2026-10-21T21:00:00+02:00",
-              "data": "21/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Real Madrid-Lipsia",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Real Madrid-Lipsia",
-              "inizio": "2026-10-21T21:00:00+02:00",
-              "data": "21/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Sporting-LASK",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Sporting-LASK",
-              "inizio": "2026-10-21T21:00:00+02:00",
-              "data": "21/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-21T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11224,11 +11776,11 @@
     },
     {
       "nome": "Tennis",
-      "totale": 18,
+      "totale": 19,
       "sottocartelle": [
         {
           "nome": "ATP & WTA",
-          "totale": 5,
+          "totale": 6,
           "eventi": [
             {
               "titolo": "ATP & WTA",
@@ -11344,6 +11896,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-27T02:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-28T02:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "02:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T02:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -11672,11 +12245,11 @@
     },
     {
       "nome": "Basket",
-      "totale": 13,
+      "totale": 17,
       "sottocartelle": [
         {
           "nome": "NBA",
-          "totale": 4,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "NBA: Philadelphia 76ers-Cleveland Cavaliers",
@@ -11761,12 +12334,33 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Indiana Pacers-Philadelphia 76ers",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Indiana Pacers-Philadelphia 76ers",
+              "inizio": "2026-10-28T00:00:00+01:00",
+              "data": "28/10/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T00:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Eurolega",
-          "totale": 4,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "Eurolega: Olimpia Milano-Barcellona",
@@ -11847,6 +12441,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-23T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Virtus Bologna-Zalgiris",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Virtus Bologna-Zalgiris",
+              "inizio": "2026-10-28T20:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T20:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -11959,7 +12574,7 @@
         },
         {
           "nome": "Eurocup",
-          "totale": 1,
+          "totale": 3,
           "eventi": [
             {
               "titolo": "Eurocup: Roma Basketball-Bosna Royal",
@@ -11977,6 +12592,48 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-27T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Siauliai Basketball-Maxima Roma",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Siauliai Basketball-Maxima Roma",
+              "inizio": "2026-10-28T17:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Derthona Tortona-Rostock",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Derthona Tortona-Rostock",
+              "inizio": "2026-10-28T19:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "19:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T19:30",
                   "fonte": "virgilio"
                 }
               ],
