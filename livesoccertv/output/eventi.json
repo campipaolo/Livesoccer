@@ -120,6 +120,17 @@
         "SKY Go Italia",
         "NOW TV"
       ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie C",
+      "titolo": "Pineto vs Gubbio",
+      "data": "2026-10-23",
+      "ora": "20:30",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
       "canali_mondo": [
         {
           "paese": "Italia",
@@ -136,17 +147,6 @@
           ]
         }
       ]
-    },
-    {
-      "competizione": "Serie C",
-      "titolo": "Pineto vs Gubbio",
-      "data": "2026-10-23",
-      "ora": "20:30",
-      "canali": [
-        "SKY Go Italia",
-        "NOW TV"
-      ],
-      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -897,7 +897,9 @@
         {
           "paese": "Romania",
           "canali": [
-            "Prima Sport 3"
+            "Orange TV Go",
+            "Prima Sport 3",
+            "Prima Play"
           ]
         },
         {
@@ -2290,7 +2292,8 @@
         {
           "paese": "Croazia",
           "canali": [
-            "Arena Sport 2 Croatia"
+            "Arena Sport 2 Croatia",
+            "MAXtv To Go"
           ]
         },
         {
@@ -2861,7 +2864,9 @@
           "canali": [
             "Digi Sport 2 Romania",
             "Digi Online",
-            "Prima Sport 2"
+            "Prima Sport 2",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -3977,7 +3982,9 @@
           "canali": [
             "Digi Sport 2 Romania",
             "Digi Online",
-            "Prima Sport 2"
+            "Prima Sport 2",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -4929,7 +4936,9 @@
           "canali": [
             "Digi Online",
             "Prima Sport 2",
-            "Digi Sport 4 Romania"
+            "Digi Sport 4 Romania",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -5204,7 +5213,8 @@
         {
           "paese": "Liechtenstein",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -5217,7 +5227,8 @@
         {
           "paese": "Svizzera",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         }
       ]
@@ -5248,6 +5259,7 @@
         {
           "paese": "Liechtenstein",
           "canali": [
+            "Blue Sport",
             "Blue Sport 1 Live"
           ]
         },
@@ -5261,6 +5273,7 @@
         {
           "paese": "Svizzera",
           "canali": [
+            "Blue Sport",
             "Blue Sport 1 Live"
           ]
         }
@@ -5286,7 +5299,8 @@
         {
           "paese": "Liechtenstein",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -5299,7 +5313,8 @@
         {
           "paese": "Svizzera",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         }
       ]
@@ -5310,7 +5325,9 @@
       "data": "2026-10-26",
       "ora": "17:00",
       "canali": [
-        "Fox Soccer Plus"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
       "canali_mondo": []
     },
@@ -5323,40 +5340,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     }
   ]
 }

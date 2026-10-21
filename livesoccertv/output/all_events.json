@@ -171,6 +171,32 @@
       "channels": [
         {
           "name": "SKY Go Italia",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5720760",
+      "competition": "Serie C",
+      "home": "Pineto",
+      "away": "Gubbio",
+      "title": "Pineto vs Gubbio",
+      "kickoff": "2026-10-23T20:30:00+02:00",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-pineto/1ggxnu#5720760",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
           "url": "",
           "stream": false
         },
@@ -196,32 +222,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "5720760",
-      "competition": "Serie C",
-      "home": "Pineto",
-      "away": "Gubbio",
-      "title": "Pineto vs Gubbio",
-      "kickoff": "2026-10-23T20:30:00+02:00",
-      "date": "2026-10-23",
-      "time": "20:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-pineto/1ggxnu#5720760",
-      "channels": [
-        {
-          "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
-          "stream": false
-        }
-      ],
-      "canali_mondo": []
     },
     {
       "id": "5721135",
@@ -1014,7 +1014,9 @@
         {
           "paese": "Romania",
           "canali": [
-            "Prima Sport 3"
+            "Orange TV Go",
+            "Prima Sport 3",
+            "Prima Play"
           ]
         },
         {
@@ -2456,7 +2458,8 @@
         {
           "paese": "Croazia",
           "canali": [
-            "Arena Sport 2 Croatia"
+            "Arena Sport 2 Croatia",
+            "MAXtv To Go"
           ]
         },
         {
@@ -3027,7 +3030,9 @@
           "canali": [
             "Digi Sport 2 Romania",
             "Digi Online",
-            "Prima Sport 2"
+            "Prima Sport 2",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -4218,7 +4223,9 @@
           "canali": [
             "Digi Sport 2 Romania",
             "Digi Online",
-            "Prima Sport 2"
+            "Prima Sport 2",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -5197,7 +5204,9 @@
           "canali": [
             "Digi Online",
             "Prima Sport 2",
-            "Digi Sport 4 Romania"
+            "Digi Sport 4 Romania",
+            "Orange TV Go",
+            "Prima Play"
           ]
         },
         {
@@ -5487,7 +5496,8 @@
         {
           "paese": "Liechtenstein",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -5500,7 +5510,8 @@
         {
           "paese": "Svizzera",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         }
       ]
@@ -5546,6 +5557,7 @@
         {
           "paese": "Liechtenstein",
           "canali": [
+            "Blue Sport",
             "Blue Sport 1 Live"
           ]
         },
@@ -5559,6 +5571,7 @@
         {
           "paese": "Svizzera",
           "canali": [
+            "Blue Sport",
             "Blue Sport 1 Live"
           ]
         }
@@ -5599,7 +5612,8 @@
         {
           "paese": "Liechtenstein",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -5612,7 +5626,8 @@
         {
           "paese": "Svizzera",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         }
       ]
@@ -5633,6 +5648,16 @@
         {
           "name": "Fox Soccer Plus",
           "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "stream": true
+        },
+        {
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
           "stream": false
         }
       ],
@@ -5662,40 +5687,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     }
   ]
 }
