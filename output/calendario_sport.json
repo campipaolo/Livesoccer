@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-22T00:12:08+02:00",
+  "aggiornato": "2026-10-22T03:23:22+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -5999,12 +5999,14 @@
                   "paese": "Andorra",
                   "canali": [
                     "DAZN Spain",
-                    "DAZN France"
+                    "DAZN France",
+                    "ZAP"
                   ]
                 },
                 {
                   "paese": "Angola",
                   "canali": [
+                    "ZAP",
                     "DStv Now",
                     "SS OTT 2"
                   ]
@@ -6168,6 +6170,7 @@
                 {
                   "paese": "Capo Verde",
                   "canali": [
+                    "ZAP",
                     "DStv Now",
                     "SS OTT 2"
                   ]
@@ -6413,6 +6416,7 @@
                 {
                   "paese": "Guinea-Bissau",
                   "canali": [
+                    "ZAP",
                     "DStv Now",
                     "SS OTT 2"
                   ]
@@ -6684,6 +6688,7 @@
                 {
                   "paese": "Mozambico",
                   "canali": [
+                    "ZAP",
                     "DStv Now",
                     "SS OTT 2"
                   ]
@@ -7006,6 +7011,7 @@
                 {
                   "paese": "São Tomé and Príncipe",
                   "canali": [
+                    "ZAP",
                     "SS OTT 2"
                   ]
                 },
@@ -8201,7 +8207,15 @@
                   "paese": "Andorra",
                   "canali": [
                     "DAZN Spain",
-                    "DAZN France"
+                    "DAZN France",
+                    "ZAP"
+                  ]
+                },
+                {
+                  "paese": "Angola",
+                  "canali": [
+                    "ZAP",
+                    "ZSPORT 1"
                   ]
                 },
                 {
@@ -8343,6 +8357,12 @@
                     "DAZN Canada",
                     "fuboTV Canada",
                     "Fubo Sports Network Canada"
+                  ]
+                },
+                {
+                  "paese": "Capo Verde",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -8517,6 +8537,12 @@
                   "paese": "Guatemala",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Guinea-Bissau",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -8755,6 +8781,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -9012,6 +9044,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "São Tomé and Príncipe",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -9883,42 +9921,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9947,42 +9950,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10039,42 +10007,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10089,21 +10022,14 @@
               "ora": "15:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
                   "numero": "",
-                  "tipo": "diretta",
+                  "tipo": "streaming",
                   "orario": "2026-10-26T15:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "fuboTV",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "FOX One",
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-26T15:00",
@@ -10500,22 +10426,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
