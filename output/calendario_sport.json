@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-22T15:42:13+02:00",
+  "aggiornato": "2026-10-22T20:27:22+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,29 +9,8 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 23,
+      "totale": 22,
       "eventi": [
-        {
-          "titolo": "[Calcio] UEFA Conference League: Kairat Almaty-Panathinaikos",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Conference League",
-          "sport": "Calcio",
-          "competizione": "UEFA Conference League",
-          "evento": "Kairat Almaty-Panathinaikos",
-          "inizio": "2026-10-22T16:30:00+02:00",
-          "data": "22/10/2026",
-          "ora": "16:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-22T16:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Altri sport] Qualificazioni Mondiali: Bulgaria-Italia",
           "categoria": "Altri sport",
@@ -730,7 +709,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-10-25T00:30",
+                  "orario": "2026-10-25T00:25",
                   "fonte": "config+tv8"
                 }
               ],
@@ -2202,7 +2181,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-24T01:50",
+                  "orario": "2026-10-24T01:45",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -2239,7 +2218,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-24T01:50",
+                  "orario": "2026-10-24T01:45",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -4099,6 +4078,7 @@
                 {
                   "paese": "Armenia",
                   "canali": [
+                    "FAST TV",
                     "Q League"
                   ]
                 },
@@ -4563,7 +4543,8 @@
                 {
                   "paese": "Macao",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Macau Cable TV 34 Football"
                   ]
                 },
                 {
@@ -5134,6 +5115,12 @@
                   ]
                 },
                 {
+                  "paese": "Armenia",
+                  "canali": [
+                    "FAST TV"
+                  ]
+                },
+                {
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5446,6 +5433,12 @@
                   "paese": "Irlanda",
                   "canali": [
                     "DAZN UK"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "ONE2"
                   ]
                 },
                 {
@@ -6005,6 +5998,12 @@
                   ]
                 },
                 {
+                  "paese": "Armenia",
+                  "canali": [
+                    "FAST TV"
+                  ]
+                },
+                {
                   "paese": "Aruba",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -6458,6 +6457,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 4"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -6552,7 +6557,8 @@
                 {
                   "paese": "Macao",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Macau Cable TV 34 Football"
                   ]
                 },
                 {
@@ -6587,7 +6593,8 @@
                 {
                   "paese": "Maldive",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "ICE Plus"
                   ]
                 },
                 {
@@ -7202,6 +7209,7 @@
                 {
                   "paese": "Armenia",
                   "canali": [
+                    "FAST TV",
                     "Q League"
                   ]
                 },
@@ -7446,6 +7454,12 @@
                   ]
                 },
                 {
+                  "paese": "Estonia",
+                  "canali": [
+                    "Go3 Sport 1"
+                  ]
+                },
+                {
                   "paese": "Isole Faroe",
                   "canali": [
                     "TV2 Play Denmark"
@@ -7569,6 +7583,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "ONE2"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -7631,6 +7651,12 @@
                   ]
                 },
                 {
+                  "paese": "Lettonia",
+                  "canali": [
+                    "Go3 Sport 1"
+                  ]
+                },
+                {
                   "paese": "Libano",
                   "canali": [
                     "STARZPLAY",
@@ -7652,6 +7678,12 @@
                   ]
                 },
                 {
+                  "paese": "Lituania",
+                  "canali": [
+                    "Go3 Sport 1"
+                  ]
+                },
+                {
                   "paese": "Lussemburgo",
                   "canali": [
                     "DAZN1 Belgium"
@@ -7660,7 +7692,8 @@
                 {
                   "paese": "Macao",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Macau Cable TV 34 Football"
                   ]
                 },
                 {
@@ -7681,7 +7714,8 @@
                 {
                   "paese": "Maldive",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "ICE Plus"
                   ]
                 },
                 {
@@ -8176,7 +8210,9 @@
                 {
                   "paese": "Afghanistan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -8230,6 +8266,7 @@
                 {
                   "paese": "Armenia",
                   "canali": [
+                    "FAST TV",
                     "Q League"
                   ]
                 },
@@ -8270,7 +8307,9 @@
                   "paese": "Bangladesh",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -8301,7 +8340,9 @@
                 {
                   "paese": "Bhutan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -8572,7 +8613,9 @@
                 {
                   "paese": "India",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -8691,7 +8734,8 @@
                 {
                   "paese": "Macao",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Macau Cable TV 34 Football"
                   ]
                 },
                 {
@@ -8712,7 +8756,10 @@
                 {
                   "paese": "Maldive",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "ICE Plus",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -8790,7 +8837,9 @@
                 {
                   "paese": "Nepal",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -9000,7 +9049,9 @@
                   "paese": "Sri Lanka",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -9498,7 +9549,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 26,
+          "totale": 27,
           "eventi": [
             {
               "titolo": "Serie B: Empoli vs Vicenza",
@@ -10011,42 +10062,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10140,42 +10156,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10351,78 +10332,8 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Pisa-Palermo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Pisa-Palermo",
-              "inizio": "2026-10-28T19:00:00+01:00",
-              "data": "28/10/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-28T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
             },
             {
               "titolo": "Serie B: Carrarese-Arezzo",
@@ -10465,6 +10376,71 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Pisa vs Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Pisa vs Palermo",
+              "inizio": "2026-10-28T23:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "23:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-28T23:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T23:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Juve Stabia vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Juve Stabia vs Verona",
+              "inizio": "2026-10-29T01:30:00+01:00",
+              "data": "29/10/2026",
+              "ora": "01:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-29T01:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-29T01:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
             }
           ]
         },
@@ -10505,22 +10481,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10549,22 +10510,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10593,22 +10539,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10637,22 +10568,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10889,61 +10805,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-27T14:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Conference League",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "UEFA Conference League: Kairat Almaty-Panathinaikos",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Conference League",
-              "sport": "Calcio",
-              "competizione": "UEFA Conference League",
-              "evento": "Kairat Almaty-Panathinaikos",
-              "inizio": "2026-10-22T16:30:00+02:00",
-              "data": "22/10/2026",
-              "ora": "16:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-22T16:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Conference League: Ajax-Atalanta",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Conference League",
-              "sport": "Calcio",
-              "competizione": "UEFA Conference League",
-              "evento": "Ajax-Atalanta",
-              "inizio": "2026-10-22T21:00:00+02:00",
-              "data": "22/10/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-22T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-22T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -11367,6 +11228,40 @@
               "canali": [
                 {
                   "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Conference League",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "UEFA Conference League: Ajax-Atalanta",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Conference League",
+              "sport": "Calcio",
+              "competizione": "UEFA Conference League",
+              "evento": "Ajax-Atalanta",
+              "inizio": "2026-10-22T21:00:00+02:00",
+              "data": "22/10/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-22T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-22T21:00",
