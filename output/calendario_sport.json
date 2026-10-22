@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-10-22T06:49:47+02:00",
+  "aggiornato": "2026-10-22T09:16:22+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 255,
+  "totale": 253,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 24,
+      "totale": 23,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-22T04:00:00+02:00",
-          "data": "22/10/2026",
-          "ora": "04:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-22T04:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-22T08:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] UEFA Conference League: Kairat Almaty-Panathinaikos",
           "categoria": "Calcio",
@@ -3998,7 +3970,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 99,
+      "totale": 98,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4293,6 +4265,13 @@
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
                   ]
                 },
                 {
@@ -5677,6 +5656,7 @@
                 {
                   "paese": "Polonia",
                   "canali": [
+                    "Canal+",
                     "Eleven Sports 4 Poland"
                   ]
                 },
@@ -6234,6 +6214,13 @@
                   ]
                 },
                 {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
+                  ]
+                },
+                {
                   "paese": "Costa d'Avorio",
                   "canali": [
                     "DStv Now",
@@ -6768,7 +6755,8 @@
                 {
                   "paese": "Polonia",
                   "canali": [
-                    "Eleven Sports 1 Poland"
+                    "Eleven Sports 1 Poland",
+                    "Canal+"
                   ]
                 },
                 {
@@ -7381,6 +7369,13 @@
                   ]
                 },
                 {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
+                  ]
+                },
+                {
                   "paese": "Repubblica Ceca",
                   "canali": [
                     "Sport 1 CZ",
@@ -7819,7 +7814,8 @@
                 {
                   "paese": "Polonia",
                   "canali": [
-                    "Eleven Sports 1 Poland"
+                    "Eleven Sports 1 Poland",
+                    "Canal+"
                   ]
                 },
                 {
@@ -8399,6 +8395,13 @@
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
                   ]
                 },
                 {
@@ -9479,7 +9482,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 27,
+          "totale": 26,
           "eventi": [
             {
               "titolo": "Serie B: Empoli vs Vicenza",
@@ -9881,35 +9884,6 @@
               "sport": "Calcio",
               "competizione": "Serie B",
               "evento": "Arezzo vs Benevento",
-              "inizio": "2026-10-25T04:30:00+01:00",
-              "data": "25/10/2026",
-              "ora": "04:30",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-25T04:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-25T04:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Arezzo vs Benevento",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Arezzo vs Benevento",
               "inizio": "2026-10-25T05:00:00+01:00",
               "data": "25/10/2026",
               "ora": "05:00",
@@ -9929,7 +9903,42 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9986,7 +9995,42 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10080,7 +10124,42 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10256,7 +10335,56 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10405,7 +10533,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -10522,22 +10665,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11666,40 +11794,81 @@
     },
     {
       "nome": "Tennis",
-      "totale": 19,
+      "totale": 18,
       "sottocartelle": [
         {
-          "nome": "ATP & WTA",
-          "totale": 6,
+          "nome": "WTA 250 Osaka",
+          "totale": 3,
           "eventi": [
             {
-              "titolo": "ATP & WTA",
+              "titolo": "WTA 250 Osaka: 1a Semifinale",
               "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
+              "sottocartella": "WTA 250 Osaka",
               "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-22T04:00:00+02:00",
-              "data": "22/10/2026",
-              "ora": "04:00",
+              "competizione": "WTA 250 Osaka",
+              "evento": "1a Semifinale",
+              "inizio": "2026-10-23T05:00:00+02:00",
+              "data": "23/10/2026",
+              "ora": "05:00",
               "canali": [
                 {
                   "nome": "Sky Sport Tennis",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-10-22T04:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-22T08:30",
+                  "orario": "2026-10-23T05:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "WTA 250 Osaka: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 250 Osaka",
+              "sport": "Tennis",
+              "competizione": "WTA 250 Osaka",
+              "evento": "Finale",
+              "inizio": "2026-10-24T05:30:00+02:00",
+              "data": "24/10/2026",
+              "ora": "05:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T05:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "WTA 250 Osaka: 2a Semifinale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 250 Osaka",
+              "sport": "Tennis",
+              "competizione": "WTA 250 Osaka",
+              "evento": "2a Semifinale",
+              "inizio": "2026-10-24T07:00:00+02:00",
+              "data": "24/10/2026",
+              "ora": "07:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T07:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP & WTA",
+          "totale": 5,
+          "eventi": [
             {
               "titolo": "ATP & WTA",
               "categoria": "Tennis",
@@ -11807,75 +11976,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-28T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "WTA 250 Osaka",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "WTA 250 Osaka: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Osaka",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Osaka",
-              "evento": "1a Semifinale",
-              "inizio": "2026-10-23T05:00:00+02:00",
-              "data": "23/10/2026",
-              "ora": "05:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T05:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 250 Osaka: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Osaka",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Osaka",
-              "evento": "Finale",
-              "inizio": "2026-10-24T05:30:00+02:00",
-              "data": "24/10/2026",
-              "ora": "05:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T05:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 250 Osaka: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Osaka",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Osaka",
-              "evento": "2a Semifinale",
-              "inizio": "2026-10-24T07:00:00+02:00",
-              "data": "24/10/2026",
-              "ora": "07:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T07:00",
                   "fonte": "virgilio"
                 }
               ],
