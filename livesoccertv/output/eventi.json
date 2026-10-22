@@ -100,22 +100,7 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -2089,12 +2074,14 @@
           "paese": "Andorra",
           "canali": [
             "DAZN Spain",
-            "DAZN France"
+            "DAZN France",
+            "ZAP"
           ]
         },
         {
           "paese": "Angola",
           "canali": [
+            "ZAP",
             "DStv Now",
             "SS OTT 2"
           ]
@@ -2258,6 +2245,7 @@
         {
           "paese": "Capo Verde",
           "canali": [
+            "ZAP",
             "DStv Now",
             "SS OTT 2"
           ]
@@ -2503,6 +2491,7 @@
         {
           "paese": "Guinea-Bissau",
           "canali": [
+            "ZAP",
             "DStv Now",
             "SS OTT 2"
           ]
@@ -2774,6 +2763,7 @@
         {
           "paese": "Mozambico",
           "canali": [
+            "ZAP",
             "DStv Now",
             "SS OTT 2"
           ]
@@ -3096,6 +3086,7 @@
         {
           "paese": "São Tomé and Príncipe",
           "canali": [
+            "ZAP",
             "SS OTT 2"
           ]
         },
@@ -4327,7 +4318,15 @@
           "paese": "Andorra",
           "canali": [
             "DAZN Spain",
-            "DAZN France"
+            "DAZN France",
+            "ZAP"
+          ]
+        },
+        {
+          "paese": "Angola",
+          "canali": [
+            "ZAP",
+            "ZSPORT 1"
           ]
         },
         {
@@ -4469,6 +4468,12 @@
             "DAZN Canada",
             "fuboTV Canada",
             "Fubo Sports Network Canada"
+          ]
+        },
+        {
+          "paese": "Capo Verde",
+          "canali": [
+            "ZAP"
           ]
         },
         {
@@ -4643,6 +4648,12 @@
           "paese": "Guatemala",
           "canali": [
             "Disney+ Premium Norte"
+          ]
+        },
+        {
+          "paese": "Guinea-Bissau",
+          "canali": [
+            "ZAP"
           ]
         },
         {
@@ -4881,6 +4892,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Mozambico",
+          "canali": [
+            "ZAP"
           ]
         },
         {
@@ -5141,6 +5158,12 @@
           ]
         },
         {
+          "paese": "São Tomé and Príncipe",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Tajikistan",
           "canali": [
             "Q League"
@@ -5256,42 +5279,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5302,42 +5290,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5348,42 +5301,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5391,9 +5309,8 @@
       "data": "2026-10-26",
       "ora": "15:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
