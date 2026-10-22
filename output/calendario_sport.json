@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-10-22T03:23:22+02:00",
+  "aggiornato": "2026-10-22T06:49:47+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 256,
+  "totale": 255,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 25,
+      "totale": 24,
       "eventi": [
-        {
-          "titolo": "[Basket] NBA: Philadelphia 76ers-Cleveland Cavaliers",
-          "categoria": "Basket",
-          "sottocartella": "NBA",
-          "sport": "Basket",
-          "competizione": "NBA",
-          "evento": "Philadelphia 76ers-Cleveland Cavaliers",
-          "inizio": "2026-10-22T01:00:00+02:00",
-          "data": "22/10/2026",
-          "ora": "01:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Basket",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-22T01:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP & WTA",
           "categoria": "Tennis",
@@ -12156,119 +12135,8 @@
     },
     {
       "nome": "Basket",
-      "totale": 17,
+      "totale": 16,
       "sottocartelle": [
-        {
-          "nome": "NBA",
-          "totale": 5,
-          "eventi": [
-            {
-              "titolo": "NBA: Philadelphia 76ers-Cleveland Cavaliers",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Philadelphia 76ers-Cleveland Cavaliers",
-              "inizio": "2026-10-22T01:00:00+02:00",
-              "data": "22/10/2026",
-              "ora": "01:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-22T01:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Denver Nuggets-Golden State Warriors",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Denver Nuggets-Golden State Warriors",
-              "inizio": "2026-10-26T03:00:00+01:00",
-              "data": "26/10/2026",
-              "ora": "03:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T03:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: New York Knicks-Detroit Pistons",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "New York Knicks-Detroit Pistons",
-              "inizio": "2026-10-27T01:00:00+01:00",
-              "data": "27/10/2026",
-              "ora": "01:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-27T01:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Los Angeles Lakers-Portland Trail Blazers",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Los Angeles Lakers-Portland Trail Blazers",
-              "inizio": "2026-10-27T04:00:00+01:00",
-              "data": "27/10/2026",
-              "ora": "04:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-27T04:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Indiana Pacers-Philadelphia 76ers",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Indiana Pacers-Philadelphia 76ers",
-              "inizio": "2026-10-28T00:00:00+01:00",
-              "data": "28/10/2026",
-              "ora": "00:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-28T00:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Eurolega",
           "totale": 5,
@@ -12476,6 +12344,96 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-25T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "NBA",
+          "totale": 4,
+          "eventi": [
+            {
+              "titolo": "NBA: Denver Nuggets-Golden State Warriors",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Denver Nuggets-Golden State Warriors",
+              "inizio": "2026-10-26T03:00:00+01:00",
+              "data": "26/10/2026",
+              "ora": "03:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-26T03:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: New York Knicks-Detroit Pistons",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "New York Knicks-Detroit Pistons",
+              "inizio": "2026-10-27T01:00:00+01:00",
+              "data": "27/10/2026",
+              "ora": "01:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-27T01:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Los Angeles Lakers-Portland Trail Blazers",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Los Angeles Lakers-Portland Trail Blazers",
+              "inizio": "2026-10-27T04:00:00+01:00",
+              "data": "27/10/2026",
+              "ora": "04:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-27T04:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Indiana Pacers-Philadelphia 76ers",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Indiana Pacers-Philadelphia 76ers",
+              "inizio": "2026-10-28T00:00:00+01:00",
+              "data": "28/10/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T00:00",
                   "fonte": "virgilio"
                 }
               ],
