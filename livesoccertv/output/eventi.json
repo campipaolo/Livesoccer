@@ -74,22 +74,7 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -100,22 +85,7 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -126,22 +96,7 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -152,22 +107,7 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -245,6 +185,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "FAST TV",
             "Q League"
           ]
         },
@@ -709,7 +650,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -1267,6 +1209,12 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "FAST TV"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1579,6 +1527,12 @@
           "paese": "Irlanda",
           "canali": [
             "DAZN UK"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "ONE2"
           ]
         },
         {
@@ -2113,6 +2067,12 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "FAST TV"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2566,6 +2526,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "Sport 4"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -2660,7 +2626,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -2695,7 +2662,8 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "ICE Plus"
           ]
         },
         {
@@ -3389,6 +3357,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "FAST TV",
             "Q League"
           ]
         },
@@ -3633,6 +3602,12 @@
           ]
         },
         {
+          "paese": "Estonia",
+          "canali": [
+            "Go3 Sport 1"
+          ]
+        },
+        {
           "paese": "Isole Faroe",
           "canali": [
             "TV2 Play Denmark"
@@ -3756,6 +3731,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "ONE2"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -3818,6 +3799,12 @@
           ]
         },
         {
+          "paese": "Lettonia",
+          "canali": [
+            "Go3 Sport 1"
+          ]
+        },
+        {
           "paese": "Libano",
           "canali": [
             "STARZPLAY",
@@ -3839,6 +3826,12 @@
           ]
         },
         {
+          "paese": "Lituania",
+          "canali": [
+            "Go3 Sport 1"
+          ]
+        },
+        {
           "paese": "Lussemburgo",
           "canali": [
             "DAZN1 Belgium"
@@ -3847,7 +3840,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -3868,7 +3862,8 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "ICE Plus"
           ]
         },
         {
@@ -4320,7 +4315,9 @@
         {
           "paese": "Afghanistan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4374,6 +4371,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "FAST TV",
             "Q League"
           ]
         },
@@ -4414,7 +4412,9 @@
           "paese": "Bangladesh",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4445,7 +4445,9 @@
         {
           "paese": "Bhutan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4716,7 +4718,9 @@
         {
           "paese": "India",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4835,7 +4839,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -4856,7 +4861,10 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "ICE Plus",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4934,7 +4942,9 @@
         {
           "paese": "Nepal",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5144,7 +5154,9 @@
           "paese": "Sri Lanka",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5356,42 +5368,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5425,42 +5402,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5471,56 +5413,29 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Pisa vs Palermo",
+      "data": "2026-10-28",
+      "ora": "23:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Juve Stabia vs Verona",
+      "data": "2026-10-29",
+      "ora": "01:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
     }
   ]
 }

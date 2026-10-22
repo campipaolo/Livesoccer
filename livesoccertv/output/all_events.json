@@ -95,31 +95,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720758",
@@ -136,31 +121,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720759",
@@ -177,31 +147,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720760",
@@ -218,31 +173,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5721135",
@@ -362,6 +302,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "FAST TV",
             "Q League"
           ]
         },
@@ -826,7 +767,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -1418,6 +1360,12 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "FAST TV"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1730,6 +1678,12 @@
           "paese": "Irlanda",
           "canali": [
             "DAZN UK"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "ONE2"
           ]
         },
         {
@@ -2279,6 +2233,12 @@
           ]
         },
         {
+          "paese": "Armenia",
+          "canali": [
+            "FAST TV"
+          ]
+        },
+        {
           "paese": "Aruba",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2732,6 +2692,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "Sport 4"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -2826,7 +2792,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -2861,7 +2828,8 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "ICE Plus"
           ]
         },
         {
@@ -3630,6 +3598,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "FAST TV",
             "Q League"
           ]
         },
@@ -3874,6 +3843,12 @@
           ]
         },
         {
+          "paese": "Estonia",
+          "canali": [
+            "Go3 Sport 1"
+          ]
+        },
+        {
           "paese": "Isole Faroe",
           "canali": [
             "TV2 Play Denmark"
@@ -3997,6 +3972,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "ONE2"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -4059,6 +4040,12 @@
           ]
         },
         {
+          "paese": "Lettonia",
+          "canali": [
+            "Go3 Sport 1"
+          ]
+        },
+        {
           "paese": "Libano",
           "canali": [
             "STARZPLAY",
@@ -4080,6 +4067,12 @@
           ]
         },
         {
+          "paese": "Lituania",
+          "canali": [
+            "Go3 Sport 1"
+          ]
+        },
+        {
           "paese": "Lussemburgo",
           "canali": [
             "DAZN1 Belgium"
@@ -4088,7 +4081,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -4109,7 +4103,8 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "ICE Plus"
           ]
         },
         {
@@ -4588,7 +4583,9 @@
         {
           "paese": "Afghanistan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4642,6 +4639,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "FAST TV",
             "Q League"
           ]
         },
@@ -4682,7 +4680,9 @@
           "paese": "Bangladesh",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4713,7 +4713,9 @@
         {
           "paese": "Bhutan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4984,7 +4986,9 @@
         {
           "paese": "India",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5103,7 +5107,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -5124,7 +5129,10 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "ICE Plus",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5202,7 +5210,9 @@
         {
           "paese": "Nepal",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5412,7 +5422,9 @@
           "paese": "Sri Lanka",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5654,42 +5666,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5820369",
@@ -5772,42 +5749,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5820942",
@@ -5833,56 +5775,59 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
+      "canali_mondo": []
+    },
+    {
+      "id": "5821609",
+      "competition": "Serie B",
+      "home": "Pisa",
+      "away": "Palermo",
+      "title": "Pisa vs Palermo",
+      "kickoff": "2026-10-28T23:30:00+01:00",
+      "date": "2026-10-28",
+      "time": "23:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-pisa/6j59v#5821609",
+      "channels": [
         {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
         }
-      ]
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5821610",
+      "competition": "Serie B",
+      "home": "Juve Stabia",
+      "away": "Verona",
+      "title": "Juve Stabia vs Verona",
+      "kickoff": "2026-10-29T01:30:00+01:00",
+      "date": "2026-10-29",
+      "time": "01:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/verona-vs-juve-stabia/7v0s5#5821610",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
     }
   ]
 }
