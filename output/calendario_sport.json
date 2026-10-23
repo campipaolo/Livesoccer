@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-23T19:09:22+02:00",
+  "aggiornato": "2026-10-23T20:11:44+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,29 +9,8 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 14,
       "eventi": [
-        {
-          "titolo": "[Calcio] Primavera 1: Sassuolo-Torino",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Sassuolo-Torino",
-          "inizio": "2026-10-23T17:00:00+02:00",
-          "data": "23/10/2026",
-          "ora": "17:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-23T17:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Bundesliga 2: Bochum-Wolfsburg",
           "categoria": "Calcio",
@@ -153,6 +132,12 @@
           ],
           "canali_mondo": [
             {
+              "paese": "Bielorussia",
+              "canali": [
+                "Sporttv"
+              ]
+            },
+            {
               "paese": "Gran Bretagna",
               "canali": [
                 "DCTV"
@@ -215,6 +200,12 @@
               "canali": [
                 "Blue Sport 3 Live",
                 "Blue Sport"
+              ]
+            },
+            {
+              "paese": "Turchia",
+              "canali": [
+                "Sifir TV"
               ]
             },
             {
@@ -1081,6 +1072,7 @@
               "paese": "Kosovo",
               "canali": [
                 "Tring Sport 1",
+                "ART Sport 2",
                 "TV Vala Kosovo Telecom"
               ]
             },
@@ -5599,6 +5591,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
+                    "ART Sport 2",
                     "TV Vala Kosovo Telecom"
                   ]
                 },
@@ -6576,6 +6569,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 2",
+                    "ART Sport 3",
                     "TV Vala Kosovo Telecom"
                   ]
                 },
@@ -7610,6 +7604,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
+                    "ART Sport 2",
                     "Arena 3 Premium",
                     "TV Vala Kosovo Telecom"
                   ]
@@ -8335,7 +8330,8 @@
                 {
                   "paese": "Austria",
                   "canali": [
-                    "DAZN Austria"
+                    "DAZN Austria",
+                    "DAZN2 Germany"
                   ]
                 },
                 {
@@ -8517,7 +8513,8 @@
                 {
                   "paese": "Danimarca",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
@@ -8573,12 +8570,14 @@
                 {
                   "paese": "Isole Faroe",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 2",
                     "MTV Katsomo"
                   ]
                 },
@@ -8597,7 +8596,8 @@
                 {
                   "paese": "Germania",
                   "canali": [
-                    "DAZN Deutschland"
+                    "DAZN Deutschland",
+                    "DAZN2 Germany"
                   ]
                 },
                 {
@@ -8745,6 +8745,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
+                    "ART Sport 3",
                     "Arena 3 Premium",
                     "TV Vala Kosovo Telecom"
                   ]
@@ -9816,6 +9817,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "Tring Sport 1",
+                    "ART Sport 1",
                     "Arena 3 Premium",
                     "TV Vala Kosovo Telecom"
                   ]
@@ -10725,7 +10727,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 27,
+          "totale": 28,
           "eventi": [
             {
               "titolo": "Serie B: Empoli vs Vicenza",
@@ -10761,6 +10763,12 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Bielorussia",
+                  "canali": [
+                    "Sporttv"
+                  ]
+                },
                 {
                   "paese": "Gran Bretagna",
                   "canali": [
@@ -10824,6 +10832,12 @@
                   "canali": [
                     "Blue Sport 3 Live",
                     "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Turchia",
+                  "canali": [
+                    "Sifir TV"
                   ]
                 },
                 {
@@ -11164,42 +11178,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11256,42 +11235,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11353,6 +11297,35 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-26T17:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Palermo vs Carrarese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Palermo vs Carrarese",
+              "inizio": "2026-10-27T03:30:00+01:00",
+              "data": "27/10/2026",
+              "ora": "03:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-27T03:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-27T03:30",
                   "fonte": "livesoccer"
                 }
               ],
@@ -11639,28 +11612,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11689,7 +11641,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -12213,96 +12180,6 @@
           ]
         },
         {
-          "nome": "Primavera 1",
-          "totale": 4,
-          "eventi": [
-            {
-              "titolo": "Primavera 1: Sassuolo-Torino",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Sassuolo-Torino",
-              "inizio": "2026-10-23T17:00:00+02:00",
-              "data": "23/10/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Juventus-Lecce",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Juventus-Lecce",
-              "inizio": "2026-10-24T11:00:00+02:00",
-              "data": "24/10/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Fiorentina-Milan",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Fiorentina-Milan",
-              "inizio": "2026-10-24T13:00:00+02:00",
-              "data": "24/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Inter-Parma",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Inter-Parma",
-              "inizio": "2026-10-25T15:00:00+01:00",
-              "data": "25/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-25T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Bundesliga 2",
           "totale": 2,
           "eventi": [
@@ -12517,6 +12394,75 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-25T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Primavera 1",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Primavera 1: Juventus-Lecce",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Juventus-Lecce",
+              "inizio": "2026-10-24T11:00:00+02:00",
+              "data": "24/10/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Fiorentina-Milan",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Fiorentina-Milan",
+              "inizio": "2026-10-24T13:00:00+02:00",
+              "data": "24/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-24T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Inter-Parma",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Inter-Parma",
+              "inizio": "2026-10-25T15:00:00+01:00",
+              "data": "25/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-25T15:00",
                   "fonte": "virgilio"
                 }
               ],
