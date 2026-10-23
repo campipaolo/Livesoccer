@@ -1,95 +1,16 @@
 {
-  "aggiornato": "2026-10-23T06:52:14+02:00",
+  "aggiornato": "2026-10-23T09:06:04+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 237,
+  "totale": 234,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 19,
+      "totale": 16,
       "eventi": [
-        {
-          "titolo": "[Tennis] WTA 250 Osaka: 1a Semifinale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 250 Osaka",
-          "sport": "Tennis",
-          "competizione": "WTA 250 Osaka",
-          "evento": "1a Semifinale",
-          "inizio": "2026-10-23T05:00:00+02:00",
-          "data": "23/10/2026",
-          "ora": "05:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-23T05:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Australian Motorcycle Grand Prix - Practice",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Australian Motorcycle Grand Prix - Practice",
-          "sessione": "prove",
-          "circuito": "Phillip Island Grand Prix Circuit, Phillip Island, Australia",
-          "inizio": "2026-10-23T06:00:00+02:00",
-          "data": "23/10/2026",
-          "ora": "06:00",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-23T06:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-23T06:00",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-23T06:00:00+02:00",
-          "data": "23/10/2026",
-          "ora": "06:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-23T06:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-23T08:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Primavera 1: Atalanta-Lazio",
           "categoria": "Calcio",
@@ -253,6 +174,18 @@
           ],
           "canali_mondo": [
             {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
               "paese": "Italia",
               "canali": [
                 "DAZN Italia",
@@ -304,6 +237,12 @@
                 "Blue Sport 3 Live",
                 "Blue Sport"
               ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "DCTV"
+              ]
             }
           ],
           "fonte": "LiveSoccerTV"
@@ -320,9 +259,23 @@
           "ora": "20:30",
           "canali": [
             {
+              "nome": "Sky Sport 252",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-23T20:30",
+              "fonte": "livesoccer"
+            },
+            {
               "nome": "SKY Go Italia",
               "numero": "",
               "tipo": "streaming",
+              "orario": "2026-10-23T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Uno",
+              "numero": "",
+              "tipo": "diretta",
               "orario": "2026-10-23T20:30",
               "fonte": "livesoccer"
             },
@@ -345,14 +298,18 @@
             {
               "paese": "Italia",
               "canali": [
+                "Sky Sport 252",
                 "SKY Go Italia",
+                "Sky Sport Uno",
                 "NOW TV"
               ]
             },
             {
               "paese": "San Marino",
               "canali": [
+                "Sky Sport 252",
                 "SKY Go Italia",
+                "Sky Sport Uno",
                 "NOW TV"
               ]
             }
@@ -370,6 +327,13 @@
           "data": "23/10/2026",
           "ora": "20:30",
           "canali": [
+            {
+              "nome": "Sky Sport 255",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-23T20:30",
+              "fonte": "livesoccer"
+            },
             {
               "nome": "SKY Go Italia",
               "numero": "",
@@ -389,6 +353,7 @@
             {
               "paese": "Italia",
               "canali": [
+                "Sky Sport 255",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -396,6 +361,7 @@
             {
               "paese": "San Marino",
               "canali": [
+                "Sky Sport 255",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -415,6 +381,13 @@
           "ora": "20:30",
           "canali": [
             {
+              "nome": "Sky Sport 253",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-23T20:30",
+              "fonte": "livesoccer"
+            },
+            {
               "nome": "SKY Go Italia",
               "numero": "",
               "tipo": "streaming",
@@ -433,6 +406,7 @@
             {
               "paese": "Italia",
               "canali": [
+                "Sky Sport 253",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -440,6 +414,7 @@
             {
               "paese": "San Marino",
               "canali": [
+                "Sky Sport 253",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -459,6 +434,13 @@
           "ora": "20:30",
           "canali": [
             {
+              "nome": "Sky Sport 256",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-23T20:30",
+              "fonte": "livesoccer"
+            },
+            {
               "nome": "SKY Go Italia",
               "numero": "",
               "tipo": "streaming",
@@ -477,6 +459,7 @@
             {
               "paese": "Italia",
               "canali": [
+                "Sky Sport 256",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -484,6 +467,7 @@
             {
               "paese": "San Marino",
               "canali": [
+                "Sky Sport 256",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -503,6 +487,13 @@
           "ora": "20:30",
           "canali": [
             {
+              "nome": "Sky Sport 254",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-23T20:30",
+              "fonte": "livesoccer"
+            },
+            {
               "nome": "SKY Go Italia",
               "numero": "",
               "tipo": "streaming",
@@ -521,6 +512,7 @@
             {
               "paese": "Italia",
               "canali": [
+                "Sky Sport 254",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -528,6 +520,7 @@
             {
               "paese": "San Marino",
               "canali": [
+                "Sky Sport 254",
                 "SKY Go Italia",
                 "NOW TV"
               ]
@@ -955,6 +948,7 @@
             {
               "paese": "Georgia",
               "canali": [
+                "Silk Universal",
                 "Q League"
               ]
             },
@@ -1709,7 +1703,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 108,
+      "totale": 107,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -3255,38 +3249,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 39,
+          "totale": 38,
           "eventi": [
-            {
-              "titolo": "MotoGP: Australian Motorcycle Grand Prix - Practice",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Australian Motorcycle Grand Prix - Practice",
-              "sessione": "prove",
-              "circuito": "Phillip Island Grand Prix Circuit, Phillip Island, Australia",
-              "inizio": "2026-10-23T06:00:00+02:00",
-              "data": "23/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T06:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-23T06:00",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Australian Motorcycle Grand Prix - FP2",
               "categoria": "Motori",
@@ -5502,6 +5466,7 @@
                 {
                   "paese": "Georgia",
                   "canali": [
+                    "Silk Universal",
                     "Q League"
                   ]
                 },
@@ -7205,6 +7170,7 @@
                 {
                   "paese": "Belize",
                   "canali": [
+                    "ESPN Norte",
                     "Nexgen"
                   ]
                 },
@@ -7365,6 +7331,7 @@
                 {
                   "paese": "Costa Rica",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -7421,6 +7388,7 @@
                   "paese": "Repubblica Dominicana",
                   "canali": [
                     "Disney+ Premium Caribbean",
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -7441,6 +7409,7 @@
                 {
                   "paese": "El Salvador",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -7537,6 +7506,7 @@
                 {
                   "paese": "Guatemala",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -7564,6 +7534,7 @@
                 {
                   "paese": "Honduras",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -7747,7 +7718,8 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5",
-                    "ICE Plus"
+                    "ICE Plus",
+                    "Medianet"
                   ]
                 },
                 {
@@ -7865,6 +7837,7 @@
                 {
                   "paese": "Nicaragua",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -7913,6 +7886,7 @@
                 {
                   "paese": "Panama",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -8430,6 +8404,7 @@
                 {
                   "paese": "Belize",
                   "canali": [
+                    "ESPN Norte",
                     "Nexgen"
                   ]
                 },
@@ -8529,6 +8504,7 @@
                 {
                   "paese": "Costa Rica",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -8583,6 +8559,7 @@
                   "paese": "Repubblica Dominicana",
                   "canali": [
                     "Disney+ Premium Caribbean",
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -8603,13 +8580,15 @@
                 {
                   "paese": "El Salvador",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
                 {
                   "paese": "Estonia",
                   "canali": [
-                    "Go3 Sport 1"
+                    "Go3 Sport 1",
+                    "Go3 Extra Sports Estonia"
                   ]
                 },
                 {
@@ -8671,6 +8650,7 @@
                 {
                   "paese": "Guatemala",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -8683,6 +8663,7 @@
                 {
                   "paese": "Honduras",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -8806,7 +8787,8 @@
                 {
                   "paese": "Lettonia",
                   "canali": [
-                    "Go3 Sport 1"
+                    "Go3 Sport 1",
+                    "Go3 Extra Sports Latvia"
                   ]
                 },
                 {
@@ -8833,7 +8815,8 @@
                 {
                   "paese": "Lituania",
                   "canali": [
-                    "Go3 Sport 1"
+                    "Go3 Sport 1",
+                    "Go3 Extra Sports Lithuania"
                   ]
                 },
                 {
@@ -8868,7 +8851,8 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5",
-                    "ICE Plus"
+                    "ICE Plus",
+                    "Medianet"
                   ]
                 },
                 {
@@ -8965,6 +8949,7 @@
                 {
                   "paese": "Nicaragua",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -8999,6 +8984,7 @@
                 {
                   "paese": "Panama",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -9487,6 +9473,7 @@
                 {
                   "paese": "Belize",
                   "canali": [
+                    "ESPN Norte",
                     "Nexgen"
                   ]
                 },
@@ -9591,6 +9578,7 @@
                 {
                   "paese": "Costa Rica",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -9646,6 +9634,7 @@
                   "paese": "Repubblica Dominicana",
                   "canali": [
                     "Disney+ Premium Caribbean",
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -9666,6 +9655,7 @@
                 {
                   "paese": "El Salvador",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -9728,6 +9718,7 @@
                 {
                   "paese": "Guatemala",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -9746,6 +9737,7 @@
                 {
                   "paese": "Honduras",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -9911,6 +9903,7 @@
                   "canali": [
                     "ZEE5",
                     "ICE Plus",
+                    "Medianet",
                     "Unite8 Sports 1",
                     "Unite8 Sports 1 HD"
                   ]
@@ -10011,6 +10004,7 @@
                 {
                   "paese": "Nicaragua",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -10045,6 +10039,7 @@
                 {
                   "paese": "Panama",
                   "canali": [
+                    "ESPN Norte",
                     "Disney+ Premium Norte"
                   ]
                 },
@@ -10781,6 +10776,18 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -10831,6 +10838,12 @@
                   "canali": [
                     "Blue Sport 3 Live",
                     "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "DCTV"
                   ]
                 }
               ],
@@ -11619,7 +11632,14 @@
               "ora": "23:30",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-28T23:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-28T23:30",
@@ -11633,7 +11653,28 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11662,22 +11703,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -11698,9 +11724,23 @@
               "ora": "20:30",
               "canali": [
                 {
+                  "nome": "Sky Sport 252",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "SKY Go Italia",
                   "numero": "",
                   "tipo": "streaming",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Sky Sport Uno",
+                  "numero": "",
+                  "tipo": "diretta",
                   "orario": "2026-10-23T20:30",
                   "fonte": "livesoccer"
                 },
@@ -11723,14 +11763,18 @@
                 {
                   "paese": "Italia",
                   "canali": [
+                    "Sky Sport 252",
                     "SKY Go Italia",
+                    "Sky Sport Uno",
                     "NOW TV"
                   ]
                 },
                 {
                   "paese": "San Marino",
                   "canali": [
+                    "Sky Sport 252",
                     "SKY Go Italia",
+                    "Sky Sport Uno",
                     "NOW TV"
                   ]
                 }
@@ -11748,6 +11792,13 @@
               "data": "23/10/2026",
               "ora": "20:30",
               "canali": [
+                {
+                  "nome": "Sky Sport 255",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
                 {
                   "nome": "SKY Go Italia",
                   "numero": "",
@@ -11767,6 +11818,7 @@
                 {
                   "paese": "Italia",
                   "canali": [
+                    "Sky Sport 255",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -11774,6 +11826,7 @@
                 {
                   "paese": "San Marino",
                   "canali": [
+                    "Sky Sport 255",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -11793,6 +11846,13 @@
               "ora": "20:30",
               "canali": [
                 {
+                  "nome": "Sky Sport 253",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "SKY Go Italia",
                   "numero": "",
                   "tipo": "streaming",
@@ -11811,6 +11871,7 @@
                 {
                   "paese": "Italia",
                   "canali": [
+                    "Sky Sport 253",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -11818,6 +11879,7 @@
                 {
                   "paese": "San Marino",
                   "canali": [
+                    "Sky Sport 253",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -11837,6 +11899,13 @@
               "ora": "20:30",
               "canali": [
                 {
+                  "nome": "Sky Sport 256",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "SKY Go Italia",
                   "numero": "",
                   "tipo": "streaming",
@@ -11855,6 +11924,7 @@
                 {
                   "paese": "Italia",
                   "canali": [
+                    "Sky Sport 256",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -11862,6 +11932,7 @@
                 {
                   "paese": "San Marino",
                   "canali": [
+                    "Sky Sport 256",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -11881,6 +11952,13 @@
               "ora": "20:30",
               "canali": [
                 {
+                  "nome": "Sky Sport 254",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-23T20:30",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "SKY Go Italia",
                   "numero": "",
                   "tipo": "streaming",
@@ -11899,6 +11977,7 @@
                 {
                   "paese": "Italia",
                   "canali": [
+                    "Sky Sport 254",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -11906,6 +11985,7 @@
                 {
                   "paese": "San Marino",
                   "canali": [
+                    "Sky Sport 254",
                     "SKY Go Italia",
                     "NOW TV"
                   ]
@@ -12627,33 +12707,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 19,
+      "totale": 17,
       "sottocartelle": [
         {
           "nome": "WTA 250 Osaka",
-          "totale": 3,
+          "totale": 2,
           "eventi": [
-            {
-              "titolo": "WTA 250 Osaka: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Osaka",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Osaka",
-              "evento": "1a Semifinale",
-              "inizio": "2026-10-23T05:00:00+02:00",
-              "data": "23/10/2026",
-              "ora": "05:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T05:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "WTA 250 Osaka: Finale",
               "categoria": "Tennis",
@@ -12691,145 +12750,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-24T07:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP & WTA",
-          "totale": 6,
-          "eventi": [
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-23T06:00:00+02:00",
-              "data": "23/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T06:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-23T08:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-25T02:30:00+02:00",
-              "data": "25/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-25T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-26T02:30:00+01:00",
-              "data": "26/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-27T02:30:00+01:00",
-              "data": "27/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-27T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-28T02:30:00+01:00",
-              "data": "28/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-28T02:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-29T02:30:00+01:00",
-              "data": "29/10/2026",
-              "ora": "02:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-29T02:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -13051,6 +12971,117 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-25T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP & WTA",
+          "totale": 5,
+          "eventi": [
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-25T02:30:00+02:00",
+              "data": "25/10/2026",
+              "ora": "02:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-25T02:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-26T02:30:00+01:00",
+              "data": "26/10/2026",
+              "ora": "02:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-26T02:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-27T02:30:00+01:00",
+              "data": "27/10/2026",
+              "ora": "02:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-27T02:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-28T02:30:00+01:00",
+              "data": "28/10/2026",
+              "ora": "02:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T02:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-29T02:30:00+01:00",
+              "data": "29/10/2026",
+              "ora": "02:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-29T02:30",
                   "fonte": "virgilio"
                 }
               ],
