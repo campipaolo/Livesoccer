@@ -26,6 +26,12 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Bielorussia",
+          "canali": [
+            "Sporttv"
+          ]
+        },
+        {
           "paese": "Gran Bretagna",
           "canali": [
             "DCTV"
@@ -88,6 +94,12 @@
           "canali": [
             "Blue Sport 3 Live",
             "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Turchia",
+          "canali": [
+            "Sifir TV"
           ]
         },
         {
@@ -862,6 +874,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 2",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -1860,6 +1873,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 2",
+            "ART Sport 3",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -2884,6 +2898,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 2",
             "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -3763,7 +3778,8 @@
         {
           "paese": "Austria",
           "canali": [
-            "DAZN Austria"
+            "DAZN Austria",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -3945,7 +3961,8 @@
         {
           "paese": "Danimarca",
           "canali": [
-            "TV2 Play Denmark"
+            "TV2 Play Denmark",
+            "TV2 Sport X"
           ]
         },
         {
@@ -4001,12 +4018,14 @@
         {
           "paese": "Isole Faroe",
           "canali": [
-            "TV2 Play Denmark"
+            "TV2 Play Denmark",
+            "TV2 Sport X"
           ]
         },
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 2",
             "MTV Katsomo"
           ]
         },
@@ -4025,7 +4044,8 @@
         {
           "paese": "Germania",
           "canali": [
-            "DAZN Deutschland"
+            "DAZN Deutschland",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -4173,6 +4193,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 3",
             "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -5228,6 +5249,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 1",
             "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -5771,42 +5793,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5819866",
@@ -5832,42 +5819,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5820369",
@@ -5921,6 +5873,32 @@
         {
           "name": "FOX One",
           "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5822266",
+      "competition": "Serie B",
+      "home": "Palermo",
+      "away": "Carrarese",
+      "title": "Palermo vs Carrarese",
+      "kickoff": "2026-10-27T03:30:00+01:00",
+      "date": "2026-10-27",
+      "time": "03:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-carrarese/6k92x#5822266",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
@@ -6002,28 +5980,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5821610",
@@ -6049,7 +6006,22 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     }
   ]
 }

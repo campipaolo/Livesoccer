@@ -11,6 +11,12 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Bielorussia",
+          "canali": [
+            "Sporttv"
+          ]
+        },
+        {
           "paese": "Gran Bretagna",
           "canali": [
             "DCTV"
@@ -73,6 +79,12 @@
           "canali": [
             "Blue Sport 3 Live",
             "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Turchia",
+          "canali": [
+            "Sifir TV"
           ]
         },
         {
@@ -721,6 +733,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 2",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -1685,6 +1698,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 2",
+            "ART Sport 3",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -2694,6 +2708,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 2",
             "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -3498,7 +3513,8 @@
         {
           "paese": "Austria",
           "canali": [
-            "DAZN Austria"
+            "DAZN Austria",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -3680,7 +3696,8 @@
         {
           "paese": "Danimarca",
           "canali": [
-            "TV2 Play Denmark"
+            "TV2 Play Denmark",
+            "TV2 Sport X"
           ]
         },
         {
@@ -3736,12 +3753,14 @@
         {
           "paese": "Isole Faroe",
           "canali": [
-            "TV2 Play Denmark"
+            "TV2 Play Denmark",
+            "TV2 Sport X"
           ]
         },
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 2",
             "MTV Katsomo"
           ]
         },
@@ -3760,7 +3779,8 @@
         {
           "paese": "Germania",
           "canali": [
-            "DAZN Deutschland"
+            "DAZN Deutschland",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -3908,6 +3928,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 3",
             "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -4936,6 +4957,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "ART Sport 1",
             "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -5464,42 +5486,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5510,42 +5497,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5567,6 +5519,17 @@
         "Fox Soccer Plus",
         "fuboTV",
         "FOX One"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Palermo vs Carrarese",
+      "data": "2026-10-27",
+      "ora": "03:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
@@ -5601,28 +5564,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -5633,7 +5575,22 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     }
   ]
 }
