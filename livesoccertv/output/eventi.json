@@ -11,6 +11,18 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -62,6 +74,12 @@
             "Blue Sport 3 Live",
             "Blue Sport"
           ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "DCTV"
+          ]
         }
       ]
     },
@@ -71,21 +89,27 @@
       "data": "2026-10-23",
       "ora": "20:30",
       "canali": [
+        "Sky Sport 252",
         "SKY Go Italia",
+        "Sky Sport Uno",
         "NOW TV"
       ],
       "canali_mondo": [
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
+            "Sky Sport Uno",
             "NOW TV"
           ]
         },
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
+            "Sky Sport Uno",
             "NOW TV"
           ]
         }
@@ -97,6 +121,7 @@
       "data": "2026-10-23",
       "ora": "20:30",
       "canali": [
+        "Sky Sport 255",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -104,6 +129,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -111,6 +137,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -123,6 +150,7 @@
       "data": "2026-10-23",
       "ora": "20:30",
       "canali": [
+        "Sky Sport 253",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -130,6 +158,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -137,6 +166,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -149,6 +179,7 @@
       "data": "2026-10-23",
       "ora": "20:30",
       "canali": [
+        "Sky Sport 256",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -156,6 +187,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -163,6 +195,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -175,6 +208,7 @@
       "data": "2026-10-23",
       "ora": "20:30",
       "canali": [
+        "Sky Sport 254",
         "SKY Go Italia",
         "NOW TV"
       ],
@@ -182,6 +216,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -189,6 +224,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -531,6 +567,7 @@
         {
           "paese": "Georgia",
           "canali": [
+            "Silk Universal",
             "Q League"
           ]
         },
@@ -2196,6 +2233,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -2356,6 +2394,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2412,6 +2451,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2432,6 +2472,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2528,6 +2569,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2555,6 +2597,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2738,7 +2781,8 @@
           "paese": "Maldive",
           "canali": [
             "ZEE5",
-            "ICE Plus"
+            "ICE Plus",
+            "Medianet"
           ]
         },
         {
@@ -2856,6 +2900,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2904,6 +2949,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3500,6 +3546,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -3599,6 +3646,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3653,6 +3701,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3673,13 +3722,15 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
         {
           "paese": "Estonia",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Estonia"
           ]
         },
         {
@@ -3741,6 +3792,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3753,6 +3805,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3876,7 +3929,8 @@
         {
           "paese": "Lettonia",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Latvia"
           ]
         },
         {
@@ -3903,7 +3957,8 @@
         {
           "paese": "Lituania",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Lithuania"
           ]
         },
         {
@@ -3938,7 +3993,8 @@
           "paese": "Maldive",
           "canali": [
             "ZEE5",
-            "ICE Plus"
+            "ICE Plus",
+            "Medianet"
           ]
         },
         {
@@ -4035,6 +4091,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4069,6 +4126,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4514,6 +4572,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -4618,6 +4677,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4673,6 +4733,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4693,6 +4754,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4755,6 +4817,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4773,6 +4836,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4938,6 +5002,7 @@
           "canali": [
             "ZEE5",
             "ICE Plus",
+            "Medianet",
             "Unite8 Sports 1",
             "Unite8 Sports 1 HD"
           ]
@@ -5038,6 +5103,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5072,6 +5138,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5531,16 +5598,6 @@
       "data": "2026-10-28",
       "ora": "23:30",
       "canali": [
-        "Fox Soccer Plus"
-      ],
-      "canali_mondo": []
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Juve Stabia vs Verona",
-      "data": "2026-10-29",
-      "ora": "01:30",
-      "canali": [
         "DAZN Italia",
         "LAB Channel"
       ],
@@ -5553,6 +5610,12 @@
           ]
         },
         {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
@@ -5560,6 +5623,17 @@
           ]
         }
       ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Juve Stabia vs Verona",
+      "data": "2026-10-29",
+      "ora": "01:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
     }
   ]
 }

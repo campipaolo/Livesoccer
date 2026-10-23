@@ -26,6 +26,18 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -77,6 +89,12 @@
             "Blue Sport 3 Live",
             "Blue Sport"
           ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "DCTV"
+          ]
         }
       ]
     },
@@ -94,7 +112,17 @@
       "match_url": "https://www.livesoccertv.com/it/match/bari-1908-vs-casertana/8f408#5721136",
       "channels": [
         {
+          "name": "Sky Sport 252",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "Sky Sport Uno",
           "url": "",
           "stream": false
         },
@@ -108,14 +136,18 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
+            "Sky Sport Uno",
             "NOW TV"
           ]
         },
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 252",
             "SKY Go Italia",
+            "Sky Sport Uno",
             "NOW TV"
           ]
         }
@@ -135,6 +167,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/vado-vs-ostia-mare-lidocalcio/1lhe0d#5720758",
       "channels": [
         {
+          "name": "Sky Sport 255",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -149,6 +186,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -156,6 +194,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 255",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -176,6 +215,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/pescara-vs-perugia/9i49h#5720759",
       "channels": [
         {
+          "name": "Sky Sport 253",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -190,6 +234,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -197,6 +242,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 253",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -217,6 +263,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/gubbio-vs-pineto/1ggxnu#5720760",
       "channels": [
         {
+          "name": "Sky Sport 256",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -231,6 +282,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -238,6 +290,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 256",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -258,6 +311,11 @@
       "match_url": "https://www.livesoccertv.com/it/match/potenza-calcio-vs-team-altamura/44vz2q#5721135",
       "channels": [
         {
+          "name": "Sky Sport 254",
+          "url": "",
+          "stream": false
+        },
+        {
           "name": "SKY Go Italia",
           "url": "",
           "stream": false
@@ -272,6 +330,7 @@
         {
           "paese": "Italia",
           "canali": [
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -279,6 +338,7 @@
         {
           "paese": "San Marino",
           "canali": [
+            "Sky Sport 254",
             "SKY Go Italia",
             "NOW TV"
           ]
@@ -648,6 +708,7 @@
         {
           "paese": "Georgia",
           "canali": [
+            "Silk Universal",
             "Q League"
           ]
         },
@@ -2362,6 +2423,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -2522,6 +2584,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2578,6 +2641,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2598,6 +2662,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2694,6 +2759,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2721,6 +2787,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -2904,7 +2971,8 @@
           "paese": "Maldive",
           "canali": [
             "ZEE5",
-            "ICE Plus"
+            "ICE Plus",
+            "Medianet"
           ]
         },
         {
@@ -3022,6 +3090,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3070,6 +3139,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3741,6 +3811,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -3840,6 +3911,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3894,6 +3966,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3914,13 +3987,15 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
         {
           "paese": "Estonia",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Estonia"
           ]
         },
         {
@@ -3982,6 +4057,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -3994,6 +4070,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4117,7 +4194,8 @@
         {
           "paese": "Lettonia",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Latvia"
           ]
         },
         {
@@ -4144,7 +4222,8 @@
         {
           "paese": "Lituania",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Lithuania"
           ]
         },
         {
@@ -4179,7 +4258,8 @@
           "paese": "Maldive",
           "canali": [
             "ZEE5",
-            "ICE Plus"
+            "ICE Plus",
+            "Medianet"
           ]
         },
         {
@@ -4276,6 +4356,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4310,6 +4391,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4782,6 +4864,7 @@
         {
           "paese": "Belize",
           "canali": [
+            "ESPN Norte",
             "Nexgen"
           ]
         },
@@ -4886,6 +4969,7 @@
         {
           "paese": "Costa Rica",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4941,6 +5025,7 @@
           "paese": "Repubblica Dominicana",
           "canali": [
             "Disney+ Premium Caribbean",
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -4961,6 +5046,7 @@
         {
           "paese": "El Salvador",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5023,6 +5109,7 @@
         {
           "paese": "Guatemala",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5041,6 +5128,7 @@
         {
           "paese": "Honduras",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5206,6 +5294,7 @@
           "canali": [
             "ZEE5",
             "ICE Plus",
+            "Medianet",
             "Unite8 Sports 1",
             "Unite8 Sports 1 HD"
           ]
@@ -5306,6 +5395,7 @@
         {
           "paese": "Nicaragua",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5340,6 +5430,7 @@
         {
           "paese": "Panama",
           "canali": [
+            "ESPN Norte",
             "Disney+ Premium Norte"
           ]
         },
@@ -5901,12 +5992,38 @@
       "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-pisa/6j59v#5821609",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5821610",
@@ -5932,22 +6049,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     }
   ]
 }
