@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-10-24T12:31:04+02:00",
+  "aggiornato": "2026-10-24T13:03:43+02:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 235,
+  "totale": 234,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 40,
+      "totale": 39,
       "eventi": [
-        {
-          "titolo": "[Altri sport] Coppa del Mondo – Soelden: Slalom Gigante F (1a manche): 1a manche",
-          "categoria": "Altri sport",
-          "sottocartella": "Sci alpino",
-          "sport": "Sci alpino",
-          "competizione": "Coppa del Mondo – Soelden",
-          "evento": "Slalom Gigante F (1a manche): 1a manche",
-          "inizio": "2026-10-24T10:00:00+02:00",
-          "data": "24/10/2026",
-          "ora": "10:00",
-          "canali": [
-            {
-              "nome": "Eurosport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-24T10:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Rai 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-24T10:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Primavera 1: Juventus-Lecce",
           "categoria": "Calcio",
@@ -17314,40 +17286,12 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 9,
+      "totale": 8,
       "sottocartelle": [
         {
           "nome": "Sci alpino",
-          "totale": 4,
+          "totale": 3,
           "eventi": [
-            {
-              "titolo": "Coppa del Mondo – Soelden: Slalom Gigante F (1a manche): 1a manche",
-              "categoria": "Altri sport",
-              "sottocartella": "Sci alpino",
-              "sport": "Sci alpino",
-              "competizione": "Coppa del Mondo – Soelden",
-              "evento": "Slalom Gigante F (1a manche): 1a manche",
-              "inizio": "2026-10-24T10:00:00+02:00",
-              "data": "24/10/2026",
-              "ora": "10:00",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T10:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-24T10:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Coppa del Mondo – Soelden: Slalom Gigante F (2a manche): 2a manche",
               "categoria": "Altri sport",
