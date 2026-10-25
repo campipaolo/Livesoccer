@@ -1,54 +1,6 @@
 {
   "events": [
     {
-      "id": "5720384",
-      "competition": "Serie C",
-      "home": "Treviso",
-      "away": "Dolomiti Bellunesi",
-      "title": "Treviso vs Dolomiti Bellunesi",
-      "kickoff": "2026-10-24T14:30:00+02:00",
-      "date": "2026-10-24",
-      "time": "14:30",
-      "status": "finished",
-      "score": "2:1",
-      "match_url": "https://www.livesoccertv.com/it/match/treviso-vs-dolomiti-bellunesi/3zfzcm#5720384",
-      "channels": [
-        {
-          "name": "Sky Sport 256",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
       "id": "5653950",
       "competition": "Serie A",
       "home": "Cagliari",
@@ -2531,45 +2483,26 @@
       "channels": [
         {
           "name": "Sky Sport 252",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-2/",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "Sky Sport Max",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-sport-collection/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "Sky Sport Max",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "Sky Sport Max",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653956",
@@ -3795,8 +3728,8 @@
       "kickoff": "2026-10-24T20:45:00+02:00",
       "date": "2026-10-24",
       "time": "20:45",
-      "status": "live",
-      "score": "2:0",
+      "status": "finished",
+      "score": "2:1",
       "match_url": "https://www.livesoccertv.com/it/match/lazio-vs-parma/1xkqx#5653954",
       "channels": [
         {
@@ -4927,7 +4860,72 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bielorussia",
+          "canali": [
+            "Sporttv"
+          ]
+        },
+        {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Turchia",
+          "canali": [
+            "Sifir TV"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "DCTV"
+          ]
+        }
+      ]
     },
     {
       "id": "5653953",
@@ -6278,21 +6276,38 @@
       "channels": [
         {
           "name": "Sky Sport 256",
-          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-6/",
+          "url": "",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 256",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 256",
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5721139",
@@ -8390,6 +8405,18 @@
           ]
         },
         {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -8422,6 +8449,12 @@
           "canali": [
             "Sifir TV"
           ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "DCTV"
+          ]
         }
       ]
     },
@@ -8450,6 +8483,12 @@
         }
       ],
       "canali_mondo": [
+        {
+          "paese": "Internazionale",
+          "canali": [
+            "Onefootball"
+          ]
+        },
         {
           "paese": "Italia",
           "canali": [
@@ -10575,7 +10614,66 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Turchia",
+          "canali": [
+            "Sifir TV"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "DCTV"
+          ]
+        }
+      ]
     },
     {
       "id": "5820369",
@@ -10591,13 +10689,18 @@
       "match_url": "https://www.livesoccertv.com/it/match/benevento-vs-arezzo/gcx28#5820369",
       "channels": [
         {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "stream": true
         },
         {
-          "name": "LAB Channel",
-          "url": "",
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
           "stream": false
         }
       ],
@@ -10675,16 +10778,31 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5742546",
@@ -10826,7 +10944,56 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "id": "5821609",
@@ -10878,7 +11045,34 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 2 Live"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 2 Live"
+          ]
+        }
+      ]
     },
     {
       "id": "5822272",
@@ -10904,7 +11098,28 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5822273",
