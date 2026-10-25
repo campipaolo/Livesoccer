@@ -44,30 +44,27 @@
       "info": "Serie A\nCanali: DAZN Italia, DAZN2\nhttps://www.livesoccertv.com/it/match/genoa-vs-venezia/851th#5653952"
     },
     {
-      "title": "[COLOR red]18:00[/COLOR] Lecce vs Juventus [COLOR red]LIVE[/COLOR]",
+      "title": "[COLOR gray]18:00[/COLOR] Lecce vs Juventus [COLOR gray]0:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Paramount+",
-        "fuboTV",
-        "Peacock",
-        "Telemundo Deportes En Vivo",
-        "UNIVERSO"
+        "DAZN Italia",
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "Sky Sport Calcio",
+        "NOW TV"
       ],
-      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, Telemundo Deportes En Vivo, UNIVERSO\nhttps://www.livesoccertv.com/it/match/juventus-vs-lecce/363zc#5653955"
+      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/juventus-vs-lecce/363zc#5653955"
     },
     {
-      "title": "[COLOR yellow]20:45[/COLOR] Udinese vs Milan",
+      "title": "[COLOR red]20:45[/COLOR] Udinese vs Milan [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Paramount+",
-        "fuboTV",
-        "Peacock",
-        "Telemundo",
-        "Telemundo Deportes En Vivo"
+        "DAZN Italia",
+        "DAZN1"
       ],
-      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, Telemundo, Telemundo Deportes En Vivo\nhttps://www.livesoccertv.com/it/match/milan-vs-udinese/1x14r#5653958"
+      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/milan-vs-udinese/1x14r#5653958"
     },
     {
       "title": "[COLOR cyan]Martedi 27 Ottobre[/COLOR]",
@@ -80,39 +77,33 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Paramount+",
-        "fuboTV",
-        "Peacock",
-        "UNIVERSO",
-        "DAZN Canada"
+        "DAZN Italia",
+        "DAZN1"
       ],
-      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, UNIVERSO, DAZN Canada\nhttps://www.livesoccertv.com/it/match/lazio-vs-sassuolo/36qob#5653966"
+      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/lazio-vs-sassuolo/36qob#5653966"
     },
     {
       "title": "[COLOR yellow]20:45[/COLOR] Roma vs Cagliari",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Paramount+",
-        "fuboTV",
-        "Peacock",
-        "UNIVERSO",
-        "DAZN Canada"
+        "DAZN Italia",
+        "DAZN1"
       ],
-      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, UNIVERSO, DAZN Canada\nhttps://www.livesoccertv.com/it/match/roma-vs-cagliari/1whkx#5653960"
+      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/roma-vs-cagliari/1whkx#5653960"
     },
     {
       "title": "[COLOR yellow]20:45[/COLOR] Torino vs Como",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "CBS Sports Network",
-        "Paramount+",
-        "fuboTV",
-        "Peacock",
-        "DAZN Canada"
+        "DAZN Italia",
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "Sky Sport Calcio",
+        "NOW TV"
       ],
-      "info": "Serie A\nCanali: CBS Sports Network, Paramount+, fuboTV, Peacock, DAZN Canada\nhttps://www.livesoccertv.com/it/match/torino-vs-como/8ov1p#5653967"
+      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/torino-vs-como/8ov1p#5653967"
     },
     {
       "title": "[COLOR cyan]Mercoledi 28 Ottobre[/COLOR]",
@@ -125,13 +116,20 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Paramount+",
-        "Peacock",
-        "DAZN Canada",
-        "TLN",
-        "Disney+ Premium Caribbean"
+        "DAZN Italia",
+        "DAZN1"
       ],
-      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, TLN, Disney+ Premium Caribbean\nhttps://www.livesoccertv.com/it/match/milan-vs-bologna/1w9sa#5653959"
+      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/milan-vs-bologna/1w9sa#5653959"
+    },
+    {
+      "title": "[COLOR yellow]18:30[/COLOR] Parma vs Udinese",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "DAZN2"
+      ],
+      "info": "Serie A\nCanali: DAZN Italia, DAZN2\nhttps://www.livesoccertv.com/it/match/parma-vs-udinese/1xwk3#5653965"
     }
   ]
 }
