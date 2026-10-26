@@ -14,16 +14,6 @@
       "info": ""
     },
     {
-      "title": "[COLOR gray]15:00[/COLOR] Palermo vs Carrarese [COLOR gray]2:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-carrarese/6k92x#5742543"
-    },
-    {
       "title": "[COLOR gray]17:15[/COLOR] Verona vs Pisa [COLOR gray]1:1[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
@@ -34,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-pisa/amzjq#5742545"
     },
     {
-      "title": "[COLOR red]23:00[/COLOR] Palermo vs Carrarese [COLOR red]LIVE[/COLOR]",
+      "title": "[COLOR gray]23:00[/COLOR] Palermo vs Carrarese",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -81,11 +71,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-carrarese/6k92x#5822266"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-carrarese/6k92x#5822266"
     },
     {
       "title": "[COLOR yellow]19:00[/COLOR] Benevento vs Catanzaro",
@@ -194,10 +183,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-juve-stabia/7v0s5#5822273"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/verona-vs-juve-stabia/7v0s5#5822273"
     },
     {
       "title": "[COLOR yellow]13:30[/COLOR] Ascoli vs Sampdoria",
