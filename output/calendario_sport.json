@@ -1,53 +1,218 @@
 {
-  "aggiornato": "2026-10-26T21:29:40+01:00",
+  "aggiornato": "2026-10-27T01:26:45+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 210,
+  "totale": 215,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 2,
+      "totale": 19,
       "eventi": [
         {
-          "titolo": "[Calcio] Serie C: Crotone vs Virtus Casarano",
+          "titolo": "[Basket] NBA: New York Knicks-Detroit Pistons",
+          "categoria": "Basket",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "New York Knicks-Detroit Pistons",
+          "inizio": "2026-10-27T01:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "01:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T01:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP & WTA",
+          "categoria": "Tennis",
+          "sottocartella": "ATP & WTA",
+          "sport": "Tennis",
+          "competizione": "ATP & WTA",
+          "evento": "ATP & WTA",
+          "inizio": "2026-10-27T02:30:00+01:00",
+          "data": "27/10/2026",
+          "ora": "02:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T02:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Palermo vs Carrarese",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Palermo vs Carrarese",
+          "inizio": "2026-10-27T03:30:00+01:00",
+          "data": "27/10/2026",
+          "ora": "03:30",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-27T03:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T03:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Brasile",
+              "canali": [
+                "SportyNet"
+              ]
+            },
+            {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Liechtenstein",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 1 Live"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 1 Live"
+              ]
+            },
+            {
+              "paese": "Turchia",
+              "canali": [
+                "Sifir TV"
+              ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "DCTV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Basket] NBA: Los Angeles Lakers-Portland Trail Blazers",
+          "categoria": "Basket",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "Los Angeles Lakers-Portland Trail Blazers",
+          "inizio": "2026-10-27T04:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "04:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T04:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP & WTA",
+          "categoria": "Tennis",
+          "sottocartella": "ATP & WTA",
+          "sport": "Tennis",
+          "competizione": "ATP & WTA",
+          "evento": "ATP & WTA",
+          "inizio": "2026-10-27T13:30:00+01:00",
+          "data": "27/10/2026",
+          "ora": "13:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-27T13:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Inter II vs Scafatese",
           "categoria": "Calcio",
           "sottocartella": "Serie C",
           "sport": "Calcio",
           "competizione": "Serie C",
-          "evento": "Crotone vs Virtus Casarano",
-          "inizio": "2026-10-26T20:30:00+01:00",
-          "data": "26/10/2026",
-          "ora": "20:30",
+          "evento": "Inter II vs Scafatese",
+          "inizio": "2026-10-27T14:30:00+01:00",
+          "data": "27/10/2026",
+          "ora": "14:30",
           "canali": [
-            {
-              "nome": "Sky Sport 252",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-26T20:30",
-              "fonte": "livesoccer"
-            },
             {
               "nome": "SKY Go Italia",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-10-26T20:30",
+              "orario": "2026-10-27T14:30",
               "fonte": "livesoccer"
             },
             {
               "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-26T20:30",
+              "orario": "2026-10-27T14:30",
               "fonte": "livesoccer"
             },
             {
               "nome": "NOW TV",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-10-26T20:30",
+              "orario": "2026-10-27T14:30",
               "fonte": "livesoccer"
             }
           ],
@@ -55,7 +220,6 @@
             {
               "paese": "Italia",
               "canali": [
-                "Sky Sport 252",
                 "SKY Go Italia",
                 "Sky Sport Calcio",
                 "NOW TV"
@@ -64,7 +228,6 @@
             {
               "paese": "San Marino",
               "canali": [
-                "Sky Sport 252",
                 "SKY Go Italia",
                 "Sky Sport Calcio",
                 "NOW TV"
@@ -74,49 +237,92 @@
           "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] Serie C: Picerno vs Salernitana",
+          "titolo": "[Calcio] Serie A: Sassuolo vs Lazio",
           "categoria": "Calcio",
-          "sottocartella": "Serie C",
+          "sottocartella": "Serie A",
           "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Picerno vs Salernitana",
-          "inizio": "2026-10-26T20:30:00+01:00",
-          "data": "26/10/2026",
-          "ora": "20:30",
+          "competizione": "Serie A",
+          "evento": "Sassuolo vs Lazio",
+          "inizio": "2026-10-27T18:30:00+01:00",
+          "data": "27/10/2026",
+          "ora": "18:30",
           "canali": [
             {
-              "nome": "Sky Sport 251",
+              "nome": "Paramount+",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-26T20:30",
+              "orario": "2026-10-27T18:30",
               "fonte": "livesoccer"
             },
             {
-              "nome": "SKY Go Italia",
+              "nome": "fuboTV",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T18:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Peacock",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T18:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "UNIVERSO",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T18:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN Canada",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-10-26T20:30",
+              "orario": "2026-10-27T18:30",
               "fonte": "livesoccer"
             },
             {
-              "nome": "Sky Sport Uno",
+              "nome": "DAZN",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-26T20:30",
-              "fonte": "livesoccer"
-            },
+              "orario": "2026-10-27T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Benevento vs Catanzaro",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Benevento vs Catanzaro",
+          "inizio": "2026-10-27T19:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "19:00",
+          "canali": [
             {
-              "nome": "NOW TV",
+              "nome": "DAZN Italia",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-10-26T20:30",
+              "orario": "2026-10-27T19:00",
               "fonte": "livesoccer"
             },
             {
-              "nome": "Sky Sport 1",
-              "numero": "201",
+              "nome": "LAB Channel",
+              "numero": "",
               "tipo": "diretta",
-              "orario": "2026-10-26T20:30",
+              "orario": "2026-10-27T19:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T19:00",
               "fonte": "virgilio"
             }
           ],
@@ -124,22 +330,495 @@
             {
               "paese": "Italia",
               "canali": [
-                "Sky Sport 251",
-                "SKY Go Italia",
-                "Sky Sport Uno",
-                "NOW TV"
+                "DAZN Italia",
+                "LAB Channel"
               ]
             },
             {
               "paese": "San Marino",
               "canali": [
-                "Sky Sport 251",
-                "SKY Go Italia",
-                "Sky Sport Uno",
-                "NOW TV"
+                "DAZN Italia",
+                "LAB Channel"
               ]
             }
           ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Basket] Eurocup: Roma Basketball-Bosna Royal",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Roma Basketball-Bosna Royal",
+          "inizio": "2026-10-27T20:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Ascoli vs Sampdoria",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Ascoli vs Sampdoria",
+          "inizio": "2026-10-27T20:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Brasile",
+              "canali": [
+                "SportyNet"
+              ]
+            },
+            {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Liechtenstein",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 1 Live"
+              ]
+            },
+            {
+              "paese": "Russia",
+              "canali": [
+                "Телеканал Футбол"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "Blue Sport",
+                "Blue Sport 1 Live"
+              ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "Fox Soccer Plus",
+                "fuboTV",
+                "DCTV",
+                "FOX One"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Calcio Padova vs Südtirol",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Calcio Padova vs Südtirol",
+          "inizio": "2026-10-27T20:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Cesena vs Empoli",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Cesena vs Empoli",
+          "inizio": "2026-10-27T20:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Mantova vs Cremonese",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Mantova vs Cremonese",
+          "inizio": "2026-10-27T20:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Vicenza-Modena",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Vicenza-Modena",
+          "inizio": "2026-10-27T20:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Virtus Entella-Avellino",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Virtus Entella-Avellino",
+          "inizio": "2026-10-27T20:00:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Panathinaikos-Olimpia Milano",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Panathinaikos-Olimpia Milano",
+          "inizio": "2026-10-27T20:15:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:15",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:15",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Coppa Italia Serie C: Potenza-Bari",
+          "categoria": "Calcio",
+          "sottocartella": "Coppa Italia Serie C",
+          "sport": "Calcio",
+          "competizione": "Coppa Italia Serie C",
+          "evento": "Potenza-Bari",
+          "inizio": "2026-10-27T20:30:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie A: Roma vs Cagliari",
+          "categoria": "Calcio",
+          "sottocartella": "Serie A",
+          "sport": "Calcio",
+          "competizione": "Serie A",
+          "evento": "Roma vs Cagliari",
+          "inizio": "2026-10-27T20:45:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "Paramount+",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "fuboTV",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Peacock",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "UNIVERSO",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN Canada",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie A: Torino vs Como",
+          "categoria": "Calcio",
+          "sottocartella": "Serie A",
+          "sport": "Calcio",
+          "competizione": "Serie A",
+          "evento": "Torino vs Como",
+          "inizio": "2026-10-27T20:45:00+01:00",
+          "data": "27/10/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "CBS Sports Network",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Paramount+",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "fuboTV",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Peacock",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN Canada",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-10-27T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-27T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [],
           "fonte": "LiveSoccerTV"
         }
       ]
@@ -2965,11 +3644,11 @@
     },
     {
       "nome": "Calcio",
-      "totale": 78,
+      "totale": 80,
       "sottocartelle": [
         {
           "nome": "Serie A",
-          "totale": 18,
+          "totale": 20,
           "eventi": [
             {
               "titolo": "Serie A: Sassuolo vs Lazio",
@@ -3601,6 +4280,55 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-01T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Sassuolo-Fiorentina",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Sassuolo-Fiorentina",
+              "inizio": "2026-11-02T18:30:00+01:00",
+              "data": "02/11/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T18:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Atalanta-Parma",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Atalanta-Parma",
+              "inizio": "2026-11-02T20:45:00+01:00",
+              "data": "02/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T20:45",
                   "fonte": "virgilio"
                 }
               ],
@@ -4584,137 +5312,6 @@
           "totale": 15,
           "eventi": [
             {
-              "titolo": "Serie C: Crotone vs Virtus Casarano",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Crotone vs Virtus Casarano",
-              "inizio": "2026-10-26T20:30:00+01:00",
-              "data": "26/10/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 252",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Picerno vs Salernitana",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Picerno vs Salernitana",
-              "inizio": "2026-10-26T20:30:00+01:00",
-              "data": "26/10/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 251",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Uno",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-26T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 251",
-                    "SKY Go Italia",
-                    "Sky Sport Uno",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 251",
-                    "SKY Go Italia",
-                    "Sky Sport Uno",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
               "titolo": "Serie C: Inter II vs Scafatese",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
@@ -5083,6 +5680,48 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-01T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Casarano-Foggia",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Casarano-Foggia",
+              "inizio": "2026-11-02T20:30:00+01:00",
+              "data": "02/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Juventus Next Gen-Pro Vercelli",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Juventus Next Gen-Pro Vercelli",
+              "inizio": "2026-11-02T20:30:00+01:00",
+              "data": "02/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T20:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -5514,7 +6153,7 @@
     },
     {
       "nome": "Tennis",
-      "totale": 20,
+      "totale": 21,
       "sottocartelle": [
         {
           "nome": "ATP & WTA",
@@ -5972,16 +6611,43 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "ATP Masters 1000 Parigi-Bercy",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "ATP Masters 1000 Parigi-Bercy: 1a giornata",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Masters 1000 Parigi-Bercy",
+              "sport": "Tennis",
+              "competizione": "ATP Masters 1000 Parigi-Bercy",
+              "evento": "1a giornata",
+              "inizio": "2026-11-02T11:00:00+01:00",
+              "data": "02/11/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Basket",
-      "totale": 17,
+      "totale": 19,
       "sottocartelle": [
         {
           "nome": "NBA",
-          "totale": 4,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "NBA: New York Knicks-Detroit Pistons",
@@ -6062,6 +6728,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-01T03:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Cleveland-Oklahoma City",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Cleveland-Oklahoma City",
+              "inizio": "2026-11-02T01:00:00+01:00",
+              "data": "02/11/2026",
+              "ora": "01:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T01:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -6335,7 +7022,7 @@
         },
         {
           "nome": "Serie A",
-          "totale": 1,
+          "totale": 2,
           "eventi": [
             {
               "titolo": "Serie A: Aquila Trento-Maxima Roma",
@@ -6353,6 +7040,34 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-01T16:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: CantÃ¹-Olimpia Milano",
+              "categoria": "Basket",
+              "sottocartella": "Serie A",
+              "sport": "Basket",
+              "competizione": "Serie A",
+              "evento": "CantÃ¹-Olimpia Milano",
+              "inizio": "2026-11-02T20:30:00+01:00",
+              "data": "02/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T20:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T20:30",
                   "fonte": "virgilio"
                 }
               ],
