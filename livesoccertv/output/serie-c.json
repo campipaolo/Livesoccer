@@ -14,7 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]18:00[/COLOR] Atalanta II vs Vis Pesaro",
+      "title": "[COLOR red]18:00[/COLOR] Atalanta II vs Vis Pesaro [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -75,6 +75,16 @@
         "NOW TV"
       ],
       "info": "Serie C\nCanali: SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/bari-1908-vs-scafatese/6estx9#5721146"
+    },
+    {
+      "title": "[COLOR yellow]14:30[/COLOR] Giugliano vs Casertana",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/casertana-vs-giugliano/23tixm#5721151"
     }
   ]
 }
