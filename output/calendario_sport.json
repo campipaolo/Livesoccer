@@ -1,45 +1,16 @@
 {
-  "aggiornato": "2026-10-28T06:44:03+01:00",
+  "aggiornato": "2026-10-28T12:11:48+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 215,
+  "totale": 214,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 21,
+      "totale": 20,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie B: Ascoli vs Sampdoria",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Ascoli vs Sampdoria",
-          "inizio": "2026-10-28T04:00:00+01:00",
-          "data": "28/10/2026",
-          "ora": "04:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-28T04:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-28T04:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
-        },
         {
           "titolo": "[Tennis] ATP & WTA",
           "categoria": "Tennis",
@@ -8363,7 +8334,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 83,
+      "totale": 82,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -13670,37 +13641,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 23,
+          "totale": 22,
           "eventi": [
-            {
-              "titolo": "Serie B: Ascoli vs Sampdoria",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Ascoli vs Sampdoria",
-              "inizio": "2026-10-28T04:00:00+01:00",
-              "data": "28/10/2026",
-              "ora": "04:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-28T04:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-28T04:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Pisa vs Palermo",
               "categoria": "Calcio",
