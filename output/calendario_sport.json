@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-10-28T00:43:39+01:00",
+  "aggiornato": "2026-10-28T05:27:29+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 217,
+  "totale": 216,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 23,
+      "totale": 22,
       "eventi": [
-        {
-          "titolo": "[Basket] NBA: Indiana Pacers-Philadelphia 76ers",
-          "categoria": "Basket",
-          "sottocartella": "NBA",
-          "sport": "Basket",
-          "competizione": "NBA",
-          "evento": "Indiana Pacers-Philadelphia 76ers",
-          "inizio": "2026-10-28T00:00:00+01:00",
-          "data": "28/10/2026",
-          "ora": "00:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Basket",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-28T00:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP & WTA",
           "categoria": "Tennis",
@@ -365,7 +344,8 @@
               "paese": "Belgio",
               "canali": [
                 "DAZN2 Belgium",
-                "DAZN Belgium"
+                "DAZN Belgium",
+                "Proximus Pickx"
               ]
             },
             {
@@ -675,6 +655,7 @@
             {
               "paese": "Iran",
               "canali": [
+                "Persiana Sports",
                 "Thmanyah"
               ]
             },
@@ -842,7 +823,8 @@
               "paese": "Maldive",
               "canali": [
                 "Ice Sports",
-                "ZEE5"
+                "ZEE5",
+                "Medianet"
               ]
             },
             {
@@ -926,6 +908,7 @@
             {
               "paese": "Paesi Bassi",
               "canali": [
+                "Ziggo Go",
                 "Ziggo Sport 5"
               ]
             },
@@ -1023,6 +1006,7 @@
             {
               "paese": "Romania",
               "canali": [
+                "Digi Online",
                 "Digi Sport 4 Romania",
                 "Orange TV Go",
                 "Prima Sport 3",
@@ -1784,7 +1768,8 @@
               "paese": "Maldive",
               "canali": [
                 "ZEE5",
-                "ICE Plus"
+                "ICE Plus",
+                "Medianet"
               ]
             },
             {
@@ -2322,7 +2307,8 @@
               "paese": "Belgio",
               "canali": [
                 "DAZN1 Belgium",
-                "DAZN Belgium"
+                "DAZN Belgium",
+                "Proximus Pickx"
               ]
             },
             {
@@ -2615,7 +2601,8 @@
             {
               "paese": "Iran",
               "canali": [
-                "Thmanyah"
+                "Thmanyah",
+                "Persiana Sports 2"
               ]
             },
             {
@@ -2849,6 +2836,7 @@
             {
               "paese": "Paesi Bassi",
               "canali": [
+                "Ziggo Go",
                 "Ziggo Sport 2"
               ]
             },
@@ -2947,6 +2935,7 @@
               "paese": "Romania",
               "canali": [
                 "Digi Sport 3 Romania",
+                "Digi Online",
                 "Prima Sport 2",
                 "Orange TV Go",
                 "Prima Play"
@@ -3239,9 +3228,23 @@
           "ora": "19:00",
           "canali": [
             {
+              "nome": "Onefootball",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-28T19:00",
+              "fonte": "livesoccer"
+            },
+            {
               "nome": "DAZN Italia",
               "numero": "",
               "tipo": "streaming",
+              "orario": "2026-10-28T19:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Телеканал Футбол",
+              "numero": "",
+              "tipo": "diretta",
               "orario": "2026-10-28T19:00",
               "fonte": "livesoccer"
             },
@@ -3260,28 +3263,7 @@
               "fonte": "virgilio"
             }
           ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            }
-          ],
+          "canali_mondo": [],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -3361,6 +3343,12 @@
           ],
           "canali_mondo": [
             {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
               "paese": "Italia",
               "canali": [
                 "DAZN Italia",
@@ -3411,6 +3399,12 @@
             }
           ],
           "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
             {
               "paese": "Italia",
               "canali": [
@@ -3651,7 +3645,8 @@
               "paese": "Belgio",
               "canali": [
                 "DAZN1 Belgium",
-                "DAZN Belgium"
+                "DAZN Belgium",
+                "Proximus Pickx"
               ]
             },
             {
@@ -3937,7 +3932,8 @@
             {
               "paese": "Iran",
               "canali": [
-                "Thmanyah"
+                "Thmanyah",
+                "Persiana Sports 3"
               ]
             },
             {
@@ -4094,7 +4090,8 @@
               "paese": "Maldive",
               "canali": [
                 "ZEE5",
-                "ICE Plus"
+                "ICE Plus",
+                "Medianet"
               ]
             },
             {
@@ -4172,6 +4169,7 @@
             {
               "paese": "Paesi Bassi",
               "canali": [
+                "Ziggo Go",
                 "Ziggo Sport 5"
               ]
             },
@@ -4701,7 +4699,8 @@
               "paese": "Belgio",
               "canali": [
                 "DAZN2 Belgium",
-                "DAZN Belgium"
+                "DAZN Belgium",
+                "Proximus Pickx"
               ]
             },
             {
@@ -5098,6 +5097,7 @@
               "canali": [
                 "Ice Sports",
                 "ZEE5",
+                "Medianet",
                 "Unite8 Sports 1",
                 "Unite8 Sports 1 HD"
               ]
@@ -5172,6 +5172,7 @@
             {
               "paese": "Paesi Bassi",
               "canali": [
+                "Ziggo Go",
                 "Ziggo Sport 2"
               ]
             },
@@ -5530,7 +5531,34 @@
               "fonte": "livesoccer"
             }
           ],
-          "canali_mondo": [],
+          "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Russia",
+              "canali": [
+                "Телеканал Футбол"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
           "fonte": "LiveSoccerTV"
         }
       ]
@@ -8508,7 +8536,8 @@
                   "paese": "Belgio",
                   "canali": [
                     "DAZN2 Belgium",
-                    "DAZN Belgium"
+                    "DAZN Belgium",
+                    "Proximus Pickx"
                   ]
                 },
                 {
@@ -8818,6 +8847,7 @@
                 {
                   "paese": "Iran",
                   "canali": [
+                    "Persiana Sports",
                     "Thmanyah"
                   ]
                 },
@@ -8985,7 +9015,8 @@
                   "paese": "Maldive",
                   "canali": [
                     "Ice Sports",
-                    "ZEE5"
+                    "ZEE5",
+                    "Medianet"
                   ]
                 },
                 {
@@ -9069,6 +9100,7 @@
                 {
                   "paese": "Paesi Bassi",
                   "canali": [
+                    "Ziggo Go",
                     "Ziggo Sport 5"
                   ]
                 },
@@ -9166,6 +9198,7 @@
                 {
                   "paese": "Romania",
                   "canali": [
+                    "Digi Online",
                     "Digi Sport 4 Romania",
                     "Orange TV Go",
                     "Prima Sport 3",
@@ -9927,7 +9960,8 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5",
-                    "ICE Plus"
+                    "ICE Plus",
+                    "Medianet"
                   ]
                 },
                 {
@@ -10465,7 +10499,8 @@
                   "paese": "Belgio",
                   "canali": [
                     "DAZN1 Belgium",
-                    "DAZN Belgium"
+                    "DAZN Belgium",
+                    "Proximus Pickx"
                   ]
                 },
                 {
@@ -10758,7 +10793,8 @@
                 {
                   "paese": "Iran",
                   "canali": [
-                    "Thmanyah"
+                    "Thmanyah",
+                    "Persiana Sports 2"
                   ]
                 },
                 {
@@ -10992,6 +11028,7 @@
                 {
                   "paese": "Paesi Bassi",
                   "canali": [
+                    "Ziggo Go",
                     "Ziggo Sport 2"
                   ]
                 },
@@ -11090,6 +11127,7 @@
                   "paese": "Romania",
                   "canali": [
                     "Digi Sport 3 Romania",
+                    "Digi Online",
                     "Prima Sport 2",
                     "Orange TV Go",
                     "Prima Play"
@@ -11516,7 +11554,8 @@
                   "paese": "Belgio",
                   "canali": [
                     "DAZN1 Belgium",
-                    "DAZN Belgium"
+                    "DAZN Belgium",
+                    "Proximus Pickx"
                   ]
                 },
                 {
@@ -11802,7 +11841,8 @@
                 {
                   "paese": "Iran",
                   "canali": [
-                    "Thmanyah"
+                    "Thmanyah",
+                    "Persiana Sports 3"
                   ]
                 },
                 {
@@ -11959,7 +11999,8 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5",
-                    "ICE Plus"
+                    "ICE Plus",
+                    "Medianet"
                   ]
                 },
                 {
@@ -12037,6 +12078,7 @@
                 {
                   "paese": "Paesi Bassi",
                   "canali": [
+                    "Ziggo Go",
                     "Ziggo Sport 5"
                   ]
                 },
@@ -12566,7 +12608,8 @@
                   "paese": "Belgio",
                   "canali": [
                     "DAZN2 Belgium",
-                    "DAZN Belgium"
+                    "DAZN Belgium",
+                    "Proximus Pickx"
                   ]
                 },
                 {
@@ -12963,6 +13006,7 @@
                   "canali": [
                     "Ice Sports",
                     "ZEE5",
+                    "Medianet",
                     "Unite8 Sports 1",
                     "Unite8 Sports 1 HD"
                   ]
@@ -13037,6 +13081,7 @@
                 {
                   "paese": "Paesi Bassi",
                   "canali": [
+                    "Ziggo Go",
                     "Ziggo Sport 2"
                   ]
                 },
@@ -13689,9 +13734,23 @@
               "ora": "19:00",
               "canali": [
                 {
+                  "nome": "Onefootball",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-28T19:00",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "DAZN Italia",
                   "numero": "",
                   "tipo": "streaming",
+                  "orario": "2026-10-28T19:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "Телеканал Футбол",
+                  "numero": "",
+                  "tipo": "diretta",
                   "orario": "2026-10-28T19:00",
                   "fonte": "livesoccer"
                 },
@@ -13710,28 +13769,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -13768,6 +13806,12 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
                 {
                   "paese": "Italia",
                   "canali": [
@@ -13819,6 +13863,12 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
                 {
                   "paese": "Italia",
                   "canali": [
@@ -13876,7 +13926,34 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -13905,7 +13982,42 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 2 Live"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 2 Live"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -13934,28 +14046,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14013,29 +14104,132 @@
                   "fonte": "livesoccer"
                 }
               ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Pisa vs Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Pisa vs Palermo",
+              "inizio": "2026-10-30T13:00:00+01:00",
+              "data": "30/10/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-30T13:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-30T13:00",
+                  "fonte": "livesoccer"
+                }
+              ],
               "canali_mondo": [
                 {
-                  "paese": "Bielorussia",
+                  "paese": "Internazionale",
                   "canali": [
-                    "Sporttv"
+                    "Onefootball"
                   ]
                 },
                 {
-                  "paese": "Brasile",
+                  "paese": "Italia",
                   "canali": [
-                    "SportyNet"
+                    "DAZN Italia",
+                    "LAB Channel"
                   ]
                 },
                 {
-                  "paese": "Gran Bretagna",
+                  "paese": "Russia",
                   "canali": [
-                    "DCTV"
+                    "Телеканал Футбол"
                   ]
                 },
                 {
-                  "paese": "Irlanda",
+                  "paese": "San Marino",
                   "canali": [
-                    "DCTV"
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Juve Stabia vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Juve Stabia vs Verona",
+              "inizio": "2026-10-30T15:00:00+01:00",
+              "data": "30/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-30T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-30T15:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Cremonese vs Benevento",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Cremonese vs Benevento",
+              "inizio": "2026-10-31T15:00:00+01:00",
+              "data": "31/10/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-31T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-31T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-31T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
                   ]
                 },
                 {
@@ -14077,155 +14271,10 @@
                   "canali": [
                     "Fox Soccer Plus",
                     "fuboTV",
-                    "DCTV",
                     "FOX One"
                   ]
                 }
               ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Pisa vs Palermo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Pisa vs Palermo",
-              "inizio": "2026-10-30T13:00:00+01:00",
-              "data": "30/10/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-30T13:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T13:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Juve Stabia vs Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Juve Stabia vs Verona",
-              "inizio": "2026-10-30T15:00:00+01:00",
-              "data": "30/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-30T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T15:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Cremonese vs Benevento",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Cremonese vs Benevento",
-              "inizio": "2026-10-31T15:00:00+01:00",
-              "data": "31/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Fox Soccer Plus",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "fuboTV",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "FOX One",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-31T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Телеканал Футбол",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14354,14 +14403,70 @@
               "ora": "21:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-10-31T21:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-31T21:00",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14390,42 +14495,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5 Live"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -16151,77 +16221,8 @@
     },
     {
       "nome": "Basket",
-      "totale": 17,
+      "totale": 16,
       "sottocartelle": [
-        {
-          "nome": "NBA",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "NBA: Indiana Pacers-Philadelphia 76ers",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Indiana Pacers-Philadelphia 76ers",
-              "inizio": "2026-10-28T00:00:00+01:00",
-              "data": "28/10/2026",
-              "ora": "00:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-28T00:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Los Angelese Lakers-Toronto Raptors",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Los Angelese Lakers-Toronto Raptors",
-              "inizio": "2026-11-01T03:00:00+01:00",
-              "data": "01/11/2026",
-              "ora": "03:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-01T03:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Cleveland-Oklahoma City",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Cleveland-Oklahoma City",
-              "inizio": "2026-11-02T01:00:00+01:00",
-              "data": "02/11/2026",
-              "ora": "01:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-02T01:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Eurocup",
           "totale": 5,
@@ -16485,6 +16486,54 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-30T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "NBA",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "NBA: Los Angelese Lakers-Toronto Raptors",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Los Angelese Lakers-Toronto Raptors",
+              "inizio": "2026-11-01T03:00:00+01:00",
+              "data": "01/11/2026",
+              "ora": "03:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-01T03:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Cleveland-Oklahoma City",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Cleveland-Oklahoma City",
+              "inizio": "2026-11-02T01:00:00+01:00",
+              "data": "02/11/2026",
+              "ora": "01:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T01:00",
                   "fonte": "virgilio"
                 }
               ],
