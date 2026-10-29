@@ -1,227 +1,6 @@
 {
   "eventi": [
     {
-      "competizione": "Serie B",
-      "titolo": "Juve Stabia vs Verona",
-      "data": "2026-10-29",
-      "ora": "01:30",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Internazionale",
-          "canali": [
-            "Onefootball"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Pisa vs Palermo",
-      "data": "2026-10-29",
-      "ora": "09:30",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Internazionale",
-          "canali": [
-            "Onefootball"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Juve Stabia vs Verona",
-      "data": "2026-10-29",
-      "ora": "11:30",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Internazionale",
-          "canali": [
-            "Onefootball"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        }
-      ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Ascoli vs Sampdoria",
-      "data": "2026-10-29",
-      "ora": "13:30",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Bielorussia",
-          "canali": [
-            "Sporttv"
-          ]
-        },
-        {
-          "paese": "Brasile",
-          "canali": [
-            "SportyNet"
-          ]
-        },
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "DCTV",
-            "FOX One"
-          ]
-        }
-      ]
-    },
-    {
       "competizione": "Serie A",
       "titolo": "Frosinone vs Lecce",
       "data": "2026-10-29",
@@ -547,6 +326,12 @@
           ]
         },
         {
+          "paese": "Georgia",
+          "canali": [
+            "Silk Universal"
+          ]
+        },
+        {
           "paese": "Germania",
           "canali": [
             "DAZN Deutschland",
@@ -629,7 +414,8 @@
         {
           "paese": "Iran",
           "canali": [
-            "Thmanyah"
+            "Thmanyah",
+            "Persiana Sports 2"
           ]
         },
         {
@@ -706,6 +492,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "Arena 4 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -1037,6 +824,7 @@
         {
           "paese": "Sudafrica",
           "canali": [
+            "MáXimo 360",
             "DStv App",
             "SuperSport Football",
             "SuperSport Football Plus"
@@ -1081,7 +869,8 @@
         {
           "paese": "Suriname",
           "canali": [
-            "SCCN"
+            "SCCN",
+            "TV2 Suriname"
           ]
         },
         {
@@ -1113,6 +902,7 @@
         {
           "paese": "Thailandia",
           "canali": [
+            "True ID",
             "True Premier Football HD 3"
           ]
         },
@@ -1276,6 +1066,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "Fast Sports 1",
             "FAST TV"
           ]
         },
@@ -1548,7 +1339,8 @@
         {
           "paese": "Georgia",
           "canali": [
-            "Silk Sport HD 1"
+            "Silk Sport HD 1",
+            "Silk Universal"
           ]
         },
         {
@@ -1632,7 +1424,8 @@
         {
           "paese": "Iran",
           "canali": [
-            "Thmanyah"
+            "Thmanyah",
+            "Persiana Sports 2"
           ]
         },
         {
@@ -1708,6 +1501,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "Arena 4 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -1929,8 +1723,10 @@
         {
           "paese": "Polonia",
           "canali": [
+            "Polsat Box Go",
             "Eleven Sports 1 Poland",
-            "Canal+"
+            "Canal+",
+            "Polsat Sport Extra"
           ]
         },
         {
@@ -2050,6 +1846,7 @@
         {
           "paese": "Sudafrica",
           "canali": [
+            "MáXimo 360",
             "DStv App",
             "SuperSport Football"
           ]
@@ -2123,6 +1920,7 @@
         {
           "paese": "Thailandia",
           "canali": [
+            "True ID",
             "True Premier Football HD 3"
           ]
         },
@@ -2277,48 +2075,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Internazionale",
-          "canali": [
-            "Onefootball"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie C",
@@ -2407,7 +2164,22 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie C",
@@ -2741,6 +2513,12 @@
           ]
         },
         {
+          "paese": "Repubblica Ceca",
+          "canali": [
+            "Sport 1 CZ"
+          ]
+        },
+        {
           "paese": "Costa d'Avorio",
           "canali": [
             "DStv Now",
@@ -2970,6 +2748,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "ONE2"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -3076,7 +2860,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -3430,6 +3215,12 @@
           ]
         },
         {
+          "paese": "Slovacchia",
+          "canali": [
+            "Sport 1 SK"
+          ]
+        },
+        {
           "paese": "Slovenia",
           "canali": [
             "Arena Sport 3 Slovenia"
@@ -3543,6 +3334,7 @@
         {
           "paese": "Thailandia",
           "canali": [
+            "True ID",
             "True Premier Football HD 3"
           ]
         },
@@ -3842,7 +3634,15 @@
           "paese": "Andorra",
           "canali": [
             "DAZN Spain",
-            "DAZN France"
+            "DAZN France",
+            "ZAP"
+          ]
+        },
+        {
+          "paese": "Angola",
+          "canali": [
+            "ZAP",
+            "ZSPORT 1"
           ]
         },
         {
@@ -3991,6 +3791,12 @@
           ]
         },
         {
+          "paese": "Capo Verde",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Isole Cayman",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -4052,6 +3858,12 @@
           "canali": [
             "Cytavision on the Go",
             "Cytavision Sports 4"
+          ]
+        },
+        {
+          "paese": "Repubblica Ceca",
+          "canali": [
+            "Sport 1 CZ"
           ]
         },
         {
@@ -4170,6 +3982,12 @@
           ]
         },
         {
+          "paese": "Guinea-Bissau",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Haiti",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -4226,6 +4044,12 @@
           "paese": "Irlanda",
           "canali": [
             "DAZN UK"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "ONE2"
           ]
         },
         {
@@ -4340,7 +4164,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -4436,6 +4261,12 @@
           ]
         },
         {
+          "paese": "Mozambico",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Nepal",
           "canali": [
             "ZEE5"
@@ -4509,8 +4340,10 @@
         {
           "paese": "Polonia",
           "canali": [
+            "Polsat Box Go",
             "Canal+",
-            "Eleven Sports 4 Poland"
+            "Eleven Sports 3 Poland",
+            "Polsat Sport Premium 2"
           ]
         },
         {
@@ -4602,6 +4435,12 @@
           ]
         },
         {
+          "paese": "Slovacchia",
+          "canali": [
+            "Sport 1 SK"
+          ]
+        },
+        {
           "paese": "Slovenia",
           "canali": [
             "Arena Sport 3 Slovenia"
@@ -4686,6 +4525,12 @@
           ]
         },
         {
+          "paese": "São Tomé and Príncipe",
+          "canali": [
+            "ZAP"
+          ]
+        },
+        {
           "paese": "Tajikistan",
           "canali": [
             "Q League"
@@ -4700,6 +4545,7 @@
         {
           "paese": "Thailandia",
           "canali": [
+            "True ID",
             "True Premier Football HD 3"
           ]
         },
@@ -4821,12 +4667,44 @@
       "ora": "19:30",
       "canali": [
         "DAZN Italia",
-        "5 Live",
-        "Blue Sport 3 Live",
-        "Blue Sport",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "5 Live"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie A",
@@ -5095,6 +4973,12 @@
           ]
         },
         {
+          "paese": "Repubblica Ceca",
+          "canali": [
+            "Sport 1 CZ"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
             "TV2 Play Denmark",
@@ -5284,6 +5168,12 @@
           ]
         },
         {
+          "paese": "Israele",
+          "canali": [
+            "ONE2"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -5398,7 +5288,8 @@
         {
           "paese": "Macao",
           "canali": [
-            "M Plus Live"
+            "M Plus Live",
+            "Macau Cable TV 34 Football"
           ]
         },
         {
@@ -5676,6 +5567,12 @@
           ]
         },
         {
+          "paese": "Slovacchia",
+          "canali": [
+            "Sport 1 SK"
+          ]
+        },
+        {
           "paese": "Slovenia",
           "canali": [
             "Arena Sport 1 Slovenia"
@@ -5778,6 +5675,7 @@
         {
           "paese": "Thailandia",
           "canali": [
+            "True ID",
             "True Premier Football HD 3"
           ]
         },
@@ -5973,6 +5871,101 @@
         "Fox Soccer Plus",
         "fuboTV",
         "FOX One"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Sampdoria vs Virtus Entella",
+      "data": "2026-11-02",
+      "ora": "13:00",
+      "canali": [
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Palermo vs Lr Vicenza",
+      "data": "2026-11-02",
+      "ora": "15:00",
+      "canali": [
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Cremonese vs Benevento",
+      "data": "2026-11-04",
+      "ora": "06:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Plus"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 1 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Sampdoria vs Virtus Entella",
+      "data": "2026-11-04",
+      "ora": "08:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     }
