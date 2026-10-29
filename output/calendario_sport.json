@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-29T10:39:07+01:00",
+  "aggiornato": "2026-10-29T17:42:26+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,252 +9,8 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 8,
+      "totale": 4,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie B: Pisa vs Palermo",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Pisa vs Palermo",
-          "inizio": "2026-10-29T09:30:00+01:00",
-          "data": "29/10/2026",
-          "ora": "09:30",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-29T09:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-29T09:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Internazionale",
-              "canali": [
-                "Onefootball"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Juve Stabia vs Verona",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Juve Stabia vs Verona",
-          "inizio": "2026-10-29T11:30:00+01:00",
-          "data": "29/10/2026",
-          "ora": "11:30",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-29T11:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-29T11:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Internazionale",
-              "canali": [
-                "Onefootball"
-              ]
-            },
-            {
-              "paese": "Israele",
-              "canali": [
-                "5Plus"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Ascoli vs Sampdoria",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Ascoli vs Sampdoria",
-          "inizio": "2026-10-29T13:30:00+01:00",
-          "data": "29/10/2026",
-          "ora": "13:30",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-29T13:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-29T13:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Bielorussia",
-              "canali": [
-                "Sporttv"
-              ]
-            },
-            {
-              "paese": "Brasile",
-              "canali": [
-                "SportyNet"
-              ]
-            },
-            {
-              "paese": "Gran Bretagna",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Irlanda",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 1 Live"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 1 Live"
-              ]
-            },
-            {
-              "paese": "USA",
-              "canali": [
-                "Fox Soccer Plus",
-                "fuboTV",
-                "DCTV",
-                "FOX One"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Tennis] ATP & WTA",
-          "categoria": "Tennis",
-          "sottocartella": "ATP & WTA",
-          "sport": "Tennis",
-          "competizione": "ATP & WTA",
-          "evento": "ATP & WTA",
-          "inizio": "2026-10-29T13:30:00+01:00",
-          "data": "29/10/2026",
-          "ora": "13:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-10-29T13:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Serie A: Frosinone vs Lecce",
           "categoria": "Calcio",
@@ -605,6 +361,12 @@
               ]
             },
             {
+              "paese": "Georgia",
+              "canali": [
+                "Silk Universal"
+              ]
+            },
+            {
               "paese": "Germania",
               "canali": [
                 "DAZN Deutschland",
@@ -687,7 +449,8 @@
             {
               "paese": "Iran",
               "canali": [
-                "Thmanyah"
+                "Thmanyah",
+                "Persiana Sports 2"
               ]
             },
             {
@@ -764,6 +527,7 @@
               "canali": [
                 "Tring Sport 1",
                 "ART Sport 1",
+                "ArtMotion",
                 "Arena 4 Premium",
                 "TV Vala Kosovo Telecom"
               ]
@@ -1095,6 +859,7 @@
             {
               "paese": "Sudafrica",
               "canali": [
+                "MáXimo 360",
                 "DStv App",
                 "SuperSport Football",
                 "SuperSport Football Plus"
@@ -1139,7 +904,8 @@
             {
               "paese": "Suriname",
               "canali": [
-                "SCCN"
+                "SCCN",
+                "TV2 Suriname"
               ]
             },
             {
@@ -1171,6 +937,7 @@
             {
               "paese": "Thailandia",
               "canali": [
+                "True ID",
                 "True Premier Football HD 3"
               ]
             },
@@ -1401,6 +1168,7 @@
             {
               "paese": "Armenia",
               "canali": [
+                "Fast Sports 1",
                 "FAST TV"
               ]
             },
@@ -1673,7 +1441,8 @@
             {
               "paese": "Georgia",
               "canali": [
-                "Silk Sport HD 1"
+                "Silk Sport HD 1",
+                "Silk Universal"
               ]
             },
             {
@@ -1757,7 +1526,8 @@
             {
               "paese": "Iran",
               "canali": [
-                "Thmanyah"
+                "Thmanyah",
+                "Persiana Sports 2"
               ]
             },
             {
@@ -1833,6 +1603,7 @@
               "canali": [
                 "Tring Sport 1",
                 "ART Sport 1",
+                "ArtMotion",
                 "Arena 4 Premium",
                 "TV Vala Kosovo Telecom"
               ]
@@ -2054,8 +1825,10 @@
             {
               "paese": "Polonia",
               "canali": [
+                "Polsat Box Go",
                 "Eleven Sports 1 Poland",
-                "Canal+"
+                "Canal+",
+                "Polsat Sport Extra"
               ]
             },
             {
@@ -2175,6 +1948,7 @@
             {
               "paese": "Sudafrica",
               "canali": [
+                "MáXimo 360",
                 "DStv App",
                 "SuperSport Football"
               ]
@@ -2248,6 +2022,7 @@
             {
               "paese": "Thailandia",
               "canali": [
+                "True ID",
                 "True Premier Football HD 3"
               ]
             },
@@ -2594,7 +2369,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-11-01T22:30",
+                  "orario": "2026-11-01T22:00",
                   "fonte": "config+tv8"
                 }
               ],
@@ -3951,22 +3726,22 @@
               "evento": "Qatar Grand Prix - Prove libere",
               "sessione": "prove",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-04T13:45:00+01:00",
-              "data": "04/11/2026",
-              "ora": "13:45",
+              "inizio": "2026-11-06T12:45:00+01:00",
+              "data": "06/11/2026",
+              "ora": "12:45",
               "canali": [
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-04T13:45",
+                  "orario": "2026-11-06T12:45",
                   "fonte": "dizzle+config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-04T13:45",
+                  "orario": "2026-11-06T12:45",
                   "fonte": "dizzle+config"
                 }
               ],
@@ -3981,22 +3756,22 @@
               "evento": "Qatar Grand Prix - Practice",
               "sessione": "prove",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-04T18:00:00+01:00",
-              "data": "04/11/2026",
-              "ora": "18:00",
+              "inizio": "2026-11-06T17:00:00+01:00",
+              "data": "06/11/2026",
+              "ora": "17:00",
               "canali": [
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-04T18:00",
+                  "orario": "2026-11-06T17:00",
                   "fonte": "dizzle+config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-04T18:00",
+                  "orario": "2026-11-06T17:00",
                   "fonte": "dizzle+config"
                 }
               ],
@@ -4011,22 +3786,22 @@
               "evento": "Qatar Grand Prix - FP2",
               "sessione": "prove",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-05T13:00:00+01:00",
-              "data": "05/11/2026",
-              "ora": "13:00",
+              "inizio": "2026-11-07T12:00:00+01:00",
+              "data": "07/11/2026",
+              "ora": "12:00",
               "canali": [
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-05T13:00",
+                  "orario": "2026-11-07T12:00",
                   "fonte": "dizzle+config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-05T13:00",
+                  "orario": "2026-11-07T12:00",
                   "fonte": "dizzle+config"
                 }
               ],
@@ -4041,23 +3816,31 @@
               "evento": "Qatar Grand Prix - Q1",
               "sessione": "qualifiche",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-05T13:40:00+01:00",
-              "data": "05/11/2026",
-              "ora": "13:40",
+              "inizio": "2026-11-07T12:40:00+01:00",
+              "data": "07/11/2026",
+              "ora": "12:40",
               "canali": [
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-05T13:40",
+                  "orario": "2026-11-07T12:40",
                   "fonte": "dizzle+config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-05T13:40",
+                  "orario": "2026-11-07T12:40",
                   "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "2026-11-07T14:50",
+                  "programma": "GP Qatar: Qualifiche",
+                  "fonte": "tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -4071,23 +3854,31 @@
               "evento": "Qatar Grand Prix - Q2",
               "sessione": "qualifiche",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-05T14:05:00+01:00",
-              "data": "05/11/2026",
-              "ora": "14:05",
+              "inizio": "2026-11-07T13:05:00+01:00",
+              "data": "07/11/2026",
+              "ora": "13:05",
               "canali": [
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-05T14:05",
+                  "orario": "2026-11-07T13:05",
                   "fonte": "dizzle+config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-05T14:05",
+                  "orario": "2026-11-07T13:05",
                   "fonte": "dizzle+config"
+                },
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "2026-11-07T14:50",
+                  "programma": "GP Qatar: Qualifiche",
+                  "fonte": "tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -4101,29 +3892,29 @@
               "evento": "Qatar Grand Prix - Sprint",
               "sessione": "sprint",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-05T18:00:00+01:00",
-              "data": "05/11/2026",
-              "ora": "18:00",
+              "inizio": "2026-11-07T17:00:00+01:00",
+              "data": "07/11/2026",
+              "ora": "17:00",
               "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-07T17:00",
+                  "fonte": "dizzle+tv8"
+                },
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-05T18:00",
-                  "fonte": "dizzle+config"
+                  "orario": "2026-11-07T17:00",
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-05T18:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "",
+                  "orario": "2026-11-07T17:00",
                   "fonte": "config"
                 }
               ],
@@ -4138,22 +3929,22 @@
               "evento": "Qatar Grand Prix - Warm Up",
               "sessione": "prove",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-06T13:40:00+01:00",
-              "data": "06/11/2026",
-              "ora": "13:40",
+              "inizio": "2026-11-08T12:40:00+01:00",
+              "data": "08/11/2026",
+              "ora": "12:40",
               "canali": [
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-06T13:40",
+                  "orario": "2026-11-08T12:40",
                   "fonte": "dizzle+config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-06T13:40",
+                  "orario": "2026-11-08T12:40",
                   "fonte": "dizzle+config"
                 }
               ],
@@ -4168,29 +3959,29 @@
               "evento": "Qatar Grand Prix - Gara",
               "sessione": "gara",
               "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-06T18:00:00+01:00",
-              "data": "06/11/2026",
-              "ora": "18:00",
+              "inizio": "2026-11-08T17:00:00+01:00",
+              "data": "08/11/2026",
+              "ora": "17:00",
               "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-08T17:00",
+                  "fonte": "dizzle+tv8"
+                },
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-06T18:00",
-                  "fonte": "dizzle+config"
+                  "orario": "2026-11-08T17:00",
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-06T18:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "",
+                  "orario": "2026-11-08T17:00",
                   "fonte": "config"
                 }
               ],
@@ -4727,7 +4518,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-10-31T06:00",
+                  "orario": "2026-10-31T06:40",
                   "programma": "GP Malesia: Qualifiche",
                   "fonte": "tv8"
                 }
@@ -4751,7 +4542,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-10-31T06:00",
+                  "orario": "2026-10-31T06:40",
                   "programma": "GP Malesia: Qualifiche",
                   "fonte": "tv8"
                 }
@@ -5163,7 +4954,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 81,
+      "totale": 82,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -5519,6 +5310,12 @@
                   ]
                 },
                 {
+                  "paese": "Georgia",
+                  "canali": [
+                    "Silk Universal"
+                  ]
+                },
+                {
                   "paese": "Germania",
                   "canali": [
                     "DAZN Deutschland",
@@ -5601,7 +5398,8 @@
                 {
                   "paese": "Iran",
                   "canali": [
-                    "Thmanyah"
+                    "Thmanyah",
+                    "Persiana Sports 2"
                   ]
                 },
                 {
@@ -5678,6 +5476,7 @@
                   "canali": [
                     "Tring Sport 1",
                     "ART Sport 1",
+                    "ArtMotion",
                     "Arena 4 Premium",
                     "TV Vala Kosovo Telecom"
                   ]
@@ -6009,6 +5808,7 @@
                 {
                   "paese": "Sudafrica",
                   "canali": [
+                    "MáXimo 360",
                     "DStv App",
                     "SuperSport Football",
                     "SuperSport Football Plus"
@@ -6053,7 +5853,8 @@
                 {
                   "paese": "Suriname",
                   "canali": [
-                    "SCCN"
+                    "SCCN",
+                    "TV2 Suriname"
                   ]
                 },
                 {
@@ -6085,6 +5886,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -6273,6 +6075,7 @@
                 {
                   "paese": "Armenia",
                   "canali": [
+                    "Fast Sports 1",
                     "FAST TV"
                   ]
                 },
@@ -6545,7 +6348,8 @@
                 {
                   "paese": "Georgia",
                   "canali": [
-                    "Silk Sport HD 1"
+                    "Silk Sport HD 1",
+                    "Silk Universal"
                   ]
                 },
                 {
@@ -6629,7 +6433,8 @@
                 {
                   "paese": "Iran",
                   "canali": [
-                    "Thmanyah"
+                    "Thmanyah",
+                    "Persiana Sports 2"
                   ]
                 },
                 {
@@ -6705,6 +6510,7 @@
                   "canali": [
                     "Tring Sport 1",
                     "ART Sport 1",
+                    "ArtMotion",
                     "Arena 4 Premium",
                     "TV Vala Kosovo Telecom"
                   ]
@@ -6926,8 +6732,10 @@
                 {
                   "paese": "Polonia",
                   "canali": [
+                    "Polsat Box Go",
                     "Eleven Sports 1 Poland",
-                    "Canal+"
+                    "Canal+",
+                    "Polsat Sport Extra"
                   ]
                 },
                 {
@@ -7047,6 +6855,7 @@
                 {
                   "paese": "Sudafrica",
                   "canali": [
+                    "MáXimo 360",
                     "DStv App",
                     "SuperSport Football"
                   ]
@@ -7120,6 +6929,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -7558,6 +7368,12 @@
                   ]
                 },
                 {
+                  "paese": "Repubblica Ceca",
+                  "canali": [
+                    "Sport 1 CZ"
+                  ]
+                },
+                {
                   "paese": "Costa d'Avorio",
                   "canali": [
                     "DStv Now",
@@ -7787,6 +7603,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "ONE2"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -7893,7 +7715,8 @@
                 {
                   "paese": "Macao",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Macau Cable TV 34 Football"
                   ]
                 },
                 {
@@ -8247,6 +8070,12 @@
                   ]
                 },
                 {
+                  "paese": "Slovacchia",
+                  "canali": [
+                    "Sport 1 SK"
+                  ]
+                },
+                {
                   "paese": "Slovenia",
                   "canali": [
                     "Arena Sport 3 Slovenia"
@@ -8360,6 +8189,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -8546,7 +8376,15 @@
                   "paese": "Andorra",
                   "canali": [
                     "DAZN Spain",
-                    "DAZN France"
+                    "DAZN France",
+                    "ZAP"
+                  ]
+                },
+                {
+                  "paese": "Angola",
+                  "canali": [
+                    "ZAP",
+                    "ZSPORT 1"
                   ]
                 },
                 {
@@ -8695,6 +8533,12 @@
                   ]
                 },
                 {
+                  "paese": "Capo Verde",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Isole Cayman",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -8756,6 +8600,12 @@
                   "canali": [
                     "Cytavision on the Go",
                     "Cytavision Sports 4"
+                  ]
+                },
+                {
+                  "paese": "Repubblica Ceca",
+                  "canali": [
+                    "Sport 1 CZ"
                   ]
                 },
                 {
@@ -8874,6 +8724,12 @@
                   ]
                 },
                 {
+                  "paese": "Guinea-Bissau",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Haiti",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -8930,6 +8786,12 @@
                   "paese": "Irlanda",
                   "canali": [
                     "DAZN UK"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "ONE2"
                   ]
                 },
                 {
@@ -9044,7 +8906,8 @@
                 {
                   "paese": "Macao",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Macau Cable TV 34 Football"
                   ]
                 },
                 {
@@ -9140,6 +9003,12 @@
                   ]
                 },
                 {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
@@ -9213,8 +9082,10 @@
                 {
                   "paese": "Polonia",
                   "canali": [
+                    "Polsat Box Go",
                     "Canal+",
-                    "Eleven Sports 4 Poland"
+                    "Eleven Sports 3 Poland",
+                    "Polsat Sport Premium 2"
                   ]
                 },
                 {
@@ -9306,6 +9177,12 @@
                   ]
                 },
                 {
+                  "paese": "Slovacchia",
+                  "canali": [
+                    "Sport 1 SK"
+                  ]
+                },
+                {
                   "paese": "Slovenia",
                   "canali": [
                     "Arena Sport 3 Slovenia"
@@ -9390,6 +9267,12 @@
                   ]
                 },
                 {
+                  "paese": "São Tomé and Príncipe",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Tajikistan",
                   "canali": [
                     "Q League"
@@ -9404,6 +9287,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -9835,6 +9719,12 @@
                   ]
                 },
                 {
+                  "paese": "Repubblica Ceca",
+                  "canali": [
+                    "Sport 1 CZ"
+                  ]
+                },
+                {
                   "paese": "Danimarca",
                   "canali": [
                     "TV2 Play Denmark",
@@ -10024,6 +9914,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "ONE2"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -10138,7 +10034,8 @@
                 {
                   "paese": "Macao",
                   "canali": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Macau Cable TV 34 Football"
                   ]
                 },
                 {
@@ -10416,6 +10313,12 @@
                   ]
                 },
                 {
+                  "paese": "Slovacchia",
+                  "canali": [
+                    "Sport 1 SK"
+                  ]
+                },
+                {
                   "paese": "Slovenia",
                   "canali": [
                     "Arena Sport 1 Slovenia"
@@ -10518,6 +10421,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -10806,231 +10710,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 18,
+          "totale": 19,
           "eventi": [
-            {
-              "titolo": "Serie B: Pisa vs Palermo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Pisa vs Palermo",
-              "inizio": "2026-10-29T09:30:00+01:00",
-              "data": "29/10/2026",
-              "ora": "09:30",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-29T09:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-29T09:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Juve Stabia vs Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Juve Stabia vs Verona",
-              "inizio": "2026-10-29T11:30:00+01:00",
-              "data": "29/10/2026",
-              "ora": "11:30",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-29T11:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-29T11:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Ascoli vs Sampdoria",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Ascoli vs Sampdoria",
-              "inizio": "2026-10-29T13:30:00+01:00",
-              "data": "29/10/2026",
-              "ora": "13:30",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-29T13:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-29T13:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Bielorussia",
-                  "canali": [
-                    "Sporttv"
-                  ]
-                },
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "DCTV",
-                    "FOX One"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Pisa vs Palermo",
               "categoria": "Calcio",
@@ -11113,48 +10794,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11414,27 +11054,6 @@
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "5 Live",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T19:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Blue Sport 3 Live",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T19:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Blue Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T19:30",
-                  "fonte": "livesoccer"
-                },
-                {
                   "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
@@ -11449,7 +11068,42 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5 Live"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -11699,6 +11353,185 @@
               ],
               "canali_mondo": [],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Sampdoria vs Virtus Entella",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Sampdoria vs Virtus Entella",
+              "inizio": "2026-11-02T13:00:00+01:00",
+              "data": "02/11/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Fox Soccer Plus",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T13:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T13:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T13:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Palermo vs Lr Vicenza",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Palermo vs Lr Vicenza",
+              "inizio": "2026-11-02T15:00:00+01:00",
+              "data": "02/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Fox Soccer Plus",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T15:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Cremonese vs Benevento",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Cremonese vs Benevento",
+              "inizio": "2026-11-04T06:30:00+01:00",
+              "data": "04/11/2026",
+              "ora": "06:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-04T06:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-04T06:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Plus"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Sampdoria vs Virtus Entella",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Sampdoria vs Virtus Entella",
+              "inizio": "2026-11-04T08:30:00+01:00",
+              "data": "04/11/2026",
+              "ora": "08:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-04T08:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-04T08:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
             }
           ]
         },
@@ -11885,7 +11718,22 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -12994,77 +12842,8 @@
     },
     {
       "nome": "Tennis",
-      "totale": 19,
+      "totale": 18,
       "sottocartelle": [
-        {
-          "nome": "ATP & WTA",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-29T13:30:00+01:00",
-              "data": "29/10/2026",
-              "ora": "13:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-29T13:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-30T06:00:00+01:00",
-              "data": "30/10/2026",
-              "ora": "06:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T06:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP & WTA",
-              "categoria": "Tennis",
-              "sottocartella": "ATP & WTA",
-              "sport": "Tennis",
-              "competizione": "ATP & WTA",
-              "evento": "ATP & WTA",
-              "inizio": "2026-10-30T13:30:00+01:00",
-              "data": "30/10/2026",
-              "ora": "13:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T13:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "WTA 500 Tokyo",
           "totale": 3,
@@ -13127,6 +12906,54 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-01T04:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP & WTA",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-30T06:00:00+01:00",
+              "data": "30/10/2026",
+              "ora": "06:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-30T06:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP & WTA",
+              "categoria": "Tennis",
+              "sottocartella": "ATP & WTA",
+              "sport": "Tennis",
+              "competizione": "ATP & WTA",
+              "evento": "ATP & WTA",
+              "inizio": "2026-10-30T13:30:00+01:00",
+              "data": "30/10/2026",
+              "ora": "13:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-10-30T13:30",
                   "fonte": "virgilio"
                 }
               ],
