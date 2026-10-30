@@ -1,86 +1,16 @@
 {
-  "aggiornato": "2026-10-30T16:39:52+01:00",
+  "aggiornato": "2026-10-30T19:01:44+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 239,
+  "totale": 238,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 9,
+      "totale": 8,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie B: Juve Stabia vs Verona",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Juve Stabia vs Verona",
-          "inizio": "2026-10-30T15:00:00+01:00",
-          "data": "30/10/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-30T15:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-30T15:00",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Internazionale",
-              "canali": [
-                "Onefootball"
-              ]
-            },
-            {
-              "paese": "Israele",
-              "canali": [
-                "5Plus"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
         {
           "titolo": "[Calcio] Primavera 1: Inter-Roma",
           "categoria": "Calcio",
@@ -1904,7 +1834,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-11-01T14:00",
+                  "orario": "2026-11-01T13:55",
                   "fonte": "config+tv8"
                 }
               ],
@@ -2759,7 +2689,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-11-01T11:00",
+                  "orario": "2026-11-01T10:50",
                   "programma": "GP Malesia: Gara",
                   "fonte": "tv8"
                 }
@@ -2783,7 +2713,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-11-01T11:00",
+                  "orario": "2026-11-01T10:50",
                   "programma": "GP Malesia: Gara",
                   "fonte": "tv8"
                 }
@@ -3147,7 +3077,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 108,
+      "totale": 107,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -9743,78 +9673,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 19,
+          "totale": 18,
           "eventi": [
-            {
-              "titolo": "Serie B: Juve Stabia vs Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Juve Stabia vs Verona",
-              "inizio": "2026-10-30T15:00:00+01:00",
-              "data": "30/10/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-30T15:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T15:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Plus"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Cremonese vs Benevento",
               "categoria": "Calcio",
