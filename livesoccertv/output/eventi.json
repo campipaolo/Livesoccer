@@ -9,34 +9,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Internazionale",
-          "canali": [
-            "Onefootball"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -44,9 +17,8 @@
       "data": "2026-10-30",
       "ora": "15:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
@@ -488,7 +460,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -779,6 +752,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -1447,6 +1421,18 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
           "paese": "Israele",
           "canali": [
             "5Plus"
@@ -1491,6 +1477,7 @@
           "canali": [
             "Fox Soccer Plus",
             "fuboTV",
+            "DCTV",
             "FOX One"
           ]
         }
@@ -1506,6 +1493,12 @@
         "LAB Channel"
       ],
       "canali_mondo": [
+        {
+          "paese": "Internazionale",
+          "canali": [
+            "Onefootball"
+          ]
+        },
         {
           "paese": "Italia",
           "canali": [
@@ -1533,6 +1526,12 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Internazionale",
+          "canali": [
+            "Onefootball"
+          ]
+        },
+        {
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
@@ -1558,6 +1557,12 @@
         "LAB Channel"
       ],
       "canali_mondo": [
+        {
+          "paese": "Internazionale",
+          "canali": [
+            "Onefootball"
+          ]
+        },
         {
           "paese": "Italia",
           "canali": [
@@ -1641,6 +1646,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "Fast Sports 2",
             "FAST TV",
             "Q League"
           ]
@@ -1661,7 +1667,8 @@
         {
           "paese": "Austria",
           "canali": [
-            "DAZN Austria"
+            "DAZN Austria",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -1839,7 +1846,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -1924,7 +1932,8 @@
         {
           "paese": "Germania",
           "canali": [
-            "DAZN Deutschland"
+            "DAZN Deutschland",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -2079,6 +2088,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 3",
+            "ArtMotion",
             "Arena 5 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -2327,7 +2337,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV2"
+            "Sport TV2",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -2656,6 +2667,18 @@
       ],
       "canali_mondo": [
         {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
           "paese": "Israele",
           "canali": [
             "5 Live"
@@ -2687,6 +2710,12 @@
           "canali": [
             "Blue Sport 3 Live",
             "Blue Sport"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "DCTV"
           ]
         }
       ]
@@ -2763,6 +2792,7 @@
         {
           "paese": "Armenia",
           "canali": [
+            "Fast Sports",
             "FAST TV",
             "Q League"
           ]
@@ -2783,7 +2813,8 @@
         {
           "paese": "Austria",
           "canali": [
-            "DAZN Austria"
+            "DAZN Austria",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -2967,7 +2998,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -3054,7 +3086,8 @@
         {
           "paese": "Germania",
           "canali": [
-            "DAZN Deutschland"
+            "DAZN Deutschland",
+            "DAZN2 Germany"
           ]
         },
         {
@@ -3221,6 +3254,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 1",
+            "ArtMotion",
             "Arena 1 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -3800,9 +3834,8 @@
       "data": "2026-10-31",
       "ora": "21:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
@@ -3812,9 +3845,8 @@
       "data": "2026-11-01",
       "ora": "01:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
@@ -3906,7 +3938,8 @@
         {
           "paese": "Austria",
           "canali": [
-            "DAZN Austria"
+            "DAZN Austria",
+            "DAZN1 Germany"
           ]
         },
         {
@@ -4081,7 +4114,8 @@
         {
           "paese": "Repubblica Ceca",
           "canali": [
-            "Sport 1 CZ"
+            "Sport 1 CZ",
+            "OnePlay"
           ]
         },
         {
@@ -4160,7 +4194,8 @@
         {
           "paese": "Germania",
           "canali": [
-            "DAZN Deutschland"
+            "DAZN Deutschland",
+            "DAZN1 Germany"
           ]
         },
         {
@@ -4311,6 +4346,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 2",
+            "ArtMotion",
             "Arena 2 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -5276,6 +5312,7 @@
           "canali": [
             "Tring Sport 1",
             "ART Sport 3",
+            "ArtMotion",
             "Arena 4 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -5660,6 +5697,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 4"
           ]
         },
@@ -5724,9 +5762,8 @@
       "data": "2026-11-02",
       "ora": "13:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
@@ -5743,14 +5780,28 @@
       "canali_mondo": []
     },
     {
+      "competizione": "Serie A",
+      "titolo": "Sassuolo vs Fiorentina",
+      "data": "2026-11-02",
+      "ora": "21:30",
+      "canali": [
+        "DAZN Italia",
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "Sky Sport Calcio",
+        "NOW TV",
+        "DAZN1"
+      ],
+      "canali_mondo": []
+    },
+    {
       "competizione": "Serie B",
       "titolo": "Cremonese vs Benevento",
       "data": "2026-11-04",
       "ora": "06:30",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
@@ -5760,11 +5811,63 @@
       "data": "2026-11-04",
       "ora": "08:30",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Gran Bretagna",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Irlanda",
+          "canali": [
+            "DCTV"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "5 Live"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "DCTV"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -5772,7 +5875,9 @@
       "data": "2026-11-04",
       "ora": "10:30",
       "canali": [
-        "Fox Soccer Plus"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
       "canali_mondo": []
     }
