@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-30T02:01:32+01:00",
+  "aggiornato": "2026-10-30T02:45:44+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -202,14 +202,21 @@
           "ora": "15:00",
           "canali": [
             {
-              "nome": "DAZN Italia",
+              "nome": "Fox Soccer Plus",
               "numero": "",
-              "tipo": "streaming",
+              "tipo": "diretta",
               "orario": "2026-10-30T15:00",
               "fonte": "livesoccer"
             },
             {
-              "nome": "LAB Channel",
+              "nome": "fuboTV",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-10-30T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "FOX One",
               "numero": "",
               "tipo": "diretta",
               "orario": "2026-10-30T15:00",
@@ -5385,6 +5392,12 @@
                   ]
                 },
                 {
+                  "paese": "Portogallo",
+                  "canali": [
+                    "Sport TV2"
+                  ]
+                },
+                {
                   "paese": "Porto Rico",
                   "canali": [
                     "CBS",
@@ -8998,14 +9011,21 @@
               "ora": "15:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-10-30T15:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-30T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-30T15:00",
@@ -9336,14 +9356,21 @@
               "ora": "21:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-10-31T21:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-10-31T21:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-10-31T21:00",
@@ -9542,14 +9569,21 @@
               "ora": "13:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-11-02T13:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-02T13:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-02T13:00",
@@ -9607,14 +9641,21 @@
               "ora": "06:30",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-11-04T06:30",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-04T06:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-04T06:30",
@@ -9636,14 +9677,21 @@
               "ora": "08:30",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-11-04T08:30",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-04T08:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-04T08:30",
