@@ -1,67 +1,16 @@
 {
-  "aggiornato": "2026-10-31T01:38:26+01:00",
+  "aggiornato": "2026-10-31T06:44:38+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 248,
+  "totale": 245,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 43,
+      "totale": 41,
       "eventi": [
-        {
-          "titolo": "[Calcio] Liga Profesional: Racing-Aldosivi",
-          "categoria": "Calcio",
-          "sottocartella": "Liga Profesional",
-          "sport": "Calcio",
-          "competizione": "Liga Profesional",
-          "evento": "Racing-Aldosivi",
-          "inizio": "2026-10-31T01:15:00+01:00",
-          "data": "31/10/2026",
-          "ora": "01:15",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-10-31T01:15",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Malaysian Grand Prix - FP2",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Malaysian Grand Prix - FP2",
-          "sessione": "prove",
-          "circuito": "Sepang International Circuit, Sepang, Malaysia",
-          "inizio": "2026-10-31T03:10:00+01:00",
-          "data": "31/10/2026",
-          "ora": "03:10",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-10-31T03:10",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-10-31T03:10",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
         {
           "titolo": "[Motori] MotoGP: Malaysian Grand Prix - Q1",
           "categoria": "Motori",
@@ -4972,56 +4921,12 @@
     },
     {
       "nome": "Motori",
-      "totale": 89,
+      "totale": 87,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 24,
+          "totale": 23,
           "eventi": [
-            {
-              "titolo": "Formula 1: Mexico City Grand Prix - FP2",
-              "categoria": "Motori",
-              "sottocartella": "Formula 1",
-              "sport": "Motori",
-              "competizione": "Formula 1",
-              "evento": "Mexico City Grand Prix - FP2",
-              "sessione": "prove",
-              "circuito": "Autódromo Hermanos Rodríguez, Mexico City, Mexico",
-              "inizio": "2026-10-30T23:00:00+01:00",
-              "data": "30/10/2026",
-              "ora": "23:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport F1",
-                  "numero": "207",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T23:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-30T23:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T23:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "Sky Sport 4K",
-                  "numero": "213",
-                  "tipo": "diretta",
-                  "orario": "2026-10-30T23:00",
-                  "fonte": "config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "Formula 1: Mexico City Grand Prix - FP3",
               "categoria": "Motori",
@@ -6240,38 +6145,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 30,
+          "totale": 29,
           "eventi": [
-            {
-              "titolo": "MotoGP: Malaysian Grand Prix - FP2",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Malaysian Grand Prix - FP2",
-              "sessione": "prove",
-              "circuito": "Sepang International Circuit, Sepang, Malaysia",
-              "inizio": "2026-10-31T03:10:00+01:00",
-              "data": "31/10/2026",
-              "ora": "03:10",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T03:10",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-10-31T03:10",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Malaysian Grand Prix - Q1",
               "categoria": "Motori",
@@ -7687,7 +7562,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 112,
+      "totale": 111,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -14699,75 +14574,6 @@
           ]
         },
         {
-          "nome": "Liga Profesional",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "Liga Profesional: Racing-Aldosivi",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Racing-Aldosivi",
-              "inizio": "2026-10-31T01:15:00+01:00",
-              "data": "31/10/2026",
-              "ora": "01:15",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-10-31T01:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Boca Juniors-River Plate",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Boca Juniors-River Plate",
-              "inizio": "2026-11-01T19:00:00+01:00",
-              "data": "01/11/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-01T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Liga Profesional: Argentinos Juniors-Independiente Rivadavia",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Argentinos Juniors-Independiente Rivadavia",
-              "inizio": "2026-11-03T04:00:00+01:00",
-              "data": "03/11/2026",
-              "ora": "04:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T04:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Primavera 1",
           "totale": 8,
           "eventi": [
@@ -15237,6 +15043,54 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-01T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Liga Profesional",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "Liga Profesional: Boca Juniors-River Plate",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Boca Juniors-River Plate",
+              "inizio": "2026-11-01T19:00:00+01:00",
+              "data": "01/11/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-01T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Liga Profesional: Argentinos Juniors-Independiente Rivadavia",
+              "categoria": "Calcio",
+              "sottocartella": "Liga Profesional",
+              "sport": "Calcio",
+              "competizione": "Liga Profesional",
+              "evento": "Argentinos Juniors-Independiente Rivadavia",
+              "inizio": "2026-11-03T04:00:00+01:00",
+              "data": "03/11/2026",
+              "ora": "04:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-03T04:00",
                   "fonte": "virgilio"
                 }
               ],
