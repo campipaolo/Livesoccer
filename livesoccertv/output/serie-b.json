@@ -117,15 +117,43 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-virtus-entella/6mgz2#5824636"
     },
     {
+      "title": "[COLOR yellow]14:00[/COLOR] Cremonese vs Benevento",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/benevento-vs-cremonese/dwy68#5827467"
+    },
+    {
       "title": "[COLOR yellow]15:00[/COLOR] Palermo vs Lr Vicenza",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
         "fuboTV",
         "FOX One"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-lr-vicenza/232f38gbc#5824637"
+      "info": "Serie B\nCanali: fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-lr-vicenza/232f38gbc#5824637"
+    },
+    {
+      "title": "[COLOR yellow]16:00[/COLOR] Sampdoria vs Virtus Entella",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-virtus-entella/6mgz2#5827468"
+    },
+    {
+      "title": "[COLOR yellow]18:00[/COLOR] Palermo vs Lr Vicenza",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Fox Soccer Plus"
+      ],
+      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/palermo-vs-lr-vicenza/232f38gbc#5827469"
     },
     {
       "title": "[COLOR cyan]Mercoledi 4 Novembre[/COLOR]",
@@ -148,22 +176,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-virtus-entella/6mgz2#5825240"
-    },
-    {
-      "title": "[COLOR yellow]10:30[/COLOR] Palermo vs Lr Vicenza",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
-      ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-lr-vicenza/232f38gbc#5825835"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-virtus-entella/6mgz2#5825240"
     }
   ]
 }
