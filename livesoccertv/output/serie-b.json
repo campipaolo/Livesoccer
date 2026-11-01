@@ -14,7 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]15:00[/COLOR] Arezzo vs Ascoli",
+      "title": "[COLOR red]15:00[/COLOR] Arezzo vs Ascoli [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -24,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/ascoli-vs-arezzo/ann2n#5742556"
     },
     {
-      "title": "[COLOR yellow]15:00[/COLOR] Avellino vs Pisa",
+      "title": "[COLOR red]15:00[/COLOR] Avellino vs Pisa [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -34,7 +34,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/pisa-vs-avellino/dulv1#5742557"
     },
     {
-      "title": "[COLOR yellow]15:00[/COLOR] Empoli vs Juve Stabia",
+      "title": "[COLOR gray]15:00[/COLOR] Empoli vs Juve Stabia [COLOR gray]2:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -132,11 +132,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-virtus-entella/6mgz2#5825240"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-virtus-entella/6mgz2#5825240"
     },
     {
       "title": "[COLOR yellow]10:30[/COLOR] Palermo vs Lr Vicenza",
@@ -148,6 +147,25 @@
         "FOX One"
       ],
       "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-lr-vicenza/232f38gbc#5825835"
+    },
+    {
+      "title": "[COLOR cyan]Venerdi 6 Novembre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]20:30[/COLOR] Ascoli vs Palermo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One",
+        "DAZN Italia",
+        "Arena Sport 7 Serbia"
+      ],
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One, DAZN Italia, Arena Sport 7 Serbia\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5742566"
     },
     {
       "title": "[COLOR cyan]Sabato 7 Novembre[/COLOR]",
@@ -164,6 +182,26 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5827485"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Calcio Padova vs Empoli",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/calcio-padova-vs-empoli/4p8uq#5742574"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Cesena vs Catanzaro",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-catanzaro/8sp2g#5742569"
     }
   ]
 }
