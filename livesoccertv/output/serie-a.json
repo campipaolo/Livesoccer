@@ -24,7 +24,7 @@
       "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/como-vs-venezia/g5h2e#5653972"
     },
     {
-      "title": "[COLOR red]15:00[/COLOR] Frosinone vs Torino [COLOR red]LIVE[/COLOR]",
+      "title": "[COLOR gray]15:00[/COLOR] Frosinone vs Torino [COLOR gray]2:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -34,7 +34,7 @@
       "info": "Serie A\nCanali: DAZN Italia, DAZN2\nhttps://www.livesoccertv.com/it/match/frosinone-vs-torino/4q9ph#5653973"
     },
     {
-      "title": "[COLOR red]15:00[/COLOR] Lazio vs Cagliari [COLOR red]LIVE[/COLOR]",
+      "title": "[COLOR gray]15:00[/COLOR] Lazio vs Cagliari [COLOR gray]2:1[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -44,7 +44,7 @@
       "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/cagliari-vs-lazio/1x14l#5653975"
     },
     {
-      "title": "[COLOR yellow]18:00[/COLOR] Lecce vs Genoa",
+      "title": "[COLOR gray]18:00[/COLOR] Lecce vs Genoa [COLOR gray]1:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -57,7 +57,7 @@
       "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/genoa-vs-lecce/35yy5#5653976"
     },
     {
-      "title": "[COLOR yellow]20:45[/COLOR] Juventus vs Napoli",
+      "title": "[COLOR red]20:45[/COLOR] Juventus vs Napoli [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -128,6 +128,30 @@
         "NOW TV"
       ],
       "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/udinese-vs-venezia/8625q#5653988"
+    },
+    {
+      "title": "[COLOR cyan]Sabato 7 Novembre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Cagliari vs Frosinone",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia"
+      ],
+      "info": "Serie A\nCanali: DAZN Italia\nhttps://www.livesoccertv.com/it/match/cagliari-vs-frosinone/35jv6#5653980"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Torino vs Lecce",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia"
+      ],
+      "info": "Serie A\nCanali: DAZN Italia\nhttps://www.livesoccertv.com/it/match/lecce-vs-torino/4qfuy#5653987"
     }
   ]
 }

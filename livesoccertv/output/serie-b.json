@@ -14,7 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR red]15:00[/COLOR] Arezzo vs Ascoli [COLOR red]LIVE[/COLOR]",
+      "title": "[COLOR gray]15:00[/COLOR] Arezzo vs Ascoli [COLOR gray]0:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -24,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/ascoli-vs-arezzo/ann2n#5742556"
     },
     {
-      "title": "[COLOR red]15:00[/COLOR] Avellino vs Pisa [COLOR red]LIVE[/COLOR]",
+      "title": "[COLOR gray]15:00[/COLOR] Avellino vs Pisa [COLOR gray]2:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -38,13 +38,14 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
+        "Onefootball",
         "DAZN Italia",
         "LAB Channel"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/empoli-vs-juve-stabia/66net#5742560"
+      "info": "Serie B\nCanali: Onefootball, DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/empoli-vs-juve-stabia/66net#5742560"
     },
     {
-      "title": "[COLOR yellow]17:15[/COLOR] Verona vs Carrarese",
+      "title": "[COLOR gray]17:15[/COLOR] Verona vs Carrarese [COLOR gray]3:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -54,7 +55,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-carrarese/aoec6#5742565"
     },
     {
-      "title": "[COLOR yellow]19:30[/COLOR] Palermo vs Vicenza",
+      "title": "[COLOR red]19:30[/COLOR] Palermo vs Vicenza [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -159,13 +160,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One",
         "DAZN Italia",
-        "Arena Sport 7 Serbia"
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One, DAZN Italia, Arena Sport 7 Serbia\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5742566"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5742566"
     },
     {
       "title": "[COLOR cyan]Sabato 7 Novembre[/COLOR]",
@@ -202,6 +200,26 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-catanzaro/8sp2g#5742569"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Juve Stabia vs Arezzo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/juve-stabia-vs-arezzo/cuglu#5742571"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Pisa vs Südtirol",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/pisa-vs-sudtirol/dw2ja#5742575"
     }
   ]
 }
