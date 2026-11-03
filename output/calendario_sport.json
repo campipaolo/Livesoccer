@@ -1,114 +1,16 @@
 {
-  "aggiornato": "2026-11-03T18:04:17+01:00",
+  "aggiornato": "2026-11-03T22:36:03+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 211,
+  "totale": 207,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 12,
+      "totale": 8,
       "eventi": [
-        {
-          "titolo": "[Calcio] UEFA Champions League: Galatasaray-Stoccarda",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Galatasaray-Stoccarda",
-          "inizio": "2026-11-03T18:45:00+01:00",
-          "data": "03/11/2026",
-          "ora": "18:45",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T18:45",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T18:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Champions League: Shakhtar Donetsk-Sporting",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Shakhtar Donetsk-Sporting",
-          "inizio": "2026-11-03T18:45:00+01:00",
-          "data": "03/11/2026",
-          "ora": "18:45",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T18:45",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T18:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] Eurocup: PAOK Thessaloniki-BC Roma",
-          "categoria": "Basket",
-          "sottocartella": "Eurocup",
-          "sport": "Basket",
-          "competizione": "Eurocup",
-          "evento": "PAOK Thessaloniki-BC Roma",
-          "inizio": "2026-11-03T19:00:00+01:00",
-          "data": "03/11/2026",
-          "ora": "19:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Mix",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T19:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 2a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Parigi-Bercy",
-          "evento": "2a giornata",
-          "inizio": "2026-11-03T19:00:00+01:00",
-          "data": "03/11/2026",
-          "ora": "19:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T19:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Basket] Eurocup: Napoli Basket-Aquila Trento",
           "categoria": "Basket",
@@ -2573,7 +2475,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 97,
+      "totale": 95,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -2862,6 +2764,13 @@
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
                   ]
                 },
                 {
@@ -3456,7 +3365,8 @@
                 {
                   "paese": "Svezia",
                   "canali": [
-                    "TV4 Play"
+                    "TV4 Play",
+                    "TV4 Sportkanalen"
                   ]
                 },
                 {
@@ -3529,6 +3439,12 @@
                   "paese": "Uganda",
                   "canali": [
                     "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Ucraina",
+                  "canali": [
+                    "MEGOGO Football 4"
                   ]
                 },
                 {
@@ -3787,6 +3703,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -3855,6 +3777,13 @@
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
                   ]
                 },
                 {
@@ -4099,6 +4028,13 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -4374,7 +4310,8 @@
                 {
                   "paese": "Svezia",
                   "canali": [
-                    "TV4 Play"
+                    "TV4 Play",
+                    "TV4 Sport Live 3"
                   ]
                 },
                 {
@@ -4676,6 +4613,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Burkina Faso",
                   "canali": [
                     "DStv Now",
@@ -4858,6 +4801,12 @@
                   "canali": [
                     "DStv Now",
                     "SS OTT 2"
+                  ]
+                },
+                {
+                  "paese": "Estonia",
+                  "canali": [
+                    "Go3 Sport 1"
                   ]
                 },
                 {
@@ -5074,6 +5023,12 @@
                   ]
                 },
                 {
+                  "paese": "Lettonia",
+                  "canali": [
+                    "Go3 Sport 1"
+                  ]
+                },
+                {
                   "paese": "Libano",
                   "canali": [
                     "STARZPLAY",
@@ -5109,6 +5064,12 @@
                   ]
                 },
                 {
+                  "paese": "Lituania",
+                  "canali": [
+                    "Go3 Sport 1"
+                  ]
+                },
+                {
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
@@ -5133,6 +5094,13 @@
                     "DStv Now",
                     "SS OTT 2",
                     "ZBC 2 Tanzania"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Stadium"
                   ]
                 },
                 {
@@ -5316,6 +5284,12 @@
                   ]
                 },
                 {
+                  "paese": "Portogallo",
+                  "canali": [
+                    "Sport TV3"
+                  ]
+                },
+                {
                   "paese": "Porto Rico",
                   "canali": [
                     "Peacock",
@@ -5339,7 +5313,8 @@
                 {
                   "paese": "Romania",
                   "canali": [
-                    "Prima Sport 4"
+                    "Prima Sport 4",
+                    "Prima Play"
                   ]
                 },
                 {
@@ -5502,7 +5477,8 @@
                 {
                   "paese": "Svezia",
                   "canali": [
-                    "TV4 Play"
+                    "TV4 Play",
+                    "TV4 Sport Live 4"
                   ]
                 },
                 {
@@ -5816,6 +5792,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -5884,6 +5866,13 @@
                   "paese": "Cuba",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
                   ]
                 },
                 {
@@ -6148,6 +6137,13 @@
                   "paese": "Malawi",
                   "canali": [
                     "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -6448,7 +6444,8 @@
                 {
                   "paese": "Svezia",
                   "canali": [
-                    "TV4 Play"
+                    "TV4 Play",
+                    "TV4 Sportkanalen"
                   ]
                 },
                 {
@@ -6855,6 +6852,13 @@
                   ]
                 },
                 {
+                  "paese": "Cipro",
+                  "canali": [
+                    "Cytavision on the Go",
+                    "Cytavision Sports 4"
+                  ]
+                },
+                {
                   "paese": "Repubblica Ceca",
                   "canali": [
                     "Sport 1 CZ",
@@ -6906,6 +6910,12 @@
                   "paese": "El Salvador",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Estonia",
+                  "canali": [
+                    "Go3 Sport Open"
                   ]
                 },
                 {
@@ -7006,6 +7016,7 @@
                 {
                   "paese": "Indonesia",
                   "canali": [
+                    "ANTV",
                     "Vidio"
                   ]
                 },
@@ -7107,6 +7118,12 @@
                   ]
                 },
                 {
+                  "paese": "Lettonia",
+                  "canali": [
+                    "Go3 Sport Open"
+                  ]
+                },
+                {
                   "paese": "Libano",
                   "canali": [
                     "STARZPLAY",
@@ -7125,6 +7142,12 @@
                   "paese": "Liechtenstein",
                   "canali": [
                     "DAZN Deutschland"
+                  ]
+                },
+                {
+                  "paese": "Lituania",
+                  "canali": [
+                    "Go3 Sport Open"
                   ]
                 },
                 {
@@ -7450,7 +7473,8 @@
                 {
                   "paese": "Svezia",
                   "canali": [
-                    "TV4 Play"
+                    "TV4 Play",
+                    "TV4 Fotball"
                   ]
                 },
                 {
@@ -7518,6 +7542,12 @@
                   "paese": "Uganda",
                   "canali": [
                     "Azam Sports 3 HD"
+                  ]
+                },
+                {
+                  "paese": "Ucraina",
+                  "canali": [
+                    "MEGOGO Football 4"
                   ]
                 },
                 {
@@ -7827,60 +7857,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5 Live"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "DCTV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -7974,6 +7951,12 @@
                   ]
                 },
                 {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live"
+                  ]
+                },
+                {
                   "paese": "Macedonia",
                   "canali": [
                     "Arena Cloud"
@@ -7997,6 +7980,12 @@
                   "canali": [
                     "Arena Sport 7 Serbia",
                     "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live"
                   ]
                 },
                 {
@@ -8036,62 +8025,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 7",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8120,62 +8054,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 7",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8522,10 +8401,22 @@
                   ]
                 },
                 {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 4 Live"
+                  ]
+                },
+                {
                   "paese": "San Marino",
                   "canali": [
                     "DAZN Italia",
                     "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 4 Live"
                   ]
                 },
                 {
@@ -8610,6 +8501,12 @@
                   ]
                 },
                 {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
                   "paese": "Mozambico",
                   "canali": [
                     "Sporty TV App"
@@ -8647,6 +8544,12 @@
                   ]
                 },
                 {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
                   "paese": "Tanzania",
                   "canali": [
                     "Sporty TV App"
@@ -8681,7 +8584,14 @@
               "ora": "22:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-09T22:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-09T22:00",
@@ -8762,6 +8672,12 @@
                   ]
                 },
                 {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 1 Live"
+                  ]
+                },
+                {
                   "paese": "Mozambico",
                   "canali": [
                     "Sporty TV App"
@@ -8796,6 +8712,12 @@
                   "paese": "Sudafrica",
                   "canali": [
                     "Sporty TV App"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 1 Live"
                   ]
                 },
                 {
@@ -8856,10 +8778,22 @@
                   ]
                 },
                 {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 4 Live"
+                  ]
+                },
+                {
                   "paese": "San Marino",
                   "canali": [
                     "DAZN Italia",
                     "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 4 Live"
                   ]
                 },
                 {
@@ -8905,22 +8839,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9236,64 +9155,8 @@
         },
         {
           "nome": "UEFA Champions League",
-          "totale": 18,
+          "totale": 16,
           "eventi": [
-            {
-              "titolo": "UEFA Champions League: Galatasaray-Stoccarda",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Galatasaray-Stoccarda",
-              "inizio": "2026-11-03T18:45:00+01:00",
-              "data": "03/11/2026",
-              "ora": "18:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T18:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T18:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Shakhtar Donetsk-Sporting",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Shakhtar Donetsk-Sporting",
-              "inizio": "2026-11-03T18:45:00+01:00",
-              "data": "03/11/2026",
-              "ora": "18:45",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T18:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T18:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "UEFA Champions League: Atletico Madrid-Bayern Monaco",
               "categoria": "Calcio",
@@ -10560,33 +10423,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 16,
+      "totale": 15,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Parigi-Bercy",
-          "totale": 12,
+          "totale": 11,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Parigi-Bercy: 2a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Parigi-Bercy",
-              "evento": "2a giornata",
-              "inizio": "2026-11-03T19:00:00+01:00",
-              "data": "03/11/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Parigi-Bercy: 3a giornata",
               "categoria": "Tennis",
@@ -10961,33 +10803,12 @@
     },
     {
       "nome": "Basket",
-      "totale": 11,
+      "totale": 10,
       "sottocartelle": [
         {
           "nome": "Eurocup",
-          "totale": 5,
+          "totale": 4,
           "eventi": [
-            {
-              "titolo": "Eurocup: PAOK Thessaloniki-BC Roma",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "PAOK Thessaloniki-BC Roma",
-              "inizio": "2026-11-03T19:00:00+01:00",
-              "data": "03/11/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Eurocup: Napoli Basket-Aquila Trento",
               "categoria": "Basket",
