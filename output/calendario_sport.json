@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-11-03T01:41:15+01:00",
+  "aggiornato": "2026-11-03T07:49:52+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 210,
+  "totale": 209,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 14,
       "eventi": [
-        {
-          "titolo": "[Calcio] Liga Profesional: Argentinos Juniors-Independiente Rivadavia",
-          "categoria": "Calcio",
-          "sottocartella": "Liga Profesional",
-          "sport": "Calcio",
-          "competizione": "Liga Profesional",
-          "evento": "Argentinos Juniors-Independiente Rivadavia",
-          "inizio": "2026-11-03T04:00:00+01:00",
-          "data": "03/11/2026",
-          "ora": "04:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T04:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 2a giornata",
           "categoria": "Tennis",
@@ -2650,7 +2629,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 95,
+      "totale": 94,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -8827,33 +8806,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-09T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Liga Profesional",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Liga Profesional: Argentinos Juniors-Independiente Rivadavia",
-              "categoria": "Calcio",
-              "sottocartella": "Liga Profesional",
-              "sport": "Calcio",
-              "competizione": "Liga Profesional",
-              "evento": "Argentinos Juniors-Independiente Rivadavia",
-              "inizio": "2026-11-03T04:00:00+01:00",
-              "data": "03/11/2026",
-              "ora": "04:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T04:00",
                   "fonte": "virgilio"
                 }
               ],
