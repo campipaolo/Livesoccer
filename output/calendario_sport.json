@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-11-03T16:57:32+01:00",
+  "aggiornato": "2026-11-03T18:04:17+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 212,
+  "totale": 211,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 13,
+      "totale": 12,
       "eventi": [
-        {
-          "titolo": "[Calcio] UEFA Youth League: Manchester United U19-Roma",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Youth League",
-          "sport": "Calcio",
-          "competizione": "UEFA Youth League",
-          "evento": "Manchester United U19-Roma",
-          "inizio": "2026-11-03T14:00:00+01:00",
-          "data": "03/11/2026",
-          "ora": "14:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-03T14:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] UEFA Champions League: Galatasaray-Stoccarda",
           "categoria": "Calcio",
@@ -2594,7 +2573,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 98,
+      "totale": 97,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -9256,33 +9235,6 @@
           ]
         },
         {
-          "nome": "UEFA Youth League",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "UEFA Youth League: Manchester United U19-Roma",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Youth League",
-              "sport": "Calcio",
-              "competizione": "UEFA Youth League",
-              "evento": "Manchester United U19-Roma",
-              "inizio": "2026-11-03T14:00:00+01:00",
-              "data": "03/11/2026",
-              "ora": "14:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-03T14:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "UEFA Champions League",
           "totale": 18,
           "eventi": [
@@ -9669,6 +9621,13 @@
               "ora": "21:00",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-04T21:00",
+                  "fonte": "virgilio"
+                },
+                {
                   "nome": "Sky Sport Calcio",
                   "numero": "",
                   "tipo": "diretta",
@@ -9678,13 +9637,6 @@
                 {
                   "nome": "Sky",
                   "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-04T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
                   "tipo": "diretta",
                   "orario": "2026-11-04T21:00",
                   "fonte": "virgilio"
@@ -10218,36 +10170,30 @@
           ]
         },
         {
-          "nome": "Saudi League",
-          "totale": 1,
+          "nome": "Primavera 1",
+          "totale": 4,
           "eventi": [
             {
-              "titolo": "Saudi League: Al Hazem-Al Nassr",
+              "titolo": "Primavera 1: Parma-Torino",
               "categoria": "Calcio",
-              "sottocartella": "Saudi League",
+              "sottocartella": "Primavera 1",
               "sport": "Calcio",
-              "competizione": "Saudi League",
-              "evento": "Al Hazem-Al Nassr",
-              "inizio": "2026-11-06T15:55:00+01:00",
+              "competizione": "Primavera 1",
+              "evento": "Parma-Torino",
+              "inizio": "2026-11-06T15:00:00+01:00",
               "data": "06/11/2026",
-              "ora": "15:55",
+              "ora": "15:00",
               "canali": [
                 {
                   "nome": "Sportitalia",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-06T15:55",
+                  "orario": "2026-11-06T15:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Primavera 1",
-          "totale": 3,
-          "eventi": [
+            },
             {
               "titolo": "Primavera 1: Sassuolo-Cesena",
               "categoria": "Calcio",
