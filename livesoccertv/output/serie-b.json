@@ -67,6 +67,16 @@
       "info": ""
     },
     {
+      "title": "[COLOR yellow]06:30[/COLOR] Ascoli vs Palermo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5829297"
+    },
+    {
       "title": "[COLOR yellow]07:30[/COLOR] Ascoli vs Palermo",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
@@ -141,6 +151,41 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/mantova-vs-verona/65yt9#5828446"
+    },
+    {
+      "title": "[COLOR yellow]22:00[/COLOR] Ascoli vs Palermo",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Fox Soccer Plus"
+      ],
+      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5829301"
+    },
+    {
+      "title": "[COLOR cyan]Martedi 10 Novembre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]00:00[/COLOR] Mantova vs Verona",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/mantova-vs-verona/65yt9#5829302"
+    },
+    {
+      "title": "[COLOR yellow]02:00[/COLOR] Carrarese vs Sampdoria",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-carrarese/6kgbs#5829303"
     }
   ]
 }
