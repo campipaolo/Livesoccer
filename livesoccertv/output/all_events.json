@@ -9,7 +9,7 @@
       "kickoff": "2026-11-04T06:30:00+01:00",
       "date": "2026-11-04",
       "time": "06:30",
-      "status": "upcoming",
+      "status": "finished",
       "score": "",
       "match_url": "https://www.livesoccertv.com/it/match/benevento-vs-cremonese/dwy68#5825239",
       "channels": [
@@ -24,69 +24,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Plus"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "DCTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5825240",
@@ -97,7 +35,7 @@
       "kickoff": "2026-11-04T08:30:00+01:00",
       "date": "2026-11-04",
       "time": "08:30",
-      "status": "upcoming",
+      "status": "live",
       "score": "",
       "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-virtus-entella/6mgz2#5825240",
       "channels": [
@@ -112,60 +50,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5 Live"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live",
-            "Blue Sport"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "DCTV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5825835",
@@ -246,7 +131,8 @@
         {
           "paese": "Liechtenstein",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -278,7 +164,8 @@
         {
           "paese": "Svizzera",
           "canali": [
-            "Blue Sport 3 Live"
+            "Blue Sport 3 Live",
+            "Blue Sport"
           ]
         },
         {
@@ -1104,7 +991,9 @@
         {
           "paese": "Romania",
           "canali": [
-            "Prima Sport 3"
+            "Orange TV Go",
+            "Prima Sport 3",
+            "Prima Play"
           ]
         },
         {
@@ -1321,6 +1210,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 4"
           ]
         },
@@ -1405,27 +1295,6 @@
       "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5829297",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
-          "stream": false
-        }
-      ],
-      "canali_mondo": []
-    },
-    {
-      "id": "5827485",
-      "competition": "Serie B",
-      "home": "Ascoli",
-      "away": "Palermo",
-      "title": "Ascoli vs Palermo",
-      "kickoff": "2026-11-07T07:30:00+01:00",
-      "date": "2026-11-07",
-      "time": "07:30",
-      "status": "upcoming",
-      "score": "",
-      "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5827485",
-      "channels": [
-        {
           "name": "DAZN Italia",
           "url": "",
           "stream": false
@@ -1436,74 +1305,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Arena Sport 7",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "Sport 5max"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720775",
@@ -2135,10 +1937,17 @@
           ]
         },
         {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
           "paese": "Malesia",
           "canali": [
             "Astro Go",
-            "Astro Football"
+            "Astro Football",
+            "sooka"
           ]
         },
         {
@@ -2191,6 +2000,12 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
           ]
         },
         {
@@ -2298,6 +2113,7 @@
         {
           "paese": "Romania",
           "canali": [
+            "Orange TV Go",
             "Prima Sport 5"
           ]
         },
@@ -2352,7 +2168,8 @@
         {
           "paese": "Serbia",
           "canali": [
-            "Arena Sport 7 Serbia"
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
           ]
         },
         {
@@ -2900,7 +2717,8 @@
         {
           "paese": "Estonia",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Estonia"
           ]
         },
         {
@@ -3119,7 +2937,8 @@
         {
           "paese": "Lettonia",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Latvia"
           ]
         },
         {
@@ -3160,7 +2979,8 @@
         {
           "paese": "Lituania",
           "canali": [
-            "Go3 Sport 1"
+            "Go3 Sport 1",
+            "Go3 Extra Sports Lithuania"
           ]
         },
         {
@@ -3172,7 +2992,8 @@
         {
           "paese": "Macedonia",
           "canali": [
-            "Arena 4 Premium"
+            "Arena 4 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -3194,7 +3015,8 @@
           "paese": "Malesia",
           "canali": [
             "Astro Go",
-            "Astro Stadium"
+            "Astro Stadium",
+            "sooka"
           ]
         },
         {
@@ -3261,7 +3083,8 @@
         {
           "paese": "Montenegro",
           "canali": [
-            "Arena 4 Premium"
+            "Arena 4 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -3380,7 +3203,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV3"
+            "Sport TV3",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -3407,6 +3231,7 @@
         {
           "paese": "Romania",
           "canali": [
+            "Orange TV Go",
             "Prima Sport 4",
             "Prima Play"
           ]
@@ -3481,7 +3306,8 @@
         {
           "paese": "Serbia",
           "canali": [
-            "Arena 4 Premium"
+            "Arena 4 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -4378,7 +4204,8 @@
         {
           "paese": "Macedonia",
           "canali": [
-            "Arena 2 Premium"
+            "Arena 2 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -4391,7 +4218,8 @@
           "paese": "Malesia",
           "canali": [
             "Astro Go",
-            "Astro Football"
+            "Astro Football",
+            "sooka"
           ]
         },
         {
@@ -4443,7 +4271,8 @@
         {
           "paese": "Montenegro",
           "canali": [
-            "Arena 2 Premium"
+            "Arena 2 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -4558,6 +4387,7 @@
         {
           "paese": "Romania",
           "canali": [
+            "Orange TV Go",
             "Prima Sport 5"
           ]
         },
@@ -4618,7 +4448,8 @@
         {
           "paese": "Serbia",
           "canali": [
-            "Arena 2 Premium"
+            "Arena 2 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -5140,7 +4971,8 @@
         {
           "paese": "Estonia",
           "canali": [
-            "Go3 Sport Open"
+            "Go3 Sport Open",
+            "Go3 Extra Sports Estonia"
           ]
         },
         {
@@ -5345,7 +5177,8 @@
         {
           "paese": "Lettonia",
           "canali": [
-            "Go3 Sport Open"
+            "Go3 Sport Open",
+            "Go3 Extra Sports Latvia"
           ]
         },
         {
@@ -5372,7 +5205,8 @@
         {
           "paese": "Lituania",
           "canali": [
-            "Go3 Sport Open"
+            "Go3 Sport Open",
+            "Go3 Extra Sports Lithuania"
           ]
         },
         {
@@ -5384,7 +5218,8 @@
         {
           "paese": "Macedonia",
           "canali": [
-            "Arena 2 Premium"
+            "Arena 2 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -5446,7 +5281,8 @@
         {
           "paese": "Montenegro",
           "canali": [
-            "Arena 2 Premium"
+            "Arena 2 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -5563,7 +5399,9 @@
           "canali": [
             "Digi Sport 3 Romania",
             "Digi Online",
-            "Prima Sport 3"
+            "Orange TV Go",
+            "Prima Sport 3",
+            "Prima Play"
           ]
         },
         {
@@ -5626,7 +5464,8 @@
         {
           "paese": "Serbia",
           "canali": [
-            "Arena 2 Premium"
+            "Arena 2 Premium",
+            "Arena Cloud"
           ]
         },
         {
@@ -5772,6 +5611,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 4"
           ]
         },
@@ -5864,42 +5704,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 4 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 4 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5828446",
@@ -5925,120 +5730,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5829301",
@@ -6064,74 +5756,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Bosnia ed Erzegovina",
-          "canali": [
-            "Arena Sport 7",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "Sport 5max"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 3 Live"
-          ]
-        },
-        {
-          "paese": "Macedonia",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Montenegro",
-          "canali": [
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Serbia",
-          "canali": [
-            "Arena Sport 7 Serbia",
-            "Arena Cloud"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 3 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5829302",
@@ -6147,130 +5772,22 @@
       "match_url": "https://www.livesoccertv.com/it/match/mantova-vs-verona/65yt9#5829302",
       "channels": [
         {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "stream": true
         },
         {
-          "name": "LAB Channel",
-          "url": "",
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Burundi",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Repubblica Democratica del Congo",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ghana",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Guinea",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Kenya",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Mozambico",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Nigeria",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Ruanda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Sierra Leone",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Sudafrica",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 1 Live"
-          ]
-        },
-        {
-          "paese": "Tanzania",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "Uganda",
-          "canali": [
-            "Sporty TV App"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5829303",
@@ -6296,42 +5813,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport 4 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport 4 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     }
   ]
 }
