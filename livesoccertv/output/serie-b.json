@@ -106,9 +106,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-carrarese/6kgbs#5829906"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-carrarese/6kgbs#5829906"
     },
     {
       "title": "[COLOR yellow]03:00[/COLOR] Ascoli vs Palermo",
@@ -121,24 +122,15 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5829907"
     },
     {
-      "title": "[COLOR yellow]03:00[/COLOR] Carrarese vs Sampdoria",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-carrarese/6kgbs#5828445"
-    },
-    {
       "title": "[COLOR yellow]05:00[/COLOR] Mantova vs Verona",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/mantova-vs-verona/65yt9#5828446"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/mantova-vs-verona/65yt9#5828446"
     },
     {
       "title": "[COLOR yellow]22:00[/COLOR] Ascoli vs Palermo",
@@ -185,6 +177,16 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-ascoli/35twv#5829916"
+    },
+    {
+      "title": "[COLOR yellow]23:00[/COLOR] Mantova vs Verona",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/mantova-vs-verona/65yt9#5829917"
     }
   ]
 }
