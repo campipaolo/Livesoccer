@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-11-05T12:57:54+01:00",
+  "aggiornato": "2026-11-05T18:25:12+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 193,
+  "totale": 192,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 23,
+      "totale": 22,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 4a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Parigi-Bercy",
-          "evento": "4a giornata",
-          "inizio": "2026-11-05T11:00:00+01:00",
-          "data": "05/11/2026",
-          "ora": "11:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-05T11:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-05T11:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 4a giornata",
           "categoria": "Tennis",
@@ -10061,40 +10033,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 25,
+      "totale": 24,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Parigi-Bercy",
-          "totale": 9,
+          "totale": 8,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Parigi-Bercy: 4a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Parigi-Bercy",
-              "evento": "4a giornata",
-              "inizio": "2026-11-05T11:00:00+01:00",
-              "data": "05/11/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-05T11:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-05T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Parigi-Bercy: 4a giornata",
               "categoria": "Tennis",
