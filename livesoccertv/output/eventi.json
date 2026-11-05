@@ -299,6 +299,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN4 Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -467,6 +468,7 @@
         {
           "paese": "Georgia",
           "canali": [
+            "Silk Sport HD 1",
             "Q Sport 1 League"
           ]
         },
@@ -4374,7 +4376,9 @@
         {
           "paese": "Afghanistan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4459,7 +4463,9 @@
           "paese": "Bangladesh",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4490,7 +4496,9 @@
         {
           "paese": "Bhutan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4510,6 +4518,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -4753,7 +4762,9 @@
         {
           "paese": "India",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4917,7 +4928,9 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4988,7 +5001,9 @@
         {
           "paese": "Nepal",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5199,7 +5214,9 @@
           "paese": "Sri Lanka",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5414,9 +5431,8 @@
       "data": "2026-11-09",
       "ora": "05:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     },
@@ -5429,7 +5445,82 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 7",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "Sport 5max"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -5448,8 +5539,9 @@
       "data": "2026-11-10",
       "ora": "02:00",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
       "canali_mondo": []
     },

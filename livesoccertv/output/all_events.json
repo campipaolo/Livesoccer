@@ -371,6 +371,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN4 Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -539,6 +540,7 @@
         {
           "paese": "Georgia",
           "canali": [
+            "Silk Sport HD 1",
             "Q Sport 1 League"
           ]
         },
@@ -4638,7 +4640,9 @@
         {
           "paese": "Afghanistan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4723,7 +4727,9 @@
           "paese": "Bangladesh",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4754,7 +4760,9 @@
         {
           "paese": "Bhutan",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -4774,6 +4782,7 @@
         {
           "paese": "Brasile",
           "canali": [
+            "ESPN Brazil",
             "Disney+ Premium Brazil"
           ]
         },
@@ -5017,7 +5026,9 @@
         {
           "paese": "India",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5181,7 +5192,9 @@
         {
           "paese": "Maldive",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5252,7 +5265,9 @@
         {
           "paese": "Nepal",
           "canali": [
-            "ZEE5"
+            "ZEE5",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5463,7 +5478,9 @@
           "paese": "Sri Lanka",
           "canali": [
             "ZEE5",
-            "Begin"
+            "Begin",
+            "Unite8 Sports 1",
+            "Unite8 Sports 1 HD"
           ]
         },
         {
@@ -5731,18 +5748,13 @@
       "match_url": "https://www.livesoccertv.com/it/match/mantova-vs-verona/65yt9#5828446",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
-          "stream": true
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "name": "fuboTV",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
-          "stream": true
-        },
-        {
-          "name": "FOX One",
-          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
@@ -5772,7 +5784,82 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 7",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Israele",
+          "canali": [
+            "Sport 5max"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 7 Serbia",
+            "Arena Cloud"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 3 Live",
+            "Blue Sport"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "id": "5829302",
@@ -5814,13 +5901,18 @@
       "match_url": "https://www.livesoccertv.com/it/match/sampdoria-vs-carrarese/6kgbs#5829303",
       "channels": [
         {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
+          "stream": true
         },
         {
-          "name": "LAB Channel",
-          "url": "",
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
           "stream": false
         }
       ],
