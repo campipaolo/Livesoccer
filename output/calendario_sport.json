@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-11-05T18:25:12+01:00",
+  "aggiornato": "2026-11-05T20:42:24+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 192,
+  "totale": 191,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 22,
+      "totale": 21,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 4a giornata",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Parigi-Bercy",
-          "evento": "4a giornata",
-          "inizio": "2026-11-05T17:30:00+01:00",
-          "data": "05/11/2026",
-          "ora": "17:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-05T17:30",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-05T19:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] UEFA Conference League: Atalanta-Kairat Almaty",
           "categoria": "Calcio",
@@ -1705,7 +1677,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-11-07T14:50",
+                  "orario": "2026-11-07T14:45",
                   "programma": "GP Qatar: Qualifiche",
                   "fonte": "tv8"
                 }
@@ -1743,7 +1715,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-11-07T14:50",
+                  "orario": "2026-11-07T14:45",
                   "programma": "GP Qatar: Qualifiche",
                   "fonte": "tv8"
                 }
@@ -1767,7 +1739,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-07T17:00",
+                  "orario": "2026-11-07T16:55",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -2984,6 +2956,7 @@
                 {
                   "paese": "Brasile",
                   "canali": [
+                    "ESPN4 Brazil",
                     "Disney+ Premium Brazil"
                   ]
                 },
@@ -3152,6 +3125,7 @@
                 {
                   "paese": "Georgia",
                   "canali": [
+                    "Silk Sport HD 1",
                     "Q Sport 1 League"
                   ]
                 },
@@ -6991,7 +6965,9 @@
                 {
                   "paese": "Afghanistan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -7076,7 +7052,9 @@
                   "paese": "Bangladesh",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -7107,7 +7085,9 @@
                 {
                   "paese": "Bhutan",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -7127,6 +7107,7 @@
                 {
                   "paese": "Brasile",
                   "canali": [
+                    "ESPN Brazil",
                     "Disney+ Premium Brazil"
                   ]
                 },
@@ -7370,7 +7351,9 @@
                 {
                   "paese": "India",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -7534,7 +7517,9 @@
                 {
                   "paese": "Maldive",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -7605,7 +7590,9 @@
                 {
                   "paese": "Nepal",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -7816,7 +7803,9 @@
                   "paese": "Sri Lanka",
                   "canali": [
                     "ZEE5",
-                    "Begin"
+                    "Begin",
+                    "Unite8 Sports 1",
+                    "Unite8 Sports 1 HD"
                   ]
                 },
                 {
@@ -8666,21 +8655,14 @@
               "ora": "05:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
                   "numero": "",
-                  "tipo": "diretta",
+                  "tipo": "streaming",
                   "orario": "2026-11-09T05:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "fuboTV",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-09T05:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "FOX One",
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-09T05:00",
@@ -8716,7 +8698,82 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 7",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 5max"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "Macedonia",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Montenegro",
+                  "canali": [
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Serbia",
+                  "canali": [
+                    "Arena Sport 7 Serbia",
+                    "Arena Cloud"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport 3 Live",
+                    "Blue Sport"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8760,14 +8817,21 @@
               "ora": "02:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-11-10T02:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-10T02:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-10T02:00",
@@ -10033,40 +10097,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 24,
+      "totale": 23,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Parigi-Bercy",
-          "totale": 8,
+          "totale": 7,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Parigi-Bercy: 4a giornata",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Parigi-Bercy",
-              "evento": "4a giornata",
-              "inizio": "2026-11-05T17:30:00+01:00",
-              "data": "05/11/2026",
-              "ora": "17:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-05T17:30",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-05T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Parigi-Bercy: 1^ Quarto di Finale",
               "categoria": "Tennis",
