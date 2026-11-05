@@ -1,15 +1,15 @@
 {
-  "aggiornato": "2026-11-05T04:17:03+01:00",
+  "aggiornato": "2026-11-05T12:57:54+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 194,
+  "totale": 193,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 24,
+      "totale": 23,
       "eventi": [
         {
           "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 4a giornata",
@@ -187,27 +187,6 @@
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Europa League: Milan-Ferencaros",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Europa League",
-          "sport": "Calcio",
-          "competizione": "UEFA Europa League",
-          "evento": "Milan-Ferencaros",
-          "inizio": "2026-11-05T18:45:00+01:00",
-          "data": "05/11/2026",
-          "ora": "18:45",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-05T18:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
           "titolo": "[Calcio] UEFA Europa League: Milan-Ferencvaros",
           "categoria": "Calcio",
           "sottocartella": "UEFA Europa League",
@@ -218,6 +197,13 @@
           "data": "05/11/2026",
           "ora": "18:45",
           "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-05T18:45",
+              "fonte": "virgilio"
+            },
             {
               "nome": "Sky Sport 1",
               "numero": "201",
@@ -2817,7 +2803,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 78,
+      "totale": 77,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -4703,6 +4689,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -5893,6 +5880,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 4"
                   ]
                 },
@@ -6863,6 +6851,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -7914,6 +7903,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -8293,82 +8283,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 7",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8721,7 +8636,14 @@
               "ora": "01:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-09T01:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-09T01:00",
@@ -8757,154 +8679,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 7",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "Macedonia",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Montenegro",
-                  "canali": [
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Serbia",
-                  "canali": [
-                    "Arena Sport 7 Serbia",
-                    "Arena Cloud"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport 3 Live",
-                    "Blue Sport"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Carrarese vs Sampdoria",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Carrarese vs Sampdoria",
-              "inizio": "2026-11-09T03:00:00+01:00",
-              "data": "09/11/2026",
-              "ora": "03:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-09T03:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-09T03:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 4 Live"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 4 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -8919,136 +8694,28 @@
               "ora": "05:00",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-11-09T05:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-09T05:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-09T05:00",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9161,6 +8828,35 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-10T21:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Mantova vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Mantova vs Verona",
+              "inizio": "2026-11-10T23:00:00+01:00",
+              "data": "10/11/2026",
+              "ora": "23:00",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-10T23:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-10T23:00",
                   "fonte": "livesoccer"
                 }
               ],
@@ -9564,7 +9260,7 @@
         },
         {
           "nome": "UEFA Europa League",
-          "totale": 19,
+          "totale": 18,
           "eventi": [
             {
               "titolo": "UEFA Europa League: Anderlecht-Salisburgo",
@@ -9658,27 +9354,6 @@
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "UEFA Europa League: Milan-Ferencaros",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Europa League",
-              "sport": "Calcio",
-              "competizione": "UEFA Europa League",
-              "evento": "Milan-Ferencaros",
-              "inizio": "2026-11-05T18:45:00+01:00",
-              "data": "05/11/2026",
-              "ora": "18:45",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-05T18:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
               "titolo": "UEFA Europa League: Milan-Ferencvaros",
               "categoria": "Calcio",
               "sottocartella": "UEFA Europa League",
@@ -9689,6 +9364,13 @@
               "data": "05/11/2026",
               "ora": "18:45",
               "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-05T18:45",
+                  "fonte": "virgilio"
+                },
                 {
                   "nome": "Sky Sport 1",
                   "numero": "201",
