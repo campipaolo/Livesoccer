@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-11-06T16:45:44+01:00",
+  "aggiornato": "2026-11-06T17:46:25+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 203,
+  "totale": 202,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 19,
+      "totale": 18,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 1^ Quarto di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Parigi-Bercy",
-          "evento": "1^ Quarto di Finale",
-          "inizio": "2026-11-06T14:00:00+01:00",
-          "data": "06/11/2026",
-          "ora": "14:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-06T14:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-06T14:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Primavera 1: Parma-Torino",
           "categoria": "Calcio",
@@ -2918,7 +2890,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-08T17:00",
+                  "orario": "2026-11-08T16:55",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -3498,7 +3470,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-08T14:00",
+                  "orario": "2026-11-08T13:55",
                   "programma": "GP Qatar: Gara",
                   "fonte": "tv8"
                 }
@@ -3522,7 +3494,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-08T15:15",
+                  "orario": "2026-11-08T15:10",
                   "programma": "GP Qatar: Gara",
                   "fonte": "tv8"
                 }
@@ -10980,40 +10952,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 39,
+      "totale": 38,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Parigi-Bercy",
-          "totale": 7,
+          "totale": 6,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Parigi-Bercy: 1^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Parigi-Bercy",
-              "evento": "1^ Quarto di Finale",
-              "inizio": "2026-11-06T14:00:00+01:00",
-              "data": "06/11/2026",
-              "ora": "14:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T14:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T14:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Parigi-Bercy: 2^ Quarto di Finale",
               "categoria": "Tennis",
