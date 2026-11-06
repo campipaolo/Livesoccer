@@ -1,195 +1,16 @@
 {
-  "aggiornato": "2026-11-06T17:46:25+01:00",
+  "aggiornato": "2026-11-06T22:29:32+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 202,
+  "totale": 195,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 18,
+      "totale": 11,
       "eventi": [
-        {
-          "titolo": "[Calcio] Primavera 1: Parma-Torino",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Parma-Torino",
-          "inizio": "2026-11-06T15:00:00+01:00",
-          "data": "06/11/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-06T15:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 2^ Quarto di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Parigi-Bercy",
-          "evento": "2^ Quarto di Finale",
-          "inizio": "2026-11-06T16:00:00+01:00",
-          "data": "06/11/2026",
-          "ora": "16:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-06T16:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] Formula 1: Brazilian Grand Prix - FP1",
-          "categoria": "Motori",
-          "sottocartella": "Formula 1",
-          "sport": "Motori",
-          "competizione": "Formula 1",
-          "evento": "Brazilian Grand Prix - FP1",
-          "sessione": "prove",
-          "circuito": "Autódromo José Carlos Pace, São Paulo, Brazil",
-          "inizio": "2026-11-06T16:30:00+01:00",
-          "data": "06/11/2026",
-          "ora": "16:30",
-          "canali": [
-            {
-              "nome": "Sky Sport F1",
-              "numero": "207",
-              "tipo": "diretta",
-              "orario": "2026-11-06T16:30",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-06T16:30",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-06T16:30",
-              "fonte": "config"
-            },
-            {
-              "nome": "Sky Sport 4K",
-              "numero": "213",
-              "tipo": "diretta",
-              "orario": "2026-11-06T16:30",
-              "fonte": "config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Altri sport] Serie A1: Trieste-Roma",
-          "categoria": "Altri sport",
-          "sottocartella": "Pallanuoto femminile",
-          "sport": "Pallanuoto femminile",
-          "competizione": "Serie A1",
-          "evento": "Trieste-Roma",
-          "inizio": "2026-11-06T16:45:00+01:00",
-          "data": "06/11/2026",
-          "ora": "16:45",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-06T16:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Qatar Grand Prix - Practice",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Qatar Grand Prix - Practice",
-          "sessione": "prove",
-          "circuito": "Lusail International Circuit, Lusail, Qatar",
-          "inizio": "2026-11-06T17:00:00+01:00",
-          "data": "06/11/2026",
-          "ora": "17:00",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-11-06T17:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-06T17:00",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Calcio] Primavera 1: Sassuolo-Cesena",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Sassuolo-Cesena",
-          "inizio": "2026-11-06T18:00:00+01:00",
-          "data": "06/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-06T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 3^ Quarto di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-          "sport": "Tennis",
-          "competizione": "ATP Masters 1000 Parigi-Bercy",
-          "evento": "3^ Quarto di Finale",
-          "inizio": "2026-11-06T19:00:00+01:00",
-          "data": "06/11/2026",
-          "ora": "19:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-06T19:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Motori] Formula 1: Brazilian Grand Prix - FP2",
           "categoria": "Motori",
@@ -1621,56 +1442,12 @@
     },
     {
       "nome": "Motori",
-      "totale": 73,
+      "totale": 71,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 20,
+          "totale": 19,
           "eventi": [
-            {
-              "titolo": "Formula 1: Brazilian Grand Prix - FP1",
-              "categoria": "Motori",
-              "sottocartella": "Formula 1",
-              "sport": "Motori",
-              "competizione": "Formula 1",
-              "evento": "Brazilian Grand Prix - FP1",
-              "sessione": "prove",
-              "circuito": "Autódromo José Carlos Pace, São Paulo, Brazil",
-              "inizio": "2026-11-06T16:30:00+01:00",
-              "data": "06/11/2026",
-              "ora": "16:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport F1",
-                  "numero": "207",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T16:30",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-06T16:30",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T16:30",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "Sky Sport 4K",
-                  "numero": "213",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T16:30",
-                  "fonte": "config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "Formula 1: Brazilian Grand Prix - FP2",
               "categoria": "Motori",
@@ -2684,38 +2461,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 23,
+          "totale": 22,
           "eventi": [
-            {
-              "titolo": "MotoGP: Qatar Grand Prix - Practice",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Qatar Grand Prix - Practice",
-              "sessione": "prove",
-              "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-06T17:00:00+01:00",
-              "data": "06/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T17:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-06T17:00",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Qatar Grand Prix - FP2",
               "categoria": "Motori",
@@ -3849,7 +3596,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 65,
+      "totale": 63,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -10411,117 +10158,6 @@
           ]
         },
         {
-          "nome": "Primavera 1",
-          "totale": 5,
-          "eventi": [
-            {
-              "titolo": "Primavera 1: Parma-Torino",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Parma-Torino",
-              "inizio": "2026-11-06T15:00:00+01:00",
-              "data": "06/11/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Sassuolo-Cesena",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Sassuolo-Cesena",
-              "inizio": "2026-11-06T18:00:00+01:00",
-              "data": "06/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Atalanta-Inter",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Atalanta-Inter",
-              "inizio": "2026-11-07T11:00:00+01:00",
-              "data": "07/11/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-07T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Juventus-Empoli",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Juventus-Empoli",
-              "inizio": "2026-11-07T13:00:00+01:00",
-              "data": "07/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-07T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Primavera 1: Milan-Albinoleffe",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Milan-Albinoleffe",
-              "inizio": "2026-11-08T11:00:00+01:00",
-              "data": "08/11/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-08T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Bundesliga",
           "totale": 5,
           "eventi": [
@@ -10625,6 +10261,75 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-08T19:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Primavera 1",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Primavera 1: Atalanta-Inter",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Atalanta-Inter",
+              "inizio": "2026-11-07T11:00:00+01:00",
+              "data": "07/11/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-07T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Juventus-Empoli",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Juventus-Empoli",
+              "inizio": "2026-11-07T13:00:00+01:00",
+              "data": "07/11/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-07T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Milan-Albinoleffe",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Milan-Albinoleffe",
+              "inizio": "2026-11-08T11:00:00+01:00",
+              "data": "08/11/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-08T11:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -10952,54 +10657,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 38,
+      "totale": 36,
       "sottocartelle": [
         {
           "nome": "ATP Masters 1000 Parigi-Bercy",
-          "totale": 6,
+          "totale": 4,
           "eventi": [
-            {
-              "titolo": "ATP Masters 1000 Parigi-Bercy: 2^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Parigi-Bercy",
-              "evento": "2^ Quarto di Finale",
-              "inizio": "2026-11-06T16:00:00+01:00",
-              "data": "06/11/2026",
-              "ora": "16:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T16:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Masters 1000 Parigi-Bercy: 3^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Masters 1000 Parigi-Bercy",
-              "sport": "Tennis",
-              "competizione": "ATP Masters 1000 Parigi-Bercy",
-              "evento": "3^ Quarto di Finale",
-              "inizio": "2026-11-06T19:00:00+01:00",
-              "data": "06/11/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Masters 1000 Parigi-Bercy: 4^ Quarto di Finale",
               "categoria": "Tennis",
@@ -12276,35 +11939,8 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 8,
+      "totale": 7,
       "sottocartelle": [
-        {
-          "nome": "Pallanuoto femminile",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Serie A1: Trieste-Roma",
-              "categoria": "Altri sport",
-              "sottocartella": "Pallanuoto femminile",
-              "sport": "Pallanuoto femminile",
-              "competizione": "Serie A1",
-              "evento": "Trieste-Roma",
-              "inizio": "2026-11-06T16:45:00+01:00",
-              "data": "06/11/2026",
-              "ora": "16:45",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T16:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Rugby",
           "totale": 6,
