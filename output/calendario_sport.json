@@ -1,46 +1,16 @@
 {
-  "aggiornato": "2026-11-06T08:45:14+01:00",
+  "aggiornato": "2026-11-06T16:45:44+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 204,
+  "totale": 203,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 20,
+      "totale": 19,
       "eventi": [
-        {
-          "titolo": "[Motori] MotoGP: Qatar Grand Prix - Prove libere",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Qatar Grand Prix - Prove libere",
-          "sessione": "prove",
-          "circuito": "Lusail International Circuit, Lusail, Qatar",
-          "inizio": "2026-11-06T12:45:00+01:00",
-          "data": "06/11/2026",
-          "ora": "12:45",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-11-06T12:45",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-06T12:45",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
         {
           "titolo": "[Tennis] ATP Masters 1000 Parigi-Bercy: 1^ Quarto di Finale",
           "categoria": "Tennis",
@@ -456,6 +426,7 @@
             {
               "paese": "Serbia",
               "canali": [
+                "Arena Sport 8 Serbia",
                 "Arena Sport 7 Serbia",
                 "Arena Cloud"
               ]
@@ -715,8 +686,8 @@
             {
               "paese": "Argentina",
               "canali": [
-                "Disney+ Premium Argentina",
-                "ESPN4 Argentina"
+                "ESPN2 Argentina",
+                "Disney+ Premium Argentina"
               ]
             },
             {
@@ -735,8 +706,7 @@
             {
               "paese": "Australia",
               "canali": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "beIN SPORTS 2"
               ]
             },
             {
@@ -804,8 +774,8 @@
             {
               "paese": "Bolivia",
               "canali": [
-                "ESPN 4 Sur",
-                "Disney+ Premium Chile"
+                "Disney+ Premium Chile",
+                "ESPN6 Sur"
               ]
             },
             {
@@ -860,8 +830,8 @@
             {
               "paese": "Cile",
               "canali": [
-                "ESPN4 Chile",
-                "Disney+ Premium Chile"
+                "Disney+ Premium Chile",
+                "ESPN6 Sur"
               ]
             },
             {
@@ -879,8 +849,8 @@
             {
               "paese": "Colombia",
               "canali": [
-                "ESPN 4 Sur",
-                "Disney+ Premium Sur"
+                "Disney+ Premium Sur",
+                "ESPN6 Sur"
               ]
             },
             {
@@ -947,8 +917,8 @@
             {
               "paese": "Ecuador",
               "canali": [
-                "ESPN 4 Sur",
-                "Disney+ Premium Sur"
+                "Disney+ Premium Sur",
+                "ESPN6 Sur"
               ]
             },
             {
@@ -1191,6 +1161,7 @@
             {
               "paese": "Maldive",
               "canali": [
+                "Ice Sports",
                 "ZEE5",
                 "Unite8 Sports 1",
                 "Unite8 Sports 1 HD"
@@ -1319,15 +1290,14 @@
               "paese": "Paraguay",
               "canali": [
                 "Disney+ Premium Argentina",
-                "ESPN 4 Sur",
-                "ESPN4 Argentina"
+                "ESPN6 Sur"
               ]
             },
             {
               "paese": "Perù",
               "canali": [
-                "ESPN 4 Sur",
-                "Disney+ Premium Chile"
+                "Disney+ Premium Chile",
+                "ESPN6 Sur"
               ]
             },
             {
@@ -1599,8 +1569,7 @@
               "paese": "Uruguay",
               "canali": [
                 "Disney+ Premium Argentina",
-                "ESPN 4 Sur",
-                "ESPN4 Argentina"
+                "ESPN6 Sur"
               ]
             },
             {
@@ -1621,8 +1590,8 @@
             {
               "paese": "Venezuela",
               "canali": [
-                "ESPN 4 Sur",
                 "Disney+ Premium Sur",
+                "ESPN6 Sur",
                 "inter"
               ]
             },
@@ -1680,7 +1649,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 74,
+      "totale": 73,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -2743,38 +2712,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 24,
+          "totale": 23,
           "eventi": [
-            {
-              "titolo": "MotoGP: Qatar Grand Prix - Prove libere",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Qatar Grand Prix - Prove libere",
-              "sessione": "prove",
-              "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-06T12:45:00+01:00",
-              "data": "06/11/2026",
-              "ora": "12:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-11-06T12:45",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-06T12:45",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Qatar Grand Prix - Practice",
               "categoria": "Motori",
@@ -2861,14 +2800,6 @@
                   "tipo": "streaming",
                   "orario": "2026-11-07T12:40",
                   "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-11-07T14:45",
-                  "programma": "GP Qatar: Qualifiche",
-                  "fonte": "tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -2899,14 +2830,6 @@
                   "tipo": "streaming",
                   "orario": "2026-11-07T13:05",
                   "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-11-07T14:45",
-                  "programma": "GP Qatar: Qualifiche",
-                  "fonte": "tv8"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -3570,7 +3493,16 @@
               "inizio": "2026-11-08T15:00:00+01:00",
               "data": "08/11/2026",
               "ora": "15:00",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-08T14:00",
+                  "programma": "GP Qatar: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -3585,7 +3517,16 @@
               "inizio": "2026-11-08T16:15:00+01:00",
               "data": "08/11/2026",
               "ora": "16:15",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-08T15:15",
+                  "programma": "GP Qatar: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -4041,8 +3982,8 @@
                 {
                   "paese": "Argentina",
                   "canali": [
-                    "Disney+ Premium Argentina",
-                    "ESPN4 Argentina"
+                    "ESPN2 Argentina",
+                    "Disney+ Premium Argentina"
                   ]
                 },
                 {
@@ -4061,8 +4002,7 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2",
-                    "beIN Sports Connect"
+                    "beIN SPORTS 2"
                   ]
                 },
                 {
@@ -4130,8 +4070,8 @@
                 {
                   "paese": "Bolivia",
                   "canali": [
-                    "ESPN 4 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN6 Sur"
                   ]
                 },
                 {
@@ -4186,8 +4126,8 @@
                 {
                   "paese": "Cile",
                   "canali": [
-                    "ESPN4 Chile",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN6 Sur"
                   ]
                 },
                 {
@@ -4205,8 +4145,8 @@
                 {
                   "paese": "Colombia",
                   "canali": [
-                    "ESPN 4 Sur",
-                    "Disney+ Premium Sur"
+                    "Disney+ Premium Sur",
+                    "ESPN6 Sur"
                   ]
                 },
                 {
@@ -4273,8 +4213,8 @@
                 {
                   "paese": "Ecuador",
                   "canali": [
-                    "ESPN 4 Sur",
-                    "Disney+ Premium Sur"
+                    "Disney+ Premium Sur",
+                    "ESPN6 Sur"
                   ]
                 },
                 {
@@ -4517,6 +4457,7 @@
                 {
                   "paese": "Maldive",
                   "canali": [
+                    "Ice Sports",
                     "ZEE5",
                     "Unite8 Sports 1",
                     "Unite8 Sports 1 HD"
@@ -4645,15 +4586,14 @@
                   "paese": "Paraguay",
                   "canali": [
                     "Disney+ Premium Argentina",
-                    "ESPN 4 Sur",
-                    "ESPN4 Argentina"
+                    "ESPN6 Sur"
                   ]
                 },
                 {
                   "paese": "Perù",
                   "canali": [
-                    "ESPN 4 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN6 Sur"
                   ]
                 },
                 {
@@ -4925,8 +4865,7 @@
                   "paese": "Uruguay",
                   "canali": [
                     "Disney+ Premium Argentina",
-                    "ESPN 4 Sur",
-                    "ESPN4 Argentina"
+                    "ESPN6 Sur"
                   ]
                 },
                 {
@@ -4947,8 +4886,8 @@
                 {
                   "paese": "Venezuela",
                   "canali": [
-                    "ESPN 4 Sur",
                     "Disney+ Premium Sur",
+                    "ESPN6 Sur",
                     "inter"
                   ]
                 },
@@ -6605,7 +6544,8 @@
                 {
                   "paese": "Maldive",
                   "canali": [
-                    "ZEE5"
+                    "ZEE5",
+                    "ICE Plus"
                   ]
                 },
                 {
@@ -7662,6 +7602,7 @@
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5",
+                    "ICE Plus",
                     "Unite8 Sports 1",
                     "Unite8 Sports 1 HD"
                   ]
@@ -8177,7 +8118,15 @@
                   "paese": "Andorra",
                   "canali": [
                     "DAZN Spain",
-                    "DAZN France"
+                    "DAZN France",
+                    "ZAP"
+                  ]
+                },
+                {
+                  "paese": "Angola",
+                  "canali": [
+                    "ZAP",
+                    "ZSPORTS 2"
                   ]
                 },
                 {
@@ -8323,6 +8272,12 @@
                   ]
                 },
                 {
+                  "paese": "Capo Verde",
+                  "canali": [
+                    "ZAP"
+                  ]
+                },
+                {
                   "paese": "Isole Cayman",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -8397,7 +8352,8 @@
                 {
                   "paese": "Danimarca",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
@@ -8451,7 +8407,8 @@
                 {
                   "paese": "Isole Faroe",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
@@ -8483,7 +8440,9 @@
                   "paese": "Gran Bretagna",
                   "canali": [
                     "DAZN UK",
-                    "BBC Alba"
+                    "BBC Sport Web",
+                    "BBC Alba",
+                    "BBC iPlayer"
                   ]
                 },
                 {
@@ -8508,6 +8467,12 @@
                   "paese": "Guatemala",
                   "canali": [
                     "Disney+ Premium Norte"
+                  ]
+                },
+                {
+                  "paese": "Guinea-Bissau",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -8571,7 +8536,9 @@
                   "paese": "Irlanda",
                   "canali": [
                     "DAZN UK",
-                    "BBC Alba"
+                    "BBC Sport Web",
+                    "BBC Alba",
+                    "BBC iPlayer"
                   ]
                 },
                 {
@@ -8706,6 +8673,7 @@
                 {
                   "paese": "Maldive",
                   "canali": [
+                    "Ice Sports",
                     "ZEE5",
                     "Unite8 Sports 1",
                     "Unite8 Sports 1 HD"
@@ -8774,6 +8742,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Mozambico",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -9036,6 +9010,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "São Tomé and Príncipe",
+                  "canali": [
+                    "ZAP"
                   ]
                 },
                 {
@@ -9397,6 +9377,7 @@
                 {
                   "paese": "Serbia",
                   "canali": [
+                    "Arena Sport 8 Serbia",
                     "Arena Sport 7 Serbia",
                     "Arena Cloud"
                   ]
@@ -9721,128 +9702,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9949,21 +9809,14 @@
               "ora": "03:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
                   "numero": "",
-                  "tipo": "diretta",
+                  "tipo": "streaming",
                   "orario": "2026-11-09T03:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "fuboTV",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-09T03:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "FOX One",
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-09T03:00",
@@ -10032,12 +9885,12 @@
               "fonte": "LiveSoccerTV"
             },
             {
-              "titolo": "Serie B: Mantova vs Verona",
+              "titolo": "Serie B: Ascoli vs Palermo",
               "categoria": "Calcio",
               "sottocartella": "Serie B",
               "sport": "Calcio",
               "competizione": "Serie B",
-              "evento": "Mantova vs Verona",
+              "evento": "Ascoli vs Palermo",
               "inizio": "2026-11-10T00:00:00+01:00",
               "data": "10/11/2026",
               "ora": "00:00",
@@ -10051,6 +9904,35 @@
                 },
                 {
                   "nome": "LAB Channel",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-10T00:00",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Mantova vs Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Mantova vs Verona",
+              "inizio": "2026-11-10T00:00:00+01:00",
+              "data": "10/11/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-10T00:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-10T00:00",
@@ -10087,6 +9969,18 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
                 {
                   "paese": "Italia",
                   "canali": [
@@ -10126,6 +10020,7 @@
                   "canali": [
                     "Fox Soccer Plus",
                     "fuboTV",
+                    "DCTV",
                     "FOX One"
                   ]
                 }
@@ -10133,182 +10028,32 @@
               "fonte": "LiveSoccerTV"
             },
             {
-              "titolo": "Serie B: Ascoli vs Palermo",
+              "titolo": "Serie B: Carrarese vs Sampdoria",
               "categoria": "Calcio",
               "sottocartella": "Serie B",
               "sport": "Calcio",
               "competizione": "Serie B",
-              "evento": "Ascoli vs Palermo",
-              "inizio": "2026-11-10T21:00:00+01:00",
+              "evento": "Carrarese vs Sampdoria",
+              "inizio": "2026-11-10T05:00:00+01:00",
               "data": "10/11/2026",
-              "ora": "21:00",
+              "ora": "05:00",
               "canali": [
                 {
                   "nome": "DAZN Italia",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-10T21:00",
+                  "orario": "2026-11-10T05:00",
                   "fonte": "livesoccer"
                 },
                 {
                   "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-10T21:00",
+                  "orario": "2026-11-10T05:00",
                   "fonte": "livesoccer"
                 }
               ],
               "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Mantova vs Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Mantova vs Verona",
-              "inizio": "2026-11-10T23:00:00+01:00",
-              "data": "10/11/2026",
-              "ora": "23:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-10T23:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-10T23:00",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Burundi",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Repubblica Democratica del Congo",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ghana",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Guinea",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Gold"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Kenya",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Mozambico",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Nigeria",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Ruanda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Sierra Leone",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Sudafrica",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 1 Live"
-                  ]
-                },
-                {
-                  "paese": "Tanzania",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "Uganda",
-                  "canali": [
-                    "Sporty TV App"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
               "fonte": "LiveSoccerTV"
             }
           ]
