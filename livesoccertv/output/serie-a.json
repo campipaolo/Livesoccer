@@ -8,32 +8,13 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Venerdi 6 Novembre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]20:45[/COLOR] Venezia vs Udinese [COLOR gray]2:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV"
-      ],
-      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/udinese-vs-venezia/8625q#5653988"
-    },
-    {
       "title": "[COLOR cyan]Sabato 7 Novembre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
     },
     {
-      "title": "[COLOR yellow]15:00[/COLOR] Cagliari vs Frosinone",
+      "title": "[COLOR gray]15:00[/COLOR] Cagliari vs Frosinone [COLOR gray]1:0[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -43,7 +24,7 @@
       "info": "Serie A\nCanali: DAZN Italia, DAZN2\nhttps://www.livesoccertv.com/it/match/cagliari-vs-frosinone/35jv6#5653980"
     },
     {
-      "title": "[COLOR yellow]15:00[/COLOR] Torino vs Lecce",
+      "title": "[COLOR gray]15:00[/COLOR] Torino vs Lecce [COLOR gray]1:1[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -53,7 +34,7 @@
       "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/lecce-vs-torino/4qfuy#5653987"
     },
     {
-      "title": "[COLOR yellow]18:00[/COLOR] Parma vs Bologna",
+      "title": "[COLOR gray]18:00[/COLOR] Parma vs Bologna [COLOR gray]1:2[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -63,7 +44,7 @@
       "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/bologna-vs-parma/1x51p#5653986"
     },
     {
-      "title": "[COLOR yellow]20:45[/COLOR] Roma vs Sassuolo",
+      "title": "[COLOR red]20:45[/COLOR] Roma vs Sassuolo [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -90,6 +71,49 @@
         "DAZN1"
       ],
       "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/lazio-vs-napoli/1xgte#5653985"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Genoa vs Milan",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "DAZN1"
+      ],
+      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/milan-vs-genoa/1wjj9#5653982"
+    },
+    {
+      "title": "[COLOR yellow]15:00[/COLOR] Monza vs Atalanta",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "DAZN2"
+      ],
+      "info": "Serie A\nCanali: DAZN Italia, DAZN2\nhttps://www.livesoccertv.com/it/match/atalanta-vs-monza/6ifzz#5653984"
+    },
+    {
+      "title": "[COLOR yellow]18:00[/COLOR] Internazionale vs Como",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "Sky Sport 251",
+        "SKY Go Italia",
+        "Sky Sport Calcio",
+        "NOW TV"
+      ],
+      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/internazionale-vs-como/6ifzs#5653983"
+    },
+    {
+      "title": "[COLOR yellow]20:45[/COLOR] Fiorentina vs Juventus",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "DAZN1"
+      ],
+      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/fiorentina-vs-juventus/1x51l#5653981"
     }
   ]
 }
