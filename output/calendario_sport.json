@@ -1,79 +1,16 @@
 {
-  "aggiornato": "2026-11-07T09:36:04+01:00",
+  "aggiornato": "2026-11-07T14:03:53+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 210,
+  "totale": 207,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 42,
+      "totale": 39,
       "eventi": [
-        {
-          "titolo": "[Tennis] WTA 250 Hong Kong: 1a Semifinale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 250 Hong Kong",
-          "sport": "Tennis",
-          "competizione": "WTA 250 Hong Kong",
-          "evento": "1a Semifinale",
-          "inizio": "2026-11-07T07:00:00+01:00",
-          "data": "07/11/2026",
-          "ora": "07:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-07T07:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA 250 Hong Kong: 2a Semifinale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 250 Hong Kong",
-          "sport": "Tennis",
-          "competizione": "WTA 250 Hong Kong",
-          "evento": "2a Semifinale",
-          "inizio": "2026-11-07T09:00:00+01:00",
-          "data": "07/11/2026",
-          "ora": "09:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-07T09:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Primavera 1: Atalanta-Inter",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Atalanta-Inter",
-          "inizio": "2026-11-07T11:00:00+01:00",
-          "data": "07/11/2026",
-          "ora": "11:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-07T11:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Motori] MotoGP: Qatar Grand Prix - FP2",
           "categoria": "Motori",
@@ -7777,7 +7714,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 68,
+      "totale": 67,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -15058,29 +14995,8 @@
         },
         {
           "nome": "Primavera 1",
-          "totale": 3,
+          "totale": 2,
           "eventi": [
-            {
-              "titolo": "Primavera 1: Atalanta-Inter",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Atalanta-Inter",
-              "inizio": "2026-11-07T11:00:00+01:00",
-              "data": "07/11/2026",
-              "ora": "11:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-07T11:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Primavera 1: Juventus-Empoli",
               "categoria": "Calcio",
@@ -15721,84 +15637,8 @@
     },
     {
       "nome": "Tennis",
-      "totale": 43,
+      "totale": 41,
       "sottocartelle": [
-        {
-          "nome": "WTA 250 Hong Kong",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "WTA 250 Hong Kong: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Hong Kong",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Hong Kong",
-              "evento": "1a Semifinale",
-              "inizio": "2026-11-07T07:00:00+01:00",
-              "data": "07/11/2026",
-              "ora": "07:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-07T07:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 250 Hong Kong: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Hong Kong",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Hong Kong",
-              "evento": "2a Semifinale",
-              "inizio": "2026-11-07T09:00:00+01:00",
-              "data": "07/11/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-07T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA 250 Hong Kong: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Hong Kong",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Hong Kong",
-              "evento": "Finale",
-              "inizio": "2026-11-08T09:00:00+01:00",
-              "data": "08/11/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-08T09:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-08T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "ATP Masters 1000 Parigi-Bercy",
           "totale": 3,
@@ -15861,6 +15701,40 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-08T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "WTA 250 Hong Kong",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "WTA 250 Hong Kong: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "WTA 250 Hong Kong",
+              "sport": "Tennis",
+              "competizione": "WTA 250 Hong Kong",
+              "evento": "Finale",
+              "inizio": "2026-11-08T09:00:00+01:00",
+              "data": "08/11/2026",
+              "ora": "09:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-08T09:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-08T09:00",
                   "fonte": "virgilio"
                 }
               ],
