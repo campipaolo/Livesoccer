@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-11-08T05:59:52+01:00",
+  "aggiornato": "2026-11-08T12:54:47+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 196,
+  "totale": 195,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 32,
+      "totale": 31,
       "eventi": [
-        {
-          "titolo": "[Tennis] WTA 250 Hong Kong: Finale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA 250 Hong Kong",
-          "sport": "Tennis",
-          "competizione": "WTA 250 Hong Kong",
-          "evento": "Finale",
-          "inizio": "2026-11-08T09:00:00+01:00",
-          "data": "08/11/2026",
-          "ora": "09:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-08T09:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-08T09:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Primavera 1: Milan-Albinoleffe",
           "categoria": "Calcio",
@@ -15236,42 +15208,8 @@
     },
     {
       "nome": "Tennis",
-      "totale": 44,
+      "totale": 43,
       "sottocartelle": [
-        {
-          "nome": "WTA 250 Hong Kong",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "WTA 250 Hong Kong: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA 250 Hong Kong",
-              "sport": "Tennis",
-              "competizione": "WTA 250 Hong Kong",
-              "evento": "Finale",
-              "inizio": "2026-11-08T09:00:00+01:00",
-              "data": "08/11/2026",
-              "ora": "09:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-08T09:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-08T09:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "ATP Masters 1000 Parigi-Bercy",
           "totale": 1,
