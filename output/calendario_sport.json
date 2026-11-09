@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-11-09T10:26:56+01:00",
+  "aggiornato": "2026-11-09T20:50:21+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 186,
+  "totale": 187,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 9,
+      "totale": 8,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP 250 Stoccolma: 1a giornata Sess. Diurna",
-          "categoria": "Tennis",
-          "sottocartella": "ATP 250 Stoccolma",
-          "sport": "Tennis",
-          "competizione": "ATP 250 Stoccolma",
-          "evento": "1a giornata Sess. Diurna",
-          "inizio": "2026-11-09T13:00:00+01:00",
-          "data": "09/11/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-09T13:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-09T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP 250 Stoccolma: 1a giornata Sess. Serale",
           "categoria": "Tennis",
@@ -1847,7 +1819,16 @@
               "inizio": "2026-11-28T12:55:00+01:00",
               "data": "28/11/2026",
               "ora": "12:55",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T12:50",
+                  "programma": "GP Valencia: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -1862,7 +1843,16 @@
               "inizio": "2026-11-28T13:50:00+01:00",
               "data": "28/11/2026",
               "ora": "13:50",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T13:40",
+                  "programma": "GP Valencia: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -1877,7 +1867,16 @@
               "inizio": "2026-11-29T11:00:00+01:00",
               "data": "29/11/2026",
               "ora": "11:00",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "2026-11-29T14:00",
+                  "programma": "GP Valencia: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -1892,7 +1891,16 @@
               "inizio": "2026-11-29T12:15:00+01:00",
               "data": "29/11/2026",
               "ora": "12:15",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "differita",
+                  "orario": "2026-11-29T14:00",
+                  "programma": "GP Valencia: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             }
           ]
@@ -2087,7 +2095,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 48,
+      "totale": 50,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -6751,7 +6759,7 @@
         },
         {
           "nome": "UEFA Nations League",
-          "totale": 11,
+          "totale": 12,
           "eventi": [
             {
               "titolo": "UEFA Nations League: Turchia-Belgio",
@@ -6971,6 +6979,27 @@
               "fonte": "Virgilio Sport"
             },
             {
+              "titolo": "UEFA Nations League: Belgio-Italia",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Nations League",
+              "sport": "Calcio",
+              "competizione": "UEFA Nations League",
+              "evento": "Belgio-Italia",
+              "inizio": "2026-11-15T20:45:00+01:00",
+              "data": "15/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Rai 1",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
               "titolo": "UEFA Nations League: Francia-Turchia",
               "categoria": "Calcio",
               "sottocartella": "UEFA Nations League",
@@ -7151,45 +7180,44 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "Serie A femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A: Inter-Juventus",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A femminile",
+              "sport": "Calcio femminile",
+              "competizione": "Serie A",
+              "evento": "Inter-Juventus",
+              "inizio": "2026-11-15T15:00:00+01:00",
+              "data": "15/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Tennis",
-      "totale": 47,
+      "totale": 45,
       "sottocartelle": [
         {
           "nome": "ATP 250 Stoccolma",
-          "totale": 15,
+          "totale": 13,
           "eventi": [
-            {
-              "titolo": "ATP 250 Stoccolma: 1a giornata Sess. Diurna",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "1a giornata Sess. Diurna",
-              "inizio": "2026-11-09T13:00:00+01:00",
-              "data": "09/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-09T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-09T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP 250 Stoccolma: 1a giornata Sess. Serale",
               "categoria": "Tennis",
@@ -7340,21 +7368,7 @@
                   "tipo": "diretta",
                   "orario": "2026-11-11T18:00",
                   "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 250 Stoccolma: 3a giornata Sessione Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "3a giornata Sessione Serale",
-              "inizio": "2026-11-11T18:00:00+01:00",
-              "data": "11/11/2026",
-              "ora": "18:00",
-              "canali": [
+                },
                 {
                   "nome": "Sky Sport Max",
                   "numero": "",
@@ -8749,7 +8763,7 @@
     },
     {
       "nome": "Volley",
-      "totale": 5,
+      "totale": 6,
       "sottocartelle": [
         {
           "nome": "Serie A1 femminile",
@@ -8861,6 +8875,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-14T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Supercoppa Superlega",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Supercoppa Superlega: Finale",
+              "categoria": "Volley",
+              "sottocartella": "Supercoppa Superlega",
+              "sport": "Pallavolo maschile",
+              "competizione": "Supercoppa Superlega",
+              "evento": "Finale",
+              "inizio": "2026-11-15T18:00:00+01:00",
+              "data": "15/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T18:00",
                   "fonte": "virgilio"
                 }
               ],
