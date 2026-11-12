@@ -1,44 +1,16 @@
 {
-  "aggiornato": "2026-11-12T07:03:41+01:00",
+  "aggiornato": "2026-11-12T16:49:45+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 175,
+  "totale": 174,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 14,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP 250 Stoccolma: 1^ Quarto di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP 250 Stoccolma",
-          "sport": "Tennis",
-          "competizione": "ATP 250 Stoccolma",
-          "evento": "1^ Quarto di Finale",
-          "inizio": "2026-11-12T13:00:00+01:00",
-          "data": "12/11/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-12T13:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-12T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP 250 Stoccolma: 2^ Quarto di Finale",
           "categoria": "Tennis",
@@ -1708,7 +1680,16 @@
               "inizio": "2026-11-21T13:55:00+01:00",
               "data": "21/11/2026",
               "ora": "13:55",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T13:50",
+                  "programma": "GP Portogallo: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -1723,7 +1704,16 @@
               "inizio": "2026-11-21T14:50:00+01:00",
               "data": "21/11/2026",
               "ora": "14:50",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T14:45",
+                  "programma": "GP Portogallo: Qualifiche",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -6787,40 +6777,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 37,
+      "totale": 36,
       "sottocartelle": [
         {
           "nome": "ATP 250 Stoccolma",
-          "totale": 7,
+          "totale": 6,
           "eventi": [
-            {
-              "titolo": "ATP 250 Stoccolma: 1^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "1^ Quarto di Finale",
-              "inizio": "2026-11-12T13:00:00+01:00",
-              "data": "12/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP 250 Stoccolma: 2^ Quarto di Finale",
               "categoria": "Tennis",
