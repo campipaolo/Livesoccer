@@ -97,16 +97,31 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5720792",
@@ -205,31 +220,16 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653992",
@@ -1652,31 +1652,16 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5742579",
@@ -1693,31 +1678,16 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5742582",
@@ -1734,31 +1704,16 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5742583",
@@ -1775,31 +1730,16 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653997",
