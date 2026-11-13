@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-11-13T04:13:23+01:00",
+  "aggiornato": "2026-11-13T12:00:22+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 166,
+  "totale": 165,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 16,
+      "totale": 15,
       "eventi": [
-        {
-          "titolo": "[Tennis] WTA Finals Indian Wells: Doubles R.R. P2",
-          "categoria": "Tennis",
-          "sottocartella": "WTA Finals Indian Wells",
-          "sport": "Tennis",
-          "competizione": "WTA Finals Indian Wells 2026",
-          "evento": "Doubles R.R. P2",
-          "inizio": "2026-11-13T02:30:00+01:00",
-          "data": "13/11/2026",
-          "ora": "02:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-13T02:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Mozambico-Etiopia",
           "categoria": "Calcio",
@@ -6802,33 +6781,95 @@
     },
     {
       "nome": "Tennis",
-      "totale": 34,
+      "totale": 33,
       "sottocartelle": [
         {
-          "nome": "WTA Finals Indian Wells",
-          "totale": 13,
+          "nome": "ATP 250 Stoccolma",
+          "totale": 3,
           "eventi": [
             {
-              "titolo": "WTA Finals Indian Wells: Doubles R.R. P2",
+              "titolo": "ATP 250 Stoccolma: 1a Semifinale",
               "categoria": "Tennis",
-              "sottocartella": "WTA Finals Indian Wells",
+              "sottocartella": "ATP 250 Stoccolma",
               "sport": "Tennis",
-              "competizione": "WTA Finals Indian Wells 2026",
-              "evento": "Doubles R.R. P2",
-              "inizio": "2026-11-13T02:30:00+01:00",
+              "competizione": "ATP 250 Stoccolma",
+              "evento": "1a Semifinale",
+              "inizio": "2026-11-13T14:00:00+01:00",
               "data": "13/11/2026",
-              "ora": "02:30",
+              "ora": "14:00",
               "canali": [
                 {
                   "nome": "Sky Sport Tennis",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-13T02:30",
+                  "orario": "2026-11-13T14:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T14:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "ATP 250 Stoccolma: 2a Semifinale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 250 Stoccolma",
+              "sport": "Tennis",
+              "competizione": "ATP 250 Stoccolma",
+              "evento": "2a Semifinale",
+              "inizio": "2026-11-13T17:00:00+01:00",
+              "data": "13/11/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T17:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T17:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP 250 Stoccolma: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 250 Stoccolma",
+              "sport": "Tennis",
+              "competizione": "ATP 250 Stoccolma",
+              "evento": "Finale",
+              "inizio": "2026-11-14T13:00:00+01:00",
+              "data": "14/11/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-14T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "WTA Finals Indian Wells",
+          "totale": 12,
+          "eventi": [
             {
               "titolo": "WTA Finals Indian Wells: Singles R.R. P1",
               "categoria": "Tennis",
@@ -7090,89 +7131,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-15T23:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP 250 Stoccolma",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "ATP 250 Stoccolma: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "1a Semifinale",
-              "inizio": "2026-11-13T14:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "14:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T14:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T14:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 250 Stoccolma: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "2a Semifinale",
-              "inizio": "2026-11-13T17:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T17:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 250 Stoccolma: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "Finale",
-              "inizio": "2026-11-14T13:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T13:00",
                   "fonte": "virgilio"
                 }
               ],
