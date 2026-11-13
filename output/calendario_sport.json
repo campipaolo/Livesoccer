@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-12T23:06:30+01:00",
+  "aggiornato": "2026-11-13T02:50:21+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,129 +9,399 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 8,
+      "totale": 18,
       "eventi": [
         {
-          "titolo": "[Basket] Eurolega: Olympiacos-Dubai Basketball",
+          "titolo": "[Basket] NBA: Philadelphia 76ers-Toronto Raptors",
           "categoria": "Basket",
-          "sottocartella": "Eurolega",
+          "sottocartella": "NBA",
           "sport": "Basket",
-          "competizione": "Eurolega",
-          "evento": "Olympiacos-Dubai Basketball",
-          "inizio": "2026-11-12T20:15:00+01:00",
-          "data": "12/11/2026",
-          "ora": "20:15",
+          "competizione": "NBA",
+          "evento": "Philadelphia 76ers-Toronto Raptors",
+          "inizio": "2026-11-13T01:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "01:00",
           "canali": [
             {
-              "nome": "Sky Sport Mix",
+              "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-12T20:15",
+              "orario": "2026-11-13T01:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Eurolega: Olimpia Milano-Zalgiris Kaunas",
+          "titolo": "[Tennis] WTA Finals Indian Wells: Doubles R.R. P1",
+          "categoria": "Tennis",
+          "sottocartella": "WTA Finals Indian Wells",
+          "sport": "Tennis",
+          "competizione": "WTA Finals Indian Wells 2026",
+          "evento": "Doubles R.R. P1",
+          "inizio": "2026-11-13T01:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "01:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T01:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] WTA Finals Indian Wells: Doubles R.R. P2",
+          "categoria": "Tennis",
+          "sottocartella": "WTA Finals Indian Wells",
+          "sport": "Tennis",
+          "competizione": "WTA Finals Indian Wells 2026",
+          "evento": "Doubles R.R. P2",
+          "inizio": "2026-11-13T02:30:00+01:00",
+          "data": "13/11/2026",
+          "ora": "02:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T02:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Mozambico-Etiopia",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Coppa d’Africa",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Coppa d’Africa",
+          "evento": "Mozambico-Etiopia",
+          "inizio": "2026-11-13T14:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP 250 Stoccolma: 1a Semifinale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP 250 Stoccolma",
+          "sport": "Tennis",
+          "competizione": "ATP 250 Stoccolma",
+          "evento": "1a Semifinale",
+          "inizio": "2026-11-13T14:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T14:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-13T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Nigeria-Tanzania",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Coppa d’Africa",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Coppa d’Africa",
+          "evento": "Nigeria-Tanzania",
+          "inizio": "2026-11-13T17:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "17:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T17:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP 250 Stoccolma: 2a Semifinale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP 250 Stoccolma",
+          "sport": "Tennis",
+          "competizione": "ATP 250 Stoccolma",
+          "evento": "2a Semifinale",
+          "inizio": "2026-11-13T17:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "17:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T17:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-13T17:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Moldavia-Kazakistan",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Nations League",
+          "sport": "Calcio",
+          "competizione": "UEFA Nations League",
+          "evento": "Moldavia-Kazakistan",
+          "inizio": "2026-11-13T18:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Anadolu Efes-Virtus Bologna",
           "categoria": "Basket",
           "sottocartella": "Eurolega",
           "sport": "Basket",
           "competizione": "Eurolega",
-          "evento": "Olimpia Milano-Zalgiris Kaunas",
-          "inizio": "2026-11-12T20:30:00+01:00",
-          "data": "12/11/2026",
+          "evento": "Anadolu Efes-Virtus Bologna",
+          "inizio": "2026-11-13T18:30:00+01:00",
+          "data": "13/11/2026",
+          "ora": "18:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T18:30",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-13T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Amichevole U21: Francia-Italia",
+          "categoria": "Calcio",
+          "sottocartella": "Amichevole U21",
+          "sport": "Calcio",
+          "competizione": "Amichevole U21",
+          "evento": "Francia-Italia",
+          "inizio": "2026-11-13T18:30:00+01:00",
+          "data": "13/11/2026",
+          "ora": "18:30",
+          "canali": [
+            {
+              "nome": "Rai 2",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Panathinaikos-Barcellona",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Panathinaikos-Barcellona",
+          "inizio": "2026-11-13T20:30:00+01:00",
+          "data": "13/11/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-12T20:30",
+              "orario": "2026-11-13T20:30",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Tennis] ATP 250 Stoccolma: 4^ Quarto di Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP 250 Stoccolma",
-          "sport": "Tennis",
-          "competizione": "ATP 250 Stoccolma",
-          "evento": "4^ Quarto di Finale",
-          "inizio": "2026-11-12T20:30:00+01:00",
-          "data": "12/11/2026",
+          "titolo": "[Calcio] Serie C: Latina vs Campobasso",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Latina vs Campobasso",
+          "inizio": "2026-11-13T20:30:00+01:00",
+          "data": "13/11/2026",
           "ora": "20:30",
           "canali": [
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-13T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-13T20:30",
+              "fonte": "livesoccer"
+            },
             {
               "nome": "Sky Sport Max",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-12T20:30",
+              "orario": "2026-11-13T20:30",
               "fonte": "virgilio"
             }
           ],
-          "fonte": "Virgilio Sport"
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] UEFA Nations League: Inghilterra-Croazia",
+          "titolo": "[Calcio] Serie C: Ospitaletto vs Dolomiti Bellunesi",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Ospitaletto vs Dolomiti Bellunesi",
+          "inizio": "2026-11-13T20:30:00+01:00",
+          "data": "13/11/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-13T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-13T20:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Serbia-Germania",
           "categoria": "Calcio",
           "sottocartella": "UEFA Nations League",
           "sport": "Calcio",
           "competizione": "UEFA Nations League",
-          "evento": "Inghilterra-Croazia",
-          "inizio": "2026-11-12T20:45:00+01:00",
-          "data": "12/11/2026",
+          "evento": "Serbia-Germania",
+          "inizio": "2026-11-13T20:45:00+01:00",
+          "data": "13/11/2026",
           "ora": "20:45",
           "canali": [
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-12T20:45",
+              "orario": "2026-11-13T20:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "20",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T20:45",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Nations League: Italia-Francia",
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Marocco-Niger",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
+          "sottocartella": "Qualificazioni Coppa d’Africa",
           "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Italia-Francia",
-          "inizio": "2026-11-12T20:45:00+01:00",
-          "data": "12/11/2026",
-          "ora": "20:45",
+          "competizione": "Qualificazioni Coppa d’Africa",
+          "evento": "Marocco-Niger",
+          "inizio": "2026-11-13T21:00:00+01:00",
+          "data": "13/11/2026",
+          "ora": "21:00",
           "canali": [
             {
-              "nome": "Rai 1",
+              "nome": "Sportitalia",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-12T20:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Volley] Serie A1: Bergamo-Cuneo",
-          "categoria": "Volley",
-          "sottocartella": "Serie A1 femminile",
-          "sport": "Pallavolo femminile",
-          "competizione": "Serie A1",
-          "evento": "Bergamo-Cuneo",
-          "inizio": "2026-11-12T20:45:00+01:00",
-          "data": "12/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-12T20:45",
+              "orario": "2026-11-13T21:00",
               "fonte": "virgilio"
             }
           ],
@@ -144,15 +414,36 @@
           "sport": "Tennis",
           "competizione": "WTA Finals Indian Wells 2026",
           "evento": "Singles R.R. P1",
-          "inizio": "2026-11-12T21:00:00+01:00",
-          "data": "12/11/2026",
+          "inizio": "2026-11-13T21:00:00+01:00",
+          "data": "13/11/2026",
           "ora": "21:00",
           "canali": [
             {
               "nome": "Sky Sport Tennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-12T21:00",
+              "orario": "2026-11-13T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Nations Championship: Francia-Sudafrica",
+          "categoria": "Altri sport",
+          "sottocartella": "Rugby",
+          "sport": "Rugby",
+          "competizione": "Nations Championship",
+          "evento": "Francia-Sudafrica",
+          "inizio": "2026-11-13T21:10:00+01:00",
+          "data": "13/11/2026",
+          "ora": "21:10",
+          "canali": [
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-13T21:10",
               "fonte": "virgilio"
             }
           ],
@@ -165,22 +456,22 @@
           "sport": "Tennis",
           "competizione": "WTA Finals Indian Wells 2026",
           "evento": "Singles R.R. P2",
-          "inizio": "2026-11-12T23:00:00+01:00",
-          "data": "12/11/2026",
+          "inizio": "2026-11-13T23:00:00+01:00",
+          "data": "13/11/2026",
           "ora": "23:00",
           "canali": [
             {
               "nome": "Sky Sport Tennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-12T23:00",
+              "orario": "2026-11-13T23:00",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-12T23:00",
+              "orario": "2026-11-13T23:00",
               "fonte": "virgilio"
             }
           ],
@@ -1894,7 +2185,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 42,
+      "totale": 41,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -6093,51 +6384,120 @@
           ]
         },
         {
-          "nome": "UEFA Nations League",
-          "totale": 13,
+          "nome": "Qualificazioni Coppa d’Africa",
+          "totale": 5,
           "eventi": [
             {
-              "titolo": "UEFA Nations League: Inghilterra-Croazia",
+              "titolo": "Qualificazioni Coppa d’Africa: Mozambico-Etiopia",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
               "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Inghilterra-Croazia",
-              "inizio": "2026-11-12T20:45:00+01:00",
-              "data": "12/11/2026",
-              "ora": "20:45",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Mozambico-Etiopia",
+              "inizio": "2026-11-13T14:00:00+01:00",
+              "data": "13/11/2026",
+              "ora": "14:00",
               "canali": [
                 {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
+                  "nome": "Sportitalia",
+                  "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-12T20:45",
+                  "orario": "2026-11-13T14:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "UEFA Nations League: Italia-Francia",
+              "titolo": "Qualificazioni Coppa d’Africa: Nigeria-Tanzania",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
               "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Italia-Francia",
-              "inizio": "2026-11-12T20:45:00+01:00",
-              "data": "12/11/2026",
-              "ora": "20:45",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Nigeria-Tanzania",
+              "inizio": "2026-11-13T17:00:00+01:00",
+              "data": "13/11/2026",
+              "ora": "17:00",
               "canali": [
                 {
-                  "nome": "Rai 1",
+                  "nome": "Sportitalia",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-12T20:45",
+                  "orario": "2026-11-13T17:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Marocco-Niger",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Marocco-Niger",
+              "inizio": "2026-11-13T21:00:00+01:00",
+              "data": "13/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Uganda-Botswana",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Uganda-Botswana",
+              "inizio": "2026-11-14T17:00:00+01:00",
+              "data": "14/11/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-14T17:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Algeria-Togo",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Algeria-Togo",
+              "inizio": "2026-11-14T20:00:00+01:00",
+              "data": "14/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-14T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Nations League",
+          "totale": 11,
+          "eventi": [
             {
               "titolo": "UEFA Nations League: Moldavia-Kazakistan",
               "categoria": "Calcio",
@@ -6173,6 +6533,13 @@
                 {
                   "nome": "Sky Sport 1",
                   "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T20:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "20",
+                  "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-13T20:45",
                   "fonte": "virgilio"
@@ -6372,117 +6739,6 @@
           ]
         },
         {
-          "nome": "Qualificazioni Coppa d’Africa",
-          "totale": 5,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Mozambico-Etiopia",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Mozambico-Etiopia",
-              "inizio": "2026-11-13T14:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "14:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T14:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Nigeria-Tanzania",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Nigeria-Tanzania",
-              "inizio": "2026-11-13T17:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Marocco-Niger",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Marocco-Niger",
-              "inizio": "2026-11-13T21:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Uganda-Botswana",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Uganda-Botswana",
-              "inizio": "2026-11-14T17:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Algeria-Togo",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Algeria-Togo",
-              "inizio": "2026-11-14T20:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Amichevole U21",
           "totale": 2,
           "eventi": [
@@ -6531,6 +6787,33 @@
           ]
         },
         {
+          "nome": "Amichevole",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Amichevole: Lazio-Mgarr United",
+              "categoria": "Calcio",
+              "sottocartella": "Amichevole",
+              "sport": "Calcio",
+              "competizione": "Amichevole",
+              "evento": "Lazio-Mgarr United",
+              "inizio": "2026-11-14T11:00:00+01:00",
+              "data": "14/11/2026",
+              "ora": "11:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-14T11:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
           "nome": "Serie A femminile",
           "totale": 1,
           "eventi": [
@@ -6561,165 +6844,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 34,
+      "totale": 35,
       "sottocartelle": [
         {
-          "nome": "ATP 250 Stoccolma",
-          "totale": 4,
-          "eventi": [
-            {
-              "titolo": "ATP 250 Stoccolma: 4^ Quarto di Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "4^ Quarto di Finale",
-              "inizio": "2026-11-12T20:30:00+01:00",
-              "data": "12/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 250 Stoccolma: 1a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "1a Semifinale",
-              "inizio": "2026-11-13T14:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "14:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T14:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T14:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 250 Stoccolma: 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "2a Semifinale",
-              "inizio": "2026-11-13T17:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T17:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-13T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP 250 Stoccolma: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "Finale",
-              "inizio": "2026-11-14T13:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "WTA Finals Indian Wells",
-          "totale": 16,
+          "totale": 14,
           "eventi": [
-            {
-              "titolo": "WTA Finals Indian Wells: Singles R.R. P1",
-              "categoria": "Tennis",
-              "sottocartella": "WTA Finals Indian Wells",
-              "sport": "Tennis",
-              "competizione": "WTA Finals Indian Wells 2026",
-              "evento": "Singles R.R. P1",
-              "inizio": "2026-11-12T21:00:00+01:00",
-              "data": "12/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA Finals Indian Wells: Singles R.R. P2",
-              "categoria": "Tennis",
-              "sottocartella": "WTA Finals Indian Wells",
-              "sport": "Tennis",
-              "competizione": "WTA Finals Indian Wells 2026",
-              "evento": "Singles R.R. P2",
-              "inizio": "2026-11-12T23:00:00+01:00",
-              "data": "12/11/2026",
-              "ora": "23:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T23:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T23:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "WTA Finals Indian Wells: Doubles R.R. P1",
               "categoria": "Tennis",
@@ -7031,8 +7161,91 @@
           ]
         },
         {
+          "nome": "ATP 250 Stoccolma",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "ATP 250 Stoccolma: 1a Semifinale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 250 Stoccolma",
+              "sport": "Tennis",
+              "competizione": "ATP 250 Stoccolma",
+              "evento": "1a Semifinale",
+              "inizio": "2026-11-13T14:00:00+01:00",
+              "data": "13/11/2026",
+              "ora": "14:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T14:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T14:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP 250 Stoccolma: 2a Semifinale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 250 Stoccolma",
+              "sport": "Tennis",
+              "competizione": "ATP 250 Stoccolma",
+              "evento": "2a Semifinale",
+              "inizio": "2026-11-13T17:00:00+01:00",
+              "data": "13/11/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T17:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-13T17:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP 250 Stoccolma: Finale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP 250 Stoccolma",
+              "sport": "Tennis",
+              "competizione": "ATP 250 Stoccolma",
+              "evento": "Finale",
+              "inizio": "2026-11-14T13:00:00+01:00",
+              "data": "14/11/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-14T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
           "nome": "ATP Finals Torino",
-          "totale": 14,
+          "totale": 18,
           "eventi": [
             {
               "titolo": "ATP Finals Torino: Doubles R.R Sess. Serale",
@@ -7327,6 +7540,90 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Finals Torino: Doubles R.R Sess. Diurna",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Finals Torino",
+              "sport": "Tennis",
+              "competizione": "ATP Finals Torino 2026",
+              "evento": "Doubles R.R Sess. Diurna",
+              "inizio": "2026-11-19T11:30:00+01:00",
+              "data": "19/11/2026",
+              "ora": "11:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T11:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Finals Torino: Singles R.R Sess. Diurna",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Finals Torino",
+              "sport": "Tennis",
+              "competizione": "ATP Finals Torino 2026",
+              "evento": "Singles R.R Sess. Diurna",
+              "inizio": "2026-11-19T14:00:00+01:00",
+              "data": "19/11/2026",
+              "ora": "14:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T14:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Finals Torino: Doubles R.R Sess. Serale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Finals Torino",
+              "sport": "Tennis",
+              "competizione": "ATP Finals Torino 2026",
+              "evento": "Doubles R.R Sess. Serale",
+              "inizio": "2026-11-19T18:00:00+01:00",
+              "data": "19/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Finals Torino: Singles R.R Sess. Serale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Finals Torino",
+              "sport": "Tennis",
+              "competizione": "ATP Finals Torino 2026",
+              "evento": "Singles R.R Sess. Serale",
+              "inizio": "2026-11-19T20:30:00+01:00",
+              "data": "19/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         }
@@ -7334,54 +7631,144 @@
     },
     {
       "nome": "Basket",
-      "totale": 20,
+      "totale": 21,
       "sottocartelle": [
         {
-          "nome": "Eurolega",
-          "totale": 7,
+          "nome": "NBA",
+          "totale": 6,
           "eventi": [
             {
-              "titolo": "Eurolega: Olympiacos-Dubai Basketball",
+              "titolo": "NBA: Philadelphia 76ers-Toronto Raptors",
               "categoria": "Basket",
-              "sottocartella": "Eurolega",
+              "sottocartella": "NBA",
               "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olympiacos-Dubai Basketball",
-              "inizio": "2026-11-12T20:15:00+01:00",
-              "data": "12/11/2026",
-              "ora": "20:15",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T20:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Olimpia Milano-Zalgiris Kaunas",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olimpia Milano-Zalgiris Kaunas",
-              "inizio": "2026-11-12T20:30:00+01:00",
-              "data": "12/11/2026",
-              "ora": "20:30",
+              "competizione": "NBA",
+              "evento": "Philadelphia 76ers-Toronto Raptors",
+              "inizio": "2026-11-13T01:00:00+01:00",
+              "data": "13/11/2026",
+              "ora": "01:00",
               "canali": [
                 {
                   "nome": "Sky Sport Basket",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-12T20:30",
+                  "orario": "2026-11-13T01:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "NBA: Phoenix Suns-Los Angeles Lakers",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Phoenix Suns-Los Angeles Lakers",
+              "inizio": "2026-11-15T22:00:00+01:00",
+              "data": "15/11/2026",
+              "ora": "22:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T22:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Boston Celtics-Orlando Magic",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Boston Celtics-Orlando Magic",
+              "inizio": "2026-11-17T01:00:00+01:00",
+              "data": "17/11/2026",
+              "ora": "01:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T01:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: San Antonio Spurs-Detroit Pistons",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "San Antonio Spurs-Detroit Pistons",
+              "inizio": "2026-11-18T02:00:00+01:00",
+              "data": "18/11/2026",
+              "ora": "02:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-18T02:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: LA Clippers-Utah Jazz",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "LA Clippers-Utah Jazz",
+              "inizio": "2026-11-18T05:00:00+01:00",
+              "data": "18/11/2026",
+              "ora": "05:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-18T05:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Miami Heat-Milwaukee Bucks",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Miami Heat-Milwaukee Bucks",
+              "inizio": "2026-11-19T01:00:00+01:00",
+              "data": "19/11/2026",
+              "ora": "01:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T01:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Eurolega",
+          "totale": 7,
+          "eventi": [
             {
               "titolo": "Eurolega: Anadolu Efes-Virtus Bologna",
               "categoria": "Basket",
@@ -7493,113 +7880,44 @@
                 }
               ],
               "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "NBA",
-          "totale": 5,
-          "eventi": [
+            },
             {
-              "titolo": "NBA: Philadelphia 76ers-Toronto Raptors",
+              "titolo": "Eurolega: Olimpia Milano-Fenerbahce",
               "categoria": "Basket",
-              "sottocartella": "NBA",
+              "sottocartella": "Eurolega",
               "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Philadelphia 76ers-Toronto Raptors",
-              "inizio": "2026-11-13T01:00:00+01:00",
-              "data": "13/11/2026",
-              "ora": "01:00",
+              "competizione": "Eurolega",
+              "evento": "Olimpia Milano-Fenerbahce",
+              "inizio": "2026-11-19T20:30:00+01:00",
+              "data": "19/11/2026",
+              "ora": "20:30",
               "canali": [
                 {
                   "nome": "Sky Sport Basket",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-13T01:00",
+                  "orario": "2026-11-19T20:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "NBA: Phoenix Suns-Los Angeles Lakers",
+              "titolo": "Eurolega: Valencia-Virtus Bologna",
               "categoria": "Basket",
-              "sottocartella": "NBA",
+              "sottocartella": "Eurolega",
               "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Phoenix Suns-Los Angeles Lakers",
-              "inizio": "2026-11-15T22:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "22:00",
+              "competizione": "Eurolega",
+              "evento": "Valencia-Virtus Bologna",
+              "inizio": "2026-11-19T21:00:00+01:00",
+              "data": "19/11/2026",
+              "ora": "21:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Basket",
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-15T22:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Boston Celtics-Orlando Magic",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Boston Celtics-Orlando Magic",
-              "inizio": "2026-11-17T01:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "01:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T01:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: San Antonio Spurs-Detroit Pistons",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "San Antonio Spurs-Detroit Pistons",
-              "inizio": "2026-11-18T02:00:00+01:00",
-              "data": "18/11/2026",
-              "ora": "02:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-18T02:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: LA Clippers-Utah Jazz",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "LA Clippers-Utah Jazz",
-              "inizio": "2026-11-18T05:00:00+01:00",
-              "data": "18/11/2026",
-              "ora": "05:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-18T05:00",
+                  "orario": "2026-11-19T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -7818,56 +8136,8 @@
     },
     {
       "nome": "Volley",
-      "totale": 5,
+      "totale": 4,
       "sottocartelle": [
-        {
-          "nome": "Serie A1 femminile",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Serie A1: Bergamo-Cuneo",
-              "categoria": "Volley",
-              "sottocartella": "Serie A1 femminile",
-              "sport": "Pallavolo femminile",
-              "competizione": "Serie A1",
-              "evento": "Bergamo-Cuneo",
-              "inizio": "2026-11-12T20:45:00+01:00",
-              "data": "12/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-12T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Serie A1: Vallefoglia-Firenze",
-              "categoria": "Volley",
-              "sottocartella": "Serie A1 femminile",
-              "sport": "Pallavolo femminile",
-              "competizione": "Serie A1",
-              "evento": "Vallefoglia-Firenze",
-              "inizio": "2026-11-14T21:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Supercoppa",
           "totale": 2,
@@ -7909,6 +8179,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-14T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Serie A1 femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A1: Vallefoglia-Firenze",
+              "categoria": "Volley",
+              "sottocartella": "Serie A1 femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "Serie A1",
+              "evento": "Vallefoglia-Firenze",
+              "inizio": "2026-11-14T21:00:00+01:00",
+              "data": "14/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-14T21:00",
                   "fonte": "virgilio"
                 }
               ],
