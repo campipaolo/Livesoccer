@@ -323,26 +323,45 @@
       "channels": [
         {
           "name": "Sky Sport 257",
-          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-7/",
+          "url": "",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "Sky Sport Calcio",
-          "url": "https://www.livesoccertv.com/it/channels/sky-sport-serie-a/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 257",
+            "SKY Go Italia",
+            "Sky Sport Calcio",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 257",
+            "SKY Go Italia",
+            "Sky Sport Calcio",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5721169",
@@ -359,38 +378,21 @@
       "channels": [
         {
           "name": "Sky Sport 256",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-6/",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720787",
@@ -1004,6 +1006,12 @@
           ]
         },
         {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Sport 2"
+          ]
+        },
+        {
           "paese": "Nuova Zelanda",
           "canali": [
             "beIN Sports Connect New Zealand"
@@ -1070,6 +1078,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -1237,7 +1246,8 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock"
           ]
         },
         {
@@ -1400,6 +1410,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Bulgaria",
+          "canali": [
+            "MAX Sport 3"
           ]
         },
         {
@@ -1797,6 +1813,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -1964,7 +1981,9 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock",
+            "Telemundo Deportes Ahora"
           ]
         },
         {
@@ -2170,6 +2189,11 @@
           "name": "DAZN Italia",
           "url": "",
           "stream": false
+        },
+        {
+          "name": "DAZN1",
+          "url": "",
+          "stream": false
         }
       ],
       "canali_mondo": [
@@ -2291,6 +2315,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Bulgaria",
+          "canali": [
+            "MAX Sport 3"
           ]
         },
         {
@@ -2508,7 +2538,8 @@
         {
           "paese": "Italia",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN1"
           ]
         },
         {
@@ -2624,6 +2655,12 @@
           ]
         },
         {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Sport 2"
+          ]
+        },
+        {
           "paese": "Nuova Zelanda",
           "canali": [
             "beIN Sports Connect New Zealand"
@@ -2690,6 +2727,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -2734,7 +2772,8 @@
         {
           "paese": "San Marino",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN1"
           ]
         },
         {
@@ -2857,7 +2896,8 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock"
           ]
         },
         {
@@ -3040,6 +3080,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Bulgaria",
+          "canali": [
+            "MAX Sport 3"
           ]
         },
         {
@@ -3379,6 +3425,12 @@
           ]
         },
         {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Sport 2"
+          ]
+        },
+        {
           "paese": "Nuova Zelanda",
           "canali": [
             "beIN Sports Connect New Zealand"
@@ -3445,6 +3497,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -3616,7 +3669,8 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock"
           ]
         },
         {
@@ -3660,22 +3714,7 @@
           "stream": false
         },
         {
-          "name": "Sky Sport 251",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "Sky Sport Calcio",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
+          "name": "DAZN1",
           "url": "",
           "stream": false
         }
@@ -3793,6 +3832,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Bulgaria",
+          "canali": [
+            "MAX Sport 3"
           ]
         },
         {
@@ -4007,10 +4052,7 @@
           "paese": "Italia",
           "canali": [
             "DAZN Italia",
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
+            "DAZN1"
           ]
         },
         {
@@ -4186,6 +4228,7 @@
         {
           "paese": "Porto Rico",
           "canali": [
+            "Peacock",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -4225,10 +4268,7 @@
           "paese": "San Marino",
           "canali": [
             "DAZN Italia",
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
+            "DAZN1"
           ]
         },
         {
@@ -4351,7 +4391,8 @@
         {
           "paese": "USA",
           "canali": [
-            "Paramount+"
+            "Paramount+",
+            "Peacock"
           ]
         },
         {
