@@ -9,8 +9,8 @@
       "kickoff": "2026-11-13T20:30:00+01:00",
       "date": "2026-11-13",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "4:0",
       "match_url": "https://www.livesoccertv.com/it/match/latina-vs-campobasso/e4ax2#5720788",
       "channels": [
         {
@@ -50,8 +50,8 @@
       "kickoff": "2026-11-13T20:30:00+01:00",
       "date": "2026-11-13",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "1:0",
       "match_url": "https://www.livesoccertv.com/it/match/dolomiti-bellunesi-vs-ospitaletto/gt7efv#5720412",
       "channels": [
         {
@@ -206,6 +206,88 @@
       ]
     },
     {
+      "id": "5720406",
+      "competition": "Serie C",
+      "home": "Union ArzignanoChiampo",
+      "away": "Alcione",
+      "title": "Union ArzignanoChiampo vs Alcione",
+      "kickoff": "2026-11-14T14:30:00+01:00",
+      "date": "2026-11-14",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/union-arzignanochiampo-vs-alcione/6y79md#5720406",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5721168",
+      "competition": "Serie C",
+      "home": "Virtus Casarano",
+      "away": "Picerno",
+      "title": "Virtus Casarano vs Picerno",
+      "kickoff": "2026-11-14T14:30:00+01:00",
+      "date": "2026-11-14",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/virtus-casarano-vs-picerno/1r5tk8#5721168",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
       "id": "5742585",
       "competition": "Serie B",
       "home": "Verona",
@@ -220,16 +302,31 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5653992",
@@ -1652,16 +1749,31 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5742579",
@@ -1678,16 +1790,31 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5742582",
@@ -1704,16 +1831,31 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5742583",
@@ -1730,16 +1872,31 @@
       "channels": [
         {
           "name": "DAZN Italia",
-          "url": "https://www.livesoccertv.com/it/channels/dazn-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "LAB Channel",
-          "url": "https://www.livesoccertv.com/it/channels/lab-channel/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5653997",
