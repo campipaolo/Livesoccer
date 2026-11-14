@@ -1,107 +1,16 @@
 {
-  "aggiornato": "2026-11-14T20:47:20+01:00",
+  "aggiornato": "2026-11-14T23:25:57+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 182,
+  "totale": 178,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 9,
+      "totale": 5,
       "eventi": [
-        {
-          "titolo": "[Basket] Qualificazioni Eurobasket: Austria-Italia",
-          "categoria": "Basket",
-          "sottocartella": "Qualificazioni Eurobasket femminile",
-          "sport": "Basket femminile",
-          "competizione": "Qualificazioni Eurobasket 2027",
-          "evento": "Austria-Italia",
-          "inizio": "2026-11-14T18:00:00+01:00",
-          "data": "14/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Basket",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T18:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-14T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Norvegia-Galles",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Norvegia-Galles",
-          "inizio": "2026-11-14T18:00:00+01:00",
-          "data": "14/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Volley] Supercoppa: Verona-Civitanova",
-          "categoria": "Volley",
-          "sottocartella": "Supercoppa",
-          "sport": "Pallavolo maschile",
-          "competizione": "Supercoppa",
-          "evento": "Verona-Civitanova",
-          "inizio": "2026-11-14T18:00:00+01:00",
-          "data": "14/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Algeria-Togo",
-          "categoria": "Calcio",
-          "sottocartella": "Qualificazioni Coppa d’Africa",
-          "sport": "Calcio",
-          "competizione": "Qualificazioni Coppa d’Africa",
-          "evento": "Algeria-Togo",
-          "inizio": "2026-11-14T20:00:00+01:00",
-          "data": "14/11/2026",
-          "ora": "20:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T20:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] UEFA Nations League: Portogallo-Danimarca",
           "categoria": "Calcio",
@@ -1945,7 +1854,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 43,
+      "totale": 41,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -6288,29 +6197,8 @@
         },
         {
           "nome": "UEFA Nations League",
-          "totale": 9,
+          "totale": 8,
           "eventi": [
-            {
-              "titolo": "UEFA Nations League: Norvegia-Galles",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Norvegia-Galles",
-              "inizio": "2026-11-14T18:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "UEFA Nations League: Portogallo-Danimarca",
               "categoria": "Calcio",
@@ -6503,30 +6391,63 @@
           ]
         },
         {
-          "nome": "Qualificazioni Coppa d’Africa",
-          "totale": 6,
+          "nome": "Serie A femminile",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "Qualificazioni Coppa d’Africa: Algeria-Togo",
+              "titolo": "Serie A: Inter-Juventus",
               "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sottocartella": "Serie A femminile",
+              "sport": "Calcio femminile",
+              "competizione": "Serie A",
+              "evento": "Inter-Juventus",
+              "inizio": "2026-11-15T15:00:00+01:00",
+              "data": "15/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "U20 Elite League",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "U20 Elite League: Italia-Svizzera",
+              "categoria": "Calcio",
+              "sottocartella": "U20 Elite League",
               "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Algeria-Togo",
-              "inizio": "2026-11-14T20:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "20:00",
+              "competizione": "U20 Elite League",
+              "evento": "Italia-Svizzera",
+              "inizio": "2026-11-16T15:00:00+01:00",
+              "data": "16/11/2026",
+              "ora": "15:00",
               "canali": [
                 {
                   "nome": "Sportitalia",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-14T20:00",
+                  "orario": "2026-11-16T15:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "Qualificazioni Coppa d’Africa",
+          "totale": 5,
+          "eventi": [
             {
               "titolo": "Qualificazioni Coppa d’Africa: Sudan-Senegal",
               "categoria": "Calcio",
@@ -6627,60 +6548,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-17T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Serie A femminile",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Serie A: Inter-Juventus",
-              "categoria": "Calcio",
-              "sottocartella": "Serie A femminile",
-              "sport": "Calcio femminile",
-              "competizione": "Serie A",
-              "evento": "Inter-Juventus",
-              "inizio": "2026-11-15T15:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "U20 Elite League",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "U20 Elite League: Italia-Svizzera",
-              "categoria": "Calcio",
-              "sottocartella": "U20 Elite League",
-              "sport": "Calcio",
-              "competizione": "U20 Elite League",
-              "evento": "Italia-Svizzera",
-              "inizio": "2026-11-16T15:00:00+01:00",
-              "data": "16/11/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T15:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -7935,63 +7802,8 @@
     },
     {
       "nome": "Basket",
-      "totale": 21,
+      "totale": 20,
       "sottocartelle": [
-        {
-          "nome": "Qualificazioni Eurobasket femminile",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Eurobasket: Austria-Italia",
-              "categoria": "Basket",
-              "sottocartella": "Qualificazioni Eurobasket femminile",
-              "sport": "Basket femminile",
-              "competizione": "Qualificazioni Eurobasket 2027",
-              "evento": "Austria-Italia",
-              "inizio": "2026-11-14T18:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T18:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Eurobasket: Lettonia-Italia",
-              "categoria": "Basket",
-              "sottocartella": "Qualificazioni Eurobasket femminile",
-              "sport": "Basket femminile",
-              "competizione": "Qualificazioni Eurobasket 2027",
-              "evento": "Lettonia-Italia",
-              "inizio": "2026-11-17T18:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Supercoppa Italiana",
           "totale": 1,
@@ -8192,6 +8004,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-19T01:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Qualificazioni Eurobasket femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Qualificazioni Eurobasket: Lettonia-Italia",
+              "categoria": "Basket",
+              "sottocartella": "Qualificazioni Eurobasket femminile",
+              "sport": "Basket femminile",
+              "competizione": "Qualificazioni Eurobasket 2027",
+              "evento": "Lettonia-Italia",
+              "inizio": "2026-11-17T18:00:00+01:00",
+              "data": "17/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T18:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -8446,35 +8285,8 @@
     },
     {
       "nome": "Volley",
-      "totale": 4,
+      "totale": 3,
       "sottocartelle": [
-        {
-          "nome": "Supercoppa",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Supercoppa: Verona-Civitanova",
-              "categoria": "Volley",
-              "sottocartella": "Supercoppa",
-              "sport": "Pallavolo maschile",
-              "competizione": "Supercoppa",
-              "evento": "Verona-Civitanova",
-              "inizio": "2026-11-14T18:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Serie A1 femminile",
           "totale": 2,
