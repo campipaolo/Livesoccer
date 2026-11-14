@@ -1,402 +1,16 @@
 {
-  "aggiornato": "2026-11-14T15:55:15+01:00",
+  "aggiornato": "2026-11-14T19:04:18+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 195,
+  "totale": 185,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 25,
+      "totale": 15,
       "eventi": [
-        {
-          "titolo": "[Altri sport] Coppa del Mondo – Levi: Slalom F (2a manche): 2a manche",
-          "categoria": "Altri sport",
-          "sottocartella": "Sci alpino",
-          "sport": "Sci alpino",
-          "competizione": "Coppa del Mondo – Levi",
-          "evento": "Slalom F (2a manche): 2a manche",
-          "inizio": "2026-11-14T13:00:00+01:00",
-          "data": "14/11/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Eurosport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T13:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP 250 Stoccolma: Finale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP 250 Stoccolma",
-          "sport": "Tennis",
-          "competizione": "ATP 250 Stoccolma",
-          "evento": "Finale",
-          "inizio": "2026-11-14T13:00:00+01:00",
-          "data": "14/11/2026",
-          "ora": "13:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T13:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Reggiana vs Livorno",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Reggiana vs Livorno",
-          "inizio": "2026-11-14T14:30:00+01:00",
-          "data": "14/11/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 252",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "Sky Sport Calcio",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Renate vs Desenzano Calvina",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Renate vs Desenzano Calvina",
-          "inizio": "2026-11-14T14:30:00+01:00",
-          "data": "14/11/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 256",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 256",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 256",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Union ArzignanoChiampo vs Alcione",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Union ArzignanoChiampo vs Alcione",
-          "inizio": "2026-11-14T14:30:00+01:00",
-          "data": "14/11/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 255",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 255",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 255",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Virtus Casarano vs Picerno",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Virtus Casarano vs Picerno",
-          "inizio": "2026-11-14T14:30:00+01:00",
-          "data": "14/11/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 253",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 253",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 253",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Vis Pesaro vs Pianese",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Vis Pesaro vs Pianese",
-          "inizio": "2026-11-14T14:30:00+01:00",
-          "data": "14/11/2026",
-          "ora": "14:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 254",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-14T14:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 254",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 254",
-                "SKY Go Italia",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Kosovo-Israele",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Kosovo-Israele",
-          "inizio": "2026-11-14T15:00:00+01:00",
-          "data": "14/11/2026",
-          "ora": "15:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T15:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Altri sport] Nations Championship: Galles-Nuova Zelanda",
-          "categoria": "Altri sport",
-          "sottocartella": "Rugby",
-          "sport": "Rugby",
-          "competizione": "Nations Championship",
-          "evento": "Galles-Nuova Zelanda",
-          "inizio": "2026-11-14T15:10:00+01:00",
-          "data": "14/11/2026",
-          "ora": "15:10",
-          "canali": [
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T15:10",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Volley] Supercoppa: Perugia-Trento",
-          "categoria": "Volley",
-          "sottocartella": "Supercoppa",
-          "sport": "Pallavolo maschile",
-          "competizione": "Supercoppa",
-          "evento": "Perugia-Trento",
-          "inizio": "2026-11-14T15:30:00+01:00",
-          "data": "14/11/2026",
-          "ora": "15:30",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-14T15:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Uganda-Botswana",
           "categoria": "Calcio",
@@ -2602,7 +2216,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 51,
+      "totale": 45,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -3094,282 +2708,8 @@
         },
         {
           "nome": "Serie C",
-          "totale": 17,
+          "totale": 12,
           "eventi": [
-            {
-              "titolo": "Serie C: Reggiana vs Livorno",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Reggiana vs Livorno",
-              "inizio": "2026-11-14T14:30:00+01:00",
-              "data": "14/11/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 252",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Calcio",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Renate vs Desenzano Calvina",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Renate vs Desenzano Calvina",
-              "inizio": "2026-11-14T14:30:00+01:00",
-              "data": "14/11/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 256",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 256",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 256",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Union ArzignanoChiampo vs Alcione",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Union ArzignanoChiampo vs Alcione",
-              "inizio": "2026-11-14T14:30:00+01:00",
-              "data": "14/11/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 255",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 255",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 255",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Virtus Casarano vs Picerno",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Virtus Casarano vs Picerno",
-              "inizio": "2026-11-14T14:30:00+01:00",
-              "data": "14/11/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 253",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 253",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 253",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Vis Pesaro vs Pianese",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Vis Pesaro vs Pianese",
-              "inizio": "2026-11-14T14:30:00+01:00",
-              "data": "14/11/2026",
-              "ora": "14:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 254",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-14T14:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 254",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 254",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie C: Athletic Carpi vs Giana Erminio",
               "categoria": "Calcio",
@@ -3818,30 +3158,162 @@
           ]
         },
         {
-          "nome": "UEFA Nations League",
-          "totale": 10,
+          "nome": "Qualificazioni Coppa d’Africa",
+          "totale": 7,
           "eventi": [
             {
-              "titolo": "UEFA Nations League: Kosovo-Israele",
+              "titolo": "Qualificazioni Coppa d’Africa: Uganda-Botswana",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
               "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Kosovo-Israele",
-              "inizio": "2026-11-14T15:00:00+01:00",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Uganda-Botswana",
+              "inizio": "2026-11-14T17:00:00+01:00",
               "data": "14/11/2026",
-              "ora": "15:00",
+              "ora": "17:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Max",
+                  "nome": "Sportitalia",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-14T15:00",
+                  "orario": "2026-11-14T17:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Algeria-Togo",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Algeria-Togo",
+              "inizio": "2026-11-14T20:00:00+01:00",
+              "data": "14/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-14T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Sudan-Senegal",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Sudan-Senegal",
+              "inizio": "2026-11-16T18:00:00+01:00",
+              "data": "16/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-16T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Somalia-Ghana",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Somalia-Ghana",
+              "inizio": "2026-11-16T21:00:00+01:00",
+              "data": "16/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-16T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Malawi-Egitto",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Malawi-Egitto",
+              "inizio": "2026-11-17T14:00:00+01:00",
+              "data": "17/11/2026",
+              "ora": "14:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T14:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Gambia-Costa d’Avorio",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Gambia-Costa d’Avorio",
+              "inizio": "2026-11-17T17:00:00+01:00",
+              "data": "17/11/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T17:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Qualificazioni Coppa d’Africa: Niger-Marocco",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Coppa d’Africa",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Coppa d’Africa",
+              "evento": "Niger-Marocco",
+              "inizio": "2026-11-17T21:00:00+01:00",
+              "data": "17/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Nations League",
+          "totale": 9,
+          "eventi": [
             {
               "titolo": "UEFA Nations League: Norvegia-Galles",
               "categoria": "Calcio",
@@ -4055,159 +3527,6 @@
           ]
         },
         {
-          "nome": "Qualificazioni Coppa d’Africa",
-          "totale": 7,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Uganda-Botswana",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Uganda-Botswana",
-              "inizio": "2026-11-14T17:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Algeria-Togo",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Algeria-Togo",
-              "inizio": "2026-11-14T20:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Sudan-Senegal",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Sudan-Senegal",
-              "inizio": "2026-11-16T18:00:00+01:00",
-              "data": "16/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Somalia-Ghana",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Somalia-Ghana",
-              "inizio": "2026-11-16T21:00:00+01:00",
-              "data": "16/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Malawi-Egitto",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Malawi-Egitto",
-              "inizio": "2026-11-17T14:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "14:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T14:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Gambia-Costa d’Avorio",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Gambia-Costa d’Avorio",
-              "inizio": "2026-11-17T17:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Niger-Marocco",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Niger-Marocco",
-              "inizio": "2026-11-17T21:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Serie A femminile",
           "totale": 1,
           "eventi": [
@@ -4400,35 +3719,8 @@
     },
     {
       "nome": "Tennis",
-      "totale": 52,
+      "totale": 51,
       "sottocartelle": [
-        {
-          "nome": "ATP 250 Stoccolma",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "ATP 250 Stoccolma: Finale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP 250 Stoccolma",
-              "sport": "Tennis",
-              "competizione": "ATP 250 Stoccolma",
-              "evento": "Finale",
-              "inizio": "2026-11-14T13:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "WTA Finals Indian Wells",
           "totale": 8,
@@ -6046,33 +5338,12 @@
     },
     {
       "nome": "Volley",
-      "totale": 5,
+      "totale": 4,
       "sottocartelle": [
         {
           "nome": "Supercoppa",
-          "totale": 2,
+          "totale": 1,
           "eventi": [
-            {
-              "titolo": "Supercoppa: Perugia-Trento",
-              "categoria": "Volley",
-              "sottocartella": "Supercoppa",
-              "sport": "Pallavolo maschile",
-              "competizione": "Supercoppa",
-              "evento": "Perugia-Trento",
-              "inizio": "2026-11-14T15:30:00+01:00",
-              "data": "14/11/2026",
-              "ora": "15:30",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T15:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Supercoppa: Verona-Civitanova",
               "categoria": "Volley",
@@ -6175,137 +5446,12 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 9,
+      "totale": 7,
       "sottocartelle": [
         {
-          "nome": "Sci alpino",
+          "nome": "Rugby",
           "totale": 4,
           "eventi": [
-            {
-              "titolo": "Coppa del Mondo – Levi: Slalom F (2a manche): 2a manche",
-              "categoria": "Altri sport",
-              "sottocartella": "Sci alpino",
-              "sport": "Sci alpino",
-              "competizione": "Coppa del Mondo – Levi",
-              "evento": "Slalom F (2a manche): 2a manche",
-              "inizio": "2026-11-14T13:00:00+01:00",
-              "data": "14/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T13:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Coppa del Mondo – Levi: Slalom M (1a manche): 1a manche",
-              "categoria": "Altri sport",
-              "sottocartella": "Sci alpino",
-              "sport": "Sci alpino",
-              "competizione": "Coppa del Mondo – Levi",
-              "evento": "Slalom M (1a manche): 1a manche",
-              "inizio": "2026-11-15T10:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "10:00",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T10:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T10:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Coppa del Mondo – Levi: Slalom F (2a manche): 2a manche",
-              "categoria": "Altri sport",
-              "sottocartella": "Sci alpino",
-              "sport": "Sci alpino",
-              "competizione": "Coppa del Mondo – Levi",
-              "evento": "Slalom F (2a manche): 2a manche",
-              "inizio": "2026-11-15T13:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Coppa del Mondo – Levi: Slalom M (2a manche): 2a manche",
-              "categoria": "Altri sport",
-              "sottocartella": "Sci alpino",
-              "sport": "Sci alpino",
-              "competizione": "Coppa del Mondo – Levi",
-              "evento": "Slalom M (2a manche): 2a manche",
-              "inizio": "2026-11-15T13:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "13:00",
-              "canali": [
-                {
-                  "nome": "Eurosport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T13:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Rugby",
-          "totale": 5,
-          "eventi": [
-            {
-              "titolo": "Nations Championship: Galles-Nuova Zelanda",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "Nations Championship",
-              "evento": "Galles-Nuova Zelanda",
-              "inizio": "2026-11-14T15:10:00+01:00",
-              "data": "14/11/2026",
-              "ora": "15:10",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-14T15:10",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Nations Championship: Inghilterra-Giappone",
               "categoria": "Altri sport",
@@ -6385,6 +5531,82 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-15T16:10",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Sci alpino",
+          "totale": 3,
+          "eventi": [
+            {
+              "titolo": "Coppa del Mondo – Levi: Slalom M (1a manche): 1a manche",
+              "categoria": "Altri sport",
+              "sottocartella": "Sci alpino",
+              "sport": "Sci alpino",
+              "competizione": "Coppa del Mondo – Levi",
+              "evento": "Slalom M (1a manche): 1a manche",
+              "inizio": "2026-11-15T10:00:00+01:00",
+              "data": "15/11/2026",
+              "ora": "10:00",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T10:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T10:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Coppa del Mondo – Levi: Slalom F (2a manche): 2a manche",
+              "categoria": "Altri sport",
+              "sottocartella": "Sci alpino",
+              "sport": "Sci alpino",
+              "competizione": "Coppa del Mondo – Levi",
+              "evento": "Slalom F (2a manche): 2a manche",
+              "inizio": "2026-11-15T13:00:00+01:00",
+              "data": "15/11/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Coppa del Mondo – Levi: Slalom M (2a manche): 2a manche",
+              "categoria": "Altri sport",
+              "sottocartella": "Sci alpino",
+              "sport": "Sci alpino",
+              "competizione": "Coppa del Mondo – Levi",
+              "evento": "Slalom M (2a manche): 2a manche",
+              "inizio": "2026-11-15T13:00:00+01:00",
+              "data": "15/11/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-15T13:00",
                   "fonte": "virgilio"
                 }
               ],
