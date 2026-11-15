@@ -1,74 +1,431 @@
 {
-  "aggiornato": "2026-11-15T23:50:11+01:00",
+  "aggiornato": "2026-11-16T00:50:25+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 167,
+  "totale": 184,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 3,
+      "totale": 16,
       "eventi": [
         {
-          "titolo": "[Tennis] WTA Finals Indian Wells: Singles Finale",
+          "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Diurna",
           "categoria": "Tennis",
-          "sottocartella": "WTA Finals Indian Wells",
+          "sottocartella": "ATP Finals Torino",
           "sport": "Tennis",
-          "competizione": "WTA Finals Indian Wells 2026",
-          "evento": "Singles Finale",
-          "inizio": "2026-11-15T21:00:00+01:00",
-          "data": "15/11/2026",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doppio: Sessione Diurna",
+          "inizio": "2026-11-16T11:30:00+01:00",
+          "data": "16/11/2026",
+          "ora": "11:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T11:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Doubles R.R Sess. Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doubles R.R Sess. Diurna",
+          "inizio": "2026-11-16T11:30:00+01:00",
+          "data": "16/11/2026",
+          "ora": "11:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-16T11:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singles R.R Sess. Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singles R.R Sess. Diurna",
+          "inizio": "2026-11-16T14:00:00+01:00",
+          "data": "16/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-16T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singolare: Sessione Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singolare: Sessione Diurna",
+          "inizio": "2026-11-16T14:00:00+01:00",
+          "data": "16/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] U20 Elite League: Italia-Svizzera",
+          "categoria": "Calcio",
+          "sottocartella": "U20 Elite League",
+          "sport": "Calcio",
+          "competizione": "U20 Elite League",
+          "evento": "Italia-Svizzera",
+          "inizio": "2026-11-16T15:00:00+01:00",
+          "data": "16/11/2026",
+          "ora": "15:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T15:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Sudan-Senegal",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Coppa d’Africa",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Coppa d’Africa",
+          "evento": "Sudan-Senegal",
+          "inizio": "2026-11-16T18:00:00+01:00",
+          "data": "16/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Serale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doppio: Sessione Serale",
+          "inizio": "2026-11-16T18:00:00+01:00",
+          "data": "16/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Doubles R.R Sess. Serale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doubles R.R Sess. Serale",
+          "inizio": "2026-11-16T18:00:00+01:00",
+          "data": "16/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-16T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Amichevole U21: Italia-Belgio",
+          "categoria": "Calcio",
+          "sottocartella": "Amichevole U21",
+          "sport": "Calcio",
+          "competizione": "Amichevole U21",
+          "evento": "Italia-Belgio",
+          "inizio": "2026-11-16T18:15:00+01:00",
+          "data": "16/11/2026",
+          "ora": "18:15",
+          "canali": [
+            {
+              "nome": "Rai 2",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T18:15",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Sorrento vs Monopoli",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Sorrento vs Monopoli",
+          "inizio": "2026-11-16T20:30:00+01:00",
+          "data": "16/11/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 252",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-16T20:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "NOW TV",
+                "Sky Sport Mix"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 252",
+                "SKY Go Italia",
+                "NOW TV",
+                "Sky Sport Mix"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino – 1a giornata (Gruppo Lendl): Cobolli-Medvedev: Cobolli-Medvedev",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino – 1a giornata (Gruppo Lendl)",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026 – 1a giornata (Gruppo Lendl)",
+          "evento": "Cobolli-Medvedev: Cobolli-Medvedev",
+          "inizio": "2026-11-16T20:30:00+01:00",
+          "data": "16/11/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Italia 1",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singles R.R Sess. Serale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singles R.R Sess. Serale",
+          "inizio": "2026-11-16T20:30:00+01:00",
+          "data": "16/11/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singolare: Sessione Serale",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singolare: Sessione Serale",
+          "inizio": "2026-11-16T20:30:00+01:00",
+          "data": "16/11/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Perugia vs Sassari Torres",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Perugia vs Sassari Torres",
+          "inizio": "2026-11-16T20:45:00+01:00",
+          "data": "16/11/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "Sky Sport 251",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "RAI Sport 1",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "RaiPlay",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] UEFA Nations League: Germania-Olanda",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Nations League",
+          "sport": "Calcio",
+          "competizione": "UEFA Nations League",
+          "evento": "Germania-Olanda",
+          "inizio": "2026-11-16T20:45:00+01:00",
+          "data": "16/11/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "20",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-16T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Somalia-Ghana",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Coppa d’Africa",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Coppa d’Africa",
+          "evento": "Somalia-Ghana",
+          "inizio": "2026-11-16T21:00:00+01:00",
+          "data": "16/11/2026",
           "ora": "21:00",
           "canali": [
             {
-              "nome": "Sky Sport Arena",
+              "nome": "Sportitalia",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-15T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] NBA: Phoenix Suns-Los Angeles Lakers",
-          "categoria": "Basket",
-          "sottocartella": "NBA",
-          "sport": "Basket",
-          "competizione": "NBA",
-          "evento": "Phoenix Suns-Los Angeles Lakers",
-          "inizio": "2026-11-15T22:00:00+01:00",
-          "data": "15/11/2026",
-          "ora": "22:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Basket",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T22:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] WTA Finals Indian Wells: Doubles Finale",
-          "categoria": "Tennis",
-          "sottocartella": "WTA Finals Indian Wells",
-          "sport": "Tennis",
-          "competizione": "WTA Finals Indian Wells 2026",
-          "evento": "Doubles Finale",
-          "inizio": "2026-11-15T23:00:00+01:00",
-          "data": "15/11/2026",
-          "ora": "23:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T23:00",
+              "orario": "2026-11-16T21:00",
               "fonte": "virgilio"
             }
           ],
@@ -1798,11 +2155,11 @@
     },
     {
       "nome": "Calcio",
-      "totale": 37,
+      "totale": 50,
       "sottocartelle": [
         {
           "nome": "Serie A",
-          "totale": 5,
+          "totale": 9,
           "eventi": [
             {
               "titolo": "Serie A: Como vs Cagliari",
@@ -2432,6 +2789,12 @@
                     "Shasha",
                     "STC TV",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Slovenia",
+                  "canali": [
+                    "Arena Sport 2 Slovenia"
                   ]
                 },
                 {
@@ -3740,6 +4103,12 @@
                   ]
                 },
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 2"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -3953,6 +4322,12 @@
                   ]
                 },
                 {
+                  "paese": "Romania",
+                  "canali": [
+                    "Digi Sport 3 Romania"
+                  ]
+                },
+                {
                   "paese": "Russia",
                   "canali": [
                     "Sportbox.ru",
@@ -3998,6 +4373,12 @@
                     "Shasha",
                     "STC TV",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Slovenia",
+                  "canali": [
+                    "Arena Sport 3 Slovenia"
                   ]
                 },
                 {
@@ -4827,6 +5208,12 @@
                     "Shasha",
                     "STC TV",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Slovenia",
+                  "canali": [
+                    "Arena Sport 1 Premium"
                   ]
                 },
                 {
@@ -5731,6 +6118,104 @@
                 }
               ],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie A: Sassuolo-Genoa",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Sassuolo-Genoa",
+              "inizio": "2026-11-22T12:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Milan-Frosinone",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Milan-Frosinone",
+              "inizio": "2026-11-22T15:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T15:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Bologna-Udinese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Bologna-Udinese",
+              "inizio": "2026-11-22T18:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T18:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Atalanta-Inter",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Atalanta-Inter",
+              "inizio": "2026-11-22T20:45:00+01:00",
+              "data": "22/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -5765,6 +6250,12 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Gold"
+                  ]
+                },
                 {
                   "paese": "Italia",
                   "canali": [
@@ -5994,6 +6485,12 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Gold"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -6051,7 +6548,7 @@
         },
         {
           "nome": "Serie C",
-          "totale": 5,
+          "totale": 9,
           "eventi": [
             {
               "titolo": "Serie C: Sorrento vs Monopoli",
@@ -6162,13 +6659,6 @@
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
                   "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
@@ -6176,37 +6666,7 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 251",
-                    "RAI Sport 1",
-                    "SKY Go Italia",
-                    "RaiPlay",
-                    "Sky Sport Max",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 251",
-                    "RAI Sport 1",
-                    "SKY Go Italia",
-                    "RaiPlay",
-                    "Sky Sport Max",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "RAI Sport 1",
-                    "Sunrise TV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -6354,6 +6814,90 @@
                 }
               ],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Scafatese-Foggia",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Scafatese-Foggia",
+              "inizio": "2026-11-22T12:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Union Brescia-Renate",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Union Brescia-Renate",
+              "inizio": "2026-11-22T12:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Catania-Bari",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Catania-Bari",
+              "inizio": "2026-11-22T15:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Sambenedettese-Perugia",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Sambenedettese-Perugia",
+              "inizio": "2026-11-22T17:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -6586,7 +7130,7 @@
         },
         {
           "nome": "Bundesliga 2",
-          "totale": 1,
+          "totale": 2,
           "eventi": [
             {
               "titolo": "Bundesliga 2: Arminia Bielefeld-FC Magdeburg",
@@ -6604,6 +7148,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-20T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga 2: 1. FC Kaiserslautern-Dynamo Dresden",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga 2",
+              "sport": "Calcio",
+              "competizione": "Bundesliga 2",
+              "evento": "1. FC Kaiserslautern-Dynamo Dresden",
+              "inizio": "2026-11-22T13:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "13:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T13:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -6640,7 +7205,7 @@
         },
         {
           "nome": "Bundesliga",
-          "totale": 3,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "Bundesliga: Bayern Monaco-Colonia",
@@ -6700,6 +7265,48 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-21T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: Augsburg-Mainz",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Augsburg-Mainz",
+              "inizio": "2026-11-22T15:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "15:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T15:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: Werder Brema-Amburgo SV",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Werder Brema-Amburgo SV",
+              "inizio": "2026-11-22T17:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T17:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -6784,7 +7391,7 @@
         },
         {
           "nome": "Premier League",
-          "totale": 3,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "Premier League: Manchester City-Fulham",
@@ -6848,6 +7455,48 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Hull City-Brighton",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Hull City-Brighton",
+              "inizio": "2026-11-22T15:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Liverpool-Manchester Utd",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Liverpool-Manchester Utd",
+              "inizio": "2026-11-22T17:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         }
@@ -6858,56 +7507,8 @@
       "totale": 46,
       "sottocartelle": [
         {
-          "nome": "WTA Finals Indian Wells",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "WTA Finals Indian Wells: Singles Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA Finals Indian Wells",
-              "sport": "Tennis",
-              "competizione": "WTA Finals Indian Wells 2026",
-              "evento": "Singles Finale",
-              "inizio": "2026-11-15T21:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA Finals Indian Wells: Doubles Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA Finals Indian Wells",
-              "sport": "Tennis",
-              "competizione": "WTA Finals Indian Wells 2026",
-              "evento": "Doubles Finale",
-              "inizio": "2026-11-15T23:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "23:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T23:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "ATP Finals Torino",
-          "totale": 43,
+          "totale": 45,
           "eventi": [
             {
               "titolo": "ATP Finals Torino: Doppio: Sessione Diurna",
@@ -7811,6 +8412,55 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Finals Torino: Doubles Finale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Finals Torino",
+              "sport": "Tennis",
+              "competizione": "ATP Finals Torino 2026",
+              "evento": "Doubles Finale",
+              "inizio": "2026-11-22T15:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "ATP Finals Torino: Singles Finale",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Finals Torino",
+              "sport": "Tennis",
+              "competizione": "ATP Finals Torino 2026",
+              "evento": "Singles Finale",
+              "inizio": "2026-11-22T18:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Tennis",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T18:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -7845,33 +8495,12 @@
     },
     {
       "nome": "Basket",
-      "totale": 18,
+      "totale": 20,
       "sottocartelle": [
         {
           "nome": "NBA",
           "totale": 6,
           "eventi": [
-            {
-              "titolo": "NBA: Phoenix Suns-Los Angeles Lakers",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Phoenix Suns-Los Angeles Lakers",
-              "inizio": "2026-11-15T22:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "22:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T22:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "NBA: Boston Celtics-Orlando Magic",
               "categoria": "Basket",
@@ -7972,6 +8601,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-21T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Miami Heat-Oklahoma City Thunder",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Miami Heat-Oklahoma City Thunder",
+              "inizio": "2026-11-22T00:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T00:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -8248,16 +8898,64 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "Serie A",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "Serie A: Derthona Tortona-Olimpia Milano",
+              "categoria": "Basket",
+              "sottocartella": "Serie A",
+              "sport": "Basket",
+              "competizione": "Serie A",
+              "evento": "Derthona Tortona-Olimpia Milano",
+              "inizio": "2026-11-22T16:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "16:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T16:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Verona-Udine",
+              "categoria": "Basket",
+              "sottocartella": "Serie A",
+              "sport": "Basket",
+              "competizione": "Serie A",
+              "evento": "Verona-Udine",
+              "inizio": "2026-11-22T18:15:00+01:00",
+              "data": "22/11/2026",
+              "ora": "18:15",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T18:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Altri sport",
-      "totale": 9,
+      "totale": 11,
       "sottocartelle": [
         {
           "nome": "Sci alpino",
-          "totale": 2,
+          "totale": 4,
           "eventi": [
             {
               "titolo": "Coppa del Mondo – Gurgl: Slalom F (1a manche): 1a manche",
@@ -8296,6 +8994,48 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-21T13:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Coppa del Mondo – Gurgl: Slalom M (1a manche): 1a manche",
+              "categoria": "Altri sport",
+              "sottocartella": "Sci alpino",
+              "sport": "Sci alpino",
+              "competizione": "Coppa del Mondo – Gurgl",
+              "evento": "Slalom M (1a manche): 1a manche",
+              "inizio": "2026-11-22T10:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "10:30",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T10:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Coppa del Mondo – Gurgl: Slalom M (2a manche): 2a manche",
+              "categoria": "Altri sport",
+              "sottocartella": "Sci alpino",
+              "sport": "Sci alpino",
+              "competizione": "Coppa del Mondo – Gurgl",
+              "evento": "Slalom M (2a manche): 2a manche",
+              "inizio": "2026-11-22T13:30:00+01:00",
+              "data": "22/11/2026",
+              "ora": "13:30",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T13:30",
                   "fonte": "virgilio"
                 }
               ],
