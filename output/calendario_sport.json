@@ -1,198 +1,16 @@
 {
-  "aggiornato": "2026-11-15T20:37:49+01:00",
+  "aggiornato": "2026-11-15T23:50:11+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 175,
+  "totale": 167,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 11,
+      "totale": 3,
       "eventi": [
-        {
-          "titolo": "[Calcio] UEFA Nations League: Bielorussia-Albania",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Bielorussia-Albania",
-          "inizio": "2026-11-15T18:00:00+01:00",
-          "data": "15/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Doubles R.R Sess. Serale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Doubles R.R Sess. Serale",
-          "inizio": "2026-11-15T18:00:00+01:00",
-          "data": "15/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Volley] Supercoppa Superlega: Finale",
-          "categoria": "Volley",
-          "sottocartella": "Supercoppa Superlega",
-          "sport": "Pallavolo maschile",
-          "competizione": "Supercoppa Superlega",
-          "evento": "Finale",
-          "inizio": "2026-11-15T18:00:00+01:00",
-          "data": "15/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Rai 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] Serie A: Udine-Olimpia Milano",
-          "categoria": "Basket",
-          "sottocartella": "Serie A",
-          "sport": "Basket",
-          "competizione": "Serie A",
-          "evento": "Udine-Olimpia Milano",
-          "inizio": "2026-11-15T18:15:00+01:00",
-          "data": "15/11/2026",
-          "ora": "18:15",
-          "canali": [
-            {
-              "nome": "Sky Sport Basket",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T18:15",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Cielo",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T18:15",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-15T18:15",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Singles R.R Sess. Serale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Singles R.R Sess. Serale",
-          "inizio": "2026-11-15T20:30:00+01:00",
-          "data": "15/11/2026",
-          "ora": "20:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T20:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Belgio-Italia",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Belgio-Italia",
-          "inizio": "2026-11-15T20:45:00+01:00",
-          "data": "15/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "Rai 1",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T20:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Francia-Turchia",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Francia-Turchia",
-          "inizio": "2026-11-15T20:45:00+01:00",
-          "data": "15/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T20:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Spagna-Inghilterra",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Spagna-Inghilterra",
-          "inizio": "2026-11-15T20:45:00+01:00",
-          "data": "15/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "Sky Sport Mix",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-15T20:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] WTA Finals Indian Wells: Singles Finale",
           "categoria": "Tennis",
@@ -1980,7 +1798,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 41,
+      "totale": 37,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -6540,152 +6358,6 @@
           ]
         },
         {
-          "nome": "UEFA Nations League",
-          "totale": 6,
-          "eventi": [
-            {
-              "titolo": "UEFA Nations League: Bielorussia-Albania",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Bielorussia-Albania",
-              "inizio": "2026-11-15T18:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Nations League: Belgio-Italia",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Belgio-Italia",
-              "inizio": "2026-11-15T20:45:00+01:00",
-              "data": "15/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Rai 1",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Nations League: Francia-Turchia",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Francia-Turchia",
-              "inizio": "2026-11-15T20:45:00+01:00",
-              "data": "15/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Nations League: Spagna-Inghilterra",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Spagna-Inghilterra",
-              "inizio": "2026-11-15T20:45:00+01:00",
-              "data": "15/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Nations League: Germania-Olanda",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Germania-Olanda",
-              "inizio": "2026-11-16T20:45:00+01:00",
-              "data": "16/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "20",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Nations League: Danimarca-Norvegia",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Danimarca-Norvegia",
-              "inizio": "2026-11-17T20:45:00+01:00",
-              "data": "17/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Cielo",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T20:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "U20 Elite League",
           "totale": 1,
           "eventi": [
@@ -6843,6 +6515,68 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-16T18:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Nations League",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "UEFA Nations League: Germania-Olanda",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Nations League",
+              "sport": "Calcio",
+              "competizione": "UEFA Nations League",
+              "evento": "Germania-Olanda",
+              "inizio": "2026-11-16T20:45:00+01:00",
+              "data": "16/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "20",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-16T20:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-16T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Nations League: Danimarca-Norvegia",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Nations League",
+              "sport": "Calcio",
+              "competizione": "UEFA Nations League",
+              "evento": "Danimarca-Norvegia",
+              "inizio": "2026-11-17T20:45:00+01:00",
+              "data": "17/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Cielo",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T20:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T20:45",
                   "fonte": "virgilio"
                 }
               ],
@@ -7121,54 +6855,60 @@
     },
     {
       "nome": "Tennis",
-      "totale": 48,
+      "totale": 46,
       "sottocartelle": [
         {
-          "nome": "ATP Finals Torino",
-          "totale": 45,
+          "nome": "WTA Finals Indian Wells",
+          "totale": 2,
           "eventi": [
             {
-              "titolo": "ATP Finals Torino: Doubles R.R Sess. Serale",
+              "titolo": "WTA Finals Indian Wells: Singles Finale",
               "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
+              "sottocartella": "WTA Finals Indian Wells",
               "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doubles R.R Sess. Serale",
-              "inizio": "2026-11-15T18:00:00+01:00",
+              "competizione": "WTA Finals Indian Wells 2026",
+              "evento": "Singles Finale",
+              "inizio": "2026-11-15T21:00:00+01:00",
               "data": "15/11/2026",
-              "ora": "18:00",
+              "ora": "21:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Tennis",
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-15T18:00",
+                  "orario": "2026-11-15T21:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "ATP Finals Torino: Singles R.R Sess. Serale",
+              "titolo": "WTA Finals Indian Wells: Doubles Finale",
               "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
+              "sottocartella": "WTA Finals Indian Wells",
               "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Singles R.R Sess. Serale",
-              "inizio": "2026-11-15T20:30:00+01:00",
+              "competizione": "WTA Finals Indian Wells 2026",
+              "evento": "Doubles Finale",
+              "inizio": "2026-11-15T23:00:00+01:00",
               "data": "15/11/2026",
-              "ora": "20:30",
+              "ora": "23:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Tennis",
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-15T20:30",
+                  "orario": "2026-11-15T23:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "ATP Finals Torino",
+          "totale": 43,
+          "eventi": [
             {
               "titolo": "ATP Finals Torino: Doppio: Sessione Diurna",
               "categoria": "Tennis",
@@ -8075,54 +7815,6 @@
           ]
         },
         {
-          "nome": "WTA Finals Indian Wells",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "WTA Finals Indian Wells: Singles Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA Finals Indian Wells",
-              "sport": "Tennis",
-              "competizione": "WTA Finals Indian Wells 2026",
-              "evento": "Singles Finale",
-              "inizio": "2026-11-15T21:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "WTA Finals Indian Wells: Doubles Finale",
-              "categoria": "Tennis",
-              "sottocartella": "WTA Finals Indian Wells",
-              "sport": "Tennis",
-              "competizione": "WTA Finals Indian Wells 2026",
-              "evento": "Doubles Finale",
-              "inizio": "2026-11-15T23:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "23:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T23:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "ATP Finals Torino – 1a giornata (Gruppo Lendl)",
           "totale": 1,
           "eventi": [
@@ -8153,49 +7845,8 @@
     },
     {
       "nome": "Basket",
-      "totale": 19,
+      "totale": 18,
       "sottocartelle": [
-        {
-          "nome": "Serie A",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Serie A: Udine-Olimpia Milano",
-              "categoria": "Basket",
-              "sottocartella": "Serie A",
-              "sport": "Basket",
-              "competizione": "Serie A",
-              "evento": "Udine-Olimpia Milano",
-              "inizio": "2026-11-15T18:15:00+01:00",
-              "data": "15/11/2026",
-              "ora": "18:15",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T18:15",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Cielo",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T18:15",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T18:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "NBA",
           "totale": 6,
@@ -8591,39 +8242,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-20T20:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Volley",
-      "totale": 1,
-      "sottocartelle": [
-        {
-          "nome": "Supercoppa Superlega",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Supercoppa Superlega: Finale",
-              "categoria": "Volley",
-              "sottocartella": "Supercoppa Superlega",
-              "sport": "Pallavolo maschile",
-              "competizione": "Supercoppa Superlega",
-              "evento": "Finale",
-              "inizio": "2026-11-15T18:00:00+01:00",
-              "data": "15/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-15T18:00",
                   "fonte": "virgilio"
                 }
               ],
