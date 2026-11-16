@@ -1,58 +1,16 @@
 {
-  "aggiornato": "2026-11-16T06:09:36+01:00",
+  "aggiornato": "2026-11-16T16:01:51+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 184,
+  "totale": 182,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 16,
+      "totale": 14,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Diurna",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Doppio: Sessione Diurna",
-          "inizio": "2026-11-16T11:30:00+01:00",
-          "data": "16/11/2026",
-          "ora": "11:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-16T11:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Doubles R.R Sess. Diurna",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Doubles R.R Sess. Diurna",
-          "inizio": "2026-11-16T11:30:00+01:00",
-          "data": "16/11/2026",
-          "ora": "11:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-16T11:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Tennis] ATP Finals Torino: Singles R.R Sess. Diurna",
           "categoria": "Tennis",
@@ -240,26 +198,7 @@
               "fonte": "livesoccer"
             }
           ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "NOW TV",
-                "Sky Sport Mix"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "NOW TV",
-                "Sky Sport Mix"
-              ]
-            }
-          ],
+          "canali_mondo": [],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -2234,6 +2173,7 @@
                 {
                   "paese": "Albania",
                   "canali": [
+                    "Tring Sport 1",
                     "Tring"
                   ]
                 },
@@ -2597,6 +2537,19 @@
                   ]
                 },
                 {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime 2"
+                  ]
+                },
+                {
+                  "paese": "Kosovo",
+                  "canali": [
+                    "Tring Sport 1"
+                  ]
+                },
+                {
                   "paese": "Kuwait",
                   "canali": [
                     "STARZPLAY",
@@ -2903,6 +2856,12 @@
                   ]
                 },
                 {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 4"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -3016,6 +2975,7 @@
                 {
                   "paese": "Albania",
                   "canali": [
+                    "Tring Sport 2",
                     "Tring"
                   ]
                 },
@@ -3120,6 +3080,12 @@
                   "paese": "Bolivia",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
                   ]
                 },
                 {
@@ -3384,6 +3350,19 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime"
+                  ]
+                },
+                {
+                  "paese": "Kosovo",
+                  "canali": [
+                    "Tring Sport 2"
                   ]
                 },
                 {
@@ -3680,6 +3659,12 @@
                   ]
                 },
                 {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -3801,6 +3786,7 @@
                 {
                   "paese": "Albania",
                   "canali": [
+                    "Tring Sport 1",
                     "Tring"
                   ]
                 },
@@ -3905,6 +3891,12 @@
                   "paese": "Bolivia",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
                   ]
                 },
                 {
@@ -4115,6 +4107,12 @@
                   ]
                 },
                 {
+                  "paese": "Ungheria",
+                  "canali": [
+                    "Match4"
+                  ]
+                },
+                {
                   "paese": "India",
                   "canali": [
                     "ZEE5"
@@ -4178,6 +4176,19 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime 2"
+                  ]
+                },
+                {
+                  "paese": "Kosovo",
+                  "canali": [
+                    "Tring Sport 1"
                   ]
                 },
                 {
@@ -4499,6 +4510,12 @@
                   ]
                 },
                 {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -4649,6 +4666,7 @@
                 {
                   "paese": "Albania",
                   "canali": [
+                    "Tring Sport 1",
                     "Tring"
                   ]
                 },
@@ -4756,6 +4774,12 @@
                   ]
                 },
                 {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
+                  ]
+                },
+                {
                   "paese": "Brasile",
                   "canali": [
                     "Disney+ Premium Brazil"
@@ -4811,7 +4835,8 @@
                 {
                   "paese": "Taipei cinese",
                   "canali": [
-                    "eltaott.tv"
+                    "eltaott.tv",
+                    "ELTA Sports 3"
                   ]
                 },
                 {
@@ -4964,6 +4989,12 @@
                   ]
                 },
                 {
+                  "paese": "Ungheria",
+                  "canali": [
+                    "Match4"
+                  ]
+                },
+                {
                   "paese": "India",
                   "canali": [
                     "ZEE5"
@@ -5024,6 +5055,19 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime 2"
+                  ]
+                },
+                {
+                  "paese": "Kosovo",
+                  "canali": [
+                    "Tring Sport 1"
                   ]
                 },
                 {
@@ -5339,6 +5383,12 @@
                   ]
                 },
                 {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
+                  ]
+                },
+                {
                   "paese": "Trinidad e Tobago",
                   "canali": [
                     "Disney+ Premium Caribbean"
@@ -5503,6 +5553,12 @@
                   ]
                 },
                 {
+                  "paese": "Australia",
+                  "canali": [
+                    "beIN SPORTS 2"
+                  ]
+                },
+                {
                   "paese": "Austria",
                   "canali": [
                     "DAZN Austria"
@@ -5551,6 +5607,12 @@
                   "paese": "Bolivia",
                   "canali": [
                     "Disney+ Premium Chile"
+                  ]
+                },
+                {
+                  "paese": "Bosnia ed Erzegovina",
+                  "canali": [
+                    "Arena Sport 2P"
                   ]
                 },
                 {
@@ -5748,6 +5810,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "beIN Sports 1 Hong Kong",
                     "beIN Sports Connect Hong Kong",
                     "M Plus Live"
                   ]
@@ -5812,6 +5875,13 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Corea del Sud",
+                  "canali": [
+                    "SPOTV NOW",
+                    "SPOTV Prime 2"
                   ]
                 },
                 {
@@ -6099,6 +6169,12 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Thailandia",
+                  "canali": [
+                    "True Premier Football HD 3"
                   ]
                 },
                 {
@@ -6601,28 +6677,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5 Live"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -6671,26 +6726,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "NOW TV",
-                    "Sky Sport Mix"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "NOW TV",
-                    "Sky Sport Mix"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -7622,54 +7658,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 46,
+      "totale": 44,
       "sottocartelle": [
         {
           "nome": "ATP Finals Torino",
-          "totale": 45,
+          "totale": 43,
           "eventi": [
-            {
-              "titolo": "ATP Finals Torino: Doppio: Sessione Diurna",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doppio: Sessione Diurna",
-              "inizio": "2026-11-16T11:30:00+01:00",
-              "data": "16/11/2026",
-              "ora": "11:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T11:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Doubles R.R Sess. Diurna",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doubles R.R Sess. Diurna",
-              "inizio": "2026-11-16T11:30:00+01:00",
-              "data": "16/11/2026",
-              "ora": "11:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T11:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Finals Torino: Singles R.R Sess. Diurna",
               "categoria": "Tennis",
