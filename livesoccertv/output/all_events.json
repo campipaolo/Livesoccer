@@ -15,45 +15,26 @@
       "channels": [
         {
           "name": "Sky Sport 252",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-2/",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         },
         {
           "name": "Sky Sport Mix",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-sport-mixitalia/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV",
-            "Sky Sport Mix"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV",
-            "Sky Sport Mix"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720789",
@@ -338,6 +319,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 1",
             "Tring"
           ]
         },
@@ -701,6 +683,19 @@
           ]
         },
         {
+          "paese": "Corea del Sud",
+          "canali": [
+            "SPOTV NOW",
+            "SPOTV Prime 2"
+          ]
+        },
+        {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 1"
+          ]
+        },
+        {
           "paese": "Kuwait",
           "canali": [
             "STARZPLAY",
@@ -1007,6 +1002,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 4"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -1112,6 +1113,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 2",
             "Tring"
           ]
         },
@@ -1216,6 +1218,12 @@
           "paese": "Bolivia",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
           ]
         },
         {
@@ -1480,6 +1488,19 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Corea del Sud",
+          "canali": [
+            "SPOTV NOW",
+            "SPOTV Prime"
+          ]
+        },
+        {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 2"
           ]
         },
         {
@@ -1776,6 +1797,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2051,6 +2078,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 1",
             "Tring"
           ]
         },
@@ -2155,6 +2183,12 @@
           "paese": "Bolivia",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
           ]
         },
         {
@@ -2365,6 +2399,12 @@
           ]
         },
         {
+          "paese": "Ungheria",
+          "canali": [
+            "Match4"
+          ]
+        },
+        {
           "paese": "India",
           "canali": [
             "ZEE5"
@@ -2428,6 +2468,19 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Corea del Sud",
+          "canali": [
+            "SPOTV NOW",
+            "SPOTV Prime 2"
+          ]
+        },
+        {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 1"
           ]
         },
         {
@@ -2749,6 +2802,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -2931,6 +2990,7 @@
         {
           "paese": "Albania",
           "canali": [
+            "Tring Sport 1",
             "Tring"
           ]
         },
@@ -3038,6 +3098,12 @@
           ]
         },
         {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
+          ]
+        },
+        {
           "paese": "Brasile",
           "canali": [
             "Disney+ Premium Brazil"
@@ -3093,7 +3159,8 @@
         {
           "paese": "Taipei cinese",
           "canali": [
-            "eltaott.tv"
+            "eltaott.tv",
+            "ELTA Sports 3"
           ]
         },
         {
@@ -3246,6 +3313,12 @@
           ]
         },
         {
+          "paese": "Ungheria",
+          "canali": [
+            "Match4"
+          ]
+        },
+        {
           "paese": "India",
           "canali": [
             "ZEE5"
@@ -3306,6 +3379,19 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Corea del Sud",
+          "canali": [
+            "SPOTV NOW",
+            "SPOTV Prime 2"
+          ]
+        },
+        {
+          "paese": "Kosovo",
+          "canali": [
+            "Tring Sport 1"
           ]
         },
         {
@@ -3621,6 +3707,12 @@
           ]
         },
         {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
+          ]
+        },
+        {
           "paese": "Trinidad e Tobago",
           "canali": [
             "Disney+ Premium Caribbean"
@@ -3723,28 +3815,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Israele",
-          "canali": [
-            "5 Live"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653993",
@@ -3829,6 +3900,12 @@
           ]
         },
         {
+          "paese": "Australia",
+          "canali": [
+            "beIN SPORTS 2"
+          ]
+        },
+        {
           "paese": "Austria",
           "canali": [
             "DAZN Austria"
@@ -3877,6 +3954,12 @@
           "paese": "Bolivia",
           "canali": [
             "Disney+ Premium Chile"
+          ]
+        },
+        {
+          "paese": "Bosnia ed Erzegovina",
+          "canali": [
+            "Arena Sport 2P"
           ]
         },
         {
@@ -4074,6 +4157,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "beIN Sports 1 Hong Kong",
             "beIN Sports Connect Hong Kong",
             "M Plus Live"
           ]
@@ -4138,6 +4222,13 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Corea del Sud",
+          "canali": [
+            "SPOTV NOW",
+            "SPOTV Prime 2"
           ]
         },
         {
@@ -4425,6 +4516,12 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Thailandia",
+          "canali": [
+            "True Premier Football HD 3"
           ]
         },
         {
