@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-16T00:50:25+01:00",
+  "aggiornato": "2026-11-16T06:09:36+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -372,6 +372,13 @@
               "fonte": "livesoccer"
             },
             {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-16T20:45",
+              "fonte": "livesoccer"
+            },
+            {
               "nome": "Rai Sport",
               "numero": "",
               "tipo": "diretta",
@@ -379,7 +386,37 @@
               "fonte": "virgilio"
             }
           ],
-          "canali_mondo": [],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 251",
+                "RAI Sport 1",
+                "SKY Go Italia",
+                "RaiPlay",
+                "Sky Sport Max",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 251",
+                "RAI Sport 1",
+                "SKY Go Italia",
+                "RaiPlay",
+                "Sky Sport Max",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "Svizzera",
+              "canali": [
+                "RAI Sport 1",
+                "Sunrise TV"
+              ]
+            }
+          ],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -2726,7 +2763,8 @@
                 {
                   "paese": "Portogallo",
                   "canali": [
-                    "Sport TV2"
+                    "Sport TV2",
+                    "Sport TV Multiscreen"
                   ]
                 },
                 {
@@ -2894,6 +2932,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -3028,7 +3067,8 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
@@ -3280,6 +3320,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "Now Player",
                     "beIN Sports 1 Hong Kong",
                     "beIN Sports Connect Hong Kong",
                     "M Plus Live",
@@ -3505,7 +3546,8 @@
                 {
                   "paese": "Portogallo",
                   "canali": [
-                    "Sport TV1"
+                    "Sport TV1",
+                    "Sport TV Multiscreen"
                   ]
                 },
                 {
@@ -3667,6 +3709,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 3"
                   ]
                 },
@@ -3809,7 +3852,8 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
@@ -4064,6 +4108,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "Now Player",
                     "beIN Sports 1 Hong Kong",
                     "beIN Sports Connect Hong Kong",
                     "M Plus Live"
@@ -4302,7 +4347,8 @@
                 {
                   "paese": "Portogallo",
                   "canali": [
-                    "Sport TV2"
+                    "Sport TV2",
+                    "Sport TV Multiscreen"
                   ]
                 },
                 {
@@ -4310,7 +4356,8 @@
                   "canali": [
                     "Peacock",
                     "UNIVERSO",
-                    "Disney+ Premium Caribbean"
+                    "Disney+ Premium Caribbean",
+                    "NAICOM"
                   ]
                 },
                 {
@@ -4324,7 +4371,8 @@
                 {
                   "paese": "Romania",
                   "canali": [
-                    "Digi Sport 3 Romania"
+                    "Digi Sport 3 Romania",
+                    "Digi Online"
                   ]
                 },
                 {
@@ -4399,6 +4447,7 @@
                   "paese": "Spagna",
                   "canali": [
                     "DAZN Spain",
+                    "Movistar+",
                     "Vamos"
                   ]
                 },
@@ -4479,6 +4528,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 3"
                   ]
                 },
@@ -4500,6 +4550,7 @@
                   "paese": "USA",
                   "canali": [
                     "Paramount+",
+                    "fuboTV",
                     "Peacock",
                     "UNIVERSO"
                   ]
@@ -4649,7 +4700,8 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 2"
+                    "beIN SPORTS 2",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
@@ -4905,6 +4957,7 @@
                 {
                   "paese": "Hong Kong",
                   "canali": [
+                    "Now Player",
                     "beIN Sports 1 Hong Kong",
                     "beIN Sports Connect Hong Kong",
                     "M Plus Live"
@@ -5140,7 +5193,8 @@
                 {
                   "paese": "Portogallo",
                   "canali": [
-                    "Sport TV3"
+                    "Sport TV3",
+                    "Sport TV Multiscreen"
                   ]
                 },
                 {
@@ -5148,7 +5202,8 @@
                   "canali": [
                     "Peacock",
                     "Telemundo",
-                    "Disney+ Premium Caribbean"
+                    "Disney+ Premium Caribbean",
+                    "NAICOM"
                   ]
                 },
                 {
@@ -5313,6 +5368,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -5334,6 +5390,7 @@
                   "paese": "USA",
                   "canali": [
                     "Paramount+",
+                    "fuboTV",
                     "Peacock",
                     "Telemundo"
                   ]
@@ -5569,7 +5626,8 @@
                 {
                   "paese": "Croazia",
                   "canali": [
-                    "Arena Sport 1 Croatia"
+                    "Arena Sport 1 Croatia",
+                    "MAXtv To Go"
                   ]
                 },
                 {
@@ -5909,7 +5967,8 @@
                 {
                   "paese": "Portogallo",
                   "canali": [
-                    "Sport TV1"
+                    "Sport TV1",
+                    "Sport TV Multiscreen"
                   ]
                 },
                 {
@@ -6072,6 +6131,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -6541,7 +6601,28 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5 Live"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             }
           ]
@@ -6659,6 +6740,13 @@
                   "fonte": "livesoccer"
                 },
                 {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-16T20:45",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
@@ -6666,7 +6754,37 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "Sky Sport 251",
+                    "RAI Sport 1",
+                    "SKY Go Italia",
+                    "RaiPlay",
+                    "Sky Sport Max",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "Sky Sport 251",
+                    "RAI Sport 1",
+                    "SKY Go Italia",
+                    "RaiPlay",
+                    "Sky Sport Max",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "RAI Sport 1",
+                    "Sunrise TV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
