@@ -9,32 +9,51 @@
       "kickoff": "2026-11-16T20:30:00+01:00",
       "date": "2026-11-16",
       "time": "20:30",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "2:1",
       "match_url": "https://www.livesoccertv.com/it/match/sorrento-vs-monopoli/w4hja#5721174",
       "channels": [
         {
           "name": "Sky Sport 252",
-          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-2/",
+          "url": "",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "Sky Sport Mix",
-          "url": "https://www.livesoccertv.com/it/channels/sky-sport-mixitalia/",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV",
+            "Sky Sport Mix"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 252",
+            "SKY Go Italia",
+            "NOW TV",
+            "Sky Sport Mix"
+          ]
+        }
+      ]
     },
     {
       "id": "5720789",
@@ -45,8 +64,8 @@
       "kickoff": "2026-11-16T20:45:00+01:00",
       "date": "2026-11-16",
       "time": "20:45",
-      "status": "upcoming",
-      "score": "",
+      "status": "finished",
+      "score": "0:1",
       "match_url": "https://www.livesoccertv.com/it/match/perugia-vs-sassari-torres/19fxbd#5720789",
       "channels": [
         {
@@ -264,6 +283,73 @@
       "channels": [
         {
           "name": "SKY Go Italia",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5721180",
+      "competition": "Serie C",
+      "home": "Inter II",
+      "away": "Potenza Calcio",
+      "title": "Inter II vs Potenza Calcio",
+      "kickoff": "2026-11-21T14:30:00+01:00",
+      "date": "2026-11-21",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/potenza-calcio-vs-inter-ii/d2ymb0#5721180",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5721181",
+      "competition": "Serie C",
+      "home": "Monopoli",
+      "away": "Cavese",
+      "title": "Monopoli vs Cavese",
+      "kickoff": "2026-11-21T14:30:00+01:00",
+      "date": "2026-11-21",
+      "time": "14:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/monopoli-vs-cavese/1m72yw#5721181",
+      "channels": [
+        {
+          "name": "SKY Go Italia",
           "url": "",
           "stream": false
         },
@@ -305,6 +391,11 @@
       "channels": [
         {
           "name": "DAZN Italia",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "DAZN2",
           "url": "",
           "stream": false
         }
@@ -435,6 +526,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
           ]
         },
         {
@@ -659,7 +756,8 @@
         {
           "paese": "Italia",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN2"
           ]
         },
         {
@@ -728,6 +826,13 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Football"
           ]
         },
         {
@@ -916,7 +1021,8 @@
         {
           "paese": "San Marino",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN2"
           ]
         },
         {
@@ -1101,6 +1207,11 @@
           "name": "DAZN Italia",
           "url": "",
           "stream": false
+        },
+        {
+          "name": "DAZN1",
+          "url": "",
+          "stream": false
         }
       ],
       "canali_mondo": [
@@ -1239,6 +1350,12 @@
           ]
         },
         {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
+          ]
+        },
+        {
           "paese": "Bulgaria",
           "canali": [
             "MAX Sport 3"
@@ -1309,9 +1426,16 @@
           ]
         },
         {
+          "paese": "Repubblica Ceca",
+          "canali": [
+            "Sport 1 CZ"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
-            "TV2 Play Denmark"
+            "TV2 Play Denmark",
+            "TV2 Sport X"
           ]
         },
         {
@@ -1358,12 +1482,14 @@
         {
           "paese": "Isole Faroe",
           "canali": [
-            "TV2 Play Denmark"
+            "TV2 Play Denmark",
+            "TV2 Sport X"
           ]
         },
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Max",
             "MTV Katsomo"
           ]
         },
@@ -1467,7 +1593,8 @@
         {
           "paese": "Italia",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN1"
           ]
         },
         {
@@ -1536,6 +1663,13 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Stadium"
           ]
         },
         {
@@ -1717,7 +1851,8 @@
         {
           "paese": "San Marino",
           "canali": [
-            "DAZN Italia"
+            "DAZN Italia",
+            "DAZN1"
           ]
         },
         {
@@ -1727,6 +1862,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Slovacchia",
+          "canali": [
+            "Sport 1 SK"
           ]
         },
         {
@@ -2204,6 +2345,12 @@
           ]
         },
         {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
+          ]
+        },
+        {
           "paese": "Bulgaria",
           "canali": [
             "MAX Sport 3"
@@ -2275,6 +2422,12 @@
           ]
         },
         {
+          "paese": "Repubblica Ceca",
+          "canali": [
+            "Sport 1 CZ"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
             "TV2 Play Denmark",
@@ -2323,6 +2476,12 @@
           ]
         },
         {
+          "paese": "Estonia",
+          "canali": [
+            "Go3 Sport 3"
+          ]
+        },
+        {
           "paese": "Isole Faroe",
           "canali": [
             "TV2 Play Denmark",
@@ -2332,6 +2491,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Max",
             "MTV Katsomo"
           ]
         },
@@ -2492,6 +2652,12 @@
           ]
         },
         {
+          "paese": "Lettonia",
+          "canali": [
+            "Go3 Sport 3"
+          ]
+        },
+        {
           "paese": "Libano",
           "canali": [
             "STARZPLAY",
@@ -2513,9 +2679,22 @@
           ]
         },
         {
+          "paese": "Lituania",
+          "canali": [
+            "Go3 Sport 3"
+          ]
+        },
+        {
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Football"
           ]
         },
         {
@@ -2724,6 +2903,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Slovacchia",
+          "canali": [
+            "Sport 1 SK"
           ]
         },
         {
@@ -3189,6 +3374,12 @@
           ]
         },
         {
+          "paese": "Repubblica Ceca",
+          "canali": [
+            "Sport 1 CZ"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
             "TV2 Play Denmark",
@@ -3246,6 +3437,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 2",
             "MTV Katsomo"
           ]
         },
@@ -3379,6 +3571,13 @@
             "STARZPLAY",
             "Shasha",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Kazakistan",
+          "canali": [
+            "Qazsport",
+            "qazsporttv.kz"
           ]
         },
         {
@@ -3634,6 +3833,12 @@
           ]
         },
         {
+          "paese": "Slovacchia",
+          "canali": [
+            "Sport 1 SK"
+          ]
+        },
+        {
           "paese": "Slovenia",
           "canali": [
             "Arena Sport 1 Premium"
@@ -3815,7 +4020,28 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "5 Live"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5653993",
@@ -3935,6 +4161,7 @@
         {
           "paese": "Belgio",
           "canali": [
+            "DAZN2 Belgium",
             "DAZN Belgium"
           ]
         },
@@ -3972,6 +4199,12 @@
           "paese": "Isole Vergini britanniche",
           "canali": [
             "Disney+ Premium Caribbean"
+          ]
+        },
+        {
+          "paese": "Brunei",
+          "canali": [
+            "Astro Go"
           ]
         },
         {
@@ -4046,6 +4279,12 @@
           ]
         },
         {
+          "paese": "Repubblica Ceca",
+          "canali": [
+            "Sport 1 CZ"
+          ]
+        },
+        {
           "paese": "Danimarca",
           "canali": [
             "TV2 Play Denmark"
@@ -4093,6 +4332,12 @@
           ]
         },
         {
+          "paese": "Estonia",
+          "canali": [
+            "Go3 Sport Open"
+          ]
+        },
+        {
           "paese": "Isole Faroe",
           "canali": [
             "TV2 Play Denmark"
@@ -4101,6 +4346,7 @@
         {
           "paese": "Finlandia",
           "canali": [
+            "MTV Urheilu 1",
             "MTV Katsomo"
           ]
         },
@@ -4240,6 +4486,12 @@
           ]
         },
         {
+          "paese": "Lettonia",
+          "canali": [
+            "Go3 Sport Open"
+          ]
+        },
+        {
           "paese": "Libano",
           "canali": [
             "STARZPLAY",
@@ -4261,9 +4513,28 @@
           ]
         },
         {
+          "paese": "Lituania",
+          "canali": [
+            "Go3 Sport Open"
+          ]
+        },
+        {
+          "paese": "Lussemburgo",
+          "canali": [
+            "DAZN2 Belgium"
+          ]
+        },
+        {
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Malesia",
+          "canali": [
+            "Astro Go",
+            "Astro Arena Bola 2"
           ]
         },
         {
@@ -4321,6 +4592,12 @@
           "paese": "Nepal",
           "canali": [
             "ZEE5"
+          ]
+        },
+        {
+          "paese": "Paesi Bassi",
+          "canali": [
+            "Ziggo Sport 4"
           ]
         },
         {
@@ -4449,6 +4726,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Slovacchia",
+          "canali": [
+            "Sport 1 SK"
           ]
         },
         {
