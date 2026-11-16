@@ -1,266 +1,6 @@
 {
   "events": [
     {
-      "id": "5720408",
-      "competition": "Serie C",
-      "home": "Cittadella",
-      "away": "Folgore Caratese",
-      "title": "Cittadella vs Folgore Caratese",
-      "kickoff": "2026-11-15T17:30:00+01:00",
-      "date": "2026-11-15",
-      "time": "17:30",
-      "status": "finished",
-      "score": "2:2",
-      "match_url": "https://www.livesoccertv.com/it/match/cittadella-vs-folgore-caratese/aegno#5720408",
-      "channels": [
-        {
-          "name": "Sky Sport 253",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 253",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5721170",
-      "competition": "Serie C",
-      "home": "Cosenza",
-      "away": "Casertana",
-      "title": "Cosenza vs Casertana",
-      "kickoff": "2026-11-15T17:30:00+01:00",
-      "date": "2026-11-15",
-      "time": "17:30",
-      "status": "finished",
-      "score": "2:1",
-      "match_url": "https://www.livesoccertv.com/it/match/casertana-vs-cosenza/jov6d#5721170",
-      "channels": [
-        {
-          "name": "Sky Sport 255",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 255",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5720409",
-      "competition": "Serie C",
-      "home": "Juventus II",
-      "away": "Treviso",
-      "title": "Juventus II vs Treviso",
-      "kickoff": "2026-11-15T17:30:00+01:00",
-      "date": "2026-11-15",
-      "time": "17:30",
-      "status": "finished",
-      "score": "3:0",
-      "match_url": "https://www.livesoccertv.com/it/match/treviso-vs-juventus-ii/1u12n5#5720409",
-      "channels": [
-        {
-          "name": "Sky Sport 252",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 252",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5720413",
-      "competition": "Serie C",
-      "home": "Pergolettese",
-      "away": "Pro Vercelli",
-      "title": "Pergolettese vs Pro Vercelli",
-      "kickoff": "2026-11-15T17:30:00+01:00",
-      "date": "2026-11-15",
-      "time": "17:30",
-      "status": "finished",
-      "score": "0:0",
-      "match_url": "https://www.livesoccertv.com/it/match/pro-vercelli-vs-pergolettese/g2y7w#5720413",
-      "channels": [
-        {
-          "name": "Sky Sport 256",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 256",
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5720791",
-      "competition": "Serie C",
-      "home": "Ravenna",
-      "away": "Forlì",
-      "title": "Ravenna vs Forlì",
-      "kickoff": "2026-11-15T17:30:00+01:00",
-      "date": "2026-11-15",
-      "time": "17:30",
-      "status": "finished",
-      "score": "2:0",
-      "match_url": "https://www.livesoccertv.com/it/match/forli-vs-ravenna/iw1xh#5720791",
-      "channels": [
-        {
-          "name": "Sky Sport 251",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "SKY Go Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "Sky Sport Calcio",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "NOW TV",
-          "url": "",
-          "stream": false
-        }
-      ],
-      "canali_mondo": [
-        {
-          "paese": "Internazionale",
-          "canali": [
-            "Onefootball"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "Sky Sport 251",
-            "SKY Go Italia",
-            "Sky Sport Calcio",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Paramount+",
-            "CBS Sports Golazo"
-          ]
-        }
-      ]
-    },
-    {
       "id": "5721174",
       "competition": "Serie C",
       "home": "Sorrento",
@@ -330,31 +70,66 @@
       "channels": [
         {
           "name": "Sky Sport 251",
-          "url": "https://www.livesoccertv.com/it/channels/sky-calcio-1/",
+          "url": "",
           "stream": false
         },
         {
           "name": "RAI Sport 1",
-          "url": "https://www.livesoccertv.com/it/channels/rai-sport-uno/",
+          "url": "",
           "stream": false
         },
         {
           "name": "SKY Go Italia",
-          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
+          "url": "",
           "stream": false
         },
         {
           "name": "RaiPlay",
-          "url": "https://www.livesoccertv.com/it/channels/rai-live-italy/",
+          "url": "",
           "stream": false
         },
         {
           "name": "Sky Sport Max",
-          "url": "https://www.livesoccertv.com/it/channels/sky-sport-collection/",
+          "url": "",
+          "stream": false
+        },
+        {
+          "name": "NOW TV",
+          "url": "",
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "Sky Sport 251",
+            "RAI Sport 1",
+            "SKY Go Italia",
+            "RaiPlay",
+            "Sky Sport Max",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "Sky Sport 251",
+            "RAI Sport 1",
+            "SKY Go Italia",
+            "RaiPlay",
+            "Sky Sport Max",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "RAI Sport 1",
+            "Sunrise TV"
+          ]
+        }
+      ]
     },
     {
       "id": "5742585",
@@ -1092,7 +867,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV2"
+            "Sport TV2",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -1260,6 +1036,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 2"
           ]
         },
@@ -1386,7 +1163,8 @@
         {
           "paese": "Australia",
           "canali": [
-            "beIN SPORTS 2"
+            "beIN SPORTS 2",
+            "beIN Sports Connect"
           ]
         },
         {
@@ -1638,6 +1416,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "Now Player",
             "beIN Sports 1 Hong Kong",
             "beIN Sports Connect Hong Kong",
             "M Plus Live",
@@ -1863,7 +1642,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV1"
+            "Sport TV1",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -2025,6 +1805,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 3"
           ]
         },
@@ -2321,7 +2102,8 @@
         {
           "paese": "Australia",
           "canali": [
-            "beIN SPORTS 2"
+            "beIN SPORTS 2",
+            "beIN Sports Connect"
           ]
         },
         {
@@ -2576,6 +2358,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "Now Player",
             "beIN Sports 1 Hong Kong",
             "beIN Sports Connect Hong Kong",
             "M Plus Live"
@@ -2814,7 +2597,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV2"
+            "Sport TV2",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -2822,7 +2606,8 @@
           "canali": [
             "Peacock",
             "UNIVERSO",
-            "Disney+ Premium Caribbean"
+            "Disney+ Premium Caribbean",
+            "NAICOM"
           ]
         },
         {
@@ -2836,7 +2621,8 @@
         {
           "paese": "Romania",
           "canali": [
-            "Digi Sport 3 Romania"
+            "Digi Sport 3 Romania",
+            "Digi Online"
           ]
         },
         {
@@ -2911,6 +2697,7 @@
           "paese": "Spagna",
           "canali": [
             "DAZN Spain",
+            "Movistar+",
             "Vamos"
           ]
         },
@@ -2991,6 +2778,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 3"
           ]
         },
@@ -3012,6 +2800,7 @@
           "paese": "USA",
           "canali": [
             "Paramount+",
+            "fuboTV",
             "Peacock",
             "UNIVERSO"
           ]
@@ -3193,7 +2982,8 @@
         {
           "paese": "Australia",
           "canali": [
-            "beIN SPORTS 2"
+            "beIN SPORTS 2",
+            "beIN Sports Connect"
           ]
         },
         {
@@ -3449,6 +3239,7 @@
         {
           "paese": "Hong Kong",
           "canali": [
+            "Now Player",
             "beIN Sports 1 Hong Kong",
             "beIN Sports Connect Hong Kong",
             "M Plus Live"
@@ -3684,7 +3475,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV3"
+            "Sport TV3",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -3692,7 +3484,8 @@
           "canali": [
             "Peacock",
             "Telemundo",
-            "Disney+ Premium Caribbean"
+            "Disney+ Premium Caribbean",
+            "NAICOM"
           ]
         },
         {
@@ -3857,6 +3650,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 2"
           ]
         },
@@ -3878,6 +3672,7 @@
           "paese": "USA",
           "canali": [
             "Paramount+",
+            "fuboTV",
             "Peacock",
             "Telemundo"
           ]
@@ -3928,7 +3723,28 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "5 Live"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "id": "5653993",
@@ -4136,7 +3952,8 @@
         {
           "paese": "Croazia",
           "canali": [
-            "Arena Sport 1 Croatia"
+            "Arena Sport 1 Croatia",
+            "MAXtv To Go"
           ]
         },
         {
@@ -4476,7 +4293,8 @@
         {
           "paese": "Portogallo",
           "canali": [
-            "Sport TV1"
+            "Sport TV1",
+            "Sport TV Multiscreen"
           ]
         },
         {
@@ -4639,6 +4457,7 @@
         {
           "paese": "Ucraina",
           "canali": [
+            "Megogo",
             "MEGOGO Football 2"
           ]
         },
