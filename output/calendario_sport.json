@@ -1,32 +1,200 @@
 {
-  "aggiornato": "2026-11-16T20:37:21+01:00",
+  "aggiornato": "2026-11-17T00:46:37+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 179,
+  "totale": 176,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 11,
+      "totale": 19,
       "eventi": [
         {
-          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Sudan-Senegal",
+          "titolo": "[Basket] NBA: Boston Celtics-Orlando Magic",
+          "categoria": "Basket",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "Boston Celtics-Orlando Magic",
+          "inizio": "2026-11-17T01:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "01:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T01:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doppio: Sessione Diurna",
+          "inizio": "2026-11-17T11:30:00+01:00",
+          "data": "17/11/2026",
+          "ora": "11:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T11:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Doubles R.R Sess. Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doubles R.R Sess. Diurna",
+          "inizio": "2026-11-17T11:30:00+01:00",
+          "data": "17/11/2026",
+          "ora": "11:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-17T11:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Europei U19 Cechia: Israele-Italia",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Europei U19 Cechia",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Europei U19 Cechia 2027",
+          "evento": "Israele-Italia",
+          "inizio": "2026-11-17T13:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "13:00",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T13:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Malawi-Egitto",
           "categoria": "Calcio",
           "sottocartella": "Qualificazioni Coppa d’Africa",
           "sport": "Calcio",
           "competizione": "Qualificazioni Coppa d’Africa",
-          "evento": "Sudan-Senegal",
-          "inizio": "2026-11-16T18:00:00+01:00",
-          "data": "16/11/2026",
-          "ora": "18:00",
+          "evento": "Malawi-Egitto",
+          "inizio": "2026-11-17T14:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "14:00",
           "canali": [
             {
               "nome": "Sportitalia",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T18:00",
+              "orario": "2026-11-17T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singles R.R Sess. Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singles R.R Sess. Diurna",
+          "inizio": "2026-11-17T14:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-17T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singolare: Sessione Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singolare: Sessione Diurna",
+          "inizio": "2026-11-17T14:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Gambia-Costa d’Avorio",
+          "categoria": "Calcio",
+          "sottocartella": "Qualificazioni Coppa d’Africa",
+          "sport": "Calcio",
+          "competizione": "Qualificazioni Coppa d’Africa",
+          "evento": "Gambia-Costa d’Avorio",
+          "inizio": "2026-11-17T17:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "17:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T17:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Qualificazioni Eurobasket: Lettonia-Italia",
+          "categoria": "Basket",
+          "sottocartella": "Qualificazioni Eurobasket femminile",
+          "sport": "Basket femminile",
+          "competizione": "Qualificazioni Eurobasket 2027",
+          "evento": "Lettonia-Italia",
+          "inizio": "2026-11-17T18:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T18:00",
               "fonte": "virgilio"
             }
           ],
@@ -39,15 +207,15 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Doppio: Sessione Serale",
-          "inizio": "2026-11-16T18:00:00+01:00",
-          "data": "16/11/2026",
+          "inizio": "2026-11-17T18:00:00+01:00",
+          "data": "17/11/2026",
           "ora": "18:00",
           "canali": [
             {
               "nome": "Sky Sport Tennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T18:00",
+              "orario": "2026-11-17T18:00",
               "fonte": "virgilio"
             }
           ],
@@ -60,100 +228,78 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Doubles R.R Sess. Serale",
-          "inizio": "2026-11-16T18:00:00+01:00",
-          "data": "16/11/2026",
+          "inizio": "2026-11-17T18:00:00+01:00",
+          "data": "17/11/2026",
           "ora": "18:00",
           "canali": [
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-16T18:00",
+              "orario": "2026-11-17T18:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Amichevole U21: Italia-Belgio",
-          "categoria": "Calcio",
-          "sottocartella": "Amichevole U21",
-          "sport": "Calcio",
-          "competizione": "Amichevole U21",
-          "evento": "Italia-Belgio",
-          "inizio": "2026-11-16T18:15:00+01:00",
-          "data": "16/11/2026",
-          "ora": "18:15",
+          "titolo": "[Basket] Eurocup: Roma Basketball-Bahcesehir",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Roma Basketball-Bahcesehir",
+          "inizio": "2026-11-17T20:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "20:00",
           "canali": [
-            {
-              "nome": "Rai 2",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-16T18:15",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie C: Sorrento vs Monopoli",
-          "categoria": "Calcio",
-          "sottocartella": "Serie C",
-          "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Sorrento vs Monopoli",
-          "inizio": "2026-11-16T20:30:00+01:00",
-          "data": "16/11/2026",
-          "ora": "20:30",
-          "canali": [
-            {
-              "nome": "Sky Sport 252",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-16T20:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-16T20:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-16T20:30",
-              "fonte": "livesoccer"
-            },
             {
               "nome": "Sky Sport Mix",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T20:30",
-              "fonte": "livesoccer"
+              "orario": "2026-11-17T20:00",
+              "fonte": "virgilio"
             }
           ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
+          "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Tennis] ATP Finals Torino – 1a giornata (Gruppo Lendl): Cobolli-Medvedev: Cobolli-Medvedev",
+          "titolo": "[Basket] Eurolega: Olimpia Milano-Stella Rossa Belgrado",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Olimpia Milano-Stella Rossa Belgrado",
+          "inizio": "2026-11-17T20:30:00+01:00",
+          "data": "17/11/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino – 2a giornata (Gruppo McEnroe): Zverev-Shelton: Zverev-Shelton",
           "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino – 1a giornata (Gruppo Lendl)",
+          "sottocartella": "ATP Finals Torino – 2a giornata (Gruppo McEnroe)",
           "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026 – 1a giornata (Gruppo Lendl)",
-          "evento": "Cobolli-Medvedev: Cobolli-Medvedev",
-          "inizio": "2026-11-16T20:30:00+01:00",
-          "data": "16/11/2026",
+          "competizione": "ATP Finals Torino 2026 – 2a giornata (Gruppo McEnroe)",
+          "evento": "Zverev-Shelton: Zverev-Shelton",
+          "inizio": "2026-11-17T20:30:00+01:00",
+          "data": "17/11/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Italia 1",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T20:30",
+              "orario": "2026-11-17T20:30",
               "fonte": "virgilio"
             }
           ],
@@ -166,15 +312,15 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Singles R.R Sess. Serale",
-          "inizio": "2026-11-16T20:30:00+01:00",
-          "data": "16/11/2026",
+          "inizio": "2026-11-17T20:30:00+01:00",
+          "data": "17/11/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-16T20:30",
+              "orario": "2026-11-17T20:30",
               "fonte": "virgilio"
             }
           ],
@@ -187,158 +333,85 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Singolare: Sessione Serale",
-          "inizio": "2026-11-16T20:30:00+01:00",
-          "data": "16/11/2026",
+          "inizio": "2026-11-17T20:30:00+01:00",
+          "data": "17/11/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Sky Sport Tennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T20:30",
+              "orario": "2026-11-17T20:30",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Serie C: Perugia vs Sassari Torres",
+          "titolo": "[Calcio] UEFA Nations League: Danimarca-Norvegia",
           "categoria": "Calcio",
-          "sottocartella": "Serie C",
+          "sottocartella": "UEFA Nations League",
           "sport": "Calcio",
-          "competizione": "Serie C",
-          "evento": "Perugia vs Sassari Torres",
-          "inizio": "2026-11-16T20:45:00+01:00",
-          "data": "16/11/2026",
+          "competizione": "UEFA Nations League",
+          "evento": "Danimarca-Norvegia",
+          "inizio": "2026-11-17T20:45:00+01:00",
+          "data": "17/11/2026",
           "ora": "20:45",
           "canali": [
             {
-              "nome": "Sky Sport 251",
+              "nome": "Cielo",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T20:45",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "RAI Sport 1",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-16T20:45",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-16T20:45",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "RaiPlay",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-16T20:45",
-              "fonte": "livesoccer"
+              "orario": "2026-11-17T20:45",
+              "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport Max",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T20:45",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-16T20:45",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-16T20:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 251",
-                "RAI Sport 1",
-                "SKY Go Italia",
-                "RaiPlay",
-                "Sky Sport Max",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 251",
-                "RAI Sport 1",
-                "SKY Go Italia",
-                "RaiPlay",
-                "Sky Sport Max",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "RAI Sport 1",
-                "Sunrise TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Germania-Olanda",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Germania-Olanda",
-          "inizio": "2026-11-16T20:45:00+01:00",
-          "data": "16/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "20",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-16T20:45",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-16T20:45",
+              "orario": "2026-11-17T20:45",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Somalia-Ghana",
+          "titolo": "[Basket] Eurolega: Virtus Bologna-Panathinaikos",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Virtus Bologna-Panathinaikos",
+          "inizio": "2026-11-17T21:00:00+01:00",
+          "data": "17/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-17T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Niger-Marocco",
           "categoria": "Calcio",
           "sottocartella": "Qualificazioni Coppa d’Africa",
           "sport": "Calcio",
           "competizione": "Qualificazioni Coppa d’Africa",
-          "evento": "Somalia-Ghana",
-          "inizio": "2026-11-16T21:00:00+01:00",
-          "data": "16/11/2026",
+          "evento": "Niger-Marocco",
+          "inizio": "2026-11-17T21:00:00+01:00",
+          "data": "17/11/2026",
           "ora": "21:00",
           "canali": [
             {
               "nome": "Sportitalia",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-16T21:00",
+              "orario": "2026-11-17T21:00",
               "fonte": "virgilio"
             }
           ],
@@ -1368,22 +1441,22 @@
               "evento": "Portuguese Grand Prix - Warm Up",
               "sessione": "prove",
               "circuito": "Autódromo Internacional do Algarve, Portimão, Portugal",
-              "inizio": "2026-11-22T10:40:00+01:00",
+              "inizio": "2026-11-22T10:00:00+01:00",
               "data": "22/11/2026",
-              "ora": "10:40",
+              "ora": "10:00",
               "canali": [
                 {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
-                  "orario": "2026-11-22T10:40",
+                  "orario": "2026-11-22T10:00",
                   "fonte": "dizzle+config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-22T10:40",
+                  "orario": "2026-11-22T10:00",
                   "fonte": "dizzle+config"
                 }
               ],
@@ -2072,7 +2145,7 @@
       "sottocartelle": [
         {
           "nome": "Serie A",
-          "totale": 9,
+          "totale": 11,
           "eventi": [
             {
               "titolo": "Serie A: Como vs Cagliari",
@@ -2087,6 +2160,13 @@
               "canali": [
                 {
                   "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-21T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN2",
                   "numero": "",
                   "tipo": "streaming",
                   "orario": "2026-11-21T15:00",
@@ -2226,6 +2306,12 @@
                   "paese": "Isole Vergini britanniche",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
                   ]
                 },
                 {
@@ -2450,7 +2536,8 @@
                 {
                   "paese": "Italia",
                   "canali": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "DAZN2"
                   ]
                 },
                 {
@@ -2519,6 +2606,13 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -2707,7 +2801,8 @@
                 {
                   "paese": "San Marino",
                   "canali": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "DAZN2"
                   ]
                 },
                 {
@@ -2895,6 +2990,13 @@
                   "fonte": "livesoccer"
                 },
                 {
+                  "nome": "DAZN1",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-21T15:00",
+                  "fonte": "livesoccer"
+                },
+                {
                   "nome": "DAZN",
                   "numero": "",
                   "tipo": "diretta",
@@ -3038,6 +3140,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -3108,9 +3216,16 @@
                   ]
                 },
                 {
+                  "paese": "Repubblica Ceca",
+                  "canali": [
+                    "Sport 1 CZ"
+                  ]
+                },
+                {
                   "paese": "Danimarca",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
@@ -3157,12 +3272,14 @@
                 {
                   "paese": "Isole Faroe",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Max",
                     "MTV Katsomo"
                   ]
                 },
@@ -3266,7 +3383,8 @@
                 {
                   "paese": "Italia",
                   "canali": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "DAZN1"
                   ]
                 },
                 {
@@ -3335,6 +3453,13 @@
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Stadium"
                   ]
                 },
                 {
@@ -3516,7 +3641,8 @@
                 {
                   "paese": "San Marino",
                   "canali": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "DAZN1"
                   ]
                 },
                 {
@@ -3526,6 +3652,12 @@
                     "Shasha",
                     "STC TV",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Slovacchia",
+                  "canali": [
+                    "Sport 1 SK"
                   ]
                 },
                 {
@@ -3849,6 +3981,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -3920,6 +4058,12 @@
                   ]
                 },
                 {
+                  "paese": "Repubblica Ceca",
+                  "canali": [
+                    "Sport 1 CZ"
+                  ]
+                },
+                {
                   "paese": "Danimarca",
                   "canali": [
                     "TV2 Play Denmark",
@@ -3968,6 +4112,12 @@
                   ]
                 },
                 {
+                  "paese": "Estonia",
+                  "canali": [
+                    "Go3 Sport 3"
+                  ]
+                },
+                {
                   "paese": "Isole Faroe",
                   "canali": [
                     "TV2 Play Denmark",
@@ -3977,6 +4127,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Max",
                     "MTV Katsomo"
                   ]
                 },
@@ -4137,6 +4288,12 @@
                   ]
                 },
                 {
+                  "paese": "Lettonia",
+                  "canali": [
+                    "Go3 Sport 3"
+                  ]
+                },
+                {
                   "paese": "Libano",
                   "canali": [
                     "STARZPLAY",
@@ -4158,9 +4315,22 @@
                   ]
                 },
                 {
+                  "paese": "Lituania",
+                  "canali": [
+                    "Go3 Sport 3"
+                  ]
+                },
+                {
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football"
                   ]
                 },
                 {
@@ -4369,6 +4539,12 @@
                     "Shasha",
                     "STC TV",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Slovacchia",
+                  "canali": [
+                    "Sport 1 SK"
                   ]
                 },
                 {
@@ -4802,6 +4978,12 @@
                   ]
                 },
                 {
+                  "paese": "Repubblica Ceca",
+                  "canali": [
+                    "Sport 1 CZ"
+                  ]
+                },
+                {
                   "paese": "Danimarca",
                   "canali": [
                     "TV2 Play Denmark",
@@ -4859,6 +5041,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 2",
                     "MTV Katsomo"
                   ]
                 },
@@ -4992,6 +5175,13 @@
                     "STARZPLAY",
                     "Shasha",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Kazakistan",
+                  "canali": [
+                    "Qazsport",
+                    "qazsporttv.kz"
                   ]
                 },
                 {
@@ -5244,6 +5434,12 @@
                     "Shasha",
                     "STC TV",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Slovacchia",
+                  "canali": [
+                    "Sport 1 SK"
                   ]
                 },
                 {
@@ -5525,6 +5721,7 @@
                 {
                   "paese": "Belgio",
                   "canali": [
+                    "DAZN2 Belgium",
                     "DAZN Belgium"
                   ]
                 },
@@ -5562,6 +5759,12 @@
                   "paese": "Isole Vergini britanniche",
                   "canali": [
                     "Disney+ Premium Caribbean"
+                  ]
+                },
+                {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
                   ]
                 },
                 {
@@ -5636,6 +5839,12 @@
                   ]
                 },
                 {
+                  "paese": "Repubblica Ceca",
+                  "canali": [
+                    "Sport 1 CZ"
+                  ]
+                },
+                {
                   "paese": "Danimarca",
                   "canali": [
                     "TV2 Play Denmark"
@@ -5683,6 +5892,12 @@
                   ]
                 },
                 {
+                  "paese": "Estonia",
+                  "canali": [
+                    "Go3 Sport Open"
+                  ]
+                },
+                {
                   "paese": "Isole Faroe",
                   "canali": [
                     "TV2 Play Denmark"
@@ -5691,6 +5906,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 1",
                     "MTV Katsomo"
                   ]
                 },
@@ -5830,6 +6046,12 @@
                   ]
                 },
                 {
+                  "paese": "Lettonia",
+                  "canali": [
+                    "Go3 Sport Open"
+                  ]
+                },
+                {
                   "paese": "Libano",
                   "canali": [
                     "STARZPLAY",
@@ -5851,9 +6073,28 @@
                   ]
                 },
                 {
+                  "paese": "Lituania",
+                  "canali": [
+                    "Go3 Sport Open"
+                  ]
+                },
+                {
+                  "paese": "Lussemburgo",
+                  "canali": [
+                    "DAZN2 Belgium"
+                  ]
+                },
+                {
                   "paese": "Macao",
                   "canali": [
                     "M Plus Live"
+                  ]
+                },
+                {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Arena Bola 2"
                   ]
                 },
                 {
@@ -5911,6 +6152,12 @@
                   "paese": "Nepal",
                   "canali": [
                     "ZEE5"
+                  ]
+                },
+                {
+                  "paese": "Paesi Bassi",
+                  "canali": [
+                    "Ziggo Sport 4"
                   ]
                 },
                 {
@@ -6039,6 +6286,12 @@
                     "Shasha",
                     "STC TV",
                     "Thmanyah"
+                  ]
+                },
+                {
+                  "paese": "Slovacchia",
+                  "canali": [
+                    "Sport 1 SK"
                   ]
                 },
                 {
@@ -6285,6 +6538,62 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-22T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Monza-Fiorentina",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Monza-Fiorentina",
+              "inizio": "2026-11-23T18:30:00+01:00",
+              "data": "23/11/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-23T18:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-23T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie A: Juventus-Venezia",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Juventus-Venezia",
+              "inizio": "2026-11-23T20:45:00+01:00",
+              "data": "23/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-23T20:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-23T20:45",
                   "fonte": "virgilio"
                 }
               ],
@@ -6614,152 +6923,36 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5 Live"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             }
           ]
         },
         {
           "nome": "Serie C",
-          "totale": 9,
+          "totale": 10,
           "eventi": [
-            {
-              "titolo": "Serie C: Sorrento vs Monopoli",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Sorrento vs Monopoli",
-              "inizio": "2026-11-16T20:30:00+01:00",
-              "data": "16/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 252",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-16T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-16T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Perugia vs Sassari Torres",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Perugia vs Sassari Torres",
-              "inizio": "2026-11-16T20:45:00+01:00",
-              "data": "16/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport 251",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "RAI Sport 1",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "RaiPlay",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 251",
-                    "RAI Sport 1",
-                    "SKY Go Italia",
-                    "RaiPlay",
-                    "Sky Sport Max",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 251",
-                    "RAI Sport 1",
-                    "SKY Go Italia",
-                    "RaiPlay",
-                    "Sky Sport Max",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "RAI Sport 1",
-                    "Sunrise TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie C: Casertana vs Salernitana",
               "categoria": "Calcio",
@@ -6888,6 +7081,79 @@
                   "fonte": "livesoccer"
                 }
               ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Inter II vs Potenza Calcio",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Inter II vs Potenza Calcio",
+              "inizio": "2026-11-21T14:30:00+01:00",
+              "data": "21/11/2026",
+              "ora": "14:30",
+              "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-21T14:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-21T14:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "SKY Go Italia",
+                    "NOW TV"
+                  ]
+                }
+              ],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie C: Monopoli vs Cavese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Monopoli vs Cavese",
+              "inizio": "2026-11-21T14:30:00+01:00",
+              "data": "21/11/2026",
+              "ora": "14:30",
+              "canali": [
+                {
+                  "nome": "SKY Go Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-21T14:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "NOW TV",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-21T14:30",
+                  "fonte": "livesoccer"
+                }
+              ],
               "canali_mondo": [
                 {
                   "paese": "Italia",
@@ -6989,55 +7255,61 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Lecco-Lumezzane",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Lecco-Lumezzane",
+              "inizio": "2026-11-23T20:45:00+01:00",
+              "data": "23/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-23T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Qualificazioni Europei U19 Cechia",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Qualificazioni Europei U19 Cechia: Israele-Italia",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Europei U19 Cechia",
+              "sport": "Calcio",
+              "competizione": "Qualificazioni Europei U19 Cechia 2027",
+              "evento": "Israele-Italia",
+              "inizio": "2026-11-17T13:00:00+01:00",
+              "data": "17/11/2026",
+              "ora": "13:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-17T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Qualificazioni Coppa d’Africa",
-          "totale": 5,
+          "totale": 3,
           "eventi": [
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Sudan-Senegal",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Sudan-Senegal",
-              "inizio": "2026-11-16T18:00:00+01:00",
-              "data": "16/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Somalia-Ghana",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Somalia-Ghana",
-              "inizio": "2026-11-16T21:00:00+01:00",
-              "data": "16/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Qualificazioni Coppa d’Africa: Malawi-Egitto",
               "categoria": "Calcio",
@@ -7104,64 +7376,9 @@
           ]
         },
         {
-          "nome": "Amichevole U21",
+          "nome": "UEFA Nations League",
           "totale": 1,
           "eventi": [
-            {
-              "titolo": "Amichevole U21: Italia-Belgio",
-              "categoria": "Calcio",
-              "sottocartella": "Amichevole U21",
-              "sport": "Calcio",
-              "competizione": "Amichevole U21",
-              "evento": "Italia-Belgio",
-              "inizio": "2026-11-16T18:15:00+01:00",
-              "data": "16/11/2026",
-              "ora": "18:15",
-              "canali": [
-                {
-                  "nome": "Rai 2",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T18:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Nations League",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "UEFA Nations League: Germania-Olanda",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
-              "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Germania-Olanda",
-              "inizio": "2026-11-16T20:45:00+01:00",
-              "data": "16/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "20",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "UEFA Nations League: Danimarca-Norvegia",
               "categoria": "Calcio",
@@ -7568,96 +7785,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 42,
+      "totale": 38,
       "sottocartelle": [
         {
           "nome": "ATP Finals Torino",
-          "totale": 41,
+          "totale": 37,
           "eventi": [
-            {
-              "titolo": "ATP Finals Torino: Doppio: Sessione Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doppio: Sessione Serale",
-              "inizio": "2026-11-16T18:00:00+01:00",
-              "data": "16/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Doubles R.R Sess. Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doubles R.R Sess. Serale",
-              "inizio": "2026-11-16T18:00:00+01:00",
-              "data": "16/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Singles R.R Sess. Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Singles R.R Sess. Serale",
-              "inizio": "2026-11-16T20:30:00+01:00",
-              "data": "16/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Singolare: Sessione Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Singolare: Sessione Serale",
-              "inizio": "2026-11-16T20:30:00+01:00",
-              "data": "16/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-16T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Finals Torino: Doppio: Sessione Diurna",
               "categoria": "Tennis",
@@ -8445,25 +8578,25 @@
           ]
         },
         {
-          "nome": "ATP Finals Torino – 1a giornata (Gruppo Lendl)",
+          "nome": "ATP Finals Torino – 2a giornata (Gruppo McEnroe)",
           "totale": 1,
           "eventi": [
             {
-              "titolo": "ATP Finals Torino – 1a giornata (Gruppo Lendl): Cobolli-Medvedev: Cobolli-Medvedev",
+              "titolo": "ATP Finals Torino – 2a giornata (Gruppo McEnroe): Zverev-Shelton: Zverev-Shelton",
               "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino – 1a giornata (Gruppo Lendl)",
+              "sottocartella": "ATP Finals Torino – 2a giornata (Gruppo McEnroe)",
               "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026 – 1a giornata (Gruppo Lendl)",
-              "evento": "Cobolli-Medvedev: Cobolli-Medvedev",
-              "inizio": "2026-11-16T20:30:00+01:00",
-              "data": "16/11/2026",
+              "competizione": "ATP Finals Torino 2026 – 2a giornata (Gruppo McEnroe)",
+              "evento": "Zverev-Shelton: Zverev-Shelton",
+              "inizio": "2026-11-17T20:30:00+01:00",
+              "data": "17/11/2026",
               "ora": "20:30",
               "canali": [
                 {
                   "nome": "Italia 1",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-16T20:30",
+                  "orario": "2026-11-17T20:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -8475,11 +8608,11 @@
     },
     {
       "nome": "Basket",
-      "totale": 20,
+      "totale": 21,
       "sottocartelle": [
         {
           "nome": "NBA",
-          "totale": 6,
+          "totale": 7,
           "eventi": [
             {
               "titolo": "NBA: Boston Celtics-Orlando Magic",
@@ -8602,6 +8735,27 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-11-22T00:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Miami Heat-Oklahoma City Thunder",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Miami Heat-Oklahoma City Thunder",
+              "inizio": "2026-11-23T00:00:00+01:00",
+              "data": "23/11/2026",
+              "ora": "00:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-23T00:00",
                   "fonte": "virgilio"
                 }
               ],
