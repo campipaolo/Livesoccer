@@ -153,7 +153,22 @@
         "SKY Go Italia",
         "NOW TV"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "SKY Go Italia",
+            "NOW TV"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie A",
@@ -594,6 +609,12 @@
           ]
         },
         {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena Sport 5 Serbia"
+          ]
+        },
+        {
           "paese": "Malesia",
           "canali": [
             "Astro Go",
@@ -643,6 +664,12 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena Sport 5 Serbia"
           ]
         },
         {
@@ -760,6 +787,12 @@
           ]
         },
         {
+          "paese": "Romania",
+          "canali": [
+            "Prima Play"
+          ]
+        },
+        {
           "paese": "Russia",
           "canali": [
             "Sportbox.ru",
@@ -805,6 +838,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena Sport 5 Serbia"
           ]
         },
         {
@@ -905,7 +944,8 @@
         {
           "paese": "Turchia",
           "canali": [
-            "S Sport+"
+            "S Sport+",
+            "S Sport 2"
           ]
         },
         {
@@ -1390,6 +1430,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 2",
+            "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -1426,6 +1467,12 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 3 Premium"
           ]
         },
         {
@@ -1478,6 +1525,12 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 3 Premium"
           ]
         },
         {
@@ -1639,6 +1692,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 3 Premium"
           ]
         },
         {
@@ -2349,6 +2408,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "Arena 2 Premium",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -2402,6 +2462,12 @@
           ]
         },
         {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 2 Premium"
+          ]
+        },
+        {
           "paese": "Malesia",
           "canali": [
             "Astro Go",
@@ -2451,6 +2517,12 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 2 Premium"
           ]
         },
         {
@@ -2623,6 +2695,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 2 Premium"
           ]
         },
         {
@@ -2802,36 +2880,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Israele",
-          "canali": [
-            "5Gold"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie A",
@@ -3274,6 +3323,7 @@
           "paese": "Kosovo",
           "canali": [
             "Tring Sport 1",
+            "Arena 2 Premium",
             "TV Vala Kosovo Telecom"
           ]
         },
@@ -3310,6 +3360,12 @@
           "paese": "Macao",
           "canali": [
             "M Plus Live"
+          ]
+        },
+        {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 2 Premium"
           ]
         },
         {
@@ -3354,6 +3410,12 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 2 Premium"
           ]
         },
         {
@@ -3527,6 +3589,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 2 Premium"
           ]
         },
         {
@@ -4139,6 +4207,12 @@
           ]
         },
         {
+          "paese": "Kosovo",
+          "canali": [
+            "Arena 2 Premium"
+          ]
+        },
+        {
           "paese": "Kuwait",
           "canali": [
             "STARZPLAY",
@@ -4194,6 +4268,12 @@
           ]
         },
         {
+          "paese": "Macedonia",
+          "canali": [
+            "Arena 2 Premium"
+          ]
+        },
+        {
           "paese": "Malesia",
           "canali": [
             "Astro Go",
@@ -4243,6 +4323,12 @@
           "paese": "Monaco",
           "canali": [
             "DAZN France"
+          ]
+        },
+        {
+          "paese": "Montenegro",
+          "canali": [
+            "Arena 2 Premium"
           ]
         },
         {
@@ -4347,6 +4433,7 @@
           "paese": "Porto Rico",
           "canali": [
             "Peacock",
+            "UNIVERSO",
             "Disney+ Premium Caribbean"
           ]
         },
@@ -4411,6 +4498,12 @@
             "Shasha",
             "STC TV",
             "Thmanyah"
+          ]
+        },
+        {
+          "paese": "Serbia",
+          "canali": [
+            "Arena 2 Premium"
           ]
         },
         {
@@ -4545,7 +4638,8 @@
           "paese": "USA",
           "canali": [
             "Paramount+",
-            "Peacock"
+            "Peacock",
+            "UNIVERSO"
           ]
         },
         {
@@ -4569,6 +4663,27 @@
           ]
         }
       ]
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Empoli vs Pisa",
+      "data": "2026-11-23",
+      "ora": "04:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Catanzaro vs Palermo",
+      "data": "2026-11-24",
+      "ora": "08:30",
+      "canali": [
+        "Fox Soccer Plus"
+      ],
+      "canali_mondo": []
     }
   ]
 }
