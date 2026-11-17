@@ -1,53 +1,179 @@
 {
-  "aggiornato": "2026-11-17T17:45:45+01:00",
+  "aggiornato": "2026-11-18T00:56:39+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 171,
+  "totale": 185,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 12,
+      "totale": 16,
       "eventi": [
         {
-          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Gambia-Costa d’Avorio",
-          "categoria": "Calcio",
-          "sottocartella": "Qualificazioni Coppa d’Africa",
-          "sport": "Calcio",
-          "competizione": "Qualificazioni Coppa d’Africa",
-          "evento": "Gambia-Costa d’Avorio",
-          "inizio": "2026-11-17T17:00:00+01:00",
-          "data": "17/11/2026",
-          "ora": "17:00",
+          "titolo": "[Basket] NBA: San Antonio Spurs-Detroit Pistons",
+          "categoria": "Basket",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "San Antonio Spurs-Detroit Pistons",
+          "inizio": "2026-11-18T02:00:00+01:00",
+          "data": "18/11/2026",
+          "ora": "02:00",
           "canali": [
             {
-              "nome": "Sportitalia",
+              "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-17T17:00",
+              "orario": "2026-11-18T02:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Qualificazioni Eurobasket: Lettonia-Italia",
+          "titolo": "[Basket] NBA: LA Clippers-Utah Jazz",
           "categoria": "Basket",
-          "sottocartella": "Qualificazioni Eurobasket femminile",
-          "sport": "Basket femminile",
-          "competizione": "Qualificazioni Eurobasket 2027",
-          "evento": "Lettonia-Italia",
-          "inizio": "2026-11-17T18:00:00+01:00",
-          "data": "17/11/2026",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "LA Clippers-Utah Jazz",
+          "inizio": "2026-11-18T05:00:00+01:00",
+          "data": "18/11/2026",
+          "ora": "05:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-18T05:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doppio: Sessione Diurna",
+          "inizio": "2026-11-18T11:30:00+01:00",
+          "data": "18/11/2026",
+          "ora": "11:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-18T11:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Doubles R.R Sess. Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Doubles R.R Sess. Diurna",
+          "inizio": "2026-11-18T11:30:00+01:00",
+          "data": "18/11/2026",
+          "ora": "11:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-18T11:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singles R.R Sess. Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singles R.R Sess. Diurna",
+          "inizio": "2026-11-18T14:00:00+01:00",
+          "data": "18/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-18T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Singolare: Sessione Diurna",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026",
+          "evento": "Singolare: Sessione Diurna",
+          "inizio": "2026-11-18T14:00:00+01:00",
+          "data": "18/11/2026",
+          "ora": "14:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Tennis",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-18T14:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurocup: Cluj Napoca-Maxima Roma",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Cluj Napoca-Maxima Roma",
+          "inizio": "2026-11-18T18:00:00+01:00",
+          "data": "18/11/2026",
           "ora": "18:00",
           "canali": [
             {
               "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-17T18:00",
+              "orario": "2026-11-18T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Besiktas-Real Madrid",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Besiktas-Real Madrid",
+          "inizio": "2026-11-18T18:00:00+01:00",
+          "data": "18/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-18T18:00",
               "fonte": "virgilio"
             }
           ],
@@ -60,15 +186,15 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Doppio: Sessione Serale",
-          "inizio": "2026-11-17T18:00:00+01:00",
-          "data": "17/11/2026",
+          "inizio": "2026-11-18T18:00:00+01:00",
+          "data": "18/11/2026",
           "ora": "18:00",
           "canali": [
             {
               "nome": "Sky Sport Tennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-17T18:00",
+              "orario": "2026-11-18T18:00",
               "fonte": "virgilio"
             }
           ],
@@ -81,78 +207,99 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Doubles R.R Sess. Serale",
-          "inizio": "2026-11-17T18:00:00+01:00",
-          "data": "17/11/2026",
+          "inizio": "2026-11-18T18:00:00+01:00",
+          "data": "18/11/2026",
           "ora": "18:00",
           "canali": [
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-17T18:00",
+              "orario": "2026-11-18T18:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Eurocup: Roma Basketball-Bahcesehir",
+          "titolo": "[Basket] Eurocup: Bourg en Bresse-Napoli",
           "categoria": "Basket",
           "sottocartella": "Eurocup",
           "sport": "Basket",
           "competizione": "Eurocup",
-          "evento": "Roma Basketball-Bahcesehir",
-          "inizio": "2026-11-17T20:00:00+01:00",
-          "data": "17/11/2026",
-          "ora": "20:00",
+          "evento": "Bourg en Bresse-Napoli",
+          "inizio": "2026-11-18T19:30:00+01:00",
+          "data": "18/11/2026",
+          "ora": "19:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-18T19:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurocup: Frankfurt-Reyer Venezia",
+          "categoria": "Basket",
+          "sottocartella": "Eurocup",
+          "sport": "Basket",
+          "competizione": "Eurocup",
+          "evento": "Frankfurt-Reyer Venezia",
+          "inizio": "2026-11-18T19:30:00+01:00",
+          "data": "18/11/2026",
+          "ora": "19:30",
           "canali": [
             {
               "nome": "Sky Sport Mix",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-17T20:00",
+              "orario": "2026-11-18T19:30",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Eurolega: Olimpia Milano-Stella Rossa Belgrado",
+          "titolo": "[Basket] Eurocup: Trento-Neptunas Klaipeda",
           "categoria": "Basket",
-          "sottocartella": "Eurolega",
+          "sottocartella": "Eurocup",
           "sport": "Basket",
-          "competizione": "Eurolega",
-          "evento": "Olimpia Milano-Stella Rossa Belgrado",
-          "inizio": "2026-11-17T20:30:00+01:00",
-          "data": "17/11/2026",
-          "ora": "20:30",
+          "competizione": "Eurocup",
+          "evento": "Trento-Neptunas Klaipeda",
+          "inizio": "2026-11-18T20:00:00+01:00",
+          "data": "18/11/2026",
+          "ora": "20:00",
           "canali": [
             {
               "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-17T20:30",
+              "orario": "2026-11-18T20:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Tennis] ATP Finals Torino – 2a giornata (Gruppo McEnroe): Zverev-Shelton: Zverev-Shelton",
+          "titolo": "[Tennis] ATP Finals Torino – 2a giornata (Gruppo Lendl): Cobolli-Tiafoe: Cobolli-Tiafoe",
           "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino – 2a giornata (Gruppo McEnroe)",
+          "sottocartella": "ATP Finals Torino – 2a giornata (Gruppo Lendl)",
           "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026 – 2a giornata (Gruppo McEnroe)",
-          "evento": "Zverev-Shelton: Zverev-Shelton",
-          "inizio": "2026-11-17T20:30:00+01:00",
-          "data": "17/11/2026",
+          "competizione": "ATP Finals Torino 2026 – 2a giornata (Gruppo Lendl)",
+          "evento": "Cobolli-Tiafoe: Cobolli-Tiafoe",
+          "inizio": "2026-11-18T20:30:00+01:00",
+          "data": "18/11/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Italia 1",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-17T20:30",
+              "orario": "2026-11-18T20:30",
               "fonte": "virgilio"
             }
           ],
@@ -165,15 +312,15 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Singles R.R Sess. Serale",
-          "inizio": "2026-11-17T20:30:00+01:00",
-          "data": "17/11/2026",
+          "inizio": "2026-11-18T20:30:00+01:00",
+          "data": "18/11/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Sky Sport 1",
               "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-17T20:30",
+              "orario": "2026-11-18T20:30",
               "fonte": "virgilio"
             }
           ],
@@ -186,85 +333,15 @@
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
           "evento": "Singolare: Sessione Serale",
-          "inizio": "2026-11-17T20:30:00+01:00",
-          "data": "17/11/2026",
+          "inizio": "2026-11-18T20:30:00+01:00",
+          "data": "18/11/2026",
           "ora": "20:30",
           "canali": [
             {
               "nome": "Sky Sport Tennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-17T20:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Nations League: Danimarca-Norvegia",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Nations League",
-          "sport": "Calcio",
-          "competizione": "UEFA Nations League",
-          "evento": "Danimarca-Norvegia",
-          "inizio": "2026-11-17T20:45:00+01:00",
-          "data": "17/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "Cielo",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-17T20:45",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-17T20:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] Eurolega: Virtus Bologna-Panathinaikos",
-          "categoria": "Basket",
-          "sottocartella": "Eurolega",
-          "sport": "Basket",
-          "competizione": "Eurolega",
-          "evento": "Virtus Bologna-Panathinaikos",
-          "inizio": "2026-11-17T21:00:00+01:00",
-          "data": "17/11/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-17T21:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Qualificazioni Coppa d’Africa: Niger-Marocco",
-          "categoria": "Calcio",
-          "sottocartella": "Qualificazioni Coppa d’Africa",
-          "sport": "Calcio",
-          "competizione": "Qualificazioni Coppa d’Africa",
-          "evento": "Niger-Marocco",
-          "inizio": "2026-11-17T21:00:00+01:00",
-          "data": "17/11/2026",
-          "ora": "21:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-17T21:00",
+              "orario": "2026-11-18T20:30",
               "fonte": "virgilio"
             }
           ],
@@ -975,9 +1052,10 @@
                 {
                   "nome": "TV8",
                   "numero": "8",
-                  "tipo": "differita",
-                  "orario": "",
-                  "fonte": "config"
+                  "tipo": "diretta",
+                  "orario": "2026-12-06T14:00",
+                  "fonte": "tv8",
+                  "programma": "Isola di Yas: Feature Race"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -1456,26 +1534,25 @@
               "ora": "10:50",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T10:50",
+                  "fonte": "dizzle+tv8"
+                },
+                {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
                   "orario": "2026-11-28T10:50",
-                  "fonte": "dizzle+config"
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
                   "orario": "2026-11-28T10:50",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-11-28T10:50",
-                  "programma": "GP Valencia: Qualifiche",
-                  "fonte": "tv8"
+                  "fonte": "config"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -1494,26 +1571,25 @@
               "ora": "11:15",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T10:50",
+                  "fonte": "dizzle+tv8"
+                },
+                {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
                   "orario": "2026-11-28T11:15",
-                  "fonte": "dizzle+config"
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
                   "orario": "2026-11-28T11:15",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-11-28T10:50",
-                  "programma": "GP Valencia: Qualifiche",
-                  "fonte": "tv8"
+                  "fonte": "config"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -1532,26 +1608,25 @@
               "ora": "15:00",
               "canali": [
                 {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T15:00",
+                  "fonte": "dizzle+tv8"
+                },
+                {
                   "nome": "Sky Sport MotoGP",
                   "numero": "208",
                   "tipo": "diretta",
                   "orario": "2026-11-28T15:00",
-                  "fonte": "dizzle+config"
+                  "fonte": "config"
                 },
                 {
                   "nome": "NOW",
                   "numero": "",
                   "tipo": "streaming",
                   "orario": "2026-11-28T15:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-11-28T15:00",
-                  "fonte": "tv8",
-                  "programma": "GP Valencia: Sprint Race"
+                  "fonte": "config"
                 }
               ],
               "fonte": "Dizzle0987/motorsport-calendar"
@@ -1959,7 +2034,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 49,
+      "totale": 68,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -6634,7 +6709,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 9,
+          "totale": 20,
           "eventi": [
             {
               "titolo": "Serie B: Verona vs Cesena",
@@ -6660,6 +6735,13 @@
                   "tipo": "diretta",
                   "orario": "2026-11-20T20:30",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-20T20:30",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -6718,6 +6800,13 @@
                   "tipo": "diretta",
                   "orario": "2026-11-21T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -6762,6 +6851,13 @@
                   "tipo": "diretta",
                   "orario": "2026-11-21T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -6806,6 +6902,13 @@
                   "tipo": "diretta",
                   "orario": "2026-11-21T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -6850,6 +6953,13 @@
                   "tipo": "diretta",
                   "orario": "2026-11-21T15:00",
                   "fonte": "livesoccer"
+                },
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T15:00",
+                  "fonte": "virgilio"
                 }
               ],
               "canali_mondo": [
@@ -6869,6 +6979,48 @@
                 }
               ],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Sudtirol-Cremonese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Sudtirol-Cremonese",
+              "inizio": "2026-11-21T15:00:00+01:00",
+              "data": "21/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Catanzaro-Palermo",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Catanzaro-Palermo",
+              "inizio": "2026-11-21T17:15:00+01:00",
+              "data": "21/11/2026",
+              "ora": "17:15",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T17:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             },
             {
               "titolo": "Serie B: Verona vs Cesena",
@@ -6900,6 +7052,27 @@
               "fonte": "LiveSoccerTV"
             },
             {
+              "titolo": "Serie B: Empoli-Pisa",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Empoli-Pisa",
+              "inizio": "2026-11-21T19:30:00+01:00",
+              "data": "21/11/2026",
+              "ora": "19:30",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T19:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
               "titolo": "Serie B: Catanzaro vs Palermo",
               "categoria": "Calcio",
               "sottocartella": "Serie B",
@@ -6927,6 +7100,48 @@
               ],
               "canali_mondo": [],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Avellino-Mantova",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Avellino-Mantova",
+              "inizio": "2026-11-22T15:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Arezzo-Padova",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Arezzo-Padova",
+              "inizio": "2026-11-22T17:15:00+01:00",
+              "data": "22/11/2026",
+              "ora": "17:15",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T17:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             },
             {
               "titolo": "Serie B: Empoli vs Pisa",
@@ -6978,6 +7193,132 @@
               ],
               "canali_mondo": [],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Juve Stabia-Catanzaro",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Juve Stabia-Catanzaro",
+              "inizio": "2026-11-24T19:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Benevento-Empoli",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Benevento-Empoli",
+              "inizio": "2026-11-24T20:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Cesena-Ascoli",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Cesena-Ascoli",
+              "inizio": "2026-11-24T20:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Palermo-Sudtirol",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Palermo-Sudtirol",
+              "inizio": "2026-11-24T20:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Vicenza-Carrarese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Vicenza-Carrarese",
+              "inizio": "2026-11-24T20:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie B: Virtus Entella-Hellas Verona",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Virtus Entella-Hellas Verona",
+              "inizio": "2026-11-24T20:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
@@ -7327,80 +7668,25 @@
           ]
         },
         {
-          "nome": "Qualificazioni Coppa d’Africa",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Gambia-Costa d’Avorio",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Gambia-Costa d’Avorio",
-              "inizio": "2026-11-17T17:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni Coppa d’Africa: Niger-Marocco",
-              "categoria": "Calcio",
-              "sottocartella": "Qualificazioni Coppa d’Africa",
-              "sport": "Calcio",
-              "competizione": "Qualificazioni Coppa d’Africa",
-              "evento": "Niger-Marocco",
-              "inizio": "2026-11-17T21:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Nations League",
+          "nome": "Mondiali U17 Qatar",
           "totale": 1,
           "eventi": [
             {
-              "titolo": "UEFA Nations League: Danimarca-Norvegia",
+              "titolo": "Mondiali U17 Qatar: Italia-Giamaica",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Nations League",
+              "sottocartella": "Mondiali U17 Qatar",
               "sport": "Calcio",
-              "competizione": "UEFA Nations League",
-              "evento": "Danimarca-Norvegia",
-              "inizio": "2026-11-17T20:45:00+01:00",
-              "data": "17/11/2026",
-              "ora": "20:45",
+              "competizione": "Mondiali U17 Qatar 2026",
+              "evento": "Italia-Giamaica",
+              "inizio": "2026-11-20T16:00:00+01:00",
+              "data": "20/11/2026",
+              "ora": "16:00",
               "canali": [
                 {
-                  "nome": "Cielo",
+                  "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-17T20:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T20:45",
+                  "orario": "2026-11-20T16:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -7779,101 +8065,253 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "Serie A femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A: Fiorentina-Como",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A femminile",
+              "sport": "Calcio femminile",
+              "competizione": "Serie A",
+              "evento": "Fiorentina-Como",
+              "inizio": "2026-11-22T15:00:00+01:00",
+              "data": "22/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T15:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Champions League",
+          "totale": 9,
+          "eventi": [
+            {
+              "titolo": "UEFA Champions League: Bodo Glimt-LASK",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Bodo Glimt-LASK",
+              "inizio": "2026-11-24T18:45:00+01:00",
+              "data": "24/11/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Galatasaray-Aston Villa",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Galatasaray-Aston Villa",
+              "inizio": "2026-11-24T18:45:00+01:00",
+              "data": "24/11/2026",
+              "ora": "18:45",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T18:45",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T18:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Arsenal-Borussia Dortmund",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Arsenal-Borussia Dortmund",
+              "inizio": "2026-11-24T21:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Como-AEK Atene",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Como-AEK Atene",
+              "inizio": "2026-11-24T21:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Feyenoord-Porto",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Feyenoord-Porto",
+              "inizio": "2026-11-24T21:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Lipsia-Lens",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Lipsia-Lens",
+              "inizio": "2026-11-24T21:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Manchester City-Napoli",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Manchester City-Napoli",
+              "inizio": "2026-11-24T21:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Real Madrid-Psv",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Real Madrid-Psv",
+              "inizio": "2026-11-24T21:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "UEFA Champions League: Slovan-Real Betis",
+              "categoria": "Calcio",
+              "sottocartella": "UEFA Champions League",
+              "sport": "Calcio",
+              "competizione": "UEFA Champions League",
+              "evento": "Slovan-Real Betis",
+              "inizio": "2026-11-24T21:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
     {
       "nome": "Tennis",
-      "totale": 34,
+      "totale": 30,
       "sottocartelle": [
         {
           "nome": "ATP Finals Torino",
-          "totale": 33,
+          "totale": 29,
           "eventi": [
-            {
-              "titolo": "ATP Finals Torino: Doppio: Sessione Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doppio: Sessione Serale",
-              "inizio": "2026-11-17T18:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Doubles R.R Sess. Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doubles R.R Sess. Serale",
-              "inizio": "2026-11-17T18:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Singles R.R Sess. Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Singles R.R Sess. Serale",
-              "inizio": "2026-11-17T20:30:00+01:00",
-              "data": "17/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Singolare: Sessione Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Singolare: Sessione Serale",
-              "inizio": "2026-11-17T20:30:00+01:00",
-              "data": "17/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Finals Torino: Doppio: Sessione Diurna",
               "categoria": "Tennis",
@@ -8493,25 +8931,25 @@
           ]
         },
         {
-          "nome": "ATP Finals Torino – 2a giornata (Gruppo McEnroe)",
+          "nome": "ATP Finals Torino – 2a giornata (Gruppo Lendl)",
           "totale": 1,
           "eventi": [
             {
-              "titolo": "ATP Finals Torino – 2a giornata (Gruppo McEnroe): Zverev-Shelton: Zverev-Shelton",
+              "titolo": "ATP Finals Torino – 2a giornata (Gruppo Lendl): Cobolli-Tiafoe: Cobolli-Tiafoe",
               "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino – 2a giornata (Gruppo McEnroe)",
+              "sottocartella": "ATP Finals Torino – 2a giornata (Gruppo Lendl)",
               "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026 – 2a giornata (Gruppo McEnroe)",
-              "evento": "Zverev-Shelton: Zverev-Shelton",
-              "inizio": "2026-11-17T20:30:00+01:00",
-              "data": "17/11/2026",
+              "competizione": "ATP Finals Torino 2026 – 2a giornata (Gruppo Lendl)",
+              "evento": "Cobolli-Tiafoe: Cobolli-Tiafoe",
+              "inizio": "2026-11-18T20:30:00+01:00",
+              "data": "18/11/2026",
               "ora": "20:30",
               "canali": [
                 {
                   "nome": "Italia 1",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-17T20:30",
+                  "orario": "2026-11-18T20:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -8523,278 +8961,8 @@
     },
     {
       "nome": "Basket",
-      "totale": 20,
+      "totale": 17,
       "sottocartelle": [
-        {
-          "nome": "Qualificazioni Eurobasket femminile",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Qualificazioni Eurobasket: Lettonia-Italia",
-              "categoria": "Basket",
-              "sottocartella": "Qualificazioni Eurobasket femminile",
-              "sport": "Basket femminile",
-              "competizione": "Qualificazioni Eurobasket 2027",
-              "evento": "Lettonia-Italia",
-              "inizio": "2026-11-17T18:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Eurocup",
-          "totale": 5,
-          "eventi": [
-            {
-              "titolo": "Eurocup: Roma Basketball-Bahcesehir",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Roma Basketball-Bahcesehir",
-              "inizio": "2026-11-17T20:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: Cluj Napoca-Maxima Roma",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Cluj Napoca-Maxima Roma",
-              "inizio": "2026-11-18T18:00:00+01:00",
-              "data": "18/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-18T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: Bourg en Bresse-Napoli",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Bourg en Bresse-Napoli",
-              "inizio": "2026-11-18T19:30:00+01:00",
-              "data": "18/11/2026",
-              "ora": "19:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-18T19:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: Frankfurt-Reyer Venezia",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Frankfurt-Reyer Venezia",
-              "inizio": "2026-11-18T19:30:00+01:00",
-              "data": "18/11/2026",
-              "ora": "19:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-18T19:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurocup: Trento-Neptunas Klaipeda",
-              "categoria": "Basket",
-              "sottocartella": "Eurocup",
-              "sport": "Basket",
-              "competizione": "Eurocup",
-              "evento": "Trento-Neptunas Klaipeda",
-              "inizio": "2026-11-18T20:00:00+01:00",
-              "data": "18/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-18T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Eurolega",
-          "totale": 6,
-          "eventi": [
-            {
-              "titolo": "Eurolega: Olimpia Milano-Stella Rossa Belgrado",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olimpia Milano-Stella Rossa Belgrado",
-              "inizio": "2026-11-17T20:30:00+01:00",
-              "data": "17/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Virtus Bologna-Panathinaikos",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Virtus Bologna-Panathinaikos",
-              "inizio": "2026-11-17T21:00:00+01:00",
-              "data": "17/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-17T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Besiktas-Real Madrid",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Besiktas-Real Madrid",
-              "inizio": "2026-11-18T18:00:00+01:00",
-              "data": "18/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-18T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Olimpia Milano-Fenerbahce",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olimpia Milano-Fenerbahce",
-              "inizio": "2026-11-19T20:30:00+01:00",
-              "data": "19/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-19T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Valencia-Virtus Bologna",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Valencia-Virtus Bologna",
-              "inizio": "2026-11-19T21:00:00+01:00",
-              "data": "19/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-19T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Olympiacos-Real Madrid",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olympiacos-Real Madrid",
-              "inizio": "2026-11-20T20:15:00+01:00",
-              "data": "20/11/2026",
-              "ora": "20:15",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T20:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "NBA",
           "totale": 6,
@@ -8928,6 +9096,207 @@
           ]
         },
         {
+          "nome": "Eurocup",
+          "totale": 4,
+          "eventi": [
+            {
+              "titolo": "Eurocup: Cluj Napoca-Maxima Roma",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Cluj Napoca-Maxima Roma",
+              "inizio": "2026-11-18T18:00:00+01:00",
+              "data": "18/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-18T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Bourg en Bresse-Napoli",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Bourg en Bresse-Napoli",
+              "inizio": "2026-11-18T19:30:00+01:00",
+              "data": "18/11/2026",
+              "ora": "19:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-18T19:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Frankfurt-Reyer Venezia",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Frankfurt-Reyer Venezia",
+              "inizio": "2026-11-18T19:30:00+01:00",
+              "data": "18/11/2026",
+              "ora": "19:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-18T19:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurocup: Trento-Neptunas Klaipeda",
+              "categoria": "Basket",
+              "sottocartella": "Eurocup",
+              "sport": "Basket",
+              "competizione": "Eurocup",
+              "evento": "Trento-Neptunas Klaipeda",
+              "inizio": "2026-11-18T20:00:00+01:00",
+              "data": "18/11/2026",
+              "ora": "20:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-18T20:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Eurolega",
+          "totale": 5,
+          "eventi": [
+            {
+              "titolo": "Eurolega: Besiktas-Real Madrid",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Besiktas-Real Madrid",
+              "inizio": "2026-11-18T18:00:00+01:00",
+              "data": "18/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-18T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Olimpia Milano-Fenerbahce",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Olimpia Milano-Fenerbahce",
+              "inizio": "2026-11-19T20:30:00+01:00",
+              "data": "19/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Valencia-Virtus Bologna",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Valencia-Virtus Bologna",
+              "inizio": "2026-11-19T21:00:00+01:00",
+              "data": "19/11/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Olympiacos-Real Madrid",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Olympiacos-Real Madrid",
+              "inizio": "2026-11-20T20:15:00+01:00",
+              "data": "20/11/2026",
+              "ora": "20:15",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-20T20:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Stella Rossa-Virtus Bologna",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Stella Rossa-Virtus Bologna",
+              "inizio": "2026-11-24T19:00:00+01:00",
+              "data": "24/11/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
           "nome": "Serie A",
           "totale": 2,
           "eventi": [
@@ -8968,6 +9337,66 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-22T18:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Volley",
+      "totale": 2,
+      "sottocartelle": [
+        {
+          "nome": "SuperLega",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "SuperLega: Cuneo-Verona",
+              "categoria": "Volley",
+              "sottocartella": "SuperLega",
+              "sport": "Pallavolo maschile",
+              "competizione": "SuperLega",
+              "evento": "Cuneo-Verona",
+              "inizio": "2026-11-20T20:45:00+01:00",
+              "data": "20/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-20T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Serie A1 femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A1: Novara-Chieri",
+              "categoria": "Volley",
+              "sottocartella": "Serie A1 femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "Serie A1",
+              "evento": "Novara-Chieri",
+              "inizio": "2026-11-21T20:30:00+01:00",
+              "data": "21/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T20:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -9023,6 +9452,13 @@
                   "tipo": "diretta",
                   "orario": "2026-11-21T13:30",
                   "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T13:30",
+                  "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
@@ -9043,6 +9479,13 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-22T10:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T11:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -9073,7 +9516,7 @@
         },
         {
           "nome": "Rugby",
-          "totale": 7,
+          "totale": 6,
           "eventi": [
             {
               "titolo": "Nations Championship: Inghilterra-Nuova Zelanda",
@@ -9139,27 +9582,6 @@
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "Nations Championship: Italia-Figi",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "Nations Championship",
-              "evento": "Italia-Figi",
-              "inizio": "2026-11-21T17:40:00+01:00",
-              "data": "21/11/2026",
-              "ora": "17:40",
-              "canali": [
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T17:40",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
               "titolo": "Nations Championship: Italia-Fiji",
               "categoria": "Altri sport",
               "sottocartella": "Rugby",
@@ -9170,6 +9592,13 @@
               "data": "21/11/2026",
               "ora": "17:40",
               "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T17:40",
+                  "fonte": "virgilio"
+                },
                 {
                   "nome": "Sky Sport Arena",
                   "numero": "",
@@ -9224,6 +9653,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-21T21:10",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Pallanuoto femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A1: Catania-Roma",
+              "categoria": "Altri sport",
+              "sottocartella": "Pallanuoto femminile",
+              "sport": "Pallanuoto femminile",
+              "competizione": "Serie A1",
+              "evento": "Catania-Roma",
+              "inizio": "2026-11-21T19:00:00+01:00",
+              "data": "21/11/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-21T19:00",
                   "fonte": "virgilio"
                 }
               ],
