@@ -122,11 +122,35 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-catanzaro/6nopm#5837488"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-catanzaro/6nopm#5837488"
+    },
+    {
+      "title": "[COLOR yellow]10:30[/COLOR] Empoli vs Pisa",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "Fox Soccer Plus"
+      ],
+      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/empoli-vs-pisa/8o61v#5838046"
+    },
+    {
+      "title": "[COLOR cyan]Mercoledi 25 Novembre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]06:30[/COLOR] Cesena vs Ascoli",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-ascoli/4okcj#5838051"
     }
   ]
 }
