@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-19T07:26:56+01:00",
+  "aggiornato": "2026-11-19T12:41:55+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -11,21 +11,6 @@
       "nome": "Oggi",
       "totale": 7,
       "eventi": [
-        {
-          "titolo": "[Motori] Special Events: Macau GP - FIA Formula Regional World Cup - Quali 1",
-          "categoria": "Motori",
-          "sottocartella": "Special Events",
-          "sport": "Motori",
-          "competizione": "Special Events",
-          "evento": "Macau GP - FIA Formula Regional World Cup - Quali 1",
-          "sessione": "qualifiche",
-          "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-          "inizio": "2026-11-19T08:50:00+01:00",
-          "data": "19/11/2026",
-          "ora": "08:50",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
         {
           "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Diurna",
           "categoria": "Tennis",
@@ -132,12 +117,33 @@
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Tennis] ATP Finals Torino: Singolare: Sessione Serale",
+          "titolo": "[Tennis] ATP Finals Torino – 3a giornata (Gruppo McEnroe): Zverev-Fils: Zverev-Fils",
+          "categoria": "Tennis",
+          "sottocartella": "ATP Finals Torino – 3a giornata (Gruppo McEnroe)",
+          "sport": "Tennis",
+          "competizione": "ATP Finals Torino 2026 – 3a giornata (Gruppo McEnroe)",
+          "evento": "Zverev-Fils: Zverev-Fils",
+          "inizio": "2026-11-19T20:30:00+01:00",
+          "data": "19/11/2026",
+          "ora": "20:30",
+          "canali": [
+            {
+              "nome": "Italia 1",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-19T20:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Tennis] ATP Finals Torino: Zverev-Fils",
           "categoria": "Tennis",
           "sottocartella": "ATP Finals Torino",
           "sport": "Tennis",
           "competizione": "ATP Finals Torino 2026",
-          "evento": "Singolare: Sessione Serale",
+          "evento": "Zverev-Fils",
           "inizio": "2026-11-19T20:30:00+01:00",
           "data": "19/11/2026",
           "ora": "20:30",
@@ -184,7 +190,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 57,
+      "totale": 56,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -1597,7 +1603,16 @@
               "inizio": "2026-11-22T12:00:00+01:00",
               "data": "22/11/2026",
               "ora": "12:00",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T11:00",
+                  "programma": "GP Portogallo: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -1612,7 +1627,16 @@
               "inizio": "2026-11-22T13:15:00+01:00",
               "data": "22/11/2026",
               "ora": "13:15",
-              "canali": [],
+              "canali": [
+                {
+                  "nome": "TV8",
+                  "numero": "8",
+                  "tipo": "diretta",
+                  "orario": "2026-11-22T12:15",
+                  "programma": "GP Portogallo: Gara",
+                  "fonte": "tv8"
+                }
+              ],
               "fonte": "Fuori Traiettoria"
             },
             {
@@ -1679,23 +1703,8 @@
         },
         {
           "nome": "Special Events",
-          "totale": 12,
+          "totale": 11,
           "eventi": [
-            {
-              "titolo": "Special Events: Macau GP - FIA Formula Regional World Cup - Quali 1",
-              "categoria": "Motori",
-              "sottocartella": "Special Events",
-              "sport": "Motori",
-              "competizione": "Special Events",
-              "evento": "Macau GP - FIA Formula Regional World Cup - Quali 1",
-              "sessione": "qualifiche",
-              "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-              "inizio": "2026-11-19T08:50:00+01:00",
-              "data": "19/11/2026",
-              "ora": "08:50",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "Special Events: Macau GP - Motorcycle GP - Quali",
               "categoria": "Motori",
@@ -9646,7 +9655,7 @@
     },
     {
       "nome": "Tennis",
-      "totale": 14,
+      "totale": 15,
       "sottocartelle": [
         {
           "nome": "ATP Finals Torino",
@@ -9737,12 +9746,12 @@
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "ATP Finals Torino: Singolare: Sessione Serale",
+              "titolo": "ATP Finals Torino: Zverev-Fils",
               "categoria": "Tennis",
               "sottocartella": "ATP Finals Torino",
               "sport": "Tennis",
               "competizione": "ATP Finals Torino 2026",
-              "evento": "Singolare: Sessione Serale",
+              "evento": "Zverev-Fils",
               "inizio": "2026-11-19T20:30:00+01:00",
               "data": "19/11/2026",
               "ora": "20:30",
@@ -9997,6 +10006,33 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-11-22T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "ATP Finals Torino – 3a giornata (Gruppo McEnroe)",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "ATP Finals Torino – 3a giornata (Gruppo McEnroe): Zverev-Fils: Zverev-Fils",
+              "categoria": "Tennis",
+              "sottocartella": "ATP Finals Torino – 3a giornata (Gruppo McEnroe)",
+              "sport": "Tennis",
+              "competizione": "ATP Finals Torino 2026 – 3a giornata (Gruppo McEnroe)",
+              "evento": "Zverev-Fils: Zverev-Fils",
+              "inizio": "2026-11-19T20:30:00+01:00",
+              "data": "19/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Italia 1",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-19T20:30",
                   "fonte": "virgilio"
                 }
               ],
