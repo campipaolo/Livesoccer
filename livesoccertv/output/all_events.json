@@ -90,31 +90,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5720423",
@@ -131,31 +116,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5721176",
@@ -172,31 +142,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5721180",
@@ -213,31 +168,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5721181",
@@ -254,31 +194,16 @@
       "channels": [
         {
           "name": "SKY Go Italia",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/sky-go-italia/",
           "stream": false
         },
         {
           "name": "NOW TV",
-          "url": "",
+          "url": "https://www.livesoccertv.com/it/channels/now-tv-italy/",
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "SKY Go Italia",
-            "NOW TV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653992",
@@ -1926,7 +1851,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Sport Live 4"
           ]
         },
         {
@@ -3023,7 +2949,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Fotball"
           ]
         },
         {
@@ -3154,7 +3081,56 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Gold"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 5 Live"
+          ]
+        },
+        {
+          "paese": "Russia",
+          "canali": [
+            "Телеканал Футбол"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 5 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "id": "5653996",
@@ -4037,7 +4013,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Fotball"
           ]
         },
         {
@@ -4173,48 +4150,7 @@
           "stream": false
         }
       ],
-      "canali_mondo": [
-        {
-          "paese": "Israele",
-          "canali": [
-            "5 Live"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "id": "5653993",
@@ -5053,7 +4989,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Sport Live 1"
           ]
         },
         {
@@ -5891,6 +5828,12 @@
           ]
         },
         {
+          "paese": "Portogallo",
+          "canali": [
+            "Sport TV1"
+          ]
+        },
+        {
           "paese": "Porto Rico",
           "canali": [
             "Peacock",
@@ -6035,7 +5978,8 @@
         {
           "paese": "Svezia",
           "canali": [
-            "TV4 Play"
+            "TV4 Play",
+            "TV4 Sportkanalen"
           ]
         },
         {
@@ -6139,18 +6083,13 @@
       "match_url": "https://www.livesoccertv.com/it/match/palermo-vs-catanzaro/6nopm#5837488",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
-          "stream": true
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "name": "fuboTV",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
-          "stream": true
-        },
-        {
-          "name": "FOX One",
-          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
@@ -6253,7 +6192,42 @@
           "stream": false
         }
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport 11 Live"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport 11 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     },
     {
       "id": "5838492",
@@ -6269,13 +6243,8 @@
       "match_url": "https://www.livesoccertv.com/it/match/modena-vs-pisa/8oqvq#5838492",
       "channels": [
         {
-          "name": "DAZN Italia",
-          "url": "",
-          "stream": false
-        },
-        {
-          "name": "LAB Channel",
-          "url": "",
+          "name": "Fox Soccer Plus",
+          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
           "stream": false
         }
       ],
