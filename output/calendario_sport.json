@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-20T12:42:24+01:00",
+  "aggiornato": "2026-11-20T16:23:26+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
@@ -9,59 +9,8 @@
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 17,
+      "totale": 15,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Diurna",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Doppio: Sessione Diurna",
-          "inizio": "2026-11-20T11:30:00+01:00",
-          "data": "20/11/2026",
-          "ora": "11:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-20T11:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Portuguese Grand Prix - Prove libere",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Portuguese Grand Prix - Prove libere",
-          "sessione": "prove",
-          "circuito": "Autódromo Internacional do Algarve, Portimão, Portugal",
-          "inizio": "2026-11-20T11:45:00+01:00",
-          "data": "20/11/2026",
-          "ora": "11:45",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-11-20T11:45",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-20T11:45",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
         {
           "titolo": "[Tennis] ATP Finals Torino: Singolare: Sessione Diurna",
           "categoria": "Tennis",
@@ -548,7 +497,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 50,
+      "totale": 49,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -1269,38 +1218,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 16,
+          "totale": 15,
           "eventi": [
-            {
-              "titolo": "MotoGP: Portuguese Grand Prix - Prove libere",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Portuguese Grand Prix - Prove libere",
-              "sessione": "prove",
-              "circuito": "Autódromo Internacional do Algarve, Portimão, Portugal",
-              "inizio": "2026-11-20T11:45:00+01:00",
-              "data": "20/11/2026",
-              "ora": "11:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T11:45",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-20T11:45",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Portuguese Grand Prix - Practice",
               "categoria": "Motori",
@@ -2086,7 +2005,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 115,
+      "totale": 117,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -6940,7 +6859,7 @@
         },
         {
           "nome": "Serie B",
-          "totale": 27,
+          "totale": 29,
           "eventi": [
             {
               "titolo": "Serie B: Verona vs Cesena",
@@ -7632,17 +7551,46 @@
               "ora": "06:30",
               "canali": [
                 {
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T06:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T06:30",
+                  "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Cesena vs Ascoli",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Cesena vs Ascoli",
+              "inizio": "2026-11-25T12:30:00+01:00",
+              "data": "25/11/2026",
+              "ora": "12:30",
+              "canali": [
+                {
                   "nome": "DAZN Italia",
                   "numero": "",
                   "tipo": "streaming",
-                  "orario": "2026-11-25T06:30",
+                  "orario": "2026-11-25T12:30",
                   "fonte": "livesoccer"
                 },
                 {
                   "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-25T06:30",
+                  "orario": "2026-11-25T12:30",
                   "fonte": "livesoccer"
                 }
               ],
@@ -7745,24 +7693,46 @@
               "ora": "05:00",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
                   "numero": "",
-                  "tipo": "diretta",
+                  "tipo": "streaming",
                   "orario": "2026-11-26T05:00",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "fuboTV",
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-26T05:00",
                   "fonte": "livesoccer"
+                }
+              ],
+              "canali_mondo": [],
+              "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Cremonese vs Avellino",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Cremonese vs Avellino",
+              "inizio": "2026-11-26T11:30:00+01:00",
+              "data": "26/11/2026",
+              "ora": "11:30",
+              "canali": [
+                {
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-26T11:30",
+                  "fonte": "livesoccer"
                 },
                 {
-                  "nome": "FOX One",
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-26T05:00",
+                  "orario": "2026-11-26T11:30",
                   "fonte": "livesoccer"
                 }
               ],
@@ -9731,33 +9701,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 12,
+      "totale": 11,
       "sottocartelle": [
         {
           "nome": "ATP Finals Torino",
-          "totale": 11,
+          "totale": 10,
           "eventi": [
-            {
-              "titolo": "ATP Finals Torino: Doppio: Sessione Diurna",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doppio: Sessione Diurna",
-              "inizio": "2026-11-20T11:30:00+01:00",
-              "data": "20/11/2026",
-              "ora": "11:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T11:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Finals Torino: Singolare: Sessione Diurna",
               "categoria": "Tennis",
