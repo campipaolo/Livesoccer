@@ -4921,6 +4921,17 @@
       "data": "2026-11-25",
       "ora": "06:30",
       "canali": [
+        "fuboTV",
+        "FOX One"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Cesena vs Ascoli",
+      "data": "2026-11-25",
+      "ora": "12:30",
+      "canali": [
         "DAZN Italia",
         "LAB Channel"
       ],
@@ -4932,9 +4943,19 @@
       "data": "2026-11-26",
       "ora": "05:00",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Cremonese vs Avellino",
+      "data": "2026-11-26",
+      "ora": "11:30",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
       ],
       "canali_mondo": []
     }

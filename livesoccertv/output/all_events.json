@@ -5268,6 +5268,32 @@
       "match_url": "https://www.livesoccertv.com/it/match/cesena-vs-ascoli/4okcj#5838051",
       "channels": [
         {
+          "name": "fuboTV",
+          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
+          "stream": true
+        },
+        {
+          "name": "FOX One",
+          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5838940",
+      "competition": "Serie B",
+      "home": "Cesena",
+      "away": "Ascoli",
+      "title": "Cesena vs Ascoli",
+      "kickoff": "2026-11-25T12:30:00+01:00",
+      "date": "2026-11-25",
+      "time": "12:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/cesena-vs-ascoli/4okcj#5838940",
+      "channels": [
+        {
           "name": "DAZN Italia",
           "url": "",
           "stream": false
@@ -5294,18 +5320,39 @@
       "match_url": "https://www.livesoccertv.com/it/match/modena-vs-pisa/8oqvq#5838492",
       "channels": [
         {
-          "name": "Fox Soccer Plus",
-          "url": "https://www.livesoccertv.com/it/channels/fox-soccer-plus/",
-          "stream": true
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "name": "fuboTV",
-          "url": "https://www.livesoccertv.com/it/channels/fubo-tv/",
-          "stream": true
+          "name": "LAB Channel",
+          "url": "",
+          "stream": false
+        }
+      ],
+      "canali_mondo": []
+    },
+    {
+      "id": "5838941",
+      "competition": "Serie B",
+      "home": "Cremonese",
+      "away": "Avellino",
+      "title": "Cremonese vs Avellino",
+      "kickoff": "2026-11-26T11:30:00+01:00",
+      "date": "2026-11-26",
+      "time": "11:30",
+      "status": "upcoming",
+      "score": "",
+      "match_url": "https://www.livesoccertv.com/it/match/avellino-vs-cremonese/dwicn#5838941",
+      "channels": [
+        {
+          "name": "DAZN Italia",
+          "url": "",
+          "stream": false
         },
         {
-          "name": "FOX One",
-          "url": "https://www.livesoccertv.com/it/channels/fox-one/",
+          "name": "LAB Channel",
+          "url": "",
           "stream": false
         }
       ],
