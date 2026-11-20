@@ -1,123 +1,16 @@
 {
-  "aggiornato": "2026-11-20T16:23:26+01:00",
+  "aggiornato": "2026-11-20T21:23:11+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 212,
+  "totale": 208,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 11,
       "eventi": [
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Singolare: Sessione Diurna",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Singolare: Sessione Diurna",
-          "inizio": "2026-11-20T14:00:00+01:00",
-          "data": "20/11/2026",
-          "ora": "14:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-20T14:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-20T14:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Mondiali U17 Qatar: Italia-Giamaica",
-          "categoria": "Calcio",
-          "sottocartella": "Mondiali U17 Qatar",
-          "sport": "Calcio",
-          "competizione": "Mondiali U17 Qatar 2026",
-          "evento": "Italia-Giamaica",
-          "inizio": "2026-11-20T16:00:00+01:00",
-          "data": "20/11/2026",
-          "ora": "16:00",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-20T16:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] MotoGP: Portuguese Grand Prix - Practice",
-          "categoria": "Motori",
-          "sottocartella": "MotoGP",
-          "sport": "Motori",
-          "competizione": "MotoGP",
-          "evento": "Portuguese Grand Prix - Practice",
-          "sessione": "prove",
-          "circuito": "Autódromo Internacional do Algarve, Portimão, Portugal",
-          "inizio": "2026-11-20T16:00:00+01:00",
-          "data": "20/11/2026",
-          "ora": "16:00",
-          "canali": [
-            {
-              "nome": "Sky Sport MotoGP",
-              "numero": "208",
-              "tipo": "diretta",
-              "orario": "2026-11-20T16:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-20T16:00",
-              "fonte": "dizzle+config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Serale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Doppio: Sessione Serale",
-          "inizio": "2026-11-20T18:00:00+01:00",
-          "data": "20/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-20T18:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-20T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Bundesliga 2: Arminia Bielefeld-FC Magdeburg",
           "categoria": "Calcio",
@@ -497,7 +390,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 49,
+      "totale": 48,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -643,7 +536,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "differita",
-                  "orario": "2026-11-22T17:15",
+                  "orario": "2026-11-22T17:10",
                   "fonte": "config+tv8"
                 }
               ],
@@ -1218,38 +1111,8 @@
         },
         {
           "nome": "MotoGP",
-          "totale": 15,
+          "totale": 14,
           "eventi": [
-            {
-              "titolo": "MotoGP: Portuguese Grand Prix - Practice",
-              "categoria": "Motori",
-              "sottocartella": "MotoGP",
-              "sport": "Motori",
-              "competizione": "MotoGP",
-              "evento": "Portuguese Grand Prix - Practice",
-              "sessione": "prove",
-              "circuito": "Autódromo Internacional do Algarve, Portimão, Portugal",
-              "inizio": "2026-11-20T16:00:00+01:00",
-              "data": "20/11/2026",
-              "ora": "16:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport MotoGP",
-                  "numero": "208",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T16:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-20T16:00",
-                  "fonte": "dizzle+config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "MotoGP: Portuguese Grand Prix - FP2",
               "categoria": "Motori",
@@ -1438,7 +1301,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-22T14:00",
+                  "orario": "2026-11-22T13:55",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -1797,7 +1660,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-22T11:00",
+                  "orario": "2026-11-22T10:55",
                   "programma": "GP Portogallo: Gara",
                   "fonte": "tv8"
                 }
@@ -1821,7 +1684,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-22T12:15",
+                  "orario": "2026-11-22T12:10",
                   "programma": "GP Portogallo: Gara",
                   "fonte": "tv8"
                 }
@@ -2005,7 +1868,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 117,
+      "totale": 116,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -8157,75 +8020,6 @@
           ]
         },
         {
-          "nome": "Mondiali U17 Qatar",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "Mondiali U17 Qatar: Italia-Giamaica",
-              "categoria": "Calcio",
-              "sottocartella": "Mondiali U17 Qatar",
-              "sport": "Calcio",
-              "competizione": "Mondiali U17 Qatar 2026",
-              "evento": "Italia-Giamaica",
-              "inizio": "2026-11-20T16:00:00+01:00",
-              "data": "20/11/2026",
-              "ora": "16:00",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T16:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Mondiali U17 Qatar: Italia-Costa d’Avorio",
-              "categoria": "Calcio",
-              "sottocartella": "Mondiali U17 Qatar",
-              "sport": "Calcio",
-              "competizione": "Mondiali U17 Qatar 2026",
-              "evento": "Italia-Costa d’Avorio",
-              "inizio": "2026-11-23T15:30:00+01:00",
-              "data": "23/11/2026",
-              "ora": "15:30",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-23T15:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Mondiali U17 Qatar: Uzbekistan-Italia",
-              "categoria": "Calcio",
-              "sottocartella": "Mondiali U17 Qatar",
-              "sport": "Calcio",
-              "competizione": "Mondiali U17 Qatar 2026",
-              "evento": "Uzbekistan-Italia",
-              "inizio": "2026-11-26T15:00:00+01:00",
-              "data": "26/11/2026",
-              "ora": "15:00",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-26T15:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "Bundesliga 2",
           "totale": 2,
           "eventi": [
@@ -8728,6 +8522,54 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-26T01:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Mondiali U17 Qatar",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "Mondiali U17 Qatar: Italia-Costa d’Avorio",
+              "categoria": "Calcio",
+              "sottocartella": "Mondiali U17 Qatar",
+              "sport": "Calcio",
+              "competizione": "Mondiali U17 Qatar 2026",
+              "evento": "Italia-Costa d’Avorio",
+              "inizio": "2026-11-23T15:30:00+01:00",
+              "data": "23/11/2026",
+              "ora": "15:30",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-23T15:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Mondiali U17 Qatar: Uzbekistan-Italia",
+              "categoria": "Calcio",
+              "sottocartella": "Mondiali U17 Qatar",
+              "sport": "Calcio",
+              "competizione": "Mondiali U17 Qatar 2026",
+              "evento": "Uzbekistan-Italia",
+              "inizio": "2026-11-26T15:00:00+01:00",
+              "data": "26/11/2026",
+              "ora": "15:00",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-26T15:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -9701,68 +9543,39 @@
     },
     {
       "nome": "Tennis",
-      "totale": 11,
+      "totale": 9,
       "sottocartelle": [
         {
-          "nome": "ATP Finals Torino",
-          "totale": 10,
+          "nome": "ATP Finals Torino – 3a giornata (Gruppo Lendl)",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "ATP Finals Torino: Singolare: Sessione Diurna",
+              "titolo": "ATP Finals Torino – 3a giornata (Gruppo Lendl): Medvedev-Tiafoe: Medvedev-Tiafoe",
               "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
+              "sottocartella": "ATP Finals Torino – 3a giornata (Gruppo Lendl)",
               "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Singolare: Sessione Diurna",
-              "inizio": "2026-11-20T14:00:00+01:00",
+              "competizione": "ATP Finals Torino 2026 – 3a giornata (Gruppo Lendl)",
+              "evento": "Medvedev-Tiafoe: Medvedev-Tiafoe",
+              "inizio": "2026-11-20T20:30:00+01:00",
               "data": "20/11/2026",
-              "ora": "14:00",
+              "ora": "20:30",
               "canali": [
                 {
-                  "nome": "Sky Sport Tennis",
+                  "nome": "Italia 1",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-20T14:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T14:00",
+                  "orario": "2026-11-20T20:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "ATP Finals Torino: Doppio: Sessione Serale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doppio: Sessione Serale",
-              "inizio": "2026-11-20T18:00:00+01:00",
-              "data": "20/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T18:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "ATP Finals Torino",
+          "totale": 8,
+          "eventi": [
             {
               "titolo": "ATP Finals Torino: Singolare: Sessione Serale",
               "categoria": "Tennis",
@@ -9933,33 +9746,6 @@
                   "numero": "201",
                   "tipo": "diretta",
                   "orario": "2026-11-22T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "ATP Finals Torino – 3a giornata (Gruppo Lendl)",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "ATP Finals Torino – 3a giornata (Gruppo Lendl): Medvedev-Tiafoe: Medvedev-Tiafoe",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino – 3a giornata (Gruppo Lendl)",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026 – 3a giornata (Gruppo Lendl)",
-              "evento": "Medvedev-Tiafoe: Medvedev-Tiafoe",
-              "inizio": "2026-11-20T20:30:00+01:00",
-              "data": "20/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Italia 1",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T20:30",
                   "fonte": "virgilio"
                 }
               ],
