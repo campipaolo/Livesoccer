@@ -1,105 +1,16 @@
 {
-  "aggiornato": "2026-11-20T07:07:39+01:00",
+  "aggiornato": "2026-11-20T12:42:24+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 216,
+  "totale": 212,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 21,
+      "totale": 17,
       "eventi": [
-        {
-          "titolo": "[Motori] Formula 1: Las Vegas Grand Prix - FP2",
-          "categoria": "Motori",
-          "sottocartella": "Formula 1",
-          "sport": "Motori",
-          "competizione": "Formula 1",
-          "evento": "Las Vegas Grand Prix - FP2",
-          "sessione": "prove",
-          "circuito": "Las Vegas Strip Street Circuit, Las Vegas, USA",
-          "inizio": "2026-11-20T05:00:00+01:00",
-          "data": "20/11/2026",
-          "ora": "05:00",
-          "canali": [
-            {
-              "nome": "Sky Sport F1",
-              "numero": "207",
-              "tipo": "diretta",
-              "orario": "2026-11-20T05:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-20T05:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-20T05:00",
-              "fonte": "config"
-            },
-            {
-              "nome": "Sky Sport 4K",
-              "numero": "213",
-              "tipo": "diretta",
-              "orario": "2026-11-20T05:00",
-              "fonte": "config"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Motori] Special Events: Macau GP - FIA Formula 4 World Cup - Quali",
-          "categoria": "Motori",
-          "sottocartella": "Special Events",
-          "sport": "Motori",
-          "competizione": "Special Events",
-          "evento": "Macau GP - FIA Formula 4 World Cup - Quali",
-          "sessione": "qualifiche",
-          "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-          "inizio": "2026-11-20T06:30:00+01:00",
-          "data": "20/11/2026",
-          "ora": "06:30",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Motori] Special Events: Macau GP - FIA Formula Regional World Cup - Quali 2",
-          "categoria": "Motori",
-          "sottocartella": "Special Events",
-          "sport": "Motori",
-          "competizione": "Special Events",
-          "evento": "Macau GP - FIA Formula Regional World Cup - Quali 2",
-          "sessione": "qualifiche",
-          "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-          "inizio": "2026-11-20T07:30:00+01:00",
-          "data": "20/11/2026",
-          "ora": "07:30",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Motori] Special Events: Macau GP - FIA GT World Cup - Quali",
-          "categoria": "Motori",
-          "sottocartella": "Special Events",
-          "sport": "Motori",
-          "competizione": "Special Events",
-          "evento": "Macau GP - FIA GT World Cup - Quali",
-          "sessione": "qualifiche",
-          "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-          "inizio": "2026-11-20T08:40:00+01:00",
-          "data": "20/11/2026",
-          "ora": "08:40",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
         {
           "titolo": "[Tennis] ATP Finals Torino: Doppio: Sessione Diurna",
           "categoria": "Tennis",
@@ -637,56 +548,12 @@
     },
     {
       "nome": "Motori",
-      "totale": 54,
+      "totale": 50,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 14,
+          "totale": 13,
           "eventi": [
-            {
-              "titolo": "Formula 1: Las Vegas Grand Prix - FP2",
-              "categoria": "Motori",
-              "sottocartella": "Formula 1",
-              "sport": "Motori",
-              "competizione": "Formula 1",
-              "evento": "Las Vegas Grand Prix - FP2",
-              "sessione": "prove",
-              "circuito": "Las Vegas Strip Street Circuit, Las Vegas, USA",
-              "inizio": "2026-11-20T05:00:00+01:00",
-              "data": "20/11/2026",
-              "ora": "05:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport F1",
-                  "numero": "207",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T05:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-20T05:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T05:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "Sky Sport 4K",
-                  "numero": "213",
-                  "tipo": "diretta",
-                  "orario": "2026-11-20T05:00",
-                  "fonte": "config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "Formula 1: Las Vegas Grand Prix - FP3",
               "categoria": "Motori",
@@ -2106,53 +1973,8 @@
         },
         {
           "nome": "Special Events",
-          "totale": 10,
+          "totale": 7,
           "eventi": [
-            {
-              "titolo": "Special Events: Macau GP - FIA Formula 4 World Cup - Quali",
-              "categoria": "Motori",
-              "sottocartella": "Special Events",
-              "sport": "Motori",
-              "competizione": "Special Events",
-              "evento": "Macau GP - FIA Formula 4 World Cup - Quali",
-              "sessione": "qualifiche",
-              "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-              "inizio": "2026-11-20T06:30:00+01:00",
-              "data": "20/11/2026",
-              "ora": "06:30",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
-            {
-              "titolo": "Special Events: Macau GP - FIA Formula Regional World Cup - Quali 2",
-              "categoria": "Motori",
-              "sottocartella": "Special Events",
-              "sport": "Motori",
-              "competizione": "Special Events",
-              "evento": "Macau GP - FIA Formula Regional World Cup - Quali 2",
-              "sessione": "qualifiche",
-              "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-              "inizio": "2026-11-20T07:30:00+01:00",
-              "data": "20/11/2026",
-              "ora": "07:30",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
-            {
-              "titolo": "Special Events: Macau GP - FIA GT World Cup - Quali",
-              "categoria": "Motori",
-              "sottocartella": "Special Events",
-              "sport": "Motori",
-              "competizione": "Special Events",
-              "evento": "Macau GP - FIA GT World Cup - Quali",
-              "sessione": "qualifiche",
-              "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-              "inizio": "2026-11-20T08:40:00+01:00",
-              "data": "20/11/2026",
-              "ora": "08:40",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "Special Events: Macau GP - Motorcycle GP - Race",
               "categoria": "Motori",
