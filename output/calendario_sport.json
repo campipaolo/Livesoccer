@@ -1,157 +1,16 @@
 {
-  "aggiornato": "2026-11-21T20:17:35+01:00",
+  "aggiornato": "2026-11-21T21:07:51+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 171,
+  "totale": 167,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 15,
+      "totale": 11,
       "eventi": [
-        {
-          "titolo": "[Altri sport] Nations Championship: Irlanda-Sudafrica",
-          "categoria": "Altri sport",
-          "sottocartella": "Rugby",
-          "sport": "Rugby",
-          "competizione": "Nations Championship",
-          "evento": "Irlanda-Sudafrica",
-          "inizio": "2026-11-21T17:40:00+01:00",
-          "data": "21/11/2026",
-          "ora": "17:40",
-          "canali": [
-            {
-              "nome": "Sky Sport Max",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T17:40",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Altri sport] Nations Championship: Italia-Fiji",
-          "categoria": "Altri sport",
-          "sottocartella": "Rugby",
-          "sport": "Rugby",
-          "competizione": "Nations Championship",
-          "evento": "Italia-Fiji",
-          "inizio": "2026-11-21T17:40:00+01:00",
-          "data": "21/11/2026",
-          "ora": "17:40",
-          "canali": [
-            {
-              "nome": "Cielo",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T17:40",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "diretta",
-              "orario": "2026-11-21T17:40",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T17:40",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-21T17:40",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie A: Parma vs Roma",
-          "categoria": "Calcio",
-          "sottocartella": "Serie A",
-          "sport": "Calcio",
-          "competizione": "Serie A",
-          "evento": "Parma vs Roma",
-          "inizio": "2026-11-21T18:00:00+01:00",
-          "data": "21/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Paramount+",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T18:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "fuboTV",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T18:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Peacock",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T18:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Telemundo Deportes En Vivo",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T18:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "UNIVERSO",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T18:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "DAZN",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Tennis] ATP Finals Torino: Doubles 2a Semifinale",
-          "categoria": "Tennis",
-          "sottocartella": "ATP Finals Torino",
-          "sport": "Tennis",
-          "competizione": "ATP Finals Torino 2026",
-          "evento": "Doubles 2a Semifinale",
-          "inizio": "2026-11-21T18:00:00+01:00",
-          "data": "21/11/2026",
-          "ora": "18:00",
-          "canali": [
-            {
-              "nome": "Sky Sport Tennis",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-21T18:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Bundesliga: Schalke 04-VfB Stoccarda",
           "categoria": "Calcio",
@@ -1641,69 +1500,12 @@
     },
     {
       "nome": "Calcio",
-      "totale": 98,
+      "totale": 97,
       "sottocartelle": [
         {
           "nome": "Serie A",
-          "totale": 9,
+          "totale": 8,
           "eventi": [
-            {
-              "titolo": "Serie A: Parma vs Roma",
-              "categoria": "Calcio",
-              "sottocartella": "Serie A",
-              "sport": "Calcio",
-              "competizione": "Serie A",
-              "evento": "Parma vs Roma",
-              "inizio": "2026-11-21T18:00:00+01:00",
-              "data": "21/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Paramount+",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T18:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "fuboTV",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T18:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Peacock",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T18:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Telemundo Deportes En Vivo",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T18:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "UNIVERSO",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T18:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie A: Napoli vs Torino",
               "categoria": "Calcio",
@@ -4513,33 +4315,12 @@
     },
     {
       "nome": "Tennis",
-      "totale": 5,
+      "totale": 4,
       "sottocartelle": [
         {
           "nome": "ATP Finals Torino",
-          "totale": 5,
+          "totale": 4,
           "eventi": [
-            {
-              "titolo": "ATP Finals Torino: Doubles 2a Semifinale",
-              "categoria": "Tennis",
-              "sottocartella": "ATP Finals Torino",
-              "sport": "Tennis",
-              "competizione": "ATP Finals Torino 2026",
-              "evento": "Doubles 2a Semifinale",
-              "inizio": "2026-11-21T18:00:00+01:00",
-              "data": "21/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Tennis",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T18:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "ATP Finals Torino: Singles 2a Semifinale",
               "categoria": "Tennis",
@@ -5215,75 +4996,39 @@
     },
     {
       "nome": "Altri sport",
-      "totale": 8,
+      "totale": 6,
       "sottocartelle": [
         {
-          "nome": "Rugby",
-          "totale": 4,
+          "nome": "Pallanuoto femminile",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "Nations Championship: Irlanda-Sudafrica",
+              "titolo": "Serie A1: Catania-Roma",
               "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "Nations Championship",
-              "evento": "Irlanda-Sudafrica",
-              "inizio": "2026-11-21T17:40:00+01:00",
+              "sottocartella": "Pallanuoto femminile",
+              "sport": "Pallanuoto femminile",
+              "competizione": "Serie A1",
+              "evento": "Catania-Roma",
+              "inizio": "2026-11-21T19:00:00+01:00",
               "data": "21/11/2026",
-              "ora": "17:40",
+              "ora": "19:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Max",
+                  "nome": "Rai Sport",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-21T17:40",
+                  "orario": "2026-11-21T19:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Nations Championship: Italia-Fiji",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "Nations Championship",
-              "evento": "Italia-Fiji",
-              "inizio": "2026-11-21T17:40:00+01:00",
-              "data": "21/11/2026",
-              "ora": "17:40",
-              "canali": [
-                {
-                  "nome": "Cielo",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T17:40",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T17:40",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Arena",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T17:40",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T17:40",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "Rugby",
+          "totale": 2,
+          "eventi": [
             {
               "titolo": "Nations Championship: Francia-Argentina",
               "categoria": "Altri sport",
@@ -5321,33 +5066,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-21T21:10",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Pallanuoto femminile",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Serie A1: Catania-Roma",
-              "categoria": "Altri sport",
-              "sottocartella": "Pallanuoto femminile",
-              "sport": "Pallanuoto femminile",
-              "competizione": "Serie A1",
-              "evento": "Catania-Roma",
-              "inizio": "2026-11-21T19:00:00+01:00",
-              "data": "21/11/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-21T19:00",
                   "fonte": "virgilio"
                 }
               ],
