@@ -1,60 +1,16 @@
 {
-  "aggiornato": "2026-11-22T08:51:22+01:00",
+  "aggiornato": "2026-11-22T12:27:25+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 178,
+  "totale": 176,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 37,
+      "totale": 35,
       "eventi": [
-        {
-          "titolo": "[Calcio] Serie B: Catanzaro vs Palermo",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Catanzaro vs Palermo",
-          "inizio": "2026-11-22T07:30:00+01:00",
-          "data": "22/11/2026",
-          "ora": "07:30",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-22T07:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-22T07:30",
-              "fonte": "livesoccer"
-            }
-          ],
-          "canali_mondo": [],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Motori] Special Events: Macau GP - FIA Formula Regional World Cup - Main Race",
-          "categoria": "Motori",
-          "sottocartella": "Special Events",
-          "sport": "Motori",
-          "competizione": "Special Events",
-          "evento": "Macau GP - FIA Formula Regional World Cup - Main Race",
-          "sessione": "gara",
-          "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-          "inizio": "2026-11-22T08:30:00+01:00",
-          "data": "22/11/2026",
-          "ora": "08:30",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
         {
           "titolo": "[Motori] MotoGP: Portuguese Grand Prix - Warm Up",
           "categoria": "Motori",
@@ -6075,7 +6031,7 @@
     },
     {
       "nome": "Motori",
-      "totale": 33,
+      "totale": 32,
       "sottocartelle": [
         {
           "nome": "Formula 1",
@@ -7102,33 +7058,12 @@
               "fonte": "Fuori Traiettoria"
             }
           ]
-        },
-        {
-          "nome": "Special Events",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "Special Events: Macau GP - FIA Formula Regional World Cup - Main Race",
-              "categoria": "Motori",
-              "sottocartella": "Special Events",
-              "sport": "Motori",
-              "competizione": "Special Events",
-              "evento": "Macau GP - FIA Formula Regional World Cup - Main Race",
-              "sessione": "gara",
-              "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-              "inizio": "2026-11-22T08:30:00+01:00",
-              "data": "22/11/2026",
-              "ora": "08:30",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            }
-          ]
         }
       ]
     },
     {
       "nome": "Calcio",
-      "totale": 112,
+      "totale": 111,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -13341,37 +13276,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 24,
+          "totale": 23,
           "eventi": [
-            {
-              "titolo": "Serie B: Catanzaro vs Palermo",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Catanzaro vs Palermo",
-              "inizio": "2026-11-22T07:30:00+01:00",
-              "data": "22/11/2026",
-              "ora": "07:30",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-22T07:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-22T07:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie B: Avellino vs Mantova",
               "categoria": "Calcio",
