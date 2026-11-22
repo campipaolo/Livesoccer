@@ -1,97 +1,16 @@
 {
-  "aggiornato": "2026-11-22T01:16:45+01:00",
+  "aggiornato": "2026-11-22T08:51:22+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 181,
+  "totale": 178,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 40,
+      "totale": 37,
       "eventi": [
-        {
-          "titolo": "[Motori] Special Events: Macau GP - FIA Formula 4 World Cup - Main Race",
-          "categoria": "Motori",
-          "sottocartella": "Special Events",
-          "sport": "Motori",
-          "competizione": "Special Events",
-          "evento": "Macau GP - FIA Formula 4 World Cup - Main Race",
-          "sessione": "gara",
-          "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-          "inizio": "2026-11-22T02:15:00+01:00",
-          "data": "22/11/2026",
-          "ora": "02:15",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Motori] Formula 1: Las Vegas Grand Prix - Gara",
-          "categoria": "Motori",
-          "sottocartella": "Formula 1",
-          "sport": "Motori",
-          "competizione": "Formula 1",
-          "evento": "Las Vegas Grand Prix - Gara",
-          "sessione": "gara",
-          "circuito": "Las Vegas Strip Street Circuit, Las Vegas, USA",
-          "inizio": "2026-11-22T05:00:00+01:00",
-          "data": "22/11/2026",
-          "ora": "05:00",
-          "canali": [
-            {
-              "nome": "Sky Sport F1",
-              "numero": "207",
-              "tipo": "diretta",
-              "orario": "2026-11-22T05:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "NOW",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-22T05:00",
-              "fonte": "dizzle+config"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-22T05:00",
-              "fonte": "config"
-            },
-            {
-              "nome": "Sky Sport 4K",
-              "numero": "213",
-              "tipo": "diretta",
-              "orario": "2026-11-22T05:00",
-              "fonte": "config"
-            },
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "differita",
-              "orario": "2026-11-22T17:10",
-              "fonte": "config+tv8"
-            }
-          ],
-          "fonte": "Dizzle0987/motorsport-calendar"
-        },
-        {
-          "titolo": "[Motori] Special Events: Macau GP - FIA GT World Cup - Main Race",
-          "categoria": "Motori",
-          "sottocartella": "Special Events",
-          "sport": "Motori",
-          "competizione": "Special Events",
-          "evento": "Macau GP - FIA GT World Cup - Main Race",
-          "sessione": "gara",
-          "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-          "inizio": "2026-11-22T05:35:00+01:00",
-          "data": "22/11/2026",
-          "ora": "05:35",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
         {
           "titolo": "[Calcio] Serie B: Catanzaro vs Palermo",
           "categoria": "Calcio",
@@ -118,66 +37,7 @@
               "fonte": "livesoccer"
             }
           ],
-          "canali_mondo": [
-            {
-              "paese": "Gran Bretagna",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Irlanda",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Israele",
-              "canali": [
-                "5 Live"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            },
-            {
-              "paese": "USA",
-              "canali": [
-                "DCTV"
-              ]
-            }
-          ],
+          "canali_mondo": [],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -810,6 +670,7 @@
               "paese": "Kosovo",
               "canali": [
                 "ART Sport 1",
+                "ArtMotion",
                 "Arena 2 Premium"
               ]
             },
@@ -1309,7 +1170,8 @@
               "paese": "Venezuela",
               "canali": [
                 "ESPN Colombia",
-                "Disney+ Premium Sur"
+                "Disney+ Premium Sur",
+                "inter"
               ]
             },
             {
@@ -2228,7 +2090,8 @@
             {
               "paese": "Kosovo",
               "canali": [
-                "ART Sport 4"
+                "ART Sport 4",
+                "ArtMotion"
               ]
             },
             {
@@ -3182,7 +3045,8 @@
             {
               "paese": "Kosovo",
               "canali": [
-                "ART Sport 1"
+                "ART Sport 1",
+                "ArtMotion"
               ]
             },
             {
@@ -3599,7 +3463,8 @@
               "paese": "Venezuela",
               "canali": [
                 "ESPN 4 Sur",
-                "Disney+ Premium Sur"
+                "Disney+ Premium Sur",
+                "inter"
               ]
             },
             {
@@ -3631,13 +3496,6 @@
           "ora": "15:00",
           "canali": [
             {
-              "nome": "Onefootball",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-22T15:00",
-              "fonte": "livesoccer"
-            },
-            {
               "nome": "DAZN Italia",
               "numero": "",
               "tipo": "streaming",
@@ -3659,7 +3517,28 @@
               "fonte": "virgilio"
             }
           ],
-          "canali_mondo": [],
+          "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -4401,6 +4280,7 @@
               "paese": "Kosovo",
               "canali": [
                 "ART Sport 1",
+                "ArtMotion",
                 "Arena 2 Premium"
               ]
             },
@@ -5599,6 +5479,7 @@
               "paese": "Kosovo",
               "canali": [
                 "ART Sport 1",
+                "ArtMotion",
                 "Arena 2 Premium"
               ]
             },
@@ -6142,7 +6023,8 @@
               "paese": "Venezuela",
               "canali": [
                 "ESPN2 Colombia",
-                "Disney+ Premium Sur"
+                "Disney+ Premium Sur",
+                "inter"
               ]
             },
             {
@@ -6193,63 +6075,12 @@
     },
     {
       "nome": "Motori",
-      "totale": 36,
+      "totale": 33,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 11,
+          "totale": 10,
           "eventi": [
-            {
-              "titolo": "Formula 1: Las Vegas Grand Prix - Gara",
-              "categoria": "Motori",
-              "sottocartella": "Formula 1",
-              "sport": "Motori",
-              "competizione": "Formula 1",
-              "evento": "Las Vegas Grand Prix - Gara",
-              "sessione": "gara",
-              "circuito": "Las Vegas Strip Street Circuit, Las Vegas, USA",
-              "inizio": "2026-11-22T05:00:00+01:00",
-              "data": "22/11/2026",
-              "ora": "05:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport F1",
-                  "numero": "207",
-                  "tipo": "diretta",
-                  "orario": "2026-11-22T05:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-22T05:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-22T05:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "Sky Sport 4K",
-                  "numero": "213",
-                  "tipo": "diretta",
-                  "orario": "2026-11-22T05:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "TV8",
-                  "numero": "8",
-                  "tipo": "differita",
-                  "orario": "2026-11-22T17:10",
-                  "fonte": "config+tv8"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "Formula 1: Qatar Grand Prix - FP1",
               "categoria": "Motori",
@@ -7274,38 +7105,8 @@
         },
         {
           "nome": "Special Events",
-          "totale": 3,
+          "totale": 1,
           "eventi": [
-            {
-              "titolo": "Special Events: Macau GP - FIA Formula 4 World Cup - Main Race",
-              "categoria": "Motori",
-              "sottocartella": "Special Events",
-              "sport": "Motori",
-              "competizione": "Special Events",
-              "evento": "Macau GP - FIA Formula 4 World Cup - Main Race",
-              "sessione": "gara",
-              "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-              "inizio": "2026-11-22T02:15:00+01:00",
-              "data": "22/11/2026",
-              "ora": "02:15",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
-            {
-              "titolo": "Special Events: Macau GP - FIA GT World Cup - Main Race",
-              "categoria": "Motori",
-              "sottocartella": "Special Events",
-              "sport": "Motori",
-              "competizione": "Special Events",
-              "evento": "Macau GP - FIA GT World Cup - Main Race",
-              "sessione": "gara",
-              "circuito": "Guia Circuit, 207 Avenida da Amizade, Macao",
-              "inizio": "2026-11-22T05:35:00+01:00",
-              "data": "22/11/2026",
-              "ora": "05:35",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "Special Events: Macau GP - FIA Formula Regional World Cup - Main Race",
               "categoria": "Motori",
@@ -7845,6 +7646,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "ART Sport 1",
+                    "ArtMotion",
                     "Arena 2 Premium"
                   ]
                 },
@@ -8344,7 +8146,8 @@
                   "paese": "Venezuela",
                   "canali": [
                     "ESPN Colombia",
-                    "Disney+ Premium Sur"
+                    "Disney+ Premium Sur",
+                    "inter"
                   ]
                 },
                 {
@@ -8849,7 +8652,8 @@
                 {
                   "paese": "Kosovo",
                   "canali": [
-                    "ART Sport 4"
+                    "ART Sport 4",
+                    "ArtMotion"
                   ]
                 },
                 {
@@ -9782,7 +9586,8 @@
                 {
                   "paese": "Kosovo",
                   "canali": [
-                    "ART Sport 1"
+                    "ART Sport 1",
+                    "ArtMotion"
                   ]
                 },
                 {
@@ -10199,7 +10004,8 @@
                   "paese": "Venezuela",
                   "canali": [
                     "ESPN 4 Sur",
-                    "Disney+ Premium Sur"
+                    "Disney+ Premium Sur",
+                    "inter"
                   ]
                 },
                 {
@@ -10747,6 +10553,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "ART Sport 1",
+                    "ArtMotion",
                     "Arena 2 Premium"
                   ]
                 },
@@ -11833,6 +11640,7 @@
                   "paese": "Kosovo",
                   "canali": [
                     "ART Sport 1",
+                    "ArtMotion",
                     "Arena 2 Premium"
                   ]
                 },
@@ -12376,7 +12184,8 @@
                   "paese": "Venezuela",
                   "canali": [
                     "ESPN2 Colombia",
-                    "Disney+ Premium Sur"
+                    "Disney+ Premium Sur",
+                    "inter"
                   ]
                 },
                 {
@@ -12927,6 +12736,7 @@
                   "canali": [
                     "Tring Sport 2",
                     "ART Sport 2",
+                    "ArtMotion",
                     "Arena 3 Premium",
                     "TV Vala Kosovo Telecom"
                   ]
@@ -13168,6 +12978,7 @@
                   "paese": "Russia",
                   "canali": [
                     "Sportbox.ru",
+                    "Матч!",
                     "Матч! Футбол 1",
                     "matchtv.ru"
                   ]
@@ -13386,7 +13197,8 @@
                   "paese": "Venezuela",
                   "canali": [
                     "ESPN 4 Sur",
-                    "Disney+ Premium Sur"
+                    "Disney+ Premium Sur",
+                    "inter"
                   ]
                 },
                 {
@@ -13557,66 +13369,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5 Live"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "DCTV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -13630,13 +13383,6 @@
               "data": "22/11/2026",
               "ora": "15:00",
               "canali": [
-                {
-                  "nome": "Onefootball",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-22T15:00",
-                  "fonte": "livesoccer"
-                },
                 {
                   "nome": "DAZN Italia",
                   "numero": "",
@@ -13659,7 +13405,28 @@
                   "fonte": "virgilio"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -13825,80 +13592,28 @@
               "ora": "08:30",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-11-24T08:30",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-24T08:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-24T08:30",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5 Live"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "DCTV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -13927,7 +13642,72 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Brasile",
+                  "canali": [
+                    "SportyNet"
+                  ]
+                },
+                {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "Sport 5max"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 4 Live"
+                  ]
+                },
+                {
+                  "paese": "Russia",
+                  "canali": [
+                    "Телеканал Футбол"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 4 Live"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "DCTV"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14194,44 +13974,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -14388,28 +14131,64 @@
               "ora": "11:30",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
                   "numero": "",
-                  "tipo": "diretta",
+                  "tipo": "streaming",
                   "orario": "2026-11-26T11:30",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "fuboTV",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-26T11:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "FOX One",
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-26T11:30",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [],
+              "canali_mondo": [
+                {
+                  "paese": "Israele",
+                  "canali": [
+                    "5Stars"
+                  ]
+                },
+                {
+                  "paese": "Italia",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Liechtenstein",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 10 Live"
+                  ]
+                },
+                {
+                  "paese": "San Marino",
+                  "canali": [
+                    "DAZN Italia",
+                    "LAB Channel"
+                  ]
+                },
+                {
+                  "paese": "Svizzera",
+                  "canali": [
+                    "Blue Sport",
+                    "Blue Sport 10 Live"
+                  ]
+                },
+                {
+                  "paese": "USA",
+                  "canali": [
+                    "Fox Soccer Plus",
+                    "fuboTV",
+                    "FOX One"
+                  ]
+                }
+              ],
               "fonte": "LiveSoccerTV"
             },
             {
