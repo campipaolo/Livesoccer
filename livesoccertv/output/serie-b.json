@@ -14,17 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR red]07:30[/COLOR] Catanzaro vs Palermo [COLOR red]LIVE[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-catanzaro/6nopm#5835599"
-    },
-    {
-      "title": "[COLOR yellow]15:00[/COLOR] Avellino vs Mantova",
+      "title": "[COLOR gray]15:00[/COLOR] Avellino vs Mantova [COLOR gray]4:1[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -34,7 +24,7 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/mantova-vs-avellino/8ntkc#5742578"
     },
     {
-      "title": "[COLOR yellow]17:15[/COLOR] Arezzo vs Calcio Padova",
+      "title": "[COLOR gray]17:15[/COLOR] Arezzo vs Calcio Padova [COLOR gray]1:1[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -54,10 +44,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/empoli-vs-pisa/8o61v#5837476"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/empoli-vs-pisa/8o61v#5837476"
     },
     {
       "title": "[COLOR cyan]Martedi 24 Novembre[/COLOR]",
@@ -70,11 +61,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/palermo-vs-catanzaro/6nopm#5837488"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-catanzaro/6nopm#5837488"
     },
     {
       "title": "[COLOR yellow]10:30[/COLOR] Empoli vs Pisa",
@@ -117,6 +107,26 @@
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-ascoli/4okcj#5742587"
     },
     {
+      "title": "[COLOR yellow]20:00[/COLOR] Palermo vs Südtirol",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-sudtirol/6kcpd#5742594"
+    },
+    {
+      "title": "[COLOR yellow]20:00[/COLOR] Vicenza vs Carrarese",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/vicenza-vs-carrarese/8r2ef#5742591"
+    },
+    {
       "title": "[COLOR cyan]Mercoledi 25 Novembre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
@@ -157,6 +167,38 @@
         "LAB Channel"
       ],
       "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/avellino-vs-cremonese/dwicn#5838941"
+    },
+    {
+      "title": "[COLOR cyan]Sabato 28 Novembre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]11:00[/COLOR] Pisa vs Modena",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-pisa/8oqvq#5839885"
+    },
+    {
+      "title": "[COLOR cyan]Domenica 29 Novembre[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "info": ""
+    },
+    {
+      "title": "[COLOR yellow]02:30[/COLOR] Empoli vs Verona",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "DAZN Italia",
+        "LAB Channel"
+      ],
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/empoli-vs-verona/66gdm#5839890"
     }
   ]
 }
