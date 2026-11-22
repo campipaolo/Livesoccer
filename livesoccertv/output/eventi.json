@@ -9,66 +9,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Gran Bretagna",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Irlanda",
-          "canali": [
-            "DCTV"
-          ]
-        },
-        {
-          "paese": "Israele",
-          "canali": [
-            "5 Live"
-          ]
-        },
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "Russia",
-          "canali": [
-            "Телеканал Футбол"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 2 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "DCTV"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie A",
@@ -558,6 +499,7 @@
           "paese": "Kosovo",
           "canali": [
             "ART Sport 1",
+            "ArtMotion",
             "Arena 2 Premium"
           ]
         },
@@ -1057,7 +999,8 @@
           "paese": "Venezuela",
           "canali": [
             "ESPN Colombia",
-            "Disney+ Premium Sur"
+            "Disney+ Premium Sur",
+            "inter"
           ]
         },
         {
@@ -1688,7 +1631,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "ART Sport 4"
+            "ART Sport 4",
+            "ArtMotion"
           ]
         },
         {
@@ -2596,7 +2540,8 @@
         {
           "paese": "Kosovo",
           "canali": [
-            "ART Sport 1"
+            "ART Sport 1",
+            "ArtMotion"
           ]
         },
         {
@@ -3013,7 +2958,8 @@
           "paese": "Venezuela",
           "canali": [
             "ESPN 4 Sur",
-            "Disney+ Premium Sur"
+            "Disney+ Premium Sur",
+            "inter"
           ]
         },
         {
@@ -3038,11 +2984,31 @@
       "data": "2026-11-22",
       "ora": "15:00",
       "canali": [
-        "Onefootball",
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Internazionale",
+          "canali": [
+            "Onefootball"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        }
+      ]
     },
     {
       "competizione": "Serie B",
@@ -3562,6 +3528,7 @@
           "paese": "Kosovo",
           "canali": [
             "ART Sport 1",
+            "ArtMotion",
             "Arena 2 Premium"
           ]
         },
@@ -4623,6 +4590,7 @@
           "paese": "Kosovo",
           "canali": [
             "ART Sport 1",
+            "ArtMotion",
             "Arena 2 Premium"
           ]
         },
@@ -5166,7 +5134,8 @@
           "paese": "Venezuela",
           "canali": [
             "ESPN2 Colombia",
-            "Disney+ Premium Sur"
+            "Disney+ Premium Sur",
+            "inter"
           ]
         },
         {
@@ -5750,6 +5719,7 @@
           "canali": [
             "Tring Sport 2",
             "ART Sport 2",
+            "ArtMotion",
             "Arena 3 Premium",
             "TV Vala Kosovo Telecom"
           ]
@@ -5991,6 +5961,7 @@
           "paese": "Russia",
           "canali": [
             "Sportbox.ru",
+            "Матч!",
             "Матч! Футбол 1",
             "matchtv.ru"
           ]
@@ -6209,7 +6180,8 @@
           "paese": "Venezuela",
           "canali": [
             "ESPN 4 Sur",
-            "Disney+ Premium Sur"
+            "Disney+ Premium Sur",
+            "inter"
           ]
         },
         {
@@ -6234,10 +6206,28 @@
       "data": "2026-11-24",
       "ora": "08:30",
       "canali": [
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
+      ],
+      "canali_mondo": []
+    },
+    {
+      "competizione": "Serie B",
+      "titolo": "Empoli vs Pisa",
+      "data": "2026-11-24",
+      "ora": "10:30",
+      "canali": [
         "DAZN Italia",
         "LAB Channel"
       ],
       "canali_mondo": [
+        {
+          "paese": "Brasile",
+          "canali": [
+            "SportyNet"
+          ]
+        },
         {
           "paese": "Gran Bretagna",
           "canali": [
@@ -6253,7 +6243,7 @@
         {
           "paese": "Israele",
           "canali": [
-            "5 Live"
+            "Sport 5max"
           ]
         },
         {
@@ -6267,7 +6257,7 @@
           "paese": "Liechtenstein",
           "canali": [
             "Blue Sport",
-            "Blue Sport 2 Live"
+            "Blue Sport 4 Live"
           ]
         },
         {
@@ -6287,7 +6277,7 @@
           "paese": "Svizzera",
           "canali": [
             "Blue Sport",
-            "Blue Sport 2 Live"
+            "Blue Sport 4 Live"
           ]
         },
         {
@@ -6297,17 +6287,6 @@
           ]
         }
       ]
-    },
-    {
-      "competizione": "Serie B",
-      "titolo": "Empoli vs Pisa",
-      "data": "2026-11-24",
-      "ora": "10:30",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -6418,44 +6397,7 @@
         "DAZN Italia",
         "LAB Channel"
       ],
-      "canali_mondo": [
-        {
-          "paese": "Italia",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Liechtenstein",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 11 Live"
-          ]
-        },
-        {
-          "paese": "San Marino",
-          "canali": [
-            "DAZN Italia",
-            "LAB Channel"
-          ]
-        },
-        {
-          "paese": "Svizzera",
-          "canali": [
-            "Blue Sport",
-            "Blue Sport 11 Live"
-          ]
-        },
-        {
-          "paese": "USA",
-          "canali": [
-            "Fox Soccer Plus",
-            "fuboTV",
-            "FOX One"
-          ]
-        }
-      ]
+      "canali_mondo": []
     },
     {
       "competizione": "Serie B",
@@ -6503,11 +6445,53 @@
       "data": "2026-11-26",
       "ora": "11:30",
       "canali": [
-        "Fox Soccer Plus",
-        "fuboTV",
-        "FOX One"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "canali_mondo": []
+      "canali_mondo": [
+        {
+          "paese": "Israele",
+          "canali": [
+            "5Stars"
+          ]
+        },
+        {
+          "paese": "Italia",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Liechtenstein",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 10 Live"
+          ]
+        },
+        {
+          "paese": "San Marino",
+          "canali": [
+            "DAZN Italia",
+            "LAB Channel"
+          ]
+        },
+        {
+          "paese": "Svizzera",
+          "canali": [
+            "Blue Sport",
+            "Blue Sport 10 Live"
+          ]
+        },
+        {
+          "paese": "USA",
+          "canali": [
+            "Fox Soccer Plus",
+            "fuboTV",
+            "FOX One"
+          ]
+        }
+      ]
     }
   ]
 }
