@@ -1,199 +1,57 @@
 {
-  "aggiornato": "2026-11-24T21:09:17+01:00",
+  "aggiornato": "2026-11-25T00:54:47+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 157,
+  "totale": 142,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 18,
+      "totale": 25,
       "eventi": [
         {
-          "titolo": "[Calcio] UEFA Champions League: Bodo Glimt-LASK",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Bodo Glimt-LASK",
-          "inizio": "2026-11-24T18:45:00+01:00",
-          "data": "24/11/2026",
-          "ora": "18:45",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T18:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] UEFA Champions League: Galatasaray-Aston Villa",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Galatasaray-Aston Villa",
-          "inizio": "2026-11-24T18:45:00+01:00",
-          "data": "24/11/2026",
-          "ora": "18:45",
-          "canali": [
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T18:45",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T18:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Basket] Eurolega: Stella Rossa-Virtus Bologna",
+          "titolo": "[Basket] NBA: Washington Wizards-Boston Celtics",
           "categoria": "Basket",
-          "sottocartella": "Eurolega",
+          "sottocartella": "NBA",
           "sport": "Basket",
-          "competizione": "Eurolega",
-          "evento": "Stella Rossa-Virtus Bologna",
-          "inizio": "2026-11-24T19:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "19:00",
+          "competizione": "NBA",
+          "evento": "Washington Wizards-Boston Celtics",
+          "inizio": "2026-11-25T02:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "02:00",
           "canali": [
             {
-              "nome": "Sky Sport Max",
-              "numero": "",
+              "nome": "Sky Sport 1",
+              "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-24T19:00",
+              "orario": "2026-11-25T02:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Serie B: Juve Stabia vs Catanzaro",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Juve Stabia vs Catanzaro",
-          "inizio": "2026-11-24T19:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "19:00",
+          "titolo": "[Basket] NBA: Denver Nuggets-Dallas Mavericks",
+          "categoria": "Basket",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "Denver Nuggets-Dallas Mavericks",
+          "inizio": "2026-11-25T04:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "04:00",
           "canali": [
             {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-24T19:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
+              "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T19:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "DAZN",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T19:00",
+              "orario": "2026-11-25T04:00",
               "fonte": "virgilio"
             }
           ],
-          "canali_mondo": [
-            {
-              "paese": "Internazionale",
-              "canali": [
-                "Onefootball"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Benevento vs Empoli",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Benevento vs Empoli",
-          "inizio": "2026-11-24T20:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "20:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-24T20:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "DAZN",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Internazionale",
-              "canali": [
-                "Onefootball"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
+          "fonte": "Virgilio Sport"
         },
         {
           "titolo": "[Calcio] Serie B: Cesena vs Ascoli",
@@ -202,425 +60,609 @@
           "sport": "Calcio",
           "competizione": "Serie B",
           "evento": "Cesena vs Ascoli",
-          "inizio": "2026-11-24T20:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "20:00",
+          "inizio": "2026-11-25T12:30:00+01:00",
+          "data": "25/11/2026",
+          "ora": "12:30",
           "canali": [
             {
-              "nome": "DAZN Italia",
+              "nome": "Fox Soccer Plus",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "fuboTV",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T12:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "FOX One",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T12:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Audace Cerignola vs Inter II",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Audace Cerignola vs Inter II",
+          "inizio": "2026-11-25T14:30:00+01:00",
+          "data": "25/11/2026",
+          "ora": "14:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 251",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-11-24T20:00",
+              "orario": "2026-11-25T14:30",
               "fonte": "livesoccer"
             },
             {
-              "nome": "LAB Channel",
+              "nome": "Sky Sport Uno",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
+              "orario": "2026-11-25T14:30",
               "fonte": "livesoccer"
             },
             {
-              "nome": "DAZN",
+              "nome": "NOW TV",
               "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-25T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
               "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
+              "orario": "2026-11-25T14:30",
               "fonte": "virgilio"
             }
           ],
           "canali_mondo": [
             {
-              "paese": "Gran Bretagna",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Irlanda",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
               "paese": "Italia",
               "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 11 Live"
+                "Sky Sport 251",
+                "SKY Go Italia",
+                "Sky Sport Uno",
+                "NOW TV"
               ]
             },
             {
               "paese": "San Marino",
               "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 11 Live"
-              ]
-            },
-            {
-              "paese": "USA",
-              "canali": [
-                "Fox Soccer Plus",
-                "fuboTV",
-                "DCTV",
-                "FOX One"
+                "Sky Sport 251",
+                "SKY Go Italia",
+                "Sky Sport Uno",
+                "NOW TV"
               ]
             }
           ],
           "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] Serie B: Palermo vs Südtirol",
+          "titolo": "[Calcio] UEFA Youth League: PSG-Roma",
           "categoria": "Calcio",
-          "sottocartella": "Serie B",
+          "sottocartella": "UEFA Youth League",
           "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Palermo vs Südtirol",
-          "inizio": "2026-11-24T20:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "20:00",
+          "competizione": "UEFA Youth League",
+          "evento": "PSG-Roma",
+          "inizio": "2026-11-25T16:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "16:00",
           "canali": [
             {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-24T20:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
+              "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "DAZN",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Internazionale",
-              "canali": [
-                "Onefootball"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Vicenza vs Carrarese",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Vicenza vs Carrarese",
-          "inizio": "2026-11-24T20:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "20:00",
-          "canali": [
-            {
-              "nome": "DAZN Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-24T20:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "LAB Channel",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "DAZN",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Internazionale",
-              "canali": [
-                "Onefootball"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Calcio] Serie B: Virtus Entella-Hellas Verona",
-          "categoria": "Calcio",
-          "sottocartella": "Serie B",
-          "sport": "Calcio",
-          "competizione": "Serie B",
-          "evento": "Virtus Entella-Hellas Verona",
-          "inizio": "2026-11-24T20:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "20:00",
-          "canali": [
-            {
-              "nome": "DAZN",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T20:00",
+              "orario": "2026-11-25T16:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Serie A2: Torino-Caserta",
-          "categoria": "Basket",
-          "sottocartella": "Serie A2",
-          "sport": "Basket",
-          "competizione": "Serie A2",
-          "evento": "Torino-Caserta",
-          "inizio": "2026-11-24T20:30:00+01:00",
-          "data": "24/11/2026",
-          "ora": "20:30",
+          "titolo": "[Tennis] Coppa Davis: Italia-Corea del Sud",
+          "categoria": "Tennis",
+          "sottocartella": "Coppa Davis",
+          "sport": "Tennis",
+          "competizione": "Coppa Davis 2026",
+          "evento": "Italia-Corea del Sud",
+          "inizio": "2026-11-25T16:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "16:00",
           "canali": [
             {
-              "nome": "Rai Sport",
+              "nome": "SuperTennis",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T20:30",
+              "orario": "2026-11-25T16:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Eurolega: Lyon Villeurbanne-Olimpia Milano",
+          "titolo": "[Basket] Eurolega: Dubai Basketball-Partizan Belgrado",
           "categoria": "Basket",
           "sottocartella": "Eurolega",
           "sport": "Basket",
           "competizione": "Eurolega",
-          "evento": "Lyon Villeurbanne-Olimpia Milano",
-          "inizio": "2026-11-24T20:45:00+01:00",
-          "data": "24/11/2026",
-          "ora": "20:45",
+          "evento": "Dubai Basketball-Partizan Belgrado",
+          "inizio": "2026-11-25T17:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "17:00",
           "canali": [
             {
               "nome": "Sky Sport Basket",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T20:45",
+              "orario": "2026-11-25T17:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Arsenal-Borussia Dortmund",
+          "titolo": "[Calcio] Serie C: Atalanta II vs Pineto",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Atalanta II vs Pineto",
+          "inizio": "2026-11-25T18:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 255",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-25T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-25T18:00",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 255",
+                "SKY Go Italia",
+                "Sky Sport Max",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 255",
+                "SKY Go Italia",
+                "Sky Sport Max",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Sabah-Barcellona",
           "categoria": "Calcio",
           "sottocartella": "UEFA Champions League",
           "sport": "Calcio",
           "competizione": "UEFA Champions League",
-          "evento": "Arsenal-Borussia Dortmund",
-          "inizio": "2026-11-24T21:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "21:00",
+          "evento": "Sabah-Barcellona",
+          "inizio": "2026-11-25T18:45:00+01:00",
+          "data": "25/11/2026",
+          "ora": "18:45",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T18:45",
               "fonte": "virgilio"
             },
             {
               "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T18:45",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Como-AEK Atene",
+          "titolo": "[Calcio] UEFA Champions League: Slavia Praga-Villarreal",
           "categoria": "Calcio",
           "sottocartella": "UEFA Champions League",
           "sport": "Calcio",
           "competizione": "UEFA Champions League",
-          "evento": "Como-AEK Atene",
-          "inizio": "2026-11-24T21:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "21:00",
+          "evento": "Slavia Praga-Villarreal",
+          "inizio": "2026-11-25T18:45:00+01:00",
+          "data": "25/11/2026",
+          "ora": "18:45",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T18:45",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Feyenoord-Porto",
+          "titolo": "[Calcio] Serie B: Cremonese-Avellino",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "Serie B",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Feyenoord-Porto",
-          "inizio": "2026-11-24T21:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "21:00",
+          "competizione": "Serie B",
+          "evento": "Cremonese-Avellino",
+          "inizio": "2026-11-25T19:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "19:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "DAZN",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T19:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Lipsia-Lens",
-          "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
-          "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Lipsia-Lens",
-          "inizio": "2026-11-24T21:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "21:00",
+          "titolo": "[Altri sport] Serie A1: Savona-Brescia",
+          "categoria": "Altri sport",
+          "sottocartella": "Pallanuoto maschile",
+          "sport": "Pallanuoto maschile",
+          "competizione": "Serie A1",
+          "evento": "Savona-Brescia",
+          "inizio": "2026-11-25T20:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "20:00",
           "canali": [
             {
-              "nome": "Sky",
+              "nome": "Rai Sport",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T20:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Manchester City-Napoli",
+          "titolo": "[Calcio] Serie B: Mantova-Arezzo",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "Serie B",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Manchester City-Napoli",
-          "inizio": "2026-11-24T21:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "21:00",
+          "competizione": "Serie B",
+          "evento": "Mantova-Arezzo",
+          "inizio": "2026-11-25T20:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "20:00",
           "canali": [
             {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky",
+              "nome": "DAZN",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T20:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Real Madrid-Psv",
+          "titolo": "[Calcio] Serie B: Padova-Sampdoria",
           "categoria": "Calcio",
-          "sottocartella": "UEFA Champions League",
+          "sottocartella": "Serie B",
           "sport": "Calcio",
-          "competizione": "UEFA Champions League",
-          "evento": "Real Madrid-Psv",
-          "inizio": "2026-11-24T21:00:00+01:00",
-          "data": "24/11/2026",
-          "ora": "21:00",
+          "competizione": "Serie B",
+          "evento": "Padova-Sampdoria",
+          "inizio": "2026-11-25T20:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Pisa-Modena",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Pisa-Modena",
+          "inizio": "2026-11-25T20:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Volley] CEV Champions League: Milano-Levalloois Paris",
+          "categoria": "Volley",
+          "sottocartella": "CEV Champions League femminile",
+          "sport": "Pallavolo femminile",
+          "competizione": "CEV Champions League",
+          "evento": "Milano-Levalloois Paris",
+          "inizio": "2026-11-25T20:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "20:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T20:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] Eurolega: Olympiacos-Hapoel Tel Aviv",
+          "categoria": "Basket",
+          "sottocartella": "Eurolega",
+          "sport": "Basket",
+          "competizione": "Eurolega",
+          "evento": "Olympiacos-Hapoel Tel Aviv",
+          "inizio": "2026-11-25T20:15:00+01:00",
+          "data": "25/11/2026",
+          "ora": "20:15",
           "canali": [
             {
               "nome": "Sky Sport Mix",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T20:15",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] UEFA Champions League: Slovan-Real Betis",
+          "titolo": "[Calcio] UEFA Champions League: Atletico Madrid-Viking",
           "categoria": "Calcio",
           "sottocartella": "UEFA Champions League",
           "sport": "Calcio",
           "competizione": "UEFA Champions League",
-          "evento": "Slovan-Real Betis",
-          "inizio": "2026-11-24T21:00:00+01:00",
-          "data": "24/11/2026",
+          "evento": "Atletico Madrid-Viking",
+          "inizio": "2026-11-25T21:00:00+01:00",
+          "data": "25/11/2026",
           "ora": "21:00",
           "canali": [
             {
               "nome": "Sky",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-24T21:00",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Bruges-Liverpool",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Bruges-Liverpool",
+          "inizio": "2026-11-25T21:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Inter-Stoccarda",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Inter-Stoccarda",
+          "inizio": "2026-11-25T21:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Lille-Bayern Monaco",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Lille-Bayern Monaco",
+          "inizio": "2026-11-25T21:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: PSG-Roma",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "PSG-Roma",
+          "inizio": "2026-11-25T21:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Amazon Prime Video",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Shakhtar Donetsk-Fenerbahce",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Shakhtar Donetsk-Fenerbahce",
+          "inizio": "2026-11-25T21:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] UEFA Champions League: Sporting-Manchester United",
+          "categoria": "Calcio",
+          "sottocartella": "UEFA Champions League",
+          "sport": "Calcio",
+          "competizione": "UEFA Champions League",
+          "evento": "Sporting-Manchester United",
+          "inizio": "2026-11-25T21:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Sky",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T21:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Basket] NBA: Philadelphia 76ers-Miami Heat",
+          "categoria": "Basket",
+          "sottocartella": "NBA",
+          "sport": "Basket",
+          "competizione": "NBA",
+          "evento": "Philadelphia 76ers-Miami Heat",
+          "inizio": "2026-11-25T22:00:00+01:00",
+          "data": "25/11/2026",
+          "ora": "22:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Basket",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-25T22:00",
               "fonte": "virgilio"
             }
           ],
@@ -1547,7 +1589,7 @@
     },
     {
       "nome": "Calcio",
-      "totale": 98,
+      "totale": 85,
       "sottocartelle": [
         {
           "nome": "Serie A",
@@ -6467,343 +6509,8 @@
         },
         {
           "nome": "Serie B",
-          "totale": 27,
+          "totale": 21,
           "eventi": [
-            {
-              "titolo": "Serie B: Juve Stabia vs Catanzaro",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Juve Stabia vs Catanzaro",
-              "inizio": "2026-11-24T19:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-24T19:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T19:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Benevento vs Empoli",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Benevento vs Empoli",
-              "inizio": "2026-11-24T20:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Cesena vs Ascoli",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Cesena vs Ascoli",
-              "inizio": "2026-11-24T20:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "DCTV",
-                    "FOX One"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Palermo vs Südtirol",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Palermo vs Südtirol",
-              "inizio": "2026-11-24T20:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Vicenza vs Carrarese",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Vicenza vs Carrarese",
-              "inizio": "2026-11-24T20:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "DAZN Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "LAB Channel",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Internazionale",
-                  "canali": [
-                    "Onefootball"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie B: Virtus Entella-Hellas Verona",
-              "categoria": "Calcio",
-              "sottocartella": "Serie B",
-              "sport": "Calcio",
-              "competizione": "Serie B",
-              "evento": "Virtus Entella-Hellas Verona",
-              "inizio": "2026-11-24T20:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Serie B: Cesena vs Ascoli",
               "categoria": "Calcio",
@@ -7608,226 +7315,36 @@
           ]
         },
         {
-          "nome": "UEFA Champions League",
-          "totale": 18,
+          "nome": "UEFA Youth League",
+          "totale": 1,
           "eventi": [
             {
-              "titolo": "UEFA Champions League: Bodo Glimt-LASK",
+              "titolo": "UEFA Youth League: PSG-Roma",
               "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
+              "sottocartella": "UEFA Youth League",
               "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Bodo Glimt-LASK",
-              "inizio": "2026-11-24T18:45:00+01:00",
-              "data": "24/11/2026",
-              "ora": "18:45",
+              "competizione": "UEFA Youth League",
+              "evento": "PSG-Roma",
+              "inizio": "2026-11-25T16:00:00+01:00",
+              "data": "25/11/2026",
+              "ora": "16:00",
               "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T18:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Galatasaray-Aston Villa",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Galatasaray-Aston Villa",
-              "inizio": "2026-11-24T18:45:00+01:00",
-              "data": "24/11/2026",
-              "ora": "18:45",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T18:45",
-                  "fonte": "virgilio"
-                },
                 {
                   "nome": "Sky Sport Calcio",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-24T18:45",
+                  "orario": "2026-11-25T16:00",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Arsenal-Borussia Dortmund",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Arsenal-Borussia Dortmund",
-              "inizio": "2026-11-24T21:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Como-AEK Atene",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Como-AEK Atene",
-              "inizio": "2026-11-24T21:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Feyenoord-Porto",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Feyenoord-Porto",
-              "inizio": "2026-11-24T21:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Lipsia-Lens",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Lipsia-Lens",
-              "inizio": "2026-11-24T21:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Manchester City-Napoli",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Manchester City-Napoli",
-              "inizio": "2026-11-24T21:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Real Madrid-Psv",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Real Madrid-Psv",
-              "inizio": "2026-11-24T21:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "UEFA Champions League: Slovan-Real Betis",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Champions League",
-              "sport": "Calcio",
-              "competizione": "UEFA Champions League",
-              "evento": "Slovan-Real Betis",
-              "inizio": "2026-11-24T21:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "21:00",
-              "canali": [
-                {
-                  "nome": "Sky",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
+            }
+          ]
+        },
+        {
+          "nome": "UEFA Champions League",
+          "totale": 9,
+          "eventi": [
             {
               "titolo": "UEFA Champions League: Sabah-Barcellona",
               "categoria": "Calcio",
@@ -8040,33 +7557,6 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-25T21:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "UEFA Youth League",
-          "totale": 1,
-          "eventi": [
-            {
-              "titolo": "UEFA Youth League: PSG-Roma",
-              "categoria": "Calcio",
-              "sottocartella": "UEFA Youth League",
-              "sport": "Calcio",
-              "competizione": "UEFA Youth League",
-              "evento": "PSG-Roma",
-              "inizio": "2026-11-25T16:00:00+01:00",
-              "data": "25/11/2026",
-              "ora": "16:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-25T16:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -8932,6 +8422,67 @@
               "fonte": "Virgilio Sport"
             }
           ]
+        },
+        {
+          "nome": "Qualificazioni Mondiali Brasile femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Qualificazioni Mondiali Brasile: Finlandia-Italia",
+              "categoria": "Calcio",
+              "sottocartella": "Qualificazioni Mondiali Brasile femminile",
+              "sport": "Calcio femminile",
+              "competizione": "Qualificazioni Mondiali Brasile 2027",
+              "evento": "Finlandia-Italia",
+              "inizio": "2026-12-01T17:30:00+01:00",
+              "data": "01/12/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-01T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Coppa Italia",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Coppa Italia: Inter-Genoa",
+              "categoria": "Calcio",
+              "sottocartella": "Coppa Italia",
+              "sport": "Calcio",
+              "competizione": "Coppa Italia",
+              "evento": "Inter-Genoa",
+              "inizio": "2026-12-01T21:00:00+01:00",
+              "data": "01/12/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Mediaset Infinity",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-01T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Canale 5",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-01T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
         }
       ]
     },
@@ -8970,149 +8521,11 @@
     },
     {
       "nome": "Basket",
-      "totale": 18,
+      "totale": 16,
       "sottocartelle": [
         {
-          "nome": "Eurolega",
-          "totale": 4,
-          "eventi": [
-            {
-              "titolo": "Eurolega: Stella Rossa-Virtus Bologna",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Stella Rossa-Virtus Bologna",
-              "inizio": "2026-11-24T19:00:00+01:00",
-              "data": "24/11/2026",
-              "ora": "19:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T19:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Lyon Villeurbanne-Olimpia Milano",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Lyon Villeurbanne-Olimpia Milano",
-              "inizio": "2026-11-24T20:45:00+01:00",
-              "data": "24/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Dubai Basketball-Partizan Belgrado",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Dubai Basketball-Partizan Belgrado",
-              "inizio": "2026-11-25T17:00:00+01:00",
-              "data": "25/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-25T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Eurolega: Olympiacos-Hapoel Tel Aviv",
-              "categoria": "Basket",
-              "sottocartella": "Eurolega",
-              "sport": "Basket",
-              "competizione": "Eurolega",
-              "evento": "Olympiacos-Hapoel Tel Aviv",
-              "inizio": "2026-11-25T20:15:00+01:00",
-              "data": "25/11/2026",
-              "ora": "20:15",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-25T20:15",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Serie A2",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Serie A2: Torino-Caserta",
-              "categoria": "Basket",
-              "sottocartella": "Serie A2",
-              "sport": "Basket",
-              "competizione": "Serie A2",
-              "evento": "Torino-Caserta",
-              "inizio": "2026-11-24T20:30:00+01:00",
-              "data": "24/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Serie A2: Rimini-Pesaro",
-              "categoria": "Basket",
-              "sottocartella": "Serie A2",
-              "sport": "Basket",
-              "competizione": "Serie A2",
-              "evento": "Rimini-Pesaro",
-              "inizio": "2026-11-27T20:45:00+01:00",
-              "data": "27/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Rai Sport",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
           "nome": "NBA",
-          "totale": 4,
+          "totale": 5,
           "eventi": [
             {
               "titolo": "NBA: Washington Wizards-Boston Celtics",
@@ -9193,6 +8606,75 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-26T01:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Houston-L.A. Lakers",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Houston-L.A. Lakers",
+              "inizio": "2026-12-01T01:30:00+01:00",
+              "data": "01/12/2026",
+              "ora": "01:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-01T01:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Eurolega",
+          "totale": 2,
+          "eventi": [
+            {
+              "titolo": "Eurolega: Dubai Basketball-Partizan Belgrado",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Dubai Basketball-Partizan Belgrado",
+              "inizio": "2026-11-25T17:00:00+01:00",
+              "data": "25/11/2026",
+              "ora": "17:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T17:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Olympiacos-Hapoel Tel Aviv",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Olympiacos-Hapoel Tel Aviv",
+              "inizio": "2026-11-25T20:15:00+01:00",
+              "data": "25/11/2026",
+              "ora": "20:15",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T20:15",
                   "fonte": "virgilio"
                 }
               ],
@@ -9374,6 +8856,33 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-30T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Serie A2",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Serie A2: Rimini-Pesaro",
+              "categoria": "Basket",
+              "sottocartella": "Serie A2",
+              "sport": "Basket",
+              "competizione": "Serie A2",
+              "evento": "Rimini-Pesaro",
+              "inizio": "2026-11-27T20:45:00+01:00",
+              "data": "27/11/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "Rai Sport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-27T20:45",
                   "fonte": "virgilio"
                 }
               ],
