@@ -1,37 +1,16 @@
 {
-  "aggiornato": "2026-11-24T03:14:00+01:00",
+  "aggiornato": "2026-11-24T09:47:05+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 159,
+  "totale": 158,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 21,
+      "totale": 20,
       "eventi": [
-        {
-          "titolo": "[Basket] NBA: Minnesota Timberwolves-Brooklyn Nets",
-          "categoria": "Basket",
-          "sottocartella": "NBA",
-          "sport": "Basket",
-          "competizione": "NBA",
-          "evento": "Minnesota Timberwolves-Brooklyn Nets",
-          "inizio": "2026-11-24T01:30:00+01:00",
-          "data": "24/11/2026",
-          "ora": "01:30",
-          "canali": [
-            {
-              "nome": "Sky Sport Basket",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-24T01:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
         {
           "titolo": "[Calcio] Serie B: Catanzaro vs Palermo",
           "categoria": "Calcio",
@@ -58,66 +37,7 @@
               "fonte": "livesoccer"
             }
           ],
-          "canali_mondo": [
-            {
-              "paese": "Gran Bretagna",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Irlanda",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Israele",
-              "canali": [
-                "5 Live"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 2 Live"
-              ]
-            },
-            {
-              "paese": "USA",
-              "canali": [
-                "DCTV"
-              ]
-            }
-          ],
+          "canali_mondo": [],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -146,72 +66,7 @@
               "fonte": "livesoccer"
             }
           ],
-          "canali_mondo": [
-            {
-              "paese": "Brasile",
-              "canali": [
-                "SportyNet"
-              ]
-            },
-            {
-              "paese": "Gran Bretagna",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Irlanda",
-              "canali": [
-                "DCTV"
-              ]
-            },
-            {
-              "paese": "Israele",
-              "canali": [
-                "Sport 5max"
-              ]
-            },
-            {
-              "paese": "Italia",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Liechtenstein",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 4 Live"
-              ]
-            },
-            {
-              "paese": "Russia",
-              "canali": [
-                "Телеканал Футбол"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "DAZN Italia",
-                "LAB Channel"
-              ]
-            },
-            {
-              "paese": "Svizzera",
-              "canali": [
-                "Blue Sport",
-                "Blue Sport 4 Live"
-              ]
-            },
-            {
-              "paese": "USA",
-              "canali": [
-                "DCTV"
-              ]
-            }
-          ],
+          "canali_mondo": [],
           "fonte": "LiveSoccerTV"
         },
         {
@@ -319,6 +174,12 @@
           ],
           "canali_mondo": [
             {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
               "paese": "Italia",
               "canali": [
                 "DAZN Italia",
@@ -369,6 +230,12 @@
             }
           ],
           "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
             {
               "paese": "Italia",
               "canali": [
@@ -421,6 +288,18 @@
           ],
           "canali_mondo": [
             {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
               "paese": "Italia",
               "canali": [
                 "DAZN Italia",
@@ -453,6 +332,7 @@
               "canali": [
                 "Fox Soccer Plus",
                 "fuboTV",
+                "DCTV",
                 "FOX One"
               ]
             }
@@ -493,6 +373,12 @@
             }
           ],
           "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
             {
               "paese": "Italia",
               "canali": [
@@ -544,6 +430,12 @@
             }
           ],
           "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
             {
               "paese": "Italia",
               "canali": [
@@ -1931,6 +1823,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -2013,7 +1911,8 @@
                 {
                   "paese": "Danimarca",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
@@ -2061,12 +1960,14 @@
                 {
                   "paese": "Isole Faroe",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 1",
                     "MTV Katsomo"
                   ]
                 },
@@ -2293,6 +2194,14 @@
                   ]
                 },
                 {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football",
+                    "sooka"
+                  ]
+                },
+                {
                   "paese": "Maldive",
                   "canali": [
                     "Ice Sports",
@@ -2305,6 +2214,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -2631,6 +2541,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -2926,6 +2837,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -2986,7 +2903,8 @@
                 {
                   "paese": "Croazia",
                   "canali": [
-                    "Arena Sport 2 Croatia"
+                    "Arena Sport 2 Croatia",
+                    "MAXtv To Go"
                   ]
                 },
                 {
@@ -3058,6 +2976,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 1",
                     "MTV Katsomo"
                   ]
                 },
@@ -3244,6 +3163,14 @@
                   ]
                 },
                 {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football",
+                    "sooka"
+                  ]
+                },
+                {
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5"
@@ -3252,6 +3179,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -3542,6 +3470,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -3806,6 +3735,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -3866,7 +3801,8 @@
                 {
                   "paese": "Croazia",
                   "canali": [
-                    "Arena Sport 2 Croatia"
+                    "Arena Sport 2 Croatia",
+                    "MAXtv To Go"
                   ]
                 },
                 {
@@ -3885,7 +3821,8 @@
                 {
                   "paese": "Danimarca",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
@@ -3932,12 +3869,14 @@
                 {
                   "paese": "Isole Faroe",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 1",
                     "MTV Katsomo"
                   ]
                 },
@@ -4145,6 +4084,14 @@
                   ]
                 },
                 {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football",
+                    "sooka"
+                  ]
+                },
+                {
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5"
@@ -4153,6 +4100,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -4444,6 +4392,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -4742,6 +4691,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -4804,7 +4759,8 @@
                 {
                   "paese": "Croazia",
                   "canali": [
-                    "Arena Sport 1 Croatia"
+                    "Arena Sport 1 Croatia",
+                    "MAXtv To Go"
                   ]
                 },
                 {
@@ -4823,7 +4779,8 @@
                 {
                   "paese": "Danimarca",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
@@ -4870,12 +4827,14 @@
                 {
                   "paese": "Isole Faroe",
                   "canali": [
-                    "TV2 Play Denmark"
+                    "TV2 Play Denmark",
+                    "TV2 Sport X"
                   ]
                 },
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 1",
                     "MTV Katsomo"
                   ]
                 },
@@ -5079,6 +5038,14 @@
                   ]
                 },
                 {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football",
+                    "sooka"
+                  ]
+                },
+                {
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5"
@@ -5087,6 +5054,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -5381,6 +5349,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -5577,7 +5546,8 @@
                 {
                   "paese": "Australia",
                   "canali": [
-                    "beIN SPORTS 3"
+                    "beIN SPORTS 3",
+                    "beIN Sports Connect"
                   ]
                 },
                 {
@@ -5665,6 +5635,12 @@
                   ]
                 },
                 {
+                  "paese": "Brunei",
+                  "canali": [
+                    "Astro Go"
+                  ]
+                },
+                {
                   "paese": "Bulgaria",
                   "canali": [
                     "MAX Sport 3"
@@ -5725,7 +5701,8 @@
                 {
                   "paese": "Croazia",
                   "canali": [
-                    "Arena Sport 2 Croatia"
+                    "Arena Sport 2 Croatia",
+                    "MAXtv To Go"
                   ]
                 },
                 {
@@ -5797,6 +5774,7 @@
                 {
                   "paese": "Finlandia",
                   "canali": [
+                    "MTV Urheilu 2",
                     "MTV Katsomo"
                   ]
                 },
@@ -6002,6 +5980,14 @@
                   ]
                 },
                 {
+                  "paese": "Malesia",
+                  "canali": [
+                    "Astro Go",
+                    "Astro Football",
+                    "sooka"
+                  ]
+                },
+                {
                   "paese": "Maldive",
                   "canali": [
                     "ZEE5"
@@ -6010,6 +5996,7 @@
                 {
                   "paese": "Malta",
                   "canali": [
+                    "GO TV Anywhere",
                     "TSN3 Malta"
                   ]
                 },
@@ -6301,6 +6288,7 @@
                 {
                   "paese": "Thailandia",
                   "canali": [
+                    "True ID",
                     "True Premier Football HD 3"
                   ]
                 },
@@ -6346,6 +6334,7 @@
                 {
                   "paese": "Ucraina",
                   "canali": [
+                    "Megogo",
                     "MEGOGO Football 2"
                   ]
                 },
@@ -6564,66 +6553,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5 Live"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 2 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "DCTV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -6652,72 +6582,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Brasile",
-                  "canali": [
-                    "SportyNet"
-                  ]
-                },
-                {
-                  "paese": "Gran Bretagna",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Irlanda",
-                  "canali": [
-                    "DCTV"
-                  ]
-                },
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "Sport 5max"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 4 Live"
-                  ]
-                },
-                {
-                  "paese": "Russia",
-                  "canali": [
-                    "Телеканал Футбол"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 4 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "DCTV"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -6754,6 +6619,12 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
                 {
                   "paese": "Italia",
                   "canali": [
@@ -6806,6 +6677,12 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -6857,6 +6734,18 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Gran Bretagna",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
+                  "paese": "Irlanda",
+                  "canali": [
+                    "DCTV"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -6889,6 +6778,7 @@
                   "canali": [
                     "Fox Soccer Plus",
                     "fuboTV",
+                    "DCTV",
                     "FOX One"
                   ]
                 }
@@ -6929,6 +6819,12 @@
                 }
               ],
               "canali_mondo": [
+                {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
                 {
                   "paese": "Italia",
                   "canali": [
@@ -6981,6 +6877,12 @@
               ],
               "canali_mondo": [
                 {
+                  "paese": "Internazionale",
+                  "canali": [
+                    "Onefootball"
+                  ]
+                },
+                {
                   "paese": "Italia",
                   "canali": [
                     "DAZN Italia",
@@ -7030,58 +6932,28 @@
               "ora": "12:30",
               "canali": [
                 {
-                  "nome": "DAZN Italia",
+                  "nome": "Fox Soccer Plus",
                   "numero": "",
-                  "tipo": "streaming",
+                  "tipo": "diretta",
                   "orario": "2026-11-25T12:30",
                   "fonte": "livesoccer"
                 },
                 {
-                  "nome": "LAB Channel",
+                  "nome": "fuboTV",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T12:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "FOX One",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-25T12:30",
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -7194,36 +7066,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -7252,50 +7095,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Israele",
-                  "canali": [
-                    "5Stars"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 10 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 10 Live"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -7324,36 +7124,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Liechtenstein",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "Svizzera",
-                  "canali": [
-                    "Blue Sport",
-                    "Blue Sport 11 Live"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -7487,30 +7258,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -7609,7 +7357,14 @@
               "ora": "03:30",
               "canali": [
                 {
-                  "nome": "Fox Soccer Plus",
+                  "nome": "DAZN Italia",
+                  "numero": "",
+                  "tipo": "streaming",
+                  "orario": "2026-11-30T03:30",
+                  "fonte": "livesoccer"
+                },
+                {
+                  "nome": "LAB Channel",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-30T03:30",
@@ -7645,36 +7400,7 @@
                   "fonte": "livesoccer"
                 }
               ],
-              "canali_mondo": [
-                {
-                  "paese": "Bosnia ed Erzegovina",
-                  "canali": [
-                    "Arena Sport 4"
-                  ]
-                },
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "DAZN Italia",
-                    "LAB Channel"
-                  ]
-                },
-                {
-                  "paese": "USA",
-                  "canali": [
-                    "Fox Soccer Plus",
-                    "fuboTV",
-                    "FOX One"
-                  ]
-                }
-              ],
+              "canali_mondo": [],
               "fonte": "LiveSoccerTV"
             },
             {
@@ -9327,119 +9053,8 @@
     },
     {
       "nome": "Basket",
-      "totale": 19,
+      "totale": 18,
       "sottocartelle": [
-        {
-          "nome": "NBA",
-          "totale": 5,
-          "eventi": [
-            {
-              "titolo": "NBA: Minnesota Timberwolves-Brooklyn Nets",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Minnesota Timberwolves-Brooklyn Nets",
-              "inizio": "2026-11-24T01:30:00+01:00",
-              "data": "24/11/2026",
-              "ora": "01:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-24T01:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Washington Wizards-Boston Celtics",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Washington Wizards-Boston Celtics",
-              "inizio": "2026-11-25T02:00:00+01:00",
-              "data": "25/11/2026",
-              "ora": "02:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-25T02:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Denver Nuggets-Dallas Mavericks",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Denver Nuggets-Dallas Mavericks",
-              "inizio": "2026-11-25T04:00:00+01:00",
-              "data": "25/11/2026",
-              "ora": "04:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-25T04:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Philadelphia 76ers-Miami Heat",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Philadelphia 76ers-Miami Heat",
-              "inizio": "2026-11-25T22:00:00+01:00",
-              "data": "25/11/2026",
-              "ora": "22:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-25T22:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "NBA: Oklahoma City Thunder-Minnesota Timberwolves",
-              "categoria": "Basket",
-              "sottocartella": "NBA",
-              "sport": "Basket",
-              "competizione": "NBA",
-              "evento": "Oklahoma City Thunder-Minnesota Timberwolves",
-              "inizio": "2026-11-26T01:30:00+01:00",
-              "data": "26/11/2026",
-              "ora": "01:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-26T01:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
         {
           "nome": "Eurolega",
           "totale": 4,
@@ -9571,6 +9186,96 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-27T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "NBA",
+          "totale": 4,
+          "eventi": [
+            {
+              "titolo": "NBA: Washington Wizards-Boston Celtics",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Washington Wizards-Boston Celtics",
+              "inizio": "2026-11-25T02:00:00+01:00",
+              "data": "25/11/2026",
+              "ora": "02:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T02:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Denver Nuggets-Dallas Mavericks",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Denver Nuggets-Dallas Mavericks",
+              "inizio": "2026-11-25T04:00:00+01:00",
+              "data": "25/11/2026",
+              "ora": "04:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T04:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Philadelphia 76ers-Miami Heat",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Philadelphia 76ers-Miami Heat",
+              "inizio": "2026-11-25T22:00:00+01:00",
+              "data": "25/11/2026",
+              "ora": "22:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-25T22:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Oklahoma City Thunder-Minnesota Timberwolves",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Oklahoma City Thunder-Minnesota Timberwolves",
+              "inizio": "2026-11-26T01:30:00+01:00",
+              "data": "26/11/2026",
+              "ora": "01:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-26T01:30",
                   "fonte": "virgilio"
                 }
               ],
