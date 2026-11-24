@@ -14,7 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]08:30[/COLOR] Catanzaro vs Palermo",
+      "title": "[COLOR red]08:30[/COLOR] Catanzaro vs Palermo [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -94,10 +94,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-ascoli/4okcj#5838940"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/cesena-vs-ascoli/4okcj#5838940"
     },
     {
       "title": "[COLOR cyan]Giovedi 26 Novembre[/COLOR]",
@@ -168,9 +169,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Fox Soccer Plus"
+        "DAZN Italia",
+        "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Fox Soccer Plus\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-cremonese/6knkt#5840312"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-cremonese/6knkt#5840312"
     },
     {
       "title": "[COLOR yellow]05:30[/COLOR] Arezzo vs Pisa",
