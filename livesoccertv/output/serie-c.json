@@ -14,7 +14,7 @@
       "info": ""
     },
     {
-      "title": "[COLOR yellow]14:30[/COLOR] Audace Cerignola vs Inter II",
+      "title": "[COLOR red]14:30[/COLOR] Audace Cerignola vs Inter II [COLOR red]LIVE[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -78,6 +78,16 @@
         "NOW TV"
       ],
       "info": "Serie C\nCanali: SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/lecco-vs-athletic-carpi/3zpe8y#5720427"
+    },
+    {
+      "title": "[COLOR yellow]14:30[/COLOR] Giugliano vs Team Altamura",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "canali": [
+        "SKY Go Italia",
+        "NOW TV"
+      ],
+      "info": "Serie C\nCanali: SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/team-altamura-vs-giugliano/4old84#5721191"
     }
   ]
 }

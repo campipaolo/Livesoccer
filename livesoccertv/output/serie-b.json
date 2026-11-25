@@ -8,69 +8,13 @@
       "info": "Partite e canali da LiveSoccerTV"
     },
     {
-      "title": "[COLOR cyan]Martedi 24 Novembre[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "info": ""
-    },
-    {
-      "title": "[COLOR gray]20:00[/COLOR] Benevento vs Empoli [COLOR gray]5:0[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/empoli-vs-benevento/8oqvv#5742586"
-    },
-    {
-      "title": "[COLOR gray]20:00[/COLOR] Cesena vs Ascoli [COLOR gray]5:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/cesena-vs-ascoli/4okcj#5742587"
-    },
-    {
-      "title": "[COLOR gray]20:00[/COLOR] Palermo vs Südtirol [COLOR gray]4:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/palermo-vs-sudtirol/6kcpd#5742594"
-    },
-    {
-      "title": "[COLOR gray]20:00[/COLOR] Vicenza vs Carrarese [COLOR gray]0:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/vicenza-vs-carrarese/8r2ef#5742591"
-    },
-    {
-      "title": "[COLOR gray]20:00[/COLOR] Virtus Entella vs Verona [COLOR gray]2:1[/COLOR]",
-      "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "canali": [
-        "DAZN Italia",
-        "LAB Channel"
-      ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/verona-vs-virtus-entella/aqyx8#5742589"
-    },
-    {
       "title": "[COLOR cyan]Mercoledi 25 Novembre[/COLOR]",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "info": ""
     },
     {
-      "title": "[COLOR yellow]12:30[/COLOR] Cesena vs Ascoli",
+      "title": "[COLOR gray]12:30[/COLOR] Cesena vs Ascoli",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
@@ -94,11 +38,10 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "Onefootball",
         "DAZN Italia",
         "LAB Channel"
       ],
-      "info": "Serie B\nCanali: Onefootball, DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-calcio-padova/363z7#5742593"
+      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/sampdoria-vs-calcio-padova/363z7#5742593"
     },
     {
       "title": "[COLOR yellow]20:00[/COLOR] Mantova vs Arezzo",
@@ -167,10 +110,11 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "LAB Channel"
+        "Fox Soccer Plus",
+        "fuboTV",
+        "FOX One"
       ],
-      "info": "Serie B\nCanali: DAZN Italia, LAB Channel\nhttps://www.livesoccertv.com/it/match/modena-vs-pisa/8oqvq#5839885"
+      "info": "Serie B\nCanali: Fox Soccer Plus, fuboTV, FOX One\nhttps://www.livesoccertv.com/it/match/modena-vs-pisa/8oqvq#5839885"
     },
     {
       "title": "[COLOR yellow]15:00[/COLOR] Ascoli vs Virtus Entella",
