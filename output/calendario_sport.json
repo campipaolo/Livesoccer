@@ -1,196 +1,370 @@
 {
-  "aggiornato": "2026-11-27T19:01:50+01:00",
+  "aggiornato": "2026-11-28T00:27:57+01:00",
   "fonti": {
     "motori": "Fuori Traiettoria, Dizzle0987/motorsport-calendar, palinsesto TV8",
     "calcio_italiano": "https://raw.githubusercontent.com/campipaolo/Livesoccer/master/livesoccertv/output/eventi.json",
     "altri_sport": "https://sport.virgilio.it/guida-tv/"
   },
-  "totale": 106,
+  "totale": 130,
   "cartelle": [
     {
       "nome": "Oggi",
-      "totale": 13,
+      "totale": 38,
       "eventi": [
         {
-          "titolo": "[Calcio] Primavera 1: Atalanta-Monza",
-          "categoria": "Calcio",
-          "sottocartella": "Primavera 1",
-          "sport": "Calcio",
-          "competizione": "Primavera 1",
-          "evento": "Atalanta-Monza",
-          "inizio": "2026-11-27T17:00:00+01:00",
-          "data": "27/11/2026",
-          "ora": "17:00",
-          "canali": [
-            {
-              "nome": "Sportitalia",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-27T17:00",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] Formula 2 e Formula 3: F2 - Qatar GP - Quali",
+          "titolo": "[Motori] MotoGP: Valencian Community Grand Prix - FP2",
           "categoria": "Motori",
-          "sottocartella": "Formula 2 e Formula 3",
+          "sottocartella": "MotoGP",
           "sport": "Motori",
-          "competizione": "Formula 2 e Formula 3",
-          "evento": "F2 - Qatar GP - Quali",
-          "sessione": "qualifiche",
-          "circuito": "Circuito di Losail, Al Wusail, North Relief Road، Doha, Qatar",
-          "inizio": "2026-11-27T17:10:00+01:00",
-          "data": "27/11/2026",
-          "ora": "17:10",
-          "canali": [],
-          "fonte": "Fuori Traiettoria"
-        },
-        {
-          "titolo": "[Altri sport] Nations Championship: Italia-Fiji",
-          "categoria": "Altri sport",
-          "sottocartella": "Rugby",
-          "sport": "Rugby",
-          "competizione": "Nations Championship",
-          "evento": "Italia-Fiji",
-          "inizio": "2026-11-27T17:40:00+01:00",
-          "data": "27/11/2026",
-          "ora": "17:40",
-          "canali": [
-            {
-              "nome": "TV8",
-              "numero": "8",
-              "tipo": "diretta",
-              "orario": "2026-11-27T17:40",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Arena",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-27T17:40",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Motori] Formula 1: Qatar Grand Prix - FP2",
-          "categoria": "Motori",
-          "sottocartella": "Formula 1",
-          "sport": "Motori",
-          "competizione": "Formula 1",
-          "evento": "Qatar Grand Prix - FP2",
+          "competizione": "MotoGP",
+          "evento": "Valencian Community Grand Prix - FP2",
           "sessione": "prove",
-          "circuito": "Lusail International Circuit, Lusail, Qatar",
-          "inizio": "2026-11-27T18:00:00+01:00",
-          "data": "27/11/2026",
-          "ora": "18:00",
+          "circuito": "Circuit Ricardo Tormo, Cheste, Spain",
+          "inizio": "2026-11-28T10:10:00+01:00",
+          "data": "28/11/2026",
+          "ora": "10:10",
           "canali": [
             {
-              "nome": "Sky Sport F1",
-              "numero": "207",
+              "nome": "Sky Sport MotoGP",
+              "numero": "208",
               "tipo": "diretta",
-              "orario": "2026-11-27T18:00",
+              "orario": "2026-11-28T10:10",
               "fonte": "dizzle+config"
             },
             {
               "nome": "NOW",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-11-27T18:00",
+              "orario": "2026-11-28T10:10",
               "fonte": "dizzle+config"
+            }
+          ],
+          "fonte": "Dizzle0987/motorsport-calendar"
+        },
+        {
+          "titolo": "[Motori] MotoGP: Valencian Community Grand Prix - Q1",
+          "categoria": "Motori",
+          "sottocartella": "MotoGP",
+          "sport": "Motori",
+          "competizione": "MotoGP",
+          "evento": "Valencian Community Grand Prix - Q1",
+          "sessione": "qualifiche",
+          "circuito": "Circuit Ricardo Tormo, Cheste, Spain",
+          "inizio": "2026-11-28T10:50:00+01:00",
+          "data": "28/11/2026",
+          "ora": "10:50",
+          "canali": [
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "diretta",
+              "orario": "2026-11-28T10:45",
+              "fonte": "dizzle+tv8"
             },
             {
-              "nome": "Sky Sport 1",
-              "numero": "201",
+              "nome": "Sky Sport MotoGP",
+              "numero": "208",
               "tipo": "diretta",
-              "orario": "2026-11-27T18:00",
+              "orario": "2026-11-28T10:50",
               "fonte": "config"
             },
             {
-              "nome": "Sky Sport 4K",
-              "numero": "213",
-              "tipo": "diretta",
-              "orario": "2026-11-27T18:00",
+              "nome": "NOW",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T10:50",
               "fonte": "config"
             }
           ],
           "fonte": "Dizzle0987/motorsport-calendar"
         },
         {
-          "titolo": "[Calcio] Bundesliga 2: Heidenheim-Norimberga",
+          "titolo": "[Calcio] Primavera 1: Milan-Lecce",
+          "categoria": "Calcio",
+          "sottocartella": "Primavera 1",
+          "sport": "Calcio",
+          "competizione": "Primavera 1",
+          "evento": "Milan-Lecce",
+          "inizio": "2026-11-28T11:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "11:00",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T11:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Motori] MotoGP: Valencian Community Grand Prix - Q2",
+          "categoria": "Motori",
+          "sottocartella": "MotoGP",
+          "sport": "Motori",
+          "competizione": "MotoGP",
+          "evento": "Valencian Community Grand Prix - Q2",
+          "sessione": "qualifiche",
+          "circuito": "Circuit Ricardo Tormo, Cheste, Spain",
+          "inizio": "2026-11-28T11:15:00+01:00",
+          "data": "28/11/2026",
+          "ora": "11:15",
+          "canali": [
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "diretta",
+              "orario": "2026-11-28T10:45",
+              "fonte": "dizzle+tv8"
+            },
+            {
+              "nome": "Sky Sport MotoGP",
+              "numero": "208",
+              "tipo": "diretta",
+              "orario": "2026-11-28T11:15",
+              "fonte": "config"
+            },
+            {
+              "nome": "NOW",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T11:15",
+              "fonte": "config"
+            }
+          ],
+          "fonte": "Dizzle0987/motorsport-calendar"
+        },
+        {
+          "titolo": "[Motori] Moto2 e Moto3: M3 - Valencian GP - Quali",
+          "categoria": "Motori",
+          "sottocartella": "Moto2 e Moto3",
+          "sport": "Motori",
+          "competizione": "Moto2 e Moto3",
+          "evento": "M3 - Valencian GP - Quali",
+          "sessione": "qualifiche",
+          "circuito": "Ricardo Tormo Circuit, Salida 334, Autovía del Este, 46380 Cheste, Valencia, Spagna",
+          "inizio": "2026-11-28T12:55:00+01:00",
+          "data": "28/11/2026",
+          "ora": "12:55",
+          "canali": [],
+          "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Calcio] Bundesliga 2: Hertha-Karlsruhe",
           "categoria": "Calcio",
           "sottocartella": "Bundesliga 2",
           "sport": "Calcio",
           "competizione": "Bundesliga 2",
-          "evento": "Heidenheim-Norimberga",
-          "inizio": "2026-11-27T18:30:00+01:00",
-          "data": "27/11/2026",
-          "ora": "18:30",
+          "evento": "Hertha-Karlsruhe",
+          "inizio": "2026-11-28T13:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "13:00",
           "canali": [
             {
               "nome": "Sky Sport Max",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T18:30",
+              "orario": "2026-11-28T13:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Qualificazioni FIBA Mondiali: Slovenia-Finlandia",
-          "categoria": "Basket",
-          "sottocartella": "Qualificazioni FIBA Mondiali",
-          "sport": "Basket",
-          "competizione": "Qualificazioni FIBA Mondiali 2027",
-          "evento": "Slovenia-Finlandia",
-          "inizio": "2026-11-27T20:00:00+01:00",
-          "data": "27/11/2026",
-          "ora": "20:00",
+          "titolo": "[Calcio] Primavera 1: Juventus-Hellas Verona",
+          "categoria": "Calcio",
+          "sottocartella": "Primavera 1",
+          "sport": "Calcio",
+          "competizione": "Primavera 1",
+          "evento": "Juventus-Hellas Verona",
+          "inizio": "2026-11-28T13:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "13:00",
           "canali": [
             {
-              "nome": "Sky Sport Basket",
+              "nome": "Sportitalia",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T20:00",
+              "orario": "2026-11-28T13:00",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Calcio] Serie C: Cavese vs Scafatese",
+          "titolo": "[Motori] Moto2 e Moto3: M2 - Valencian GP - Quali",
+          "categoria": "Motori",
+          "sottocartella": "Moto2 e Moto3",
+          "sport": "Motori",
+          "competizione": "Moto2 e Moto3",
+          "evento": "M2 - Valencian GP - Quali",
+          "sessione": "qualifiche",
+          "circuito": "Ricardo Tormo Circuit, Salida 334, Autovía del Este, 46380 Cheste, Valencia, Spagna",
+          "inizio": "2026-11-28T13:50:00+01:00",
+          "data": "28/11/2026",
+          "ora": "13:50",
+          "canali": [],
+          "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Altri sport] Nations Championship: Galles-Giappone",
+          "categoria": "Altri sport",
+          "sottocartella": "Rugby",
+          "sport": "Rugby",
+          "competizione": "Nations Championship",
+          "evento": "Galles-Giappone",
+          "inizio": "2026-11-28T14:10:00+01:00",
+          "data": "28/11/2026",
+          "ora": "14:10",
+          "canali": [
+            {
+              "nome": "Sky Sport Arena",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T14:10",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Athletic Carpi vs Lecco",
           "categoria": "Calcio",
           "sottocartella": "Serie C",
           "sport": "Calcio",
           "competizione": "Serie C",
-          "evento": "Cavese vs Scafatese",
-          "inizio": "2026-11-27T20:30:00+01:00",
-          "data": "27/11/2026",
-          "ora": "20:30",
+          "evento": "Athletic Carpi vs Lecco",
+          "inizio": "2026-11-28T14:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "14:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 254",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T14:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 254",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 254",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Giugliano vs Team Altamura",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Giugliano vs Team Altamura",
+          "inizio": "2026-11-28T14:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "14:30",
+          "canali": [
+            {
+              "nome": "Sky Sport 255",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "SKY Go Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T14:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "NOW TV",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T14:30",
+              "fonte": "livesoccer"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Italia",
+              "canali": [
+                "Sky Sport 255",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "Sky Sport 255",
+                "SKY Go Italia",
+                "NOW TV"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Gubbio vs Vado",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Gubbio vs Vado",
+          "inizio": "2026-11-28T14:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "14:30",
           "canali": [
             {
               "nome": "Sky Sport 253",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T20:30",
+              "orario": "2026-11-28T14:30",
               "fonte": "livesoccer"
             },
             {
               "nome": "SKY Go Italia",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-11-27T20:30",
+              "orario": "2026-11-28T14:30",
               "fonte": "livesoccer"
             },
             {
               "nome": "NOW TV",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-11-27T20:30",
+              "orario": "2026-11-28T14:30",
               "fonte": "livesoccer"
             }
           ],
@@ -215,174 +389,77 @@
           "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] Serie C: Foggia vs Casertana",
+          "titolo": "[Calcio] Serie C: Pescara-Pianese",
           "categoria": "Calcio",
           "sottocartella": "Serie C",
           "sport": "Calcio",
           "competizione": "Serie C",
-          "evento": "Foggia vs Casertana",
-          "inizio": "2026-11-27T20:30:00+01:00",
-          "data": "27/11/2026",
-          "ora": "20:30",
+          "evento": "Pescara-Pianese",
+          "inizio": "2026-11-28T14:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "14:30",
           "canali": [
             {
-              "nome": "Sky Sport 252",
+              "nome": "Sky Sport Calcio",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T20:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "SKY Go Italia",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-27T20:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport Uno",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-27T20:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "NOW TV",
-              "numero": "",
-              "tipo": "streaming",
-              "orario": "2026-11-27T20:30",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "Sky Sport 1",
-              "numero": "201",
-              "tipo": "diretta",
-              "orario": "2026-11-27T20:30",
-              "fonte": "virgilio"
-            }
-          ],
-          "canali_mondo": [
-            {
-              "paese": "Italia",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "Sky Sport Uno",
-                "NOW TV"
-              ]
-            },
-            {
-              "paese": "San Marino",
-              "canali": [
-                "Sky Sport 252",
-                "SKY Go Italia",
-                "Sky Sport Uno",
-                "NOW TV"
-              ]
-            }
-          ],
-          "fonte": "LiveSoccerTV"
-        },
-        {
-          "titolo": "[Basket] Qualificazioni FIBA Mondiali: Polonia-Croazia",
-          "categoria": "Basket",
-          "sottocartella": "Qualificazioni FIBA Mondiali",
-          "sport": "Basket",
-          "competizione": "Qualificazioni FIBA Mondiali 2027",
-          "evento": "Polonia-Croazia",
-          "inizio": "2026-11-27T20:45:00+01:00",
-          "data": "27/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "Sky Sport Mix",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
+              "orario": "2026-11-28T14:30",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Basket] Serie A2: Rimini-Pesaro",
-          "categoria": "Basket",
-          "sottocartella": "Serie A2",
-          "sport": "Basket",
-          "competizione": "Serie A2",
-          "evento": "Rimini-Pesaro",
-          "inizio": "2026-11-27T20:45:00+01:00",
-          "data": "27/11/2026",
-          "ora": "20:45",
-          "canali": [
-            {
-              "nome": "Rai Sport",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
-              "fonte": "virgilio"
-            }
-          ],
-          "fonte": "Virgilio Sport"
-        },
-        {
-          "titolo": "[Calcio] Serie A: Venezia vs Bologna",
+          "titolo": "[Calcio] Serie A: Frosinone vs Parma",
           "categoria": "Calcio",
           "sottocartella": "Serie A",
           "sport": "Calcio",
           "competizione": "Serie A",
-          "evento": "Venezia vs Bologna",
-          "inizio": "2026-11-27T20:45:00+01:00",
-          "data": "27/11/2026",
-          "ora": "20:45",
+          "evento": "Frosinone vs Parma",
+          "inizio": "2026-11-28T15:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:00",
           "canali": [
             {
               "nome": "Paramount+",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
+              "orario": "2026-11-28T15:00",
               "fonte": "livesoccer"
             },
             {
               "nome": "Peacock",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
+              "orario": "2026-11-28T15:00",
               "fonte": "livesoccer"
             },
             {
               "nome": "DAZN Canada",
               "numero": "",
               "tipo": "streaming",
-              "orario": "2026-11-27T20:45",
+              "orario": "2026-11-28T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "ESPN Mexico",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:00",
               "fonte": "livesoccer"
             },
             {
               "nome": "Disney+ Premium Caribbean",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
-              "fonte": "livesoccer"
-            },
-            {
-              "nome": "fuboTV Canada",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
+              "orario": "2026-11-28T15:00",
               "fonte": "livesoccer"
             },
             {
               "nome": "DAZN",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
-              "fonte": "virgilio"
-            },
-            {
-              "nome": "Sky Sport Calcio",
-              "numero": "",
-              "tipo": "diretta",
-              "orario": "2026-11-27T20:45",
+              "orario": "2026-11-28T15:00",
               "fonte": "virgilio"
             }
           ],
@@ -390,42 +467,887 @@
           "fonte": "LiveSoccerTV"
         },
         {
-          "titolo": "[Calcio] Premier League: Nottingham Forest-Chelsea",
+          "titolo": "[Calcio] Serie B: Ascoli vs Virtus Entella",
           "categoria": "Calcio",
-          "sottocartella": "Premier League",
+          "sottocartella": "Serie B",
           "sport": "Calcio",
-          "competizione": "Premier League",
-          "evento": "Nottingham Forest-Chelsea",
-          "inizio": "2026-11-27T21:00:00+01:00",
-          "data": "27/11/2026",
-          "ora": "21:00",
+          "competizione": "Serie B",
+          "evento": "Ascoli vs Virtus Entella",
+          "inizio": "2026-11-28T15:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:00",
           "canali": [
             {
-              "nome": "Sky Sport Max",
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T21:00",
+              "orario": "2026-11-28T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Carrarese vs Juve Stabia",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Carrarese vs Juve Stabia",
+          "inizio": "2026-11-28T15:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Empoli vs Verona",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Empoli vs Verona",
+          "inizio": "2026-11-28T15:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:00",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Gran Bretagna",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Irlanda",
+              "canali": [
+                "DCTV"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Macedonia",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Montenegro",
+              "canali": [
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "Russia",
+              "canali": [
+                "Телеканал Футбол"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "Serbia",
+              "canali": [
+                "Arena Sport 1x2",
+                "Arena Cloud"
+              ]
+            },
+            {
+              "paese": "USA",
+              "canali": [
+                "Fox Soccer Plus",
+                "fuboTV",
+                "DCTV",
+                "FOX One"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Motori] MotoGP: Valencian Community Grand Prix - Sprint",
+          "categoria": "Motori",
+          "sottocartella": "MotoGP",
+          "sport": "Motori",
+          "competizione": "MotoGP",
+          "evento": "Valencian Community Grand Prix - Sprint",
+          "sessione": "sprint",
+          "circuito": "Circuit Ricardo Tormo, Cheste, Spain",
+          "inizio": "2026-11-28T15:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:00",
+          "canali": [
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "diretta",
+              "orario": "2026-11-28T14:55",
+              "fonte": "dizzle+tv8"
+            },
+            {
+              "nome": "Sky Sport MotoGP",
+              "numero": "208",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:00",
+              "fonte": "config"
+            },
+            {
+              "nome": "NOW",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T15:00",
+              "fonte": "config"
+            }
+          ],
+          "fonte": "Dizzle0987/motorsport-calendar"
+        },
+        {
+          "titolo": "[Calcio] Saudi League: Al Ettifaq-Al Hilal",
+          "categoria": "Calcio",
+          "sottocartella": "Saudi League",
+          "sport": "Calcio",
+          "competizione": "Saudi League",
+          "evento": "Al Ettifaq-Al Hilal",
+          "inizio": "2026-11-28T15:20:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:20",
+          "canali": [
+            {
+              "nome": "Sportitalia",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:20",
               "fonte": "virgilio"
             }
           ],
           "fonte": "Virgilio Sport"
         },
         {
-          "titolo": "[Altri sport] Nations Championship: Irlanda-Australia",
+          "titolo": "[Altri sport] Coppa del Mondo – Killington: Slalom Gigante F (1a manche): 1a manche",
+          "categoria": "Altri sport",
+          "sottocartella": "Sci alpino",
+          "sport": "Sci alpino",
+          "competizione": "Coppa del Mondo – Killington",
+          "evento": "Slalom Gigante F (1a manche): 1a manche",
+          "inizio": "2026-11-28T15:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:30",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Bundesliga: Amburgo-Bayern Monaco",
+          "categoria": "Calcio",
+          "sottocartella": "Bundesliga",
+          "sport": "Calcio",
+          "competizione": "Bundesliga",
+          "evento": "Amburgo-Bayern Monaco",
+          "inizio": "2026-11-28T15:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Motori] Formula 1: Qatar Grand Prix - FP3",
+          "categoria": "Motori",
+          "sottocartella": "Formula 1",
+          "sport": "Motori",
+          "competizione": "Formula 1",
+          "evento": "Qatar Grand Prix - FP3",
+          "sessione": "prove",
+          "circuito": "Lusail International Circuit, Lusail, Qatar",
+          "inizio": "2026-11-28T15:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "15:30",
+          "canali": [
+            {
+              "nome": "Sky Sport F1",
+              "numero": "207",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:30",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "NOW",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T15:30",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:30",
+              "fonte": "config"
+            },
+            {
+              "nome": "Sky Sport 4K",
+              "numero": "213",
+              "tipo": "diretta",
+              "orario": "2026-11-28T15:30",
+              "fonte": "config"
+            }
+          ],
+          "fonte": "Dizzle0987/motorsport-calendar"
+        },
+        {
+          "titolo": "[Calcio] Premier League: Leeds United-Coventry City",
+          "categoria": "Calcio",
+          "sottocartella": "Premier League",
+          "sport": "Calcio",
+          "competizione": "Premier League",
+          "evento": "Leeds United-Coventry City",
+          "inizio": "2026-11-28T16:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "16:00",
+          "canali": [
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T16:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Premier League: Manchester United-Brentford",
+          "categoria": "Calcio",
+          "sottocartella": "Premier League",
+          "sport": "Calcio",
+          "competizione": "Premier League",
+          "evento": "Manchester United-Brentford",
+          "inizio": "2026-11-28T16:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "16:00",
+          "canali": [
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-28T16:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Serie A1: Napoli-Posillipo",
+          "categoria": "Altri sport",
+          "sottocartella": "Pallanuoto maschile",
+          "sport": "Pallanuoto maschile",
+          "competizione": "Serie A1",
+          "evento": "Napoli-Posillipo",
+          "inizio": "2026-11-28T16:45:00+01:00",
+          "data": "28/11/2026",
+          "ora": "16:45",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T16:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Vicenza vs Cesena",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Vicenza vs Cesena",
+          "inizio": "2026-11-28T17:15:00+01:00",
+          "data": "28/11/2026",
+          "ora": "17:15",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T17:15",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T17:15",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T17:15",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Motori] Formula 2 e Formula 3: F2 - Qatar GP - Sprint Race",
+          "categoria": "Motori",
+          "sottocartella": "Formula 2 e Formula 3",
+          "sport": "Motori",
+          "competizione": "Formula 2 e Formula 3",
+          "evento": "F2 - Qatar GP - Sprint Race",
+          "sessione": "sprint",
+          "circuito": "Circuito di Losail, Al Wusail, North Relief Road، Doha, Qatar",
+          "inizio": "2026-11-28T17:20:00+01:00",
+          "data": "28/11/2026",
+          "ora": "17:20",
+          "canali": [],
+          "fonte": "Fuori Traiettoria"
+        },
+        {
+          "titolo": "[Calcio] Serie C: Salernitana-Monopoli",
+          "categoria": "Calcio",
+          "sottocartella": "Serie C",
+          "sport": "Calcio",
+          "competizione": "Serie C",
+          "evento": "Salernitana-Monopoli",
+          "inizio": "2026-11-28T17:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "17:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T17:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Altri sport] Nations Championship: Inghilterra-Nuova Zelanda",
           "categoria": "Altri sport",
           "sottocartella": "Rugby",
           "sport": "Rugby",
           "competizione": "Nations Championship",
-          "evento": "Irlanda-Australia",
-          "inizio": "2026-11-27T21:10:00+01:00",
-          "data": "27/11/2026",
-          "ora": "21:10",
+          "evento": "Inghilterra-Nuova Zelanda",
+          "inizio": "2026-11-28T17:40:00+01:00",
+          "data": "28/11/2026",
+          "ora": "17:40",
           "canali": [
             {
               "nome": "Sky Sport Arena",
               "numero": "",
               "tipo": "diretta",
-              "orario": "2026-11-27T21:10",
+              "orario": "2026-11-28T17:40",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie A: Torino vs Lazio",
+          "categoria": "Calcio",
+          "sottocartella": "Serie A",
+          "sport": "Calcio",
+          "competizione": "Serie A",
+          "evento": "Torino vs Lazio",
+          "inizio": "2026-11-28T18:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "18:00",
+          "canali": [
+            {
+              "nome": "Paramount+",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Peacock",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN Canada",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Disney+ Premium Caribbean",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "fuboTV Canada",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:00",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:00",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Altri sport] Coppa del Mondo – Killington: Slalom Gigante F (2a manche): 2a manche",
+          "categoria": "Altri sport",
+          "sottocartella": "Sci alpino",
+          "sport": "Sci alpino",
+          "competizione": "Coppa del Mondo – Killington",
+          "evento": "Slalom Gigante F (2a manche): 2a manche",
+          "inizio": "2026-11-28T18:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "18:30",
+          "canali": [
+            {
+              "nome": "Eurosport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:30",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Bundesliga: Stoccarda-Eintracht Francoforte",
+          "categoria": "Calcio",
+          "sottocartella": "Bundesliga",
+          "sport": "Calcio",
+          "competizione": "Bundesliga",
+          "evento": "Stoccarda-Eintracht Francoforte",
+          "inizio": "2026-11-28T18:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "18:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Mix",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Premier League: Ipswich-Aston Villa",
+          "categoria": "Calcio",
+          "sottocartella": "Premier League",
+          "sport": "Calcio",
+          "competizione": "Premier League",
+          "evento": "Ipswich-Aston Villa",
+          "inizio": "2026-11-28T18:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "18:30",
+          "canali": [
+            {
+              "nome": "Sky Sport Max",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T18:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Motori] Formula 1: Qatar Grand Prix - Qualifiche",
+          "categoria": "Motori",
+          "sottocartella": "Formula 1",
+          "sport": "Motori",
+          "competizione": "Formula 1",
+          "evento": "Qatar Grand Prix - Qualifiche",
+          "sessione": "qualifiche",
+          "circuito": "Lusail International Circuit, Lusail, Qatar",
+          "inizio": "2026-11-28T19:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "19:00",
+          "canali": [
+            {
+              "nome": "Sky Sport F1",
+              "numero": "207",
+              "tipo": "diretta",
+              "orario": "2026-11-28T19:00",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "NOW",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T19:00",
+              "fonte": "dizzle+config"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-28T19:00",
+              "fonte": "config"
+            },
+            {
+              "nome": "Sky Sport 4K",
+              "numero": "213",
+              "tipo": "diretta",
+              "orario": "2026-11-28T19:00",
+              "fonte": "config"
+            },
+            {
+              "nome": "TV8",
+              "numero": "8",
+              "tipo": "differita",
+              "orario": "2026-11-28T21:25",
+              "fonte": "config+tv8"
+            }
+          ],
+          "fonte": "Dizzle0987/motorsport-calendar"
+        },
+        {
+          "titolo": "[Calcio] Serie B: Palermo vs Benevento",
+          "categoria": "Calcio",
+          "sottocartella": "Serie B",
+          "sport": "Calcio",
+          "competizione": "Serie B",
+          "evento": "Palermo vs Benevento",
+          "inizio": "2026-11-28T19:30:00+01:00",
+          "data": "28/11/2026",
+          "ora": "19:30",
+          "canali": [
+            {
+              "nome": "DAZN Italia",
+              "numero": "",
+              "tipo": "streaming",
+              "orario": "2026-11-28T19:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "LAB Channel",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T19:30",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T19:30",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [
+            {
+              "paese": "Internazionale",
+              "canali": [
+                "Onefootball"
+              ]
+            },
+            {
+              "paese": "Italia",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            },
+            {
+              "paese": "San Marino",
+              "canali": [
+                "DAZN Italia",
+                "LAB Channel"
+              ]
+            }
+          ],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Altri sport] Coppa del Mondo: Copper Mountain. Super G M",
+          "categoria": "Altri sport",
+          "sottocartella": "Sci alpino",
+          "sport": "Sci alpino",
+          "competizione": "Coppa del Mondo",
+          "evento": "Copper Mountain. Super G M",
+          "inizio": "2026-11-28T19:45:00+01:00",
+          "data": "28/11/2026",
+          "ora": "19:45",
+          "canali": [
+            {
+              "nome": "Eurosport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T19:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T19:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "fonte": "Virgilio Sport"
+        },
+        {
+          "titolo": "[Calcio] Serie A: Internazionale vs Genoa",
+          "categoria": "Calcio",
+          "sottocartella": "Serie A",
+          "sport": "Calcio",
+          "competizione": "Serie A",
+          "evento": "Internazionale vs Genoa",
+          "inizio": "2026-11-28T20:45:00+01:00",
+          "data": "28/11/2026",
+          "ora": "20:45",
+          "canali": [
+            {
+              "nome": "Paramount+",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "fuboTV",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Peacock",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Telemundo",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "Telemundo Deportes En Vivo",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "livesoccer"
+            },
+            {
+              "nome": "DAZN",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport 1",
+              "numero": "201",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "virgilio"
+            },
+            {
+              "nome": "Sky Sport Calcio",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T20:45",
+              "fonte": "virgilio"
+            }
+          ],
+          "canali_mondo": [],
+          "fonte": "LiveSoccerTV"
+        },
+        {
+          "titolo": "[Volley] Serie A1: Cuneo-Scandicci",
+          "categoria": "Volley",
+          "sottocartella": "Serie A1 femminile",
+          "sport": "Pallavolo femminile",
+          "competizione": "Serie A1",
+          "evento": "Cuneo-Scandicci",
+          "inizio": "2026-11-28T21:00:00+01:00",
+          "data": "28/11/2026",
+          "ora": "21:00",
+          "canali": [
+            {
+              "nome": "Rai Sport",
+              "numero": "",
+              "tipo": "diretta",
+              "orario": "2026-11-28T21:00",
               "fonte": "virgilio"
             }
           ],
@@ -435,56 +1357,12 @@
     },
     {
       "nome": "Motori",
-      "totale": 25,
+      "totale": 23,
       "sottocartelle": [
         {
           "nome": "Formula 1",
-          "totale": 9,
+          "totale": 8,
           "eventi": [
-            {
-              "titolo": "Formula 1: Qatar Grand Prix - FP2",
-              "categoria": "Motori",
-              "sottocartella": "Formula 1",
-              "sport": "Motori",
-              "competizione": "Formula 1",
-              "evento": "Qatar Grand Prix - FP2",
-              "sessione": "prove",
-              "circuito": "Lusail International Circuit, Lusail, Qatar",
-              "inizio": "2026-11-27T18:00:00+01:00",
-              "data": "27/11/2026",
-              "ora": "18:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport F1",
-                  "numero": "207",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T18:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "NOW",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-27T18:00",
-                  "fonte": "dizzle+config"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T18:00",
-                  "fonte": "config"
-                },
-                {
-                  "nome": "Sky Sport 4K",
-                  "numero": "213",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T18:00",
-                  "fonte": "config"
-                }
-              ],
-              "fonte": "Dizzle0987/motorsport-calendar"
-            },
             {
               "titolo": "Formula 1: Qatar Grand Prix - FP3",
               "categoria": "Motori",
@@ -870,23 +1748,8 @@
         },
         {
           "nome": "Formula 2 e Formula 3",
-          "totale": 6,
+          "totale": 5,
           "eventi": [
-            {
-              "titolo": "Formula 2 e Formula 3: F2 - Qatar GP - Quali",
-              "categoria": "Motori",
-              "sottocartella": "Formula 2 e Formula 3",
-              "sport": "Motori",
-              "competizione": "Formula 2 e Formula 3",
-              "evento": "F2 - Qatar GP - Quali",
-              "sessione": "qualifiche",
-              "circuito": "Circuito di Losail, Al Wusail, North Relief Road، Doha, Qatar",
-              "inizio": "2026-11-27T17:10:00+01:00",
-              "data": "27/11/2026",
-              "ora": "17:10",
-              "canali": [],
-              "fonte": "Fuori Traiettoria"
-            },
             {
               "titolo": "Formula 2 e Formula 3: F2 - Qatar GP - Sprint Race",
               "categoria": "Motori",
@@ -1156,7 +2019,7 @@
                   "nome": "TV8",
                   "numero": "8",
                   "tipo": "diretta",
-                  "orario": "2026-11-29T14:00",
+                  "orario": "2026-11-29T13:55",
                   "fonte": "dizzle+tv8"
                 },
                 {
@@ -1248,76 +2111,12 @@
     },
     {
       "nome": "Calcio",
-      "totale": 56,
+      "totale": 72,
       "sottocartelle": [
         {
           "nome": "Serie A",
           "totale": 10,
           "eventi": [
-            {
-              "titolo": "Serie A: Venezia vs Bologna",
-              "categoria": "Calcio",
-              "sottocartella": "Serie A",
-              "sport": "Calcio",
-              "competizione": "Serie A",
-              "evento": "Venezia vs Bologna",
-              "inizio": "2026-11-27T20:45:00+01:00",
-              "data": "27/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Paramount+",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Peacock",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN Canada",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Disney+ Premium Caribbean",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "fuboTV Canada",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "DAZN",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Sky Sport Calcio",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie A: Frosinone vs Parma",
               "categoria": "Calcio",
@@ -1694,12 +2493,33 @@
               ],
               "canali_mondo": [],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie A: Bologna-Roma",
+              "categoria": "Calcio",
+              "sottocartella": "Serie A",
+              "sport": "Calcio",
+              "competizione": "Serie A",
+              "evento": "Bologna-Roma",
+              "inizio": "2026-12-04T20:45:00+01:00",
+              "data": "04/12/2026",
+              "ora": "20:45",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Serie B",
-          "totale": 16,
+          "totale": 17,
           "eventi": [
             {
               "titolo": "Serie B: Ascoli vs Virtus Entella",
@@ -2598,135 +3418,34 @@
                 }
               ],
               "fonte": "LiveSoccerTV"
+            },
+            {
+              "titolo": "Serie B: Pisa-Sampdoria",
+              "categoria": "Calcio",
+              "sottocartella": "Serie B",
+              "sport": "Calcio",
+              "competizione": "Serie B",
+              "evento": "Pisa-Sampdoria",
+              "inizio": "2026-12-04T20:30:00+01:00",
+              "data": "04/12/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "DAZN",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Serie C",
-          "totale": 7,
+          "totale": 12,
           "eventi": [
-            {
-              "titolo": "Serie C: Cavese vs Scafatese",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Cavese vs Scafatese",
-              "inizio": "2026-11-27T20:30:00+01:00",
-              "data": "27/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 253",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "livesoccer"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 253",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 253",
-                    "SKY Go Italia",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
-            {
-              "titolo": "Serie C: Foggia vs Casertana",
-              "categoria": "Calcio",
-              "sottocartella": "Serie C",
-              "sport": "Calcio",
-              "competizione": "Serie C",
-              "evento": "Foggia vs Casertana",
-              "inizio": "2026-11-27T20:30:00+01:00",
-              "data": "27/11/2026",
-              "ora": "20:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport 252",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "SKY Go Italia",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport Uno",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "NOW TV",
-                  "numero": "",
-                  "tipo": "streaming",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "livesoccer"
-                },
-                {
-                  "nome": "Sky Sport 1",
-                  "numero": "201",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "canali_mondo": [
-                {
-                  "paese": "Italia",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Uno",
-                    "NOW TV"
-                  ]
-                },
-                {
-                  "paese": "San Marino",
-                  "canali": [
-                    "Sky Sport 252",
-                    "SKY Go Italia",
-                    "Sky Sport Uno",
-                    "NOW TV"
-                  ]
-                }
-              ],
-              "fonte": "LiveSoccerTV"
-            },
             {
               "titolo": "Serie C: Athletic Carpi vs Lecco",
               "categoria": "Calcio",
@@ -2887,6 +3606,69 @@
               "fonte": "LiveSoccerTV"
             },
             {
+              "titolo": "Serie C: Pescara-Pianese",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Pescara-Pianese",
+              "inizio": "2026-11-28T14:30:00+01:00",
+              "data": "28/11/2026",
+              "ora": "14:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T14:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Salernitana-Monopoli",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Salernitana-Monopoli",
+              "inizio": "2026-11-28T17:30:00+01:00",
+              "data": "28/11/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Barletta-Inter U23",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Barletta-Inter U23",
+              "inizio": "2026-11-29T12:30:00+01:00",
+              "data": "29/11/2026",
+              "ora": "12:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
               "titolo": "Serie C: Spezia-Pineto",
               "categoria": "Calcio",
               "sottocartella": "Serie C",
@@ -2902,6 +3684,48 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-11-29T12:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Casarano-Catania",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Casarano-Catania",
+              "inizio": "2026-11-29T14:30:00+01:00",
+              "data": "29/11/2026",
+              "ora": "14:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T14:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Latina-Grosseto",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Latina-Grosseto",
+              "inizio": "2026-11-30T20:30:00+01:00",
+              "data": "30/11/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-30T20:30",
                   "fonte": "virgilio"
                 }
               ],
@@ -2924,6 +3748,62 @@
                   "tipo": "diretta",
                   "orario": "2026-11-30T20:45",
                   "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-30T20:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Audace Cerignola-Sorrento",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Audace Cerignola-Sorrento",
+              "inizio": "2026-12-04T20:30:00+01:00",
+              "data": "04/12/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T20:30",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Serie C: Livorno-Vis Pesaro",
+              "categoria": "Calcio",
+              "sottocartella": "Serie C",
+              "sport": "Calcio",
+              "competizione": "Serie C",
+              "evento": "Livorno-Vis Pesaro",
+              "inizio": "2026-12-04T20:30:00+01:00",
+              "data": "04/12/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T20:30",
+                  "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
@@ -2934,27 +3814,6 @@
           "nome": "Primavera 1",
           "totale": 5,
           "eventi": [
-            {
-              "titolo": "Primavera 1: Atalanta-Monza",
-              "categoria": "Calcio",
-              "sottocartella": "Primavera 1",
-              "sport": "Calcio",
-              "competizione": "Primavera 1",
-              "evento": "Atalanta-Monza",
-              "inizio": "2026-11-27T17:00:00+01:00",
-              "data": "27/11/2026",
-              "ora": "17:00",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T17:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Primavera 1: Milan-Lecce",
               "categoria": "Calcio",
@@ -3038,34 +3897,34 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Primavera 1: Roma-Bologna",
+              "categoria": "Calcio",
+              "sottocartella": "Primavera 1",
+              "sport": "Calcio",
+              "competizione": "Primavera 1",
+              "evento": "Roma-Bologna",
+              "inizio": "2026-12-04T16:00:00+01:00",
+              "data": "04/12/2026",
+              "ora": "16:00",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T16:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Bundesliga 2",
-          "totale": 2,
+          "totale": 1,
           "eventi": [
-            {
-              "titolo": "Bundesliga 2: Heidenheim-Norimberga",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga 2",
-              "sport": "Calcio",
-              "competizione": "Bundesliga 2",
-              "evento": "Heidenheim-Norimberga",
-              "inizio": "2026-11-27T18:30:00+01:00",
-              "data": "27/11/2026",
-              "ora": "18:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T18:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Bundesliga 2: Hertha-Karlsruhe",
               "categoria": "Calcio",
@@ -3090,30 +3949,210 @@
           ]
         },
         {
-          "nome": "Premier League",
+          "nome": "Saudi League",
           "totale": 4,
           "eventi": [
             {
-              "titolo": "Premier League: Nottingham Forest-Chelsea",
+              "titolo": "Saudi League: Al Ettifaq-Al Hilal",
               "categoria": "Calcio",
-              "sottocartella": "Premier League",
+              "sottocartella": "Saudi League",
               "sport": "Calcio",
-              "competizione": "Premier League",
-              "evento": "Nottingham Forest-Chelsea",
-              "inizio": "2026-11-27T21:00:00+01:00",
-              "data": "27/11/2026",
-              "ora": "21:00",
+              "competizione": "Saudi League",
+              "evento": "Al Ettifaq-Al Hilal",
+              "inizio": "2026-11-28T15:20:00+01:00",
+              "data": "28/11/2026",
+              "ora": "15:20",
               "canali": [
                 {
-                  "nome": "Sky Sport Max",
+                  "nome": "Sportitalia",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-27T21:00",
+                  "orario": "2026-11-28T15:20",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
+            {
+              "titolo": "Saudi League: Al Hilal-Al Diriyah",
+              "categoria": "Calcio",
+              "sottocartella": "Saudi League",
+              "sport": "Calcio",
+              "competizione": "Saudi League",
+              "evento": "Al Hilal-Al Diriyah",
+              "inizio": "2026-12-03T18:30:00+01:00",
+              "data": "03/12/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-03T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Saudi League: Al Khaleej-Al Ittihad",
+              "categoria": "Calcio",
+              "sottocartella": "Saudi League",
+              "sport": "Calcio",
+              "competizione": "Saudi League",
+              "evento": "Al Khaleej-Al Ittihad",
+              "inizio": "2026-12-04T13:55:00+01:00",
+              "data": "04/12/2026",
+              "ora": "13:55",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T13:55",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Saudi League: Al Nassr-Al Qadsiah",
+              "categoria": "Calcio",
+              "sottocartella": "Saudi League",
+              "sport": "Calcio",
+              "competizione": "Saudi League",
+              "evento": "Al Nassr-Al Qadsiah",
+              "inizio": "2026-12-04T18:30:00+01:00",
+              "data": "04/12/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sportitalia",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Bundesliga",
+          "totale": 5,
+          "eventi": [
+            {
+              "titolo": "Bundesliga: Amburgo-Bayern Monaco",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Amburgo-Bayern Monaco",
+              "inizio": "2026-11-28T15:30:00+01:00",
+              "data": "28/11/2026",
+              "ora": "15:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T15:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: Stoccarda-Eintracht Francoforte",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Stoccarda-Eintracht Francoforte",
+              "inizio": "2026-11-28T18:30:00+01:00",
+              "data": "28/11/2026",
+              "ora": "18:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T18:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: Friburgo-RB Lipsia",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Friburgo-RB Lipsia",
+              "inizio": "2026-11-29T15:30:00+01:00",
+              "data": "29/11/2026",
+              "ora": "15:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Mix",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T15:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: Borussia Dortmund-Bayer Leverkusen",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Borussia Dortmund-Bayer Leverkusen",
+              "inizio": "2026-11-29T19:30:00+01:00",
+              "data": "29/11/2026",
+              "ora": "19:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T19:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Bundesliga: Bayern Monaco-Paderborn",
+              "categoria": "Calcio",
+              "sottocartella": "Bundesliga",
+              "sport": "Calcio",
+              "competizione": "Bundesliga",
+              "evento": "Bayern Monaco-Paderborn",
+              "inizio": "2026-12-04T20:30:00+01:00",
+              "data": "04/12/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Premier League",
+          "totale": 10,
+          "eventi": [
             {
               "titolo": "Premier League: Leeds United-Coventry City",
               "categoria": "Calcio",
@@ -3176,119 +4215,156 @@
                 }
               ],
               "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Saudi League",
-          "totale": 2,
-          "eventi": [
-            {
-              "titolo": "Saudi League: Al Ettifaq-Al Hilal",
-              "categoria": "Calcio",
-              "sottocartella": "Saudi League",
-              "sport": "Calcio",
-              "competizione": "Saudi League",
-              "evento": "Al Ettifaq-Al Hilal",
-              "inizio": "2026-11-28T15:20:00+01:00",
-              "data": "28/11/2026",
-              "ora": "15:20",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-28T15:20",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "Saudi League: Al Hilal-Al Diriyah",
+              "titolo": "Premier League: Everton-Liverpool",
               "categoria": "Calcio",
-              "sottocartella": "Saudi League",
+              "sottocartella": "Premier League",
               "sport": "Calcio",
-              "competizione": "Saudi League",
-              "evento": "Al Hilal-Al Diriyah",
-              "inizio": "2026-12-03T18:30:00+01:00",
-              "data": "03/12/2026",
-              "ora": "18:30",
-              "canali": [
-                {
-                  "nome": "Sportitalia",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-12-03T18:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "Bundesliga",
-          "totale": 3,
-          "eventi": [
-            {
-              "titolo": "Bundesliga: Amburgo-Bayern Monaco",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga",
-              "sport": "Calcio",
-              "competizione": "Bundesliga",
-              "evento": "Amburgo-Bayern Monaco",
-              "inizio": "2026-11-28T15:30:00+01:00",
-              "data": "28/11/2026",
-              "ora": "15:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Max",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-28T15:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Bundesliga: Stoccarda-Eintracht Francoforte",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga",
-              "sport": "Calcio",
-              "competizione": "Bundesliga",
-              "evento": "Stoccarda-Eintracht Francoforte",
-              "inizio": "2026-11-28T18:30:00+01:00",
-              "data": "28/11/2026",
-              "ora": "18:30",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-28T18:30",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Bundesliga: Friburgo-RB Lipsia",
-              "categoria": "Calcio",
-              "sottocartella": "Bundesliga",
-              "sport": "Calcio",
-              "competizione": "Bundesliga",
-              "evento": "Friburgo-RB Lipsia",
-              "inizio": "2026-11-29T15:30:00+01:00",
+              "competizione": "Premier League",
+              "evento": "Everton-Liverpool",
+              "inizio": "2026-11-29T13:00:00+01:00",
               "data": "29/11/2026",
-              "ora": "15:30",
+              "ora": "13:00",
               "canali": [
                 {
-                  "nome": "Sky Sport Mix",
+                  "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-29T15:30",
+                  "orario": "2026-11-29T13:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Sunderland-Tottenham",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Sunderland-Tottenham",
+              "inizio": "2026-11-29T15:05:00+01:00",
+              "data": "29/11/2026",
+              "ora": "15:05",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T15:05",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Arsenal-Manchester City",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Arsenal-Manchester City",
+              "inizio": "2026-11-29T17:30:00+01:00",
+              "data": "29/11/2026",
+              "ora": "17:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T17:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Coventry City-Ipswich Town",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Coventry City-Ipswich Town",
+              "inizio": "2026-12-01T21:00:00+01:00",
+              "data": "01/12/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-01T21:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-01T21:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Manchester City-Leeds United",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Manchester City-Leeds United",
+              "inizio": "2026-12-02T20:30:00+01:00",
+              "data": "02/12/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-02T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Brentford-Arsenal",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Brentford-Arsenal",
+              "inizio": "2026-12-02T21:15:00+01:00",
+              "data": "02/12/2026",
+              "ora": "21:15",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-02T21:15",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Premier League: Tottenham-Fulham",
+              "categoria": "Calcio",
+              "sottocartella": "Premier League",
+              "sport": "Calcio",
+              "competizione": "Premier League",
+              "evento": "Tottenham-Fulham",
+              "inizio": "2026-12-03T21:00:00+01:00",
+              "data": "03/12/2026",
+              "ora": "21:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Calcio",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-03T21:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -3366,6 +4442,33 @@
           ]
         },
         {
+          "nome": "Amichevole U23 femminile",
+          "totale": 1,
+          "eventi": [
+            {
+              "titolo": "Amichevole U23: Italia-Portogallo",
+              "categoria": "Calcio",
+              "sottocartella": "Amichevole U23 femminile",
+              "sport": "Calcio femminile",
+              "competizione": "Amichevole U23",
+              "evento": "Italia-Portogallo",
+              "inizio": "2026-11-30T14:30:00+01:00",
+              "data": "30/11/2026",
+              "ora": "14:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-30T14:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
           "nome": "Qualificazioni Mondiali Brasile femminile",
           "totale": 1,
           "eventi": [
@@ -3409,13 +4512,6 @@
               "canali": [
                 {
                   "nome": "Mediaset Infinity",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-12-01T21:00",
-                  "fonte": "virgilio"
-                },
-                {
-                  "nome": "Canale 5",
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-12-01T21:00",
@@ -3486,54 +4582,12 @@
     },
     {
       "nome": "Basket",
-      "totale": 11,
+      "totale": 14,
       "sottocartelle": [
         {
           "nome": "Qualificazioni FIBA Mondiali",
-          "totale": 6,
+          "totale": 4,
           "eventi": [
-            {
-              "titolo": "Qualificazioni FIBA Mondiali: Slovenia-Finlandia",
-              "categoria": "Basket",
-              "sottocartella": "Qualificazioni FIBA Mondiali",
-              "sport": "Basket",
-              "competizione": "Qualificazioni FIBA Mondiali 2027",
-              "evento": "Slovenia-Finlandia",
-              "inizio": "2026-11-27T20:00:00+01:00",
-              "data": "27/11/2026",
-              "ora": "20:00",
-              "canali": [
-                {
-                  "nome": "Sky Sport Basket",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:00",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
-            {
-              "titolo": "Qualificazioni FIBA Mondiali: Polonia-Croazia",
-              "categoria": "Basket",
-              "sottocartella": "Qualificazioni FIBA Mondiali",
-              "sport": "Basket",
-              "competizione": "Qualificazioni FIBA Mondiali 2027",
-              "evento": "Polonia-Croazia",
-              "inizio": "2026-11-27T20:45:00+01:00",
-              "data": "27/11/2026",
-              "ora": "20:45",
-              "canali": [
-                {
-                  "nome": "Sky Sport Mix",
-                  "numero": "",
-                  "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
-                  "fonte": "virgilio"
-                }
-              ],
-              "fonte": "Virgilio Sport"
-            },
             {
               "titolo": "Qualificazioni FIBA Mondiali: Bosnia ed Erzegovina-Lituania",
               "categoria": "Basket",
@@ -3628,36 +4682,30 @@
           ]
         },
         {
-          "nome": "Serie A2",
-          "totale": 1,
+          "nome": "NBA",
+          "totale": 5,
           "eventi": [
             {
-              "titolo": "Serie A2: Rimini-Pesaro",
+              "titolo": "NBA: Houston Rockets-Los Angeles Lakers",
               "categoria": "Basket",
-              "sottocartella": "Serie A2",
+              "sottocartella": "NBA",
               "sport": "Basket",
-              "competizione": "Serie A2",
-              "evento": "Rimini-Pesaro",
-              "inizio": "2026-11-27T20:45:00+01:00",
-              "data": "27/11/2026",
-              "ora": "20:45",
+              "competizione": "NBA",
+              "evento": "Houston Rockets-Los Angeles Lakers",
+              "inizio": "2026-11-30T01:30:00+01:00",
+              "data": "30/11/2026",
+              "ora": "01:30",
               "canali": [
                 {
-                  "nome": "Rai Sport",
-                  "numero": "",
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
                   "tipo": "diretta",
-                  "orario": "2026-11-27T20:45",
+                  "orario": "2026-11-30T01:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
-            }
-          ]
-        },
-        {
-          "nome": "NBA",
-          "totale": 3,
-          "eventi": [
+            },
             {
               "titolo": "NBA: Houston-L.A. Lakers",
               "categoria": "Basket",
@@ -3674,6 +4722,27 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-12-01T01:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "NBA: Chicago Bulls-New York Knicks",
+              "categoria": "Basket",
+              "sottocartella": "NBA",
+              "sport": "Basket",
+              "competizione": "NBA",
+              "evento": "Chicago Bulls-New York Knicks",
+              "inizio": "2026-12-01T02:00:00+01:00",
+              "data": "01/12/2026",
+              "ora": "02:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-01T02:00",
                   "fonte": "virgilio"
                 }
               ],
@@ -3724,9 +4793,57 @@
           ]
         },
         {
-          "nome": "Eurolega",
+          "nome": "FIBA World Cup European Qualifiers",
           "totale": 1,
           "eventi": [
+            {
+              "titolo": "FIBA World Cup European Qualifiers: Ungheria-Slovenia",
+              "categoria": "Basket",
+              "sottocartella": "FIBA World Cup European Qualifiers",
+              "sport": "Basket",
+              "competizione": "FIBA World Cup European Qualifiers",
+              "evento": "Ungheria-Slovenia",
+              "inizio": "2026-11-30T18:00:00+01:00",
+              "data": "30/11/2026",
+              "ora": "18:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-11-30T18:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        },
+        {
+          "nome": "Eurolega",
+          "totale": 4,
+          "eventi": [
+            {
+              "titolo": "Eurolega: Hapoel Tel Aviv-Olimpia Milano",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Hapoel Tel Aviv-Olimpia Milano",
+              "inizio": "2026-12-03T19:45:00+01:00",
+              "data": "03/12/2026",
+              "ora": "19:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-03T19:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
             {
               "titolo": "Eurolega: Virtus Bologna-Partizan",
               "categoria": "Basket",
@@ -3747,6 +4864,48 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Virtus Bologna-Partizan Belgrado",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Virtus Bologna-Partizan Belgrado",
+              "inizio": "2026-12-03T21:45:00+01:00",
+              "data": "03/12/2026",
+              "ora": "21:45",
+              "canali": [
+                {
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
+                  "tipo": "diretta",
+                  "orario": "2026-12-03T21:45",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Eurolega: Zalgiris-Dubai Basketball",
+              "categoria": "Basket",
+              "sottocartella": "Eurolega",
+              "sport": "Basket",
+              "competizione": "Eurolega",
+              "evento": "Zalgiris-Dubai Basketball",
+              "inizio": "2026-12-04T19:00:00+01:00",
+              "data": "04/12/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Basket",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         }
@@ -3754,7 +4913,7 @@
     },
     {
       "nome": "Volley",
-      "totale": 2,
+      "totale": 6,
       "sottocartelle": [
         {
           "nome": "Serie A1 femminile",
@@ -3809,61 +4968,172 @@
               "fonte": "Virgilio Sport"
             }
           ]
-        }
-      ]
-    },
-    {
-      "nome": "Altri sport",
-      "totale": 12,
-      "sottocartelle": [
+        },
         {
-          "nome": "Rugby",
-          "totale": 3,
+          "nome": "CEV Champions League femminile",
+          "totale": 4,
           "eventi": [
             {
-              "titolo": "Nations Championship: Italia-Fiji",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "Nations Championship",
-              "evento": "Italia-Fiji",
-              "inizio": "2026-11-27T17:40:00+01:00",
-              "data": "27/11/2026",
-              "ora": "17:40",
+              "titolo": "CEV Champions League: Budapest-Milano",
+              "categoria": "Volley",
+              "sottocartella": "CEV Champions League femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "CEV Champions League",
+              "evento": "Budapest-Milano",
+              "inizio": "2026-12-01T18:30:00+01:00",
+              "data": "01/12/2026",
+              "ora": "18:30",
               "canali": [
                 {
-                  "nome": "TV8",
-                  "numero": "8",
+                  "nome": "Sky Sport 1",
+                  "numero": "201",
                   "tipo": "diretta",
-                  "orario": "2026-11-27T17:40",
+                  "orario": "2026-12-01T18:30",
                   "fonte": "virgilio"
                 },
                 {
                   "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-27T17:40",
+                  "orario": "2026-12-01T18:30",
                   "fonte": "virgilio"
                 }
               ],
               "fonte": "Virgilio Sport"
             },
             {
-              "titolo": "Nations Championship: Irlanda-Australia",
-              "categoria": "Altri sport",
-              "sottocartella": "Rugby",
-              "sport": "Rugby",
-              "competizione": "Nations Championship",
-              "evento": "Irlanda-Australia",
-              "inizio": "2026-11-27T21:10:00+01:00",
-              "data": "27/11/2026",
-              "ora": "21:10",
+              "titolo": "CEV Champions League: Dresdner SC-Conegliano",
+              "categoria": "Volley",
+              "sottocartella": "CEV Champions League femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "CEV Champions League",
+              "evento": "Dresdner SC-Conegliano",
+              "inizio": "2026-12-02T19:00:00+01:00",
+              "data": "02/12/2026",
+              "ora": "19:00",
               "canali": [
                 {
                   "nome": "Sky Sport Arena",
                   "numero": "",
                   "tipo": "diretta",
-                  "orario": "2026-11-27T21:10",
+                  "orario": "2026-12-02T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "CEV Champions League: Novara-Rzeszow",
+              "categoria": "Volley",
+              "sottocartella": "CEV Champions League femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "CEV Champions League",
+              "evento": "Novara-Rzeszow",
+              "inizio": "2026-12-02T20:30:00+01:00",
+              "data": "02/12/2026",
+              "ora": "20:30",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-02T20:30",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "CEV Champions League: Tent Obrenovac-Scandicci",
+              "categoria": "Volley",
+              "sottocartella": "CEV Champions League femminile",
+              "sport": "Pallavolo femminile",
+              "competizione": "CEV Champions League",
+              "evento": "Tent Obrenovac-Scandicci",
+              "inizio": "2026-12-03T19:00:00+01:00",
+              "data": "03/12/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-03T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Altri sport",
+      "totale": 15,
+      "sottocartelle": [
+        {
+          "nome": "Rugby",
+          "totale": 5,
+          "eventi": [
+            {
+              "titolo": "Nations Championship: Galles-Giappone",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "Nations Championship",
+              "evento": "Galles-Giappone",
+              "inizio": "2026-11-28T14:10:00+01:00",
+              "data": "28/11/2026",
+              "ora": "14:10",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T14:10",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Nations Championship: Inghilterra-Nuova Zelanda",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "Nations Championship",
+              "evento": "Inghilterra-Nuova Zelanda",
+              "inizio": "2026-11-28T17:40:00+01:00",
+              "data": "28/11/2026",
+              "ora": "17:40",
+              "canali": [
+                {
+                  "nome": "Sky Sport Arena",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-28T17:40",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Nations Championship: Scozia-Argentina",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "Nations Championship",
+              "evento": "Scozia-Argentina",
+              "inizio": "2026-11-29T14:10:00+01:00",
+              "data": "29/11/2026",
+              "ora": "14:10",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T14:10",
                   "fonte": "virgilio"
                 }
               ],
@@ -3889,12 +5159,33 @@
                 }
               ],
               "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Nations Championship: Francia-Sudafrica",
+              "categoria": "Altri sport",
+              "sottocartella": "Rugby",
+              "sport": "Rugby",
+              "competizione": "Nations Championship",
+              "evento": "Francia-Sudafrica",
+              "inizio": "2026-11-29T17:40:00+01:00",
+              "data": "29/11/2026",
+              "ora": "17:40",
+              "canali": [
+                {
+                  "nome": "Sky Sport Max",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-11-29T17:40",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
             }
           ]
         },
         {
           "nome": "Sci alpino",
-          "totale": 8,
+          "totale": 9,
           "eventi": [
             {
               "titolo": "Coppa del Mondo – Killington: Slalom Gigante F (1a manche): 1a manche",
@@ -4101,6 +5392,34 @@
                   "numero": "",
                   "tipo": "diretta",
                   "orario": "2026-12-03T19:00",
+                  "fonte": "virgilio"
+                }
+              ],
+              "fonte": "Virgilio Sport"
+            },
+            {
+              "titolo": "Coppa del Mondo: Beaver Creek. Discesa Libera M",
+              "categoria": "Altri sport",
+              "sottocartella": "Sci alpino",
+              "sport": "Sci alpino",
+              "competizione": "Coppa del Mondo",
+              "evento": "Beaver Creek. Discesa Libera M",
+              "inizio": "2026-12-04T19:00:00+01:00",
+              "data": "04/12/2026",
+              "ora": "19:00",
+              "canali": [
+                {
+                  "nome": "Eurosport",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T19:00",
+                  "fonte": "virgilio"
+                },
+                {
+                  "nome": "Rai 2",
+                  "numero": "",
+                  "tipo": "diretta",
+                  "orario": "2026-12-04T19:00",
                   "fonte": "virgilio"
                 }
               ],
