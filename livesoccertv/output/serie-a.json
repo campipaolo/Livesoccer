@@ -18,13 +18,13 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "Sky Sport Calcio",
-        "NOW TV"
+        "Paramount+",
+        "Peacock",
+        "DAZN Canada",
+        "Disney+ Premium Caribbean",
+        "fuboTV Canada"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, Sky Sport Calcio, NOW TV\nhttps://www.livesoccertv.com/it/match/bologna-vs-venezia/84hnn#5654008"
+      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/bologna-vs-venezia/84hnn#5654008"
     },
     {
       "title": "[COLOR cyan]Sabato 28 Novembre[/COLOR]",
@@ -37,32 +37,39 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN1"
+        "Paramount+",
+        "Peacock",
+        "DAZN Canada",
+        "ESPN Mexico",
+        "Disney+ Premium Caribbean"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/parma-vs-frosinone/3690l#5654002"
+      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, ESPN Mexico, Disney+ Premium Caribbean\nhttps://www.livesoccertv.com/it/match/parma-vs-frosinone/3690l#5654002"
     },
     {
       "title": "[COLOR yellow]18:00[/COLOR] Torino vs Lazio",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN1"
+        "Paramount+",
+        "Peacock",
+        "DAZN Canada",
+        "Disney+ Premium Caribbean",
+        "fuboTV Canada"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/lazio-vs-torino/36j3q#5654006"
+      "info": "Serie A\nCanali: Paramount+, Peacock, DAZN Canada, Disney+ Premium Caribbean, fuboTV Canada\nhttps://www.livesoccertv.com/it/match/lazio-vs-torino/36j3q#5654006"
     },
     {
       "title": "[COLOR yellow]20:45[/COLOR] Internazionale vs Genoa",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "Sky Sport 251",
-        "SKY Go Italia",
-        "NOW TV"
+        "Paramount+",
+        "fuboTV",
+        "Peacock",
+        "Telemundo",
+        "Telemundo Deportes En Vivo"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, Sky Sport 251, SKY Go Italia, NOW TV\nhttps://www.livesoccertv.com/it/match/genoa-vs-internazionale/1x51k#5654003"
+      "info": "Serie A\nCanali: Paramount+, fuboTV, Peacock, Telemundo, Telemundo Deportes En Vivo\nhttps://www.livesoccertv.com/it/match/genoa-vs-internazionale/1x51k#5654003"
     },
     {
       "title": "[COLOR cyan]Domenica 29 Novembre[/COLOR]",
@@ -75,10 +82,13 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN1"
+        "CBS Sports Network",
+        "Paramount+",
+        "fuboTV",
+        "Peacock",
+        "DAZN Canada"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/fiorentina-vs-udinese/1xis9#5654007"
+      "info": "Serie A\nCanali: CBS Sports Network, Paramount+, fuboTV, Peacock, DAZN Canada\nhttps://www.livesoccertv.com/it/match/fiorentina-vs-udinese/1xis9#5654007"
     },
     {
       "title": "[COLOR cyan]Lunedi 30 Novembre[/COLOR]",
@@ -91,20 +101,18 @@
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN1"
+        "TeleXitos"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/atalanta-vs-lecce/35jv8#5840856"
+      "info": "Serie A\nCanali: TeleXitos\nhttps://www.livesoccertv.com/it/match/atalanta-vs-lecce/35jv8#5840856"
     },
     {
       "title": "[COLOR yellow]23:30[/COLOR] Cagliari vs Milan",
       "link": "ignoreme",
       "thumbnail": "https://i.imgur.com/7wR0JXI.png",
       "canali": [
-        "DAZN Italia",
-        "DAZN1"
+        "TeleXitos"
       ],
-      "info": "Serie A\nCanali: DAZN Italia, DAZN1\nhttps://www.livesoccertv.com/it/match/milan-vs-cagliari/1wbqf#5840859"
+      "info": "Serie A\nCanali: TeleXitos\nhttps://www.livesoccertv.com/it/match/milan-vs-cagliari/1wbqf#5840859"
     }
   ]
 }
